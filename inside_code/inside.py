@@ -128,7 +128,11 @@ class PCFG:
     #     # save_chart_to_txt(chart, "chart_output.txt")
     #     return safelog(chart[0][T-1][self.root])
     
-    def score(self, xs):
+    def score(self, xs):  # probabilities in addition to the structure
+        '''
+        if there's multiple grammars possible that could generate this sentence,
+        sum over the probabilities of each tree
+        '''
         T = len(xs)
         chart = [[{} for _ in range(T)] for _ in range(T)]
 
@@ -271,7 +275,7 @@ def gensym(_state=itertools.count()):
 def preterminal_for(x):
     return 'P' + x
 
-def nonterminal_for_sequence(xs, rules, _suffix_dict={}):
+def nonterminal_for_sequence(xs, rules, _suffix_dict):
     if xs in _suffix_dict:
         return _suffix_dict[xs]
     elif len(xs) == 2:
@@ -283,7 +287,7 @@ def nonterminal_for_sequence(xs, rules, _suffix_dict={}):
     else:
         new_nt = gensym()
         first, *rest = xs
-        next_nt = nonterminal_for_sequence(tuple(rest), rules)
+        next_nt = nonterminal_for_sequence(tuple(rest), rules, {})
         rule = Rule(new_nt, (first, next_nt))
         rules[rule] = 1.0
         _suffix_dict[xs] = new_nt
@@ -342,25 +346,48 @@ def convert_to_cnf(rules):
             nt_rules[rule] = p
         else: # ternary+ rule
             first, *rest = rule.rhs
-            new_nt = nonterminal_for_sequence(tuple(rest), nt_rules)
+            new_nt = nonterminal_for_sequence(tuple(rest), nt_rules, {})
             rule = Rule(rule.lhs, (first, new_nt))
             nt_rules[rule] = p
 
     return nt_rules, t_rules
 
 def test():
+    '''
+    a^n * b^n
+    underscore denotes a lexical item (terminal node)
+    We are tetsing if the score function works correctly.
+    '''
+    p_continue = "temp value"
+    rules = {{
+            Rule('S', ('_a', '_b')) : 1 - p_continue,  # probability associated with this rule
+            Rule('S', ('_a', 'S', '_b')) : p_continue,
+        },
+        {
+
+        }
+    }
+
+
+
+
+
     for i in range(100):
         p_continue = random.random() * .4
         rules = {
-            Rule('S', ('_a', '_b')) : 1 - p_continue,
+            Rule('S', ('_a', '_b')) : 1 - p_continue,  # probability associated with this rule
             Rule('S', ('_a', 'S', '_b')) : p_continue,
         }
         nt_rules, t_rules = convert_to_cnf(rules)
         pcfg = PCFG(nt_rules, t_rules, 'S')
+        print(nt_rules)
+        print(t_rules)
         assert pcfg.score(['_a', '_b']) == math.log(1 - p_continue)
-        assert pcfg.score(['_a', '_a', '_b', '_b']) == math.log(p_continue * (1 - p_continue))
-        assert pcfg.score(['_a', '_a', '_a', '_b', '_b', '_b']) == math.log(p_continue **2 * (1 - p_continue))
-        
+        n_2_case_score = pcfg.score(['_a', '_a', '_b', '_b'])
+        assert n_2_case_score == math.log(p_continue * (1 - p_continue))  # probability of second rule times first rule
+        n_3_case_score = pcfg.score(['_a', '_a', '_a', '_b', '_b', '_b'])
+        assert round(n_3_case_score, 5) == round(math.log(p_continue **2 * (1 - p_continue)), 5)
+
 def read_grammar(grammar_filename):
     rules = {}
     with open(grammar_filename) as infile:
@@ -436,7 +463,8 @@ def main(grammar_filename, text_filename, output_csv):
 
 
 if __name__ == '__main__':
-    main(*sys.argv[1:])
+    pass
+#     main(*sys.argv[1:])
 
 
 # grammar = read_grammar("./sample1.0.FG-output.rank-1.txt")
