@@ -356,22 +356,10 @@ def test():
     '''
     a^n * b^n
     underscore denotes a lexical item (terminal node)
-    We are tetsing if the score function works correctly.
+    We are testing if the score function works correctly.
+
+    getting -inf from score function means probability was 0
     '''
-    p_continue = "temp value"
-    rules = {{
-            Rule('S', ('_a', '_b')) : 1 - p_continue,  # probability associated with this rule
-            Rule('S', ('_a', 'S', '_b')) : p_continue,
-        },
-        {
-
-        }
-    }
-
-
-
-
-
     for i in range(100):
         p_continue = random.random() * .4
         rules = {
@@ -380,13 +368,63 @@ def test():
         }
         nt_rules, t_rules = convert_to_cnf(rules)
         pcfg = PCFG(nt_rules, t_rules, 'S')
-        print(nt_rules)
-        print(t_rules)
         assert pcfg.score(['_a', '_b']) == math.log(1 - p_continue)
         n_2_case_score = pcfg.score(['_a', '_a', '_b', '_b'])
         assert n_2_case_score == math.log(p_continue * (1 - p_continue))  # probability of second rule times first rule
         n_3_case_score = pcfg.score(['_a', '_a', '_a', '_b', '_b', '_b'])
         assert round(n_3_case_score, 5) == round(math.log(p_continue **2 * (1 - p_continue)), 5)
+
+    # (ab)^n
+    for i in range(100):
+        p_continue = random.random() * .4
+        rules = {
+            Rule('S', ('_a', '_b')): 1 - p_continue,
+            Rule('S', ('_a', 'S1')): p_continue,
+            Rule('S1', ('S', '_b')): 1.0  # helper to enforce (a S b)
+        }
+        nt_rules, t_rules = convert_to_cnf(rules)
+        pcfg = PCFG(nt_rules, t_rules, 'S')
+
+        assert pcfg.score(['_a', '_b']) == math.log(1 - p_continue)
+        assert round(pcfg.score(['_a', '_a', '_b', '_b']), 5) == round(math.log(p_continue * (1 - p_continue)), 5)
+        assert round(pcfg.score(['_a', '_a', '_a', '_b', '_b', '_b']), 5) == round(math.log(p_continue ** 2 * (1 - p_continue)), 5)
+
+    # (abc)^n
+    for i in range(100):
+        p_continue = random.random() * .4
+        rules = {
+            Rule('S', ('_a', '_b', '_c', 'S')): p_continue,
+            Rule('S', ('_a', '_b', '_c')): 1 - p_continue,
+        }
+        nt_rules, t_rules = convert_to_cnf(rules)
+        pcfg = PCFG(nt_rules, t_rules, 'S')
+        # print("what it is:", pcfg.score(['_a', '_b', '_c']), "\nWhat it should be:", math.log(1 - p_continue))
+        assert pcfg.score(['_a', '_b', '_c']) == math.log(1 - p_continue)
+        # print("what it is:", round(pcfg.score(['_a', '_b', '_c', '_a', '_b', '_c']), 5), "\nWhat it should be:", round(math.log(p_continue * (1 - p_continue)), 5))
+        assert round(pcfg.score(['_a', '_b', '_c', '_a', '_b', '_c']), 5) == round(math.log(p_continue * (1 - p_continue)), 5)
+        # print("what it is:", round(pcfg.score(['_a', '_b', '_c', '_a', '_b', '_c', '_a', '_b', '_c']), 5), "\nWhat it should be:", round(math.log(p_continue ** 2 * (1 - p_continue)), 5))
+        assert round(pcfg.score(['_a', '_b', '_c', '_a', '_b', '_c', '_a', '_b', '_c']), 5) == round(math.log(p_continue ** 2 * (1 - p_continue)), 5)
+
+
+
+    # for i in range(100):
+    #     p_continue = random.random() * .4
+    #     rules = {
+    #         Rule('S', ('_a')): 1 - p_continue,  # probability associated with this rule
+    #         Rule('S', ('_a', 'S')): p_continue,
+    #     }
+    #     nt_rules, t_rules = convert_to_cnf(rules)
+    #     pcfg = PCFG(nt_rules, t_rules, 'S')
+    #     print(nt_rules)
+    #     print(t_rules)
+    #     n_case_score = pcfg.score(['_a'])
+    #     print(n_case_score)
+    #     print(math.log(1 - p_continue))
+    #     # assert n_case_score == math.log(1 - p_continue)
+    #     n_2_case_score = pcfg.score(['_a', '_a'])
+    #     assert n_2_case_score == math.log(p_continue * (1 - p_continue))  # probability of second rule times first rule
+    #     n_3_case_score = pcfg.score(['_a', '_a', '_a'])
+    #     assert round(n_3_case_score, 5) == round(math.log(p_continue ** 2 * (1 - p_continue)), 5)
 
 def read_grammar(grammar_filename):
     rules = {}
