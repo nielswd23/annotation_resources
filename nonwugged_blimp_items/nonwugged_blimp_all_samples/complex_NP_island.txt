@@ -1,6 +1,6 @@
-who should some friend of Jason who is listening to Jacqueline care for ?
-who should Jacqueline care for some friend of Jason who is listening to ?
-who could the hospital that does n't help Frank bother ?
-who could Frank bother the hospital that does n't help ?
-who would a bird that found Marla find ?
-who would Marla find a bird that 
+who should some friend of Jason who is listening to Jacqueline care for *T* ?
+who should Jacqueline care for some friend of Jason who is listening to *T* ?
+who could the hospital that does n't help Frank bother *T* ?
+who could Frank bother the hospital that does n't help *T* ?
+who would a bird that found Marla find *T* ?
+who would Marla find a bird that found *T* ?

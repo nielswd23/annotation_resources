@@ -1,40 +1,40 @@
-what does Travis fix after breaking every carriage ?
-what does Travis fix every carriage after breaking ?
-what do many fish break before breaking the truck ?
-what do many fish break the truck before breaking ?
-what has Kevin broken without breaking every carriage ?
-what has Kevin broken every carriage without breaking ?
-what will Stacy fix without fixing the bike ?
-what will Stacy fix the bike without fixing ?
-who had Travis found without talking about Ellen ?
-who had Travis found Ellen without talking about ?
-what can the girl sell before thinking about this book ?
-what can the girl sell this book before thinking about ?
-what should Raymond examine without talking about this play ?
-what should Raymond examine this play without talking about ?
-who does Amanda find while thinking about Lucille ?
-who does Amanda find Lucille while thinking about ?
-what was Laura breaking while breaking every vase ?
-what was Laura breaking every vase while breaking ?
-what did Timothy have after taking apples ?
-what did Timothy have apples after taking ?
-what would this muffin look like while looking like every print ?
-what would this muffin look like every print while looking like ?
-who can Eva care for while hiding Lawrence ?
-who can Eva care for Lawrence while hiding ?
-what has Dana dropped by after running around the bank ?
-what has Dana dropped by the bank after running around ?
-who could Sandra fire after listening to Gina ?
-who could Sandra fire Gina after listening to ?
-who can Melissa sound like before watching Donald ?
-who can Melissa sound like Donald before watching ?
-what can Tiffany break while fixing every glass ?
-what can Tiffany break every glass while fixing ?
-what has Laura broken while fixing a couch ?
-what has Laura broken a couch while fixing ?
-what had Laurie fixed while taking a bike ?
-what had Laurie fixed a bike while taking ?
-what did many pictures look like after looking like a book ?
-what did many pictures look like a book after looking like ?
-what should Eric buy after thinking about this face ?
-what should Er
+what does Travis fix *T* after breaking every carriage ?
+what does Travis fix every carriage after breaking *T* ?
+what do many fish break *T* before breaking the truck ?
+what do many fish break the truck before breaking *T* ?
+what has Kevin broken *T* without breaking every carriage ?
+what has Kevin broken every carriage without breaking *T* ?
+what will Stacy fix *T* without fixing the bike ?
+what will Stacy fix the bike without fixing *T* ?
+who had Travis found *T* without talking about Ellen ?
+who had Travis found Ellen without talking about *T* ?
+what can the girl sell *T* before thinking about this book ?
+what can the girl sell this book before thinking about *T* ?
+what should Raymond examine *T* without talking about this play ?
+what should Raymond examine this play without talking about *T* ?
+who does Amanda find *T* while thinking about Lucille ?
+who does Amanda find Lucille while thinking about *T* ?
+what was Laura breaking *T* while breaking every vase ?
+what was Laura breaking every vase while breaking *T* ?
+what did Timothy have *T* after taking apples ?
+what did Timothy have apples after taking *T* ?
+what would this muffin look like *T* while looking like every print ?
+what would this muffin look like every print while looking like *T* ?
+who can Eva care for *T* while hiding Lawrence ?
+who can Eva care for Lawrence while hiding *T* ?
+what has Dana dropped by *T* after running around the bank ?
+what has Dana dropped by the bank after running around *T* ?
+who could Sandra fire *T* after listening to Gina ?
+who could Sandra fire Gina after listening to *T* ?
+who can Melissa sound like *T* before watching Donald ?
+who can Melissa sound like Donald before watching *T* ?
+what can Tiffany break *T* while fixing every glass ?
+what can Tiffany break every glass while fixing *T* ?
+what has Laura broken *T* while fixing a couch ?
+what has Laura broken a couch while fixing *T* ?
+what had Laurie fixed *T* while taking a bike ?
+what had Laurie fixed a bike while taking *T* ?
+what did many pictures look like *T* after looking like a book ?
+what did many pictures look like a book after looking like *T* ?
+what should Eric buy *T* after thinking about this face ?
+what should Eric buy this face after thinking about *T* ?

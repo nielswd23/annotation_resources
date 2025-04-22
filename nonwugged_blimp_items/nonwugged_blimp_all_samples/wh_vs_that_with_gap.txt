@@ -1,38 +1,38 @@
-Kathleen did learn who some boys will talk about .
-Kathleen did learn that some boys will talk about .
-some girls remember who that driver is listening to .
-some girls remember that that driver is listening to .
-Larry has learned what a drawing had looked like .
-Larry has learned that a drawing had looked like .
-Beverly had learned what those birds will look like .
-Beverly had learned that those birds will look like .
-Colleen learned who all boys listen to .
-Colleen learned that all boys listen to .
-Harvard University learned what many men find .
-Harvard University learned that many men find .
-Victoria knows what a man could drop by .
-Victoria knows that a man could drop by .
-Candice knew who this lady would talk about .
-Candice knew that this lady would talk about .
-Sonia is n't learning who all men were n't listening to .
-Sonia is n't learning that all men were n't listening to .
-Joseph was learning what some lady went to .
-Joseph was learning that some lady went to .
-Theresa did know what these children drop by .
-Theresa did know that these children drop by .
-Amy learned what all men had n't gone to .
-Amy learned that all men had n't gone to .
-Carlos forgot what a patient should n't wear .
-Carlos forgot that a patient should n't wear .
-Charles can remember what some boys find .
-Charles can remember that some boys find .
-Theresa had learned what that man is n't looking like .
-Theresa had learned that that man is n't looking like .
-Helen knew what the painting looks like .
-Helen knew that the painting looks like .
-Carol can n't remember who the people talk to .
-Carol can n't remember that the people talk to .
-Brett did n't learn who this book did n't sound like .
-Brett did n't learn that this book did n't sound like .
-Claire is n't learning who many children do n't work with .
-C
+Kathleen did learn who some boys will talk about *T* .
+Kathleen did learn that some boys will talk about *T* .
+some girls remember who that driver is listening to *T* .
+some girls remember that that driver is listening to *T* .
+Larry has learned what a drawing had looked like *T* .
+Larry has learned that a drawing had looked like *T* .
+Beverly had learned what those birds will look like *T* .
+Beverly had learned that those birds will look like *T* .
+Colleen learned who all boys listen to *T* .
+Colleen learned that all boys listen to *T* .
+Harvard University learned what many men find *T* .
+Harvard University learned that many men find *T* .
+Victoria knows what a man could drop by *T* .
+Victoria knows that a man could drop by *T* .
+Candice knew who this lady would talk about *T* .
+Candice knew that this lady would talk about *T* .
+Sonia is n't learning who all men were n't listening to *T* .
+Sonia is n't learning that all men were n't listening to *T* .
+Joseph was learning what some lady went to *T* .
+Joseph was learning that some lady went to *T* .
+Theresa did know what these children drop by *T* .
+Theresa did know that these children drop by *T* .
+Amy learned what all men had n't gone to *T* .
+Amy learned that all men had n't gone to *T* .
+Carlos forgot what a patient should n't wear *T* .
+Carlos forgot that a patient should n't wear *T* .
+Charles can remember what some boys find *T* .
+Charles can remember that some boys find *T* .
+Theresa had learned what that man is n't looking like *T* .
+Theresa had learned that that man is n't looking like *T* .
+Helen knew what the painting looks like *T* .
+Helen knew that the painting looks like *T* .
+Carol can n't remember who the people talk to *T* .
+Carol can n't remember that the people talk to *T* .
+Brett did n't learn who this book did n't sound like *T* .
+Brett did n't learn that this book did n't sound like *T* .
+Claire is n't learning who many children do n't work with *T* .
+Claire is n't learning that many children do n't work with *T* .
