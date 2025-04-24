@@ -427,8 +427,7 @@ def main(grammar_filename, text_filename, output_csv):
 
 
 if __name__ == '__main__':
-    pass
-#     main(*sys.argv[1:])
+    main(*sys.argv[1:])
 
 
 # grammar = read_grammar("./sample1.0.FG-output.rank-1.txt")
