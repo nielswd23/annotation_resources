@@ -144,13 +144,13 @@ who should James and Brett help *T* ?
 who could James help *T* and Brett ?
 what will Brenda and Lawrence love *T* ?
 what did Brenda love *T* and Lawrence ?
-what are Cheryl and Allison breaking ?
-what was Cheryl breaking and Allison ?
-who could Irene and Matt buy ?
-who will Irene buy and Matt ?
-what can Keith and some hospital take ?
-what can Keith take and some hospital ?
-what should Deanna and Carolyn talk about ?
+what are Cheryl and Allison breaking *T* ?
+what was Cheryl breaking *T* and Allison ?
+who could Irene and Matt buy *T* ?
+who will Irene buy *T* and Matt ?
+what can Keith and some hospital take *T* ?
+what can Keith take *T* and some hospital ?
+what should Deanna and Carolyn talk about *T* ?
 what should Deanna talk about and Carolyn ?
 who do Stephanie and Carlos remember ?
 who will Stephanie remember and Carlos ?
