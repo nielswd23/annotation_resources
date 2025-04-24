@@ -92,58 +92,58 @@ what will Stephen and Adam think about *T* ?
 what does Stephen think about *T* and Adam ?
 what were Dan and Jessica watching *T* ?
 what was Dan watching *T* and Jessica ?
-what will Paula and Jessica work with ?
-what could Paula work with and Jessica ?
-who have Thomas and Patrick hugged ?
-who has Thomas hugged and Patrick ?
-what did Larry and George fix ?
-what can Larry fix and George ?
-what would Matt and Tara wear ?
-what might Matt wear and Tara ?
-what did Jacqueline and Tiffany climb up ?
-what will Jacqueline climb up and Tiffany ?
-what were Theresa and Brad breaking ?
-what is Theresa breaking and Brad ?
-who had Sharon and Samantha bought ?
-who had Sharon bought and Samantha ?
-who can Rodney and Daniel fix ?
-who does Rodney fix and Daniel ?
-who could Kristen and that boy remember ?
-who did Kristen remember and that boy ?
-what will Rachel and Matt break ?
-what will Rachel break and Matt ?
-what should Andrea and Sherry climb down ?
-what did Andrea climb down and Sherry ?
-what did Edward and Bruce break ?
-what did Edward break and Bruce ?
-who do Christine and Elizabeth visit ?
-who did Christine visit and Elizabeth ?
-what did Dawn and Patricia know ?
-what can Dawn know and Patricia ?
-who did a cup and Becca bother ?
-who could a cup bother and Becca ?
-who would Debra and Joel drive to ?
-who would Debra drive to and Joel ?
-what were Brett and Natalie hiding ?
-what was Brett hiding and Natalie ?
-what will Becca and Kathleen watch ?
-what might Becca watch and Kathleen ?
-who should April and Anne sell ?
-who might April sell and Anne ?
-who do Lucille and the boys mess up ?
-who might Lucille mess up and the boys ?
-what would a lot of turtles and Alan climb up ?
-what will a lot of turtles climb up and Alan ?
-what did Stacy and Keith wear ?
-what should Stacy wear and Keith ?
-what have Samantha and Veronica fixed ?
-what had Samantha fixed and Veronica ?
-who can Kimberley and Marie walk through ?
-who might Kimberley walk through and Marie ?
-who should James and Brett help ?
-who could James help and Brett ?
-what will Brenda and Lawrence love ?
-what did Brenda love and Lawrence ?
+what will Paula and Jessica work with *T* ?
+what could Paula work with *T* and Jessica ?
+who have Thomas and Patrick hugged *T* ?
+who has Thomas hugged *T* and Patrick ?
+what did Larry and George fix *T* ?
+what can Larry fix *T* and George ?
+what would Matt and Tara wear *T* ?
+what might Matt wear *T* and Tara ?
+what did Jacqueline and Tiffany climb up *T* ?
+what will Jacqueline climb up *T* and Tiffany ?
+what were Theresa and Brad breaking *T* ?
+what is Theresa breaking *T* and Brad ?
+who had Sharon and Samantha bought *T* ?
+who had Sharon bought *T* and Samantha ?
+who can Rodney and Daniel fix *T* ?
+who does Rodney fix *T* and Daniel ?
+who could Kristen and that boy remember *T* ?
+who did Kristen remember *T* and that boy ?
+what will Rachel and Matt break *T* ?
+what will Rachel break *T* and Matt ?
+what should Andrea and Sherry climb down *T* ?
+what did Andrea climb down *T* and Sherry ?
+what did Edward and Bruce break *T* ?
+what did Edward break *T* and Bruce ?
+who do Christine and Elizabeth visit *T* ?
+who did Christine visit *T* and Elizabeth ?
+what did Dawn and Patricia know *T* ?
+what can Dawn know *T* and Patricia ?
+who did a cup and Becca bother *T* ?
+who could a cup bother *T* and Becca ?
+who would Debra and Joel drive to *T* ?
+who would Debra drive to *T* and Joel ?
+what were Brett and Natalie hiding *T* ?
+what was Brett hiding *T* and Natalie ?
+what will Becca and Kathleen watch *T* ?
+what might Becca watch *T* and Kathleen ?
+who should April and Anne sell *T* ?
+who might April sell *T* and Anne ?
+who do Lucille and the boys mess up *T* ?
+who might Lucille mess up *T* and the boys ?
+what would a lot of turtles and Alan climb up *T* ?
+what will a lot of turtles climb up *T* and Alan ?
+what did Stacy and Keith wear *T* ?
+what should Stacy wear *T* and Keith ?
+what have Samantha and Veronica fixed *T* ?
+what had Samantha fixed *T* and Veronica ?
+who can Kimberley and Marie walk through *T* ?
+who might Kimberley walk through *T* and Marie ?
+who should James and Brett help *T* ?
+who could James help *T* and Brett ?
+what will Brenda and Lawrence love *T* ?
+what did Brenda love *T* and Lawrence ?
 what are Cheryl and Allison breaking ?
 what was Cheryl breaking and Allison ?
 who could Irene and Matt buy ?
