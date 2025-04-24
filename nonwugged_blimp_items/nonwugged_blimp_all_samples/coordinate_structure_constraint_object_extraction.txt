@@ -1,156 +1,156 @@
-who should Keith and Andrea climb up ?
-who might Keith climb up and Andrea ?
-who could Joel and this fish hurt ?
-who would Joel hurt and this fish ?
-what could Marcus and Cheryl clean ?
-what did Marcus clean and Cheryl ?
-what can Julie and Veronica examine ?
-what might Julie examine and Veronica ?
-what did Caroline and Colleen kiss ?
-what might Caroline kiss and Colleen ?
-what had Ann and Nicole bought ?
-what has Ann bought and Nicole ?
-what could Adam and Sharon kiss ?
-what could Adam kiss and Sharon ?
-who are all girls and Donald breaking ?
-who are all girls breaking and Donald ?
-what had Ann and Galileo broken ?
-what had Ann broken and Galileo ?
-what could Christina and Gerald have ?
-what can Christina have and Gerald ?
-who are Anne and Ruth driving to ?
-who was Anne driving to and Ruth ?
-who could Gerald and Theodore examine ?
-who should Gerald examine and Theodore ?
-what will those people and Mary remember ?
-what did those people remember and Mary ?
-who were Margaret and April watching ?
-who was Margaret watching and April ?
-what could Caroline and Eric have ?
-what does Caroline have and Eric ?
-who can Noah and Ann lift ?
-who should Noah lift and Ann ?
-what should Jesus and Bradley go to ?
-what might Jesus go to and Bradley ?
-what should Phillip and Sharon bike to ?
-what should Phillip bike to and Sharon ?
-what will Sharon and Aaron leave ?
-what could Sharon leave and Aaron ?
-what did Eva and Ella talk about ?
-what can Eva talk about and Ella ?
-what would Angela and Sheila go to ?
-what does Angela go to and Sheila ?
-who are Gregory and Diane running around ?
-who is Gregory running around and Diane ?
-what were Tracy and Naomi talking about ?
-what was Tracy talking about and Naomi ?
-who had Pamela and Phillip thought about ?
-who has Pamela thought about and Phillip ?
-who would Guy and Linda fire ?
-who might Guy fire and Linda ?
-what do Phillip and Anne lift ?
-what should Phillip lift and Anne ?
-what had Paul and Melissa broken ?
-what had Paul broken and Melissa ?
-who will Diane and Frank sound like ?
-who should Diane sound like and Frank ?
-who could Holly and those boxes bother ?
-who should Holly bother and those boxes ?
-who had Jennifer and Timothy left ?
-who has Jennifer left and Timothy ?
-who have Suzanne and Lori broken ?
-who had Suzanne broken and Lori ?
-what do Ella and Mary hide ?
-what would Ella hide and Mary ?
-what would Cheryl and James drive to ?
-what did Cheryl drive to and James ?
-who could Theodore and every teacher work with ?
-who should Theodore work with and every teacher ?
-what are Jane and Raymond listening to ?
-what is Jane listening to and Raymond ?
-what could Danielle and Brenda watch ?
-what can Danielle watch and Brenda ?
-who would that girl and Theodore forget ?
-who should that girl forget and Theodore ?
-what should Cindy and Sara run around ?
-what could Cindy run around and Sara ?
-what should Maria and Helen forget ?
-what could Maria forget and Helen ?
-who were Peter and Amanda hiding ?
-who was Peter hiding and Amanda ?
-who will Wayne and Alan bike to ?
-who should Wayne bike to and Alan ?
-what should Laurie and Bruce forget ?
-what might Laurie forget and Bruce ?
-what had Cindy and Christina sounded like ?
-what has Cindy sounded like and Christina ?
-who are Becky and Jennifer breaking ?
-who is Becky breaking and Jennifer ?
-what have Donna and Matt gone to ?
-what has Donna gone to and Matt ?
-what will Stephen and Adam think about ?
-what does Stephen think about and Adam ?
-what were Dan and Jessica watching ?
-what was Dan watching and Jessica ?
-what will Paula and Jessica work with ?
-what could Paula work with and Jessica ?
-who have Thomas and Patrick hugged ?
-who has Thomas hugged and Patrick ?
-what did Larry and George fix ?
-what can Larry fix and George ?
-what would Matt and Tara wear ?
-what might Matt wear and Tara ?
-what did Jacqueline and Tiffany climb up ?
-what will Jacqueline climb up and Tiffany ?
-what were Theresa and Brad breaking ?
-what is Theresa breaking and Brad ?
-who had Sharon and Samantha bought ?
-who had Sharon bought and Samantha ?
-who can Rodney and Daniel fix ?
-who does Rodney fix and Daniel ?
-who could Kristen and that boy remember ?
-who did Kristen remember and that boy ?
-what will Rachel and Matt break ?
-what will Rachel break and Matt ?
-what should Andrea and Sherry climb down ?
-what did Andrea climb down and Sherry ?
-what did Edward and Bruce break ?
-what did Edward break and Bruce ?
-who do Christine and Elizabeth visit ?
-who did Christine visit and Elizabeth ?
-what did Dawn and Patricia know ?
-what can Dawn know and Patricia ?
-who did a cup and Becca bother ?
-who could a cup bother and Becca ?
-who would Debra and Joel drive to ?
-who would Debra drive to and Joel ?
-what were Brett and Natalie hiding ?
-what was Brett hiding and Natalie ?
-what will Becca and Kathleen watch ?
-what might Becca watch and Kathleen ?
-who should April and Anne sell ?
-who might April sell and Anne ?
-who do Lucille and the boys mess up ?
-who might Lucille mess up and the boys ?
-what would a lot of turtles and Alan climb up ?
-what will a lot of turtles climb up and Alan ?
-what did Stacy and Keith wear ?
-what should Stacy wear and Keith ?
-what have Samantha and Veronica fixed ?
-what had Samantha fixed and Veronica ?
-who can Kimberley and Marie walk through ?
-who might Kimberley walk through and Marie ?
-who should James and Brett help ?
-who could James help and Brett ?
-what will Brenda and Lawrence love ?
-what did Brenda love and Lawrence ?
-what are Cheryl and Allison breaking ?
-what was Cheryl breaking and Allison ?
-who could Irene and Matt buy ?
-who will Irene buy and Matt ?
-what can Keith and some hospital take ?
-what can Keith take and some hospital ?
-what should Deanna and Carolyn talk about ?
+who should Keith and Andrea climb up *T* ?
+who might Keith climb up *T* and Andrea ?
+who could Joel and this fish hurt *T* ?
+who would Joel hurt *T* and this fish ?
+what could Marcus and Cheryl clean *T* ?
+what did Marcus clean *T* and Cheryl ?
+what can Julie and Veronica examine *T* ?
+what might Julie examine *T* and Veronica ?
+what did Caroline and Colleen kiss *T* ?
+what might Caroline kiss *T* and Colleen ?
+what had Ann and Nicole bought *T* ?
+what has Ann bought *T* and Nicole ?
+what could Adam and Sharon kiss *T* ?
+what could Adam kiss *T* and Sharon ?
+who are all girls and Donald breaking *T* ?
+who are all girls breaking *T* and Donald ?
+what had Ann and Galileo broken *T* ?
+what had Ann broken *T* and Galileo ?
+what could Christina and Gerald have *T* ?
+what can Christina have *T* and Gerald ?
+who are Anne and Ruth driving to *T* ?
+who was Anne driving to *T* and Ruth ?
+who could Gerald and Theodore examine *T* ?
+who should Gerald examine *T* and Theodore ?
+what will those people and Mary remember *T* ?
+what did those people remember *T* and Mary ?
+who were Margaret and April watching *T* ?
+who was Margaret watching *T* and April ?
+what could Caroline and Eric have *T* ?
+what does Caroline have *T* and Eric ?
+who can Noah and Ann lift *T* ?
+who should Noah lift *T* and Ann ?
+what should Jesus and Bradley go to *T* ?
+what might Jesus go to *T* and Bradley ?
+what should Phillip and Sharon bike to *T* ?
+what should Phillip bike to *T* and Sharon ?
+what will Sharon and Aaron leave *T* ?
+what could Sharon leave *T* and Aaron ?
+what did Eva and Ella talk about *T* ?
+what can Eva talk about *T* and Ella ?
+what would Angela and Sheila go to *T* ?
+what does Angela go to *T* and Sheila ?
+who are Gregory and Diane running around *T* ?
+who is Gregory running around *T* and Diane ?
+what were Tracy and Naomi talking about *T* ?
+what was Tracy talking about *T* and Naomi ?
+who had Pamela and Phillip thought about *T* ?
+who has Pamela thought about *T* and Phillip ?
+who would Guy and Linda fire *T* ?
+who might Guy fire *T* and Linda ?
+what do Phillip and Anne lift *T* ?
+what should Phillip lift *T* and Anne ?
+what had Paul and Melissa broken *T* ?
+what had Paul broken *T* and Melissa ?
+who will Diane and Frank sound like *T* ?
+who should Diane sound like *T* and Frank ?
+who could Holly and those boxes bother *T* ?
+who should Holly bother *T* and those boxes ?
+who had Jennifer and Timothy left *T* ?
+who has Jennifer left *T* and Timothy ?
+who have Suzanne and Lori broken *T* ?
+who had Suzanne broken *T* and Lori ?
+what do Ella and Mary hide *T* ?
+what would Ella hide *T* and Mary ?
+what would Cheryl and James drive to *T* ?
+what did Cheryl drive to *T* and James ?
+who could Theodore and every teacher work with *T* ?
+who should Theodore work with *T* and every teacher ?
+what are Jane and Raymond listening to *T* ?
+what is Jane listening to *T* and Raymond ?
+what could Danielle and Brenda watch *T* ?
+what can Danielle watch *T* and Brenda ?
+who would that girl and Theodore forget *T* ?
+who should that girl forget *T* and Theodore ?
+what should Cindy and Sara run around *T* ?
+what could Cindy run around *T* and Sara ?
+what should Maria and Helen forget *T* ?
+what could Maria forget *T* and Helen ?
+who were Peter and Amanda hiding *T* ?
+who was Peter hiding *T* and Amanda ?
+who will Wayne and Alan bike to *T* ?
+who should Wayne bike to *T* and Alan ?
+what should Laurie and Bruce forget *T* ?
+what might Laurie forget *T* and Bruce ?
+what had Cindy and Christina sounded like *T* ?
+what has Cindy sounded like *T* and Christina ?
+who are Becky and Jennifer breaking *T* ?
+who is Becky breaking *T* and Jennifer ?
+what have Donna and Matt gone to *T* ?
+what has Donna gone to *T* and Matt ?
+what will Stephen and Adam think about *T* ?
+what does Stephen think about *T* and Adam ?
+what were Dan and Jessica watching *T* ?
+what was Dan watching *T* and Jessica ?
+what will Paula and Jessica work with *T* ?
+what could Paula work with *T* and Jessica ?
+who have Thomas and Patrick hugged *T* ?
+who has Thomas hugged *T* and Patrick ?
+what did Larry and George fix *T* ?
+what can Larry fix *T* and George ?
+what would Matt and Tara wear *T* ?
+what might Matt wear *T* and Tara ?
+what did Jacqueline and Tiffany climb up *T* ?
+what will Jacqueline climb up *T* and Tiffany ?
+what were Theresa and Brad breaking *T* ?
+what is Theresa breaking *T* and Brad ?
+who had Sharon and Samantha bought *T* ?
+who had Sharon bought *T* and Samantha ?
+who can Rodney and Daniel fix *T* ?
+who does Rodney fix *T* and Daniel ?
+who could Kristen and that boy remember *T* ?
+who did Kristen remember *T* and that boy ?
+what will Rachel and Matt break *T* ?
+what will Rachel break *T* and Matt ?
+what should Andrea and Sherry climb down *T* ?
+what did Andrea climb down *T* and Sherry ?
+what did Edward and Bruce break *T* ?
+what did Edward break *T* and Bruce ?
+who do Christine and Elizabeth visit *T* ?
+who did Christine visit *T* and Elizabeth ?
+what did Dawn and Patricia know *T* ?
+what can Dawn know *T* and Patricia ?
+who did a cup and Becca bother *T* ?
+who could a cup bother *T* and Becca ?
+who would Debra and Joel drive to *T* ?
+who would Debra drive to *T* and Joel ?
+what were Brett and Natalie hiding *T* ?
+what was Brett hiding *T* and Natalie ?
+what will Becca and Kathleen watch *T* ?
+what might Becca watch *T* and Kathleen ?
+who should April and Anne sell *T* ?
+who might April sell *T* and Anne ?
+who do Lucille and the boys mess up *T* ?
+who might Lucille mess up *T* and the boys ?
+what would a lot of turtles and Alan climb up *T* ?
+what will a lot of turtles climb up *T* and Alan ?
+what did Stacy and Keith wear *T* ?
+what should Stacy wear *T* and Keith ?
+what have Samantha and Veronica fixed *T* ?
+what had Samantha fixed *T* and Veronica ?
+who can Kimberley and Marie walk through *T* ?
+who might Kimberley walk through *T* and Marie ?
+who should James and Brett help *T* ?
+who could James help *T* and Brett ?
+what will Brenda and Lawrence love *T* ?
+what did Brenda love *T* and Lawrence ?
+what are Cheryl and Allison breaking *T* ?
+what was Cheryl breaking *T* and Allison ?
+who could Irene and Matt buy *T* ?
+who will Irene buy *T* and Matt ?
+what can Keith and some hospital take *T* ?
+what can Keith take *T* and some hospital ?
+what should Deanna and Carolyn talk about *T* ?
 what should Deanna talk about and Carolyn ?
 who do Stephanie and Carlos remember ?
 who will Stephanie remember and Carlos ?
