@@ -1,6 +1,6 @@
-what does Name buy the windows without bringing ?
-what can Name like without bringing some books ?
-what was Name bringing a popsicle while bringing ?
-what does Name buy without bringing the windows ?
-what was Name bringing while bringing a popsicle ?
-what can Name like some books without bringing ?
+what does Name buy the windows without bringing *T* ?
+what can Name like *T* without bringing some books ?
+what was Name bringing a popsicle while bringing *T* ?
+what does Name buy *T* without bringing the windows ?
+what was Name bringing *T* while bringing a popsicle ?
+what can Name like some books without bringing *T* ?
