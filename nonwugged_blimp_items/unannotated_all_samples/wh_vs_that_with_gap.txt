@@ -1,16 +1,16 @@
-Name knows what every child should go to .
-Name did n't learn who every woman sounds like .
-Name did n't learn that every woman sounds like .
-Name discovers what every teacher drives to .
-most people find out who ladies did care for .
-Name had n't learned that most men were n't going to .
-Name knows who the child is n't talking to .
-Name knows that the child is n't talking to .
-Name knows that every child should go to .
-Name had n't learned what most men were n't going to .
-Name had n't found out that a woman walks through .
-most people find out that ladies did care for .
-Name discovers that every teacher drives to .
-Name has learned that most men sound like .
-Name had n't found out what a woman walks through .
-Name has learned who most men sound like .
+Name knows what every child should go to *T* .
+Name did n't learn who every woman sounds like *T* .
+Name did n't learn that every woman sounds like *T* .
+Name discovers what every teacher drives to *T* .
+most people find out who ladies did care for *T* .
+Name had n't learned that most men were n't going to *T* .
+Name knows who the child is n't talking to *T* .
+Name knows that the child is n't talking to *T* .
+Name knows that every child should go to *T* .
+Name had n't learned what most men were n't going to *T* .
+Name had n't found out that a woman walks through *T* .
+most people find out that ladies did care for *T* .
+Name discovers that every teacher drives to *T* .
+Name has learned that most men sound like *T* .
+Name had n't found out what a woman walks through *T* .
+Name has learned who most men sound like *T* .
