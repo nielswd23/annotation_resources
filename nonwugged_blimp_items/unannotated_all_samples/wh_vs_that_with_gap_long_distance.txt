@@ -1,8 +1,8 @@
-Name knows that that child that was n't talking about Name should bike to .
-Name knows what that child that was n't talking about Name should bike to .
-Name knew that all bananas that went bad can look like .
-Name knew what all bananas that went bad can look like .
-Name will n't remember what all pictures that scared Name can look like .
-Name had found out that the child that changed will n't listen to .
-Name will n't remember that all pictures that scared Name can look like .
-Name had found out who the child that changed will n't listen to .
+Name knows that that child that was n't talking about Name should bike to *T* .
+Name knows what that child that was n't talking about Name should bike to *T* .
+Name knew that all bananas that went bad can look like *T* .
+Name knew what all bananas that went bad can look like *T* .
+Name will n't remember what all pictures that scared Name can look like *T* .
+Name had found out that the child that changed will n't listen to *T* .
+Name will n't remember that all pictures that scared Name can look like *T* .
+Name had found out who the child that changed will n't listen to *T* .
