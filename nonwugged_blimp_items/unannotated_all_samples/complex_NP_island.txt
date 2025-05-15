@@ -1,4 +1,4 @@
-who is n't Name listening to the grandson of Name who hurt ?
-who should n't all brothers of Name who have hugged Name work with ?
-who should n't Name work with all brothers of Name who have hugged ?
-who is n't the grandson of Name who hurt Name listening to ?
+who is n't Name listening to the grandson of Name who hurt *T* ?
+who should n't all brothers of Name who have hugged Name work with *T* ?
+who should n't Name work with all brothers of Name who have hugged *T* ?
+who is n't the grandson of Name who hurt Name listening to *T* ?
