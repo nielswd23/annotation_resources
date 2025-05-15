@@ -1,2 +1,2 @@
-who had those men 's talking about scared Name .
-who had those men 's talking about Name scared .
+who had those men 's talking about *T* scared Name .
+who had those men 's talking about Name scared *T* .
