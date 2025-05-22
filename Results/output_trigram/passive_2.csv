@@ -1,0 +1,281 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+Name was watched .,-33.882910417087786,-135.53164166835114,good,passive_2,102,syntax,argument_structure,trigram1,-33.882910417087786,-32.694321717918044,FALSE
+Name was come here .,-32.694321717918044,-163.4716085895902,bad,passive_2,102,syntax,argument_structure,trigram1,-33.882910417087786,-32.694321717918044,FALSE
+Name was watched .,-33.9028239161479,-135.6112956645916,good,passive_2,102,syntax,argument_structure,trigram10,-33.9028239161479,-32.46273597251968,FALSE
+Name was come here .,-32.46273597251968,-162.3136798625984,bad,passive_2,102,syntax,argument_structure,trigram10,-33.9028239161479,-32.46273597251968,FALSE
+Name was watched .,-33.70894581156616,-134.83578324626464,good,passive_2,102,syntax,argument_structure,trigram2,-33.70894581156616,-32.281921993897285,FALSE
+Name was come here .,-32.281921993897285,-161.40960996948644,bad,passive_2,102,syntax,argument_structure,trigram2,-33.70894581156616,-32.281921993897285,FALSE
+Name was watched .,-33.810098428463576,-135.2403937138543,good,passive_2,102,syntax,argument_structure,trigram3,-33.810098428463576,-32.65118694693856,FALSE
+Name was come here .,-32.65118694693856,-163.2559347346928,bad,passive_2,102,syntax,argument_structure,trigram3,-33.810098428463576,-32.65118694693856,FALSE
+Name was watched .,-33.74740380520273,-134.98961522081092,good,passive_2,102,syntax,argument_structure,trigram4,-33.74740380520273,-32.3626808085726,FALSE
+Name was come here .,-32.3626808085726,-161.813404042863,bad,passive_2,102,syntax,argument_structure,trigram4,-33.74740380520273,-32.3626808085726,FALSE
+Name was watched .,-33.890580368524716,-135.56232147409887,good,passive_2,102,syntax,argument_structure,trigram5,-33.890580368524716,-32.685867977313315,FALSE
+Name was come here .,-32.685867977313315,-163.42933988656657,bad,passive_2,102,syntax,argument_structure,trigram5,-33.890580368524716,-32.685867977313315,FALSE
+Name was watched .,-33.86753014588386,-135.47012058353545,good,passive_2,102,syntax,argument_structure,trigram6,-33.86753014588386,-32.52176640778468,FALSE
+Name was come here .,-32.52176640778468,-162.60883203892342,bad,passive_2,102,syntax,argument_structure,trigram6,-33.86753014588386,-32.52176640778468,FALSE
+Name was watched .,-33.928726754885524,-135.7149070195421,good,passive_2,102,syntax,argument_structure,trigram7,-33.928726754885524,-32.67774925445283,FALSE
+Name was come here .,-32.67774925445283,-163.38874627226414,bad,passive_2,102,syntax,argument_structure,trigram7,-33.928726754885524,-32.67774925445283,FALSE
+Name was watched .,-33.91198385244504,-135.64793540978016,good,passive_2,102,syntax,argument_structure,trigram8,-33.91198385244504,-32.669134748911816,FALSE
+Name was come here .,-32.669134748911816,-163.34567374455906,bad,passive_2,102,syntax,argument_structure,trigram8,-33.91198385244504,-32.669134748911816,FALSE
+Name was watched .,-33.79310721289496,-135.17242885157984,good,passive_2,102,syntax,argument_structure,trigram9,-33.79310721289496,-32.41452357570941,FALSE
+Name was come here .,-32.41452357570941,-162.07261787854705,bad,passive_2,102,syntax,argument_structure,trigram9,-33.79310721289496,-32.41452357570941,FALSE
+some cat is n't bought .,-34.38291041708778,-206.29746250252668,good,passive_2,150,syntax,argument_structure,trigram1,-34.38291041708778,-33.46248991768082,FALSE
+some cat is n't come here .,-33.46248991768082,-234.23742942376575,bad,passive_2,150,syntax,argument_structure,trigram1,-34.38291041708778,-33.46248991768082,FALSE
+some cat is n't bought .,-34.4028239161479,-206.4169434968874,good,passive_2,150,syntax,argument_structure,trigram10,-34.4028239161479,-33.3027610992706,FALSE
+some cat is n't come here .,-33.3027610992706,-233.1193276948942,bad,passive_2,150,syntax,argument_structure,trigram10,-34.4028239161479,-33.3027610992706,FALSE
+some cat is n't bought .,-34.35518643674646,-206.13111862047873,good,passive_2,150,syntax,argument_structure,trigram2,-34.35518643674646,-33.24356362052865,FALSE
+some cat is n't come here .,-33.24356362052865,-232.70494534370053,bad,passive_2,150,syntax,argument_structure,trigram2,-34.35518643674646,-33.24356362052865,FALSE
+some cat is n't bought .,-34.39058045218541,-206.34348271311248,good,passive_2,150,syntax,argument_structure,trigram3,-34.39058045218541,-33.479860533421565,FALSE
+some cat is n't come here .,-33.479860533421565,-234.35902373395095,bad,passive_2,150,syntax,argument_structure,trigram3,-34.39058045218541,-33.479860533421565,FALSE
+some cat is n't bought .,-34.39364443038301,-206.3618665822981,good,passive_2,150,syntax,argument_structure,trigram4,-34.39364443038301,-33.31223648633574,FALSE
+some cat is n't come here .,-33.31223648633574,-233.18565540435017,bad,passive_2,150,syntax,argument_structure,trigram4,-34.39364443038301,-33.31223648633574,FALSE
+some cat is n't bought .,-34.390580368524716,-206.3434822111483,good,passive_2,150,syntax,argument_structure,trigram5,-34.390580368524716,-33.45864294623086,FALSE
+some cat is n't come here .,-33.45864294623086,-234.210500623616,bad,passive_2,150,syntax,argument_structure,trigram5,-34.390580368524716,-33.45864294623086,FALSE
+some cat is n't bought .,-34.367530145883855,-206.20518087530314,good,passive_2,150,syntax,argument_structure,trigram6,-34.367530145883855,-33.3348417615273,FALSE
+some cat is n't come here .,-33.3348417615273,-233.34389233069112,bad,passive_2,150,syntax,argument_structure,trigram6,-34.367530145883855,-33.3348417615273,FALSE
+some cat is n't bought .,-34.428726754885524,-206.57236052931316,good,passive_2,150,syntax,argument_structure,trigram7,-34.428726754885524,-33.46374282600503,FALSE
+some cat is n't come here .,-33.46374282600503,-234.2461997820352,bad,passive_2,150,syntax,argument_structure,trigram7,-34.428726754885524,-33.46374282600503,FALSE
+some cat is n't bought .,-34.41198385244504,-206.47190311467025,good,passive_2,150,syntax,argument_structure,trigram8,-34.41198385244504,-33.45280592134988,FALSE
+some cat is n't come here .,-33.45280592134988,-234.16964144944916,bad,passive_2,150,syntax,argument_structure,trigram8,-34.41198385244504,-33.45280592134988,FALSE
+some cat is n't bought .,-34.43934783807526,-206.63608702845153,good,passive_2,150,syntax,argument_structure,trigram9,-34.43934783807526,-33.362325150774105,FALSE
+some cat is n't come here .,-33.362325150774105,-233.53627605541874,bad,passive_2,150,syntax,argument_structure,trigram9,-34.43934783807526,-33.362325150774105,FALSE
+that dog was bought .,-34.382910417087786,-171.9145520854389,good,passive_2,165,syntax,argument_structure,trigram1,-34.382910417087786,-33.30908650111299,FALSE
+that dog was come here .,-33.30908650111299,-199.85451900667798,bad,passive_2,165,syntax,argument_structure,trigram1,-34.382910417087786,-33.30908650111299,FALSE
+that dog was bought .,-34.4028239161479,-172.0141195807395,good,passive_2,165,syntax,argument_structure,trigram10,-34.4028239161479,-33.11941729645772,FALSE
+that dog was come here .,-33.11941729645772,-198.7165037787463,bad,passive_2,165,syntax,argument_structure,trigram10,-34.4028239161479,-33.11941729645772,FALSE
+that dog was bought .,-34.35518643674645,-171.77593218373227,good,passive_2,165,syntax,argument_structure,trigram2,-34.35518643674645,-33.05829315115901,FALSE
+that dog was come here .,-33.05829315115901,-198.34975890695407,bad,passive_2,165,syntax,argument_structure,trigram2,-34.35518643674645,-33.05829315115901,FALSE
+that dog was bought .,-34.39058045218541,-171.95290226092706,good,passive_2,165,syntax,argument_structure,trigram3,-34.39058045218541,-33.328073880294255,FALSE
+that dog was come here .,-33.328073880294255,-199.96844328176553,bad,passive_2,165,syntax,argument_structure,trigram3,-34.39058045218541,-33.328073880294255,FALSE
+that dog was bought .,-34.39364443038302,-171.96822215191509,good,passive_2,165,syntax,argument_structure,trigram4,-34.39364443038302,-33.132001828994525,FALSE
+that dog was come here .,-33.132001828994525,-198.79201097396717,bad,passive_2,165,syntax,argument_structure,trigram4,-34.39364443038302,-33.132001828994525,FALSE
+that dog was bought .,-34.390580368524716,-171.9529018426236,good,passive_2,165,syntax,argument_structure,trigram5,-34.390580368524716,-33.30332004251522,FALSE
+that dog was come here .,-33.30332004251522,-199.8199202550913,bad,passive_2,165,syntax,argument_structure,trigram5,-34.390580368524716,-33.30332004251522,FALSE
+that dog was bought .,-34.36753014588386,-171.8376507294193,good,passive_2,165,syntax,argument_structure,trigram6,-34.36753014588386,-33.162727030801214,FALSE
+that dog was come here .,-33.162727030801214,-198.97636218480727,bad,passive_2,165,syntax,argument_structure,trigram6,-34.36753014588386,-33.162727030801214,FALSE
+that dog was bought .,-34.428726754885524,-172.14363377442763,good,passive_2,165,syntax,argument_structure,trigram7,-34.428726754885524,-33.302912171191615,FALSE
+that dog was come here .,-33.302912171191615,-199.81747302714967,bad,passive_2,165,syntax,argument_structure,trigram7,-34.428726754885524,-33.302912171191615,FALSE
+that dog was bought .,-34.41198385244504,-172.0599192622252,good,passive_2,165,syntax,argument_structure,trigram8,-34.41198385244504,-33.292942932834016,FALSE
+that dog was come here .,-33.292942932834016,-199.7576575970041,bad,passive_2,165,syntax,argument_structure,trigram8,-34.41198385244504,-33.292942932834016,FALSE
+that dog was bought .,-34.43934783807525,-172.19673919037626,good,passive_2,165,syntax,argument_structure,trigram9,-34.43934783807525,-33.182821369557246,FALSE
+that dog was come here .,-33.182821369557246,-199.09692821734347,bad,passive_2,165,syntax,argument_structure,trigram9,-34.43934783807525,-33.182821369557246,FALSE
+Name is n't left .,-32.516279347025666,-162.58139673512832,bad,passive_2,310,syntax,argument_structure,trigram1,-32.8332718471699,-32.516279347025666,FALSE
+Name is n't scared .,-32.8332718471699,-164.16635923584948,good,passive_2,310,syntax,argument_structure,trigram1,-32.8332718471699,-32.516279347025666,FALSE
+Name is n't left .,-32.63624591331495,-163.18122956657476,bad,passive_2,310,syntax,argument_structure,trigram10,-32.95323841345918,-32.63624591331495,FALSE
+Name is n't scared .,-32.95323841345918,-164.76619206729592,good,passive_2,310,syntax,argument_structure,trigram10,-32.95323841345918,-32.63624591331495,FALSE
+Name is n't left .,-32.58608842655758,-162.9304421327879,bad,passive_2,310,syntax,argument_structure,trigram2,-32.78608842655758,-32.58608842655758,FALSE
+Name is n't scared .,-32.78608842655758,-163.9304421327879,good,passive_2,310,syntax,argument_structure,trigram2,-32.78608842655758,-32.58608842655758,FALSE
+Name is n't left .,-32.562670181705656,-162.81335090852826,bad,passive_2,310,syntax,argument_structure,trigram3,-32.962670181705654,-32.562670181705656,FALSE
+Name is n't scared .,-32.962670181705654,-164.81335090852826,good,passive_2,310,syntax,argument_structure,trigram3,-32.962670181705654,-32.562670181705656,FALSE
+Name is n't left .,-32.58476560651133,-162.92382803255666,bad,passive_2,310,syntax,argument_structure,trigram4,-32.901758106655564,-32.58476560651133,FALSE
+Name is n't scared .,-32.901758106655564,-164.50879053327782,good,passive_2,310,syntax,argument_structure,trigram4,-32.901758106655564,-32.58476560651133,FALSE
+Name is n't left .,-32.51211688396897,-162.56058441984484,bad,passive_2,310,syntax,argument_structure,trigram5,-32.91211688396897,-32.51211688396897,FALSE
+Name is n't scared .,-32.91211688396897,-164.56058441984484,good,passive_2,310,syntax,argument_structure,trigram5,-32.91211688396897,-32.51211688396897,FALSE
+Name is n't left .,-32.53656652407344,-162.6828326203672,bad,passive_2,310,syntax,argument_structure,trigram6,-32.85355902421767,-32.53656652407344,FALSE
+Name is n't scared .,-32.85355902421767,-164.26779512108834,good,passive_2,310,syntax,argument_structure,trigram6,-32.85355902421767,-32.53656652407344,FALSE
+Name is n't left .,-32.869843581615505,-164.34921790807752,bad,passive_2,310,syntax,argument_structure,trigram7,-33.0698435816155,-32.869843581615505,FALSE
+Name is n't scared .,-33.0698435816155,-165.34921790807752,good,passive_2,310,syntax,argument_structure,trigram7,-33.0698435816155,-32.869843581615505,FALSE
+Name is n't left .,-32.533520367889295,-162.66760183944646,bad,passive_2,310,syntax,argument_structure,trigram8,-32.933520367889294,-32.533520367889295,FALSE
+Name is n't scared .,-32.933520367889294,-164.66760183944646,good,passive_2,310,syntax,argument_structure,trigram8,-32.933520367889294,-32.533520367889295,FALSE
+Name is n't left .,-32.84389185337527,-164.21945926687636,bad,passive_2,310,syntax,argument_structure,trigram9,-33.04389185337527,-32.84389185337527,FALSE
+Name is n't scared .,-33.04389185337527,-165.21945926687636,good,passive_2,310,syntax,argument_structure,trigram9,-33.04389185337527,-32.84389185337527,FALSE
+Name was left .,-33.486669791907495,-133.94667916762998,bad,passive_2,428,syntax,argument_structure,trigram1,-33.882910417087786,-33.486669791907495,FALSE
+Name was hugged .,-33.882910417087786,-135.53164166835114,good,passive_2,428,syntax,argument_structure,trigram1,-33.882910417087786,-33.486669791907495,FALSE
+Name was left .,-33.50658329096761,-134.02633316387045,bad,passive_2,428,syntax,argument_structure,trigram10,-33.9028239161479,-33.50658329096761,FALSE
+Name was hugged .,-33.9028239161479,-135.6112956645916,good,passive_2,428,syntax,argument_structure,trigram10,-33.9028239161479,-33.50658329096761,FALSE
+Name was left .,-33.45894581156616,-133.83578324626464,bad,passive_2,428,syntax,argument_structure,trigram2,-33.70894581156616,-33.45894581156616,FALSE
+Name was hugged .,-33.70894581156616,-134.83578324626464,good,passive_2,428,syntax,argument_structure,trigram2,-33.70894581156616,-33.45894581156616,FALSE
+Name was left .,-33.310098428463576,-133.2403937138543,bad,passive_2,428,syntax,argument_structure,trigram3,-33.810098428463576,-33.310098428463576,FALSE
+Name was hugged .,-33.810098428463576,-135.2403937138543,good,passive_2,428,syntax,argument_structure,trigram3,-33.810098428463576,-33.310098428463576,FALSE
+Name was left .,-33.35116318002244,-133.40465272008976,bad,passive_2,428,syntax,argument_structure,trigram4,-33.74740380520273,-33.35116318002244,FALSE
+Name was hugged .,-33.74740380520273,-134.98961522081092,good,passive_2,428,syntax,argument_structure,trigram4,-33.74740380520273,-33.35116318002244,FALSE
+Name was left .,-33.390580368524716,-133.56232147409887,bad,passive_2,428,syntax,argument_structure,trigram5,-33.890580368524716,-33.390580368524716,FALSE
+Name was hugged .,-33.890580368524716,-135.56232147409887,good,passive_2,428,syntax,argument_structure,trigram5,-33.890580368524716,-33.390580368524716,FALSE
+Name was left .,-33.47128952070357,-133.88515808281429,bad,passive_2,428,syntax,argument_structure,trigram6,-33.86753014588386,-33.47128952070357,FALSE
+Name was hugged .,-33.86753014588386,-135.47012058353545,good,passive_2,428,syntax,argument_structure,trigram6,-33.86753014588386,-33.47128952070357,FALSE
+Name was left .,-33.678726754885524,-134.7149070195421,bad,passive_2,428,syntax,argument_structure,trigram7,-33.928726754885524,-33.678726754885524,FALSE
+Name was hugged .,-33.928726754885524,-135.7149070195421,good,passive_2,428,syntax,argument_structure,trigram7,-33.928726754885524,-33.678726754885524,FALSE
+Name was left .,-33.41198385244504,-133.64793540978016,bad,passive_2,428,syntax,argument_structure,trigram8,-33.91198385244504,-33.41198385244504,FALSE
+Name was hugged .,-33.91198385244504,-135.64793540978016,good,passive_2,428,syntax,argument_structure,trigram8,-33.91198385244504,-33.41198385244504,FALSE
+Name was left .,-33.54310721289496,-134.17242885157984,bad,passive_2,428,syntax,argument_structure,trigram9,-33.79310721289496,-33.54310721289496,FALSE
+Name was hugged .,-33.79310721289496,-135.17242885157984,good,passive_2,428,syntax,argument_structure,trigram9,-33.79310721289496,-33.54310721289496,FALSE
+Name was gone fishing .,-33.66591791694356,-168.32958958471778,bad,passive_2,516,syntax,argument_structure,trigram1,-33.382910417087786,-33.66591791694356,TRUE
+Name was hurt .,-33.382910417087786,-133.53164166835114,good,passive_2,516,syntax,argument_structure,trigram1,-33.382910417087786,-33.66591791694356,TRUE
+Name was gone fishing .,-33.685831416003666,-168.42915708001834,bad,passive_2,516,syntax,argument_structure,trigram10,-33.00658329096761,-33.685831416003666,TRUE
+Name was hurt .,-33.00658329096761,-132.02633316387045,good,passive_2,516,syntax,argument_structure,trigram10,-33.00658329096761,-33.685831416003666,TRUE
+Name was gone fishing .,-33.521201436457986,-167.60600718228994,bad,passive_2,516,syntax,argument_structure,trigram2,-32.87846378784432,-33.521201436457986,TRUE
+Name was hurt .,-32.87846378784432,-131.51385515137727,good,passive_2,516,syntax,argument_structure,trigram2,-32.87846378784432,-33.521201436457986,TRUE
+Name was gone fishing .,-33.72619483320794,-168.63097416603972,bad,passive_2,516,syntax,argument_structure,trigram3,-33.163857803283285,-33.72619483320794,TRUE
+Name was hurt .,-33.163857803283285,-132.65543121313314,good,passive_2,516,syntax,argument_structure,trigram3,-33.163857803283285,-33.72619483320794,TRUE
+Name was gone fishing .,-33.67665193023879,-168.38325965119395,bad,passive_2,516,syntax,argument_structure,trigram4,-32.91692178148089,-33.67665193023879,TRUE
+Name was hurt .,-32.91692178148089,-131.66768712592355,good,passive_2,516,syntax,argument_structure,trigram4,-32.91692178148089,-33.67665193023879,TRUE
+Name was gone fishing .,-33.67358786838049,-168.36793934190243,bad,passive_2,516,syntax,argument_structure,trigram5,-32.96547043898944,-33.67358786838049,TRUE
+Name was hurt .,-32.96547043898944,-131.86188175595777,good,passive_2,516,syntax,argument_structure,trigram5,-32.96547043898944,-33.67358786838049,TRUE
+Name was gone fishing .,-33.76753014588386,-168.8376507294193,bad,passive_2,516,syntax,argument_structure,trigram6,-33.11753014588386,-33.76753014588386,TRUE
+Name was hurt .,-33.11753014588386,-132.47012058353545,good,passive_2,516,syntax,argument_structure,trigram6,-33.11753014588386,-33.76753014588386,TRUE
+Name was gone fishing .,-33.82872675488552,-169.14363377442763,bad,passive_2,516,syntax,argument_structure,trigram7,-33.178726754885524,-33.82872675488552,TRUE
+Name was hurt .,-33.178726754885524,-132.7149070195421,good,passive_2,516,syntax,argument_structure,trigram7,-33.178726754885524,-33.82872675488552,TRUE
+Name was gone fishing .,-34.01198385244504,-170.0599192622252,bad,passive_2,516,syntax,argument_structure,trigram8,-33.11950260208446,-34.01198385244504,TRUE
+Name was hurt .,-33.11950260208446,-132.47801040833784,good,passive_2,516,syntax,argument_structure,trigram8,-33.11950260208446,-34.01198385244504,TRUE
+Name was gone fishing .,-33.72235533793101,-168.61177668965507,bad,passive_2,516,syntax,argument_structure,trigram9,-32.867997283359685,-33.72235533793101,TRUE
+Name was hurt .,-32.867997283359685,-131.47198913343874,good,passive_2,516,syntax,argument_structure,trigram9,-32.867997283359685,-33.72235533793101,TRUE
+the dogs were n't brought .,-34.38291041708778,-206.29746250252668,good,passive_2,550,syntax,argument_structure,trigram1,-34.38291041708778,-34.11875000030093,FALSE
+the dogs were n't left .,-34.11875000030093,-204.71250000180555,bad,passive_2,550,syntax,argument_structure,trigram1,-34.38291041708778,-34.11875000030093,FALSE
+the dogs were n't brought .,-34.4028239161479,-206.4169434968874,good,passive_2,550,syntax,argument_structure,trigram10,-34.4028239161479,-34.13866349936104,FALSE
+the dogs were n't left .,-34.13866349936104,-204.83198099616624,bad,passive_2,550,syntax,argument_structure,trigram10,-34.4028239161479,-34.13866349936104,FALSE
+the dogs were n't brought .,-34.35518643674646,-206.13111862047873,good,passive_2,550,syntax,argument_structure,trigram2,-34.35518643674646,-34.188519770079786,FALSE
+the dogs were n't left .,-34.188519770079786,-205.13111862047873,bad,passive_2,550,syntax,argument_structure,trigram2,-34.35518643674646,-34.188519770079786,FALSE
+the dogs were n't brought .,-34.39058045218541,-206.34348271311248,good,passive_2,550,syntax,argument_structure,trigram3,-34.39058045218541,-34.05724711885208,FALSE
+the dogs were n't left .,-34.05724711885208,-204.34348271311248,bad,passive_2,550,syntax,argument_structure,trigram3,-34.39058045218541,-34.05724711885208,FALSE
+the dogs were n't brought .,-34.39364443038301,-206.3618665822981,good,passive_2,550,syntax,argument_structure,trigram4,-34.39364443038301,-34.12948401359616,FALSE
+the dogs were n't left .,-34.12948401359616,-204.77690408157696,bad,passive_2,550,syntax,argument_structure,trigram4,-34.39364443038301,-34.12948401359616,FALSE
+the dogs were n't brought .,-34.390580368524716,-206.3434822111483,good,passive_2,550,syntax,argument_structure,trigram5,-34.390580368524716,-34.05724703519139,FALSE
+the dogs were n't left .,-34.05724703519139,-204.3434822111483,bad,passive_2,550,syntax,argument_structure,trigram5,-34.390580368524716,-34.05724703519139,FALSE
+the dogs were n't brought .,-34.367530145883855,-206.20518087530314,good,passive_2,550,syntax,argument_structure,trigram6,-34.367530145883855,-34.103369729097004,FALSE
+the dogs were n't left .,-34.103369729097004,-204.620218374582,bad,passive_2,550,syntax,argument_structure,trigram6,-34.367530145883855,-34.103369729097004,FALSE
+the dogs were n't brought .,-34.428726754885524,-206.57236052931316,good,passive_2,550,syntax,argument_structure,trigram7,-34.428726754885524,-34.26206008821886,FALSE
+the dogs were n't left .,-34.26206008821886,-205.57236052931316,bad,passive_2,550,syntax,argument_structure,trigram7,-34.428726754885524,-34.26206008821886,FALSE
+the dogs were n't brought .,-34.41198385244504,-206.47190311467025,good,passive_2,550,syntax,argument_structure,trigram8,-34.41198385244504,-34.07865051911171,FALSE
+the dogs were n't left .,-34.07865051911171,-204.47190311467025,bad,passive_2,550,syntax,argument_structure,trigram8,-34.41198385244504,-34.07865051911171,FALSE
+the dogs were n't brought .,-34.43934783807526,-206.63608702845153,good,passive_2,550,syntax,argument_structure,trigram9,-34.43934783807526,-34.272681171408585,FALSE
+the dogs were n't left .,-34.272681171408585,-205.63608702845153,bad,passive_2,550,syntax,argument_structure,trigram9,-34.43934783807526,-34.272681171408585,FALSE
+Name was seen .,-33.882910417087786,-135.53164166835114,good,passive_2,575,syntax,argument_structure,trigram1,-33.882910417087786,-33.66591791694356,FALSE
+Name was gone fishing .,-33.66591791694356,-168.32958958471778,bad,passive_2,575,syntax,argument_structure,trigram1,-33.882910417087786,-33.66591791694356,FALSE
+Name was seen .,-33.9028239161479,-135.6112956645916,good,passive_2,575,syntax,argument_structure,trigram10,-33.9028239161479,-33.685831416003666,FALSE
+Name was gone fishing .,-33.685831416003666,-168.42915708001834,bad,passive_2,575,syntax,argument_structure,trigram10,-33.9028239161479,-33.685831416003666,FALSE
+Name was seen .,-33.70894581156616,-134.83578324626464,good,passive_2,575,syntax,argument_structure,trigram2,-33.70894581156616,-33.521201436457986,FALSE
+Name was gone fishing .,-33.521201436457986,-167.60600718228994,bad,passive_2,575,syntax,argument_structure,trigram2,-33.70894581156616,-33.521201436457986,FALSE
+Name was seen .,-33.810098428463576,-135.2403937138543,good,passive_2,575,syntax,argument_structure,trigram3,-33.810098428463576,-33.72619483320794,FALSE
+Name was gone fishing .,-33.72619483320794,-168.63097416603972,bad,passive_2,575,syntax,argument_structure,trigram3,-33.810098428463576,-33.72619483320794,FALSE
+Name was seen .,-33.74740380520273,-134.98961522081092,good,passive_2,575,syntax,argument_structure,trigram4,-33.74740380520273,-33.67665193023879,FALSE
+Name was gone fishing .,-33.67665193023879,-168.38325965119395,bad,passive_2,575,syntax,argument_structure,trigram4,-33.74740380520273,-33.67665193023879,FALSE
+Name was seen .,-33.890580368524716,-135.56232147409887,good,passive_2,575,syntax,argument_structure,trigram5,-33.890580368524716,-33.67358786838049,FALSE
+Name was gone fishing .,-33.67358786838049,-168.36793934190243,bad,passive_2,575,syntax,argument_structure,trigram5,-33.890580368524716,-33.67358786838049,FALSE
+Name was seen .,-33.86753014588386,-135.47012058353545,good,passive_2,575,syntax,argument_structure,trigram6,-33.86753014588386,-33.76753014588386,FALSE
+Name was gone fishing .,-33.76753014588386,-168.8376507294193,bad,passive_2,575,syntax,argument_structure,trigram6,-33.86753014588386,-33.76753014588386,FALSE
+Name was seen .,-33.928726754885524,-135.7149070195421,good,passive_2,575,syntax,argument_structure,trigram7,-33.928726754885524,-33.82872675488552,FALSE
+Name was gone fishing .,-33.82872675488552,-169.14363377442763,bad,passive_2,575,syntax,argument_structure,trigram7,-33.928726754885524,-33.82872675488552,FALSE
+Name was seen .,-33.91198385244504,-135.64793540978016,good,passive_2,575,syntax,argument_structure,trigram8,-33.91198385244504,-34.01198385244504,TRUE
+Name was gone fishing .,-34.01198385244504,-170.0599192622252,bad,passive_2,575,syntax,argument_structure,trigram8,-33.91198385244504,-34.01198385244504,TRUE
+Name was seen .,-33.79310721289496,-135.17242885157984,good,passive_2,575,syntax,argument_structure,trigram9,-33.79310721289496,-33.72235533793101,FALSE
+Name was gone fishing .,-33.72235533793101,-168.61177668965507,bad,passive_2,575,syntax,argument_structure,trigram9,-33.79310721289496,-33.72235533793101,FALSE
+the bird was come here .,-33.14241983444633,-198.85451900667798,bad,passive_2,633,syntax,argument_structure,trigram1,-34.18291041708778,-33.14241983444633,FALSE
+the bird was seen .,-34.18291041708778,-170.9145520854389,good,passive_2,633,syntax,argument_structure,trigram1,-34.18291041708778,-33.14241983444633,FALSE
+the bird was come here .,-32.95275062979105,-197.7165037787463,bad,passive_2,633,syntax,argument_structure,trigram10,-34.2028239161479,-32.95275062979105,FALSE
+the bird was seen .,-34.2028239161479,-171.0141195807395,good,passive_2,633,syntax,argument_structure,trigram10,-34.2028239161479,-32.95275062979105,FALSE
+the bird was come here .,-33.05829315115901,-198.34975890695407,bad,passive_2,633,syntax,argument_structure,trigram2,-34.35518643674645,-33.05829315115901,FALSE
+the bird was seen .,-34.35518643674645,-171.77593218373227,good,passive_2,633,syntax,argument_structure,trigram2,-34.35518643674645,-33.05829315115901,FALSE
+the bird was come here .,-33.16140721362759,-198.96844328176553,bad,passive_2,633,syntax,argument_structure,trigram3,-34.190580452185415,-33.16140721362759,FALSE
+the bird was seen .,-34.190580452185415,-170.95290226092706,good,passive_2,633,syntax,argument_structure,trigram3,-34.190580452185415,-33.16140721362759,FALSE
+the bird was come here .,-32.96533516232786,-197.79201097396717,bad,passive_2,633,syntax,argument_structure,trigram4,-34.19364443038302,-32.96533516232786,FALSE
+the bird was seen .,-34.19364443038302,-170.96822215191509,good,passive_2,633,syntax,argument_structure,trigram4,-34.19364443038302,-32.96533516232786,FALSE
+the bird was come here .,-33.30332004251522,-199.8199202550913,bad,passive_2,633,syntax,argument_structure,trigram5,-34.390580368524716,-33.30332004251522,FALSE
+the bird was seen .,-34.390580368524716,-171.9529018426236,good,passive_2,633,syntax,argument_structure,trigram5,-34.390580368524716,-33.30332004251522,FALSE
+the bird was come here .,-32.99606036413454,-197.97636218480727,bad,passive_2,633,syntax,argument_structure,trigram6,-34.16753014588386,-32.99606036413454,FALSE
+the bird was seen .,-34.16753014588386,-170.8376507294193,good,passive_2,633,syntax,argument_structure,trigram6,-34.16753014588386,-32.99606036413454,FALSE
+the bird was come here .,-33.13624550452494,-198.81747302714967,bad,passive_2,633,syntax,argument_structure,trigram7,-34.22872675488553,-33.13624550452494,FALSE
+the bird was seen .,-34.22872675488553,-171.14363377442763,good,passive_2,633,syntax,argument_structure,trigram7,-34.22872675488553,-33.13624550452494,FALSE
+the bird was come here .,-33.12627626616735,-198.7576575970041,bad,passive_2,633,syntax,argument_structure,trigram8,-34.211983852445044,-33.12627626616735,FALSE
+the bird was seen .,-34.211983852445044,-171.0599192622252,good,passive_2,633,syntax,argument_structure,trigram8,-34.211983852445044,-33.12627626616735,FALSE
+the bird was come here .,-33.182821369557246,-199.09692821734347,bad,passive_2,633,syntax,argument_structure,trigram9,-34.43934783807525,-33.182821369557246,FALSE
+the bird was seen .,-34.43934783807525,-172.19673919037626,good,passive_2,633,syntax,argument_structure,trigram9,-34.43934783807525,-33.182821369557246,FALSE
+those birds were n't seen .,-34.38291041708778,-206.29746250252668,good,passive_2,661,syntax,argument_structure,trigram1,-34.38291041708778,-33.46248991768082,FALSE
+those birds were n't come here .,-33.46248991768082,-234.23742942376575,bad,passive_2,661,syntax,argument_structure,trigram1,-34.38291041708778,-33.46248991768082,FALSE
+those birds were n't seen .,-34.4028239161479,-206.4169434968874,good,passive_2,661,syntax,argument_structure,trigram10,-34.4028239161479,-33.3027610992706,FALSE
+those birds were n't come here .,-33.3027610992706,-233.1193276948942,bad,passive_2,661,syntax,argument_structure,trigram10,-34.4028239161479,-33.3027610992706,FALSE
+those birds were n't seen .,-34.35518643674646,-206.13111862047873,good,passive_2,661,syntax,argument_structure,trigram2,-34.35518643674646,-33.24356362052865,FALSE
+those birds were n't come here .,-33.24356362052865,-232.70494534370053,bad,passive_2,661,syntax,argument_structure,trigram2,-34.35518643674646,-33.24356362052865,FALSE
+those birds were n't seen .,-34.39058045218541,-206.34348271311248,good,passive_2,661,syntax,argument_structure,trigram3,-34.39058045218541,-33.479860533421565,FALSE
+those birds were n't come here .,-33.479860533421565,-234.35902373395095,bad,passive_2,661,syntax,argument_structure,trigram3,-34.39058045218541,-33.479860533421565,FALSE
+those birds were n't seen .,-34.39364443038301,-206.3618665822981,good,passive_2,661,syntax,argument_structure,trigram4,-34.39364443038301,-33.31223648633574,FALSE
+those birds were n't come here .,-33.31223648633574,-233.18565540435017,bad,passive_2,661,syntax,argument_structure,trigram4,-34.39364443038301,-33.31223648633574,FALSE
+those birds were n't seen .,-34.390580368524716,-206.3434822111483,good,passive_2,661,syntax,argument_structure,trigram5,-34.390580368524716,-33.45864294623086,FALSE
+those birds were n't come here .,-33.45864294623086,-234.210500623616,bad,passive_2,661,syntax,argument_structure,trigram5,-34.390580368524716,-33.45864294623086,FALSE
+those birds were n't seen .,-34.367530145883855,-206.20518087530314,good,passive_2,661,syntax,argument_structure,trigram6,-34.367530145883855,-33.3348417615273,FALSE
+those birds were n't come here .,-33.3348417615273,-233.34389233069112,bad,passive_2,661,syntax,argument_structure,trigram6,-34.367530145883855,-33.3348417615273,FALSE
+those birds were n't seen .,-34.428726754885524,-206.57236052931316,good,passive_2,661,syntax,argument_structure,trigram7,-34.428726754885524,-33.46374282600503,FALSE
+those birds were n't come here .,-33.46374282600503,-234.2461997820352,bad,passive_2,661,syntax,argument_structure,trigram7,-34.428726754885524,-33.46374282600503,FALSE
+those birds were n't seen .,-34.41198385244504,-206.47190311467025,good,passive_2,661,syntax,argument_structure,trigram8,-34.41198385244504,-33.45280592134988,FALSE
+those birds were n't come here .,-33.45280592134988,-234.16964144944916,bad,passive_2,661,syntax,argument_structure,trigram8,-34.41198385244504,-33.45280592134988,FALSE
+those birds were n't seen .,-34.43934783807526,-206.63608702845153,good,passive_2,661,syntax,argument_structure,trigram9,-34.43934783807526,-33.362325150774105,FALSE
+those birds were n't come here .,-33.362325150774105,-233.53627605541874,bad,passive_2,661,syntax,argument_structure,trigram9,-34.43934783807526,-33.362325150774105,FALSE
+Name is n't scared .,-32.8332718471699,-164.16635923584948,good,passive_2,711,syntax,argument_structure,trigram1,-32.8332718471699,-32.827384525369354,FALSE
+Name is n't gone fishing .,-32.827384525369354,-196.96430715221612,bad,passive_2,711,syntax,argument_structure,trigram1,-32.8332718471699,-32.827384525369354,FALSE
+Name is n't scared .,-32.95323841345918,-164.76619206729592,good,passive_2,711,syntax,argument_structure,trigram10,-32.95323841345918,-32.93067558045377,FALSE
+Name is n't gone fishing .,-32.93067558045377,-197.58405348272265,bad,passive_2,711,syntax,argument_structure,trigram10,-32.95323841345918,-32.93067558045377,FALSE
+Name is n't scared .,-32.78608842655758,-163.9304421327879,good,passive_2,711,syntax,argument_structure,trigram2,-32.78608842655758,-32.7834443448022,FALSE
+Name is n't gone fishing .,-32.7834443448022,-196.7006660688132,bad,passive_2,711,syntax,argument_structure,trigram2,-32.78608842655758,-32.7834443448022,FALSE
+Name is n't scared .,-32.962670181705654,-164.81335090852826,good,passive_2,711,syntax,argument_structure,trigram3,-32.962670181705654,-33.03398856011895,TRUE
+Name is n't gone fishing .,-33.03398856011895,-198.20393136071368,bad,passive_2,711,syntax,argument_structure,trigram3,-32.962670181705654,-33.03398856011895,TRUE
+Name is n't scared .,-32.901758106655564,-164.50879053327782,good,passive_2,711,syntax,argument_structure,trigram4,-32.901758106655564,-32.983739160610135,TRUE
+Name is n't gone fishing .,-32.983739160610135,-197.90243496366082,bad,passive_2,711,syntax,argument_structure,trigram4,-32.901758106655564,-32.983739160610135,TRUE
+Name is n't scared .,-32.91211688396897,-164.56058441984484,good,passive_2,711,syntax,argument_structure,trigram5,-32.91211688396897,-32.8943670479414,FALSE
+Name is n't gone fishing .,-32.8943670479414,-197.3662022876484,bad,passive_2,711,syntax,argument_structure,trigram5,-32.91211688396897,-32.8943670479414,FALSE
+Name is n't scared .,-32.85355902421767,-164.26779512108834,good,passive_2,711,syntax,argument_structure,trigram6,-32.85355902421767,-32.939220877828696,TRUE
+Name is n't gone fishing .,-32.939220877828696,-197.6353252669722,bad,passive_2,711,syntax,argument_structure,trigram6,-32.85355902421767,-32.939220877828696,TRUE
+Name is n't scared .,-33.0698435816155,-165.34921790807752,good,passive_2,711,syntax,argument_structure,trigram7,-33.0698435816155,-33.12965744382718,TRUE
+Name is n't gone fishing .,-33.12965744382718,-198.77794466296305,bad,passive_2,711,syntax,argument_structure,trigram7,-33.0698435816155,-33.12965744382718,TRUE
+Name is n't scared .,-32.933520367889294,-164.66760183944646,good,passive_2,711,syntax,argument_structure,trigram8,-32.933520367889294,-33.17993094864858,TRUE
+Name is n't gone fishing .,-33.17993094864858,-199.0795856918915,bad,passive_2,711,syntax,argument_structure,trigram8,-32.933520367889294,-33.17993094864858,TRUE
+Name is n't scared .,-33.04389185337527,-165.21945926687636,good,passive_2,711,syntax,argument_structure,trigram9,-33.04389185337527,-33.109801184158606,TRUE
+Name is n't gone fishing .,-33.109801184158606,-198.65880710495162,bad,passive_2,711,syntax,argument_structure,trigram9,-33.04389185337527,-33.109801184158606,TRUE
+Name was n't scared .,-33.782910417087784,-168.9145520854389,good,passive_2,76,syntax,argument_structure,trigram1,-33.782910417087784,-32.80908650111299,FALSE
+Name was n't come here .,-32.80908650111299,-196.85451900667798,bad,passive_2,76,syntax,argument_structure,trigram1,-33.782910417087784,-32.80908650111299,FALSE
+Name was n't scared .,-33.8028239161479,-169.0141195807395,good,passive_2,76,syntax,argument_structure,trigram10,-33.8028239161479,-32.61941729645772,FALSE
+Name was n't come here .,-32.61941729645772,-195.7165037787463,bad,passive_2,76,syntax,argument_structure,trigram10,-33.8028239161479,-32.61941729645772,FALSE
+Name was n't scared .,-33.638193936602214,-168.19096968301108,good,passive_2,76,syntax,argument_structure,trigram2,-33.638193936602214,-32.46079940103881,FALSE
+Name was n't come here .,-32.46079940103881,-194.76479640623288,bad,passive_2,76,syntax,argument_structure,trigram2,-33.638193936602214,-32.46079940103881,FALSE
+Name was n't scared .,-33.926194833207944,-169.63097416603972,good,passive_2,76,syntax,argument_structure,trigram3,-33.926194833207944,-32.9410858644797,FALSE
+Name was n't come here .,-32.9410858644797,-197.64651518687822,bad,passive_2,76,syntax,argument_structure,trigram3,-33.926194833207944,-32.9410858644797,FALSE
+Name was n't scared .,-33.87665193023879,-169.38325965119395,good,passive_2,76,syntax,argument_structure,trigram4,-33.87665193023879,-32.701174745541,FALSE
+Name was n't come here .,-32.701174745541,-196.20704847324603,bad,passive_2,76,syntax,argument_structure,trigram4,-33.87665193023879,-32.701174745541,FALSE
+Name was n't scared .,-33.790580368524715,-168.9529018426236,good,passive_2,76,syntax,argument_structure,trigram5,-33.790580368524715,-32.80332004251522,FALSE
+Name was n't come here .,-32.80332004251522,-196.8199202550913,bad,passive_2,76,syntax,argument_structure,trigram5,-33.790580368524715,-32.80332004251522,FALSE
+Name was n't scared .,-33.76753014588386,-168.8376507294193,good,passive_2,76,syntax,argument_structure,trigram6,-33.76753014588386,-32.662727030801214,FALSE
+Name was n't come here .,-32.662727030801214,-195.97636218480727,bad,passive_2,76,syntax,argument_structure,trigram6,-33.76753014588386,-32.662727030801214,FALSE
+Name was n't scared .,-33.82872675488552,-169.14363377442763,good,passive_2,76,syntax,argument_structure,trigram7,-33.82872675488552,-32.802912171191615,FALSE
+Name was n't come here .,-32.802912171191615,-196.81747302714967,bad,passive_2,76,syntax,argument_structure,trigram7,-33.82872675488552,-32.802912171191615,FALSE
+Name was n't scared .,-33.81198385244504,-169.0599192622252,good,passive_2,76,syntax,argument_structure,trigram8,-33.81198385244504,-32.792942932834016,FALSE
+Name was n't come here .,-32.792942932834016,-196.7576575970041,bad,passive_2,76,syntax,argument_structure,trigram8,-33.81198385244504,-32.792942932834016,FALSE
+Name was n't scared .,-33.922355337931016,-169.61177668965507,good,passive_2,76,syntax,argument_structure,trigram9,-33.922355337931016,-32.75199428610372,FALSE
+Name was n't come here .,-32.75199428610372,-196.51196571662229,bad,passive_2,76,syntax,argument_structure,trigram9,-33.922355337931016,-32.75199428610372,FALSE
+Name is n't left .,-32.516279347025666,-162.58139673512832,good,passive_2,808,syntax,argument_structure,trigram1,-32.516279347025666,-32.8332718471699,TRUE
+Name is n't answered .,-32.8332718471699,-164.16635923584948,bad,passive_2,808,syntax,argument_structure,trigram1,-32.516279347025666,-32.8332718471699,TRUE
+Name is n't left .,-32.63624591331495,-163.18122956657476,good,passive_2,808,syntax,argument_structure,trigram10,-32.63624591331495,-32.95323841345918,TRUE
+Name is n't answered .,-32.95323841345918,-164.76619206729592,bad,passive_2,808,syntax,argument_structure,trigram10,-32.63624591331495,-32.95323841345918,TRUE
+Name is n't left .,-32.58608842655758,-162.9304421327879,good,passive_2,808,syntax,argument_structure,trigram2,-32.58608842655758,-32.78608842655758,TRUE
+Name is n't answered .,-32.78608842655758,-163.9304421327879,bad,passive_2,808,syntax,argument_structure,trigram2,-32.58608842655758,-32.78608842655758,TRUE
+Name is n't left .,-32.562670181705656,-162.81335090852826,good,passive_2,808,syntax,argument_structure,trigram3,-32.562670181705656,-32.962670181705654,TRUE
+Name is n't answered .,-32.962670181705654,-164.81335090852826,bad,passive_2,808,syntax,argument_structure,trigram3,-32.562670181705656,-32.962670181705654,TRUE
+Name is n't left .,-32.58476560651133,-162.92382803255666,good,passive_2,808,syntax,argument_structure,trigram4,-32.58476560651133,-32.901758106655564,TRUE
+Name is n't answered .,-32.901758106655564,-164.50879053327782,bad,passive_2,808,syntax,argument_structure,trigram4,-32.58476560651133,-32.901758106655564,TRUE
+Name is n't left .,-32.51211688396897,-162.56058441984484,good,passive_2,808,syntax,argument_structure,trigram5,-32.51211688396897,-32.91211688396897,TRUE
+Name is n't answered .,-32.91211688396897,-164.56058441984484,bad,passive_2,808,syntax,argument_structure,trigram5,-32.51211688396897,-32.91211688396897,TRUE
+Name is n't left .,-32.53656652407344,-162.6828326203672,good,passive_2,808,syntax,argument_structure,trigram6,-32.53656652407344,-32.85355902421767,TRUE
+Name is n't answered .,-32.85355902421767,-164.26779512108834,bad,passive_2,808,syntax,argument_structure,trigram6,-32.53656652407344,-32.85355902421767,TRUE
+Name is n't left .,-32.869843581615505,-164.34921790807752,good,passive_2,808,syntax,argument_structure,trigram7,-32.869843581615505,-33.0698435816155,TRUE
+Name is n't answered .,-33.0698435816155,-165.34921790807752,bad,passive_2,808,syntax,argument_structure,trigram7,-32.869843581615505,-33.0698435816155,TRUE
+Name is n't left .,-32.533520367889295,-162.66760183944646,good,passive_2,808,syntax,argument_structure,trigram8,-32.533520367889295,-32.933520367889294,TRUE
+Name is n't answered .,-32.933520367889294,-164.66760183944646,bad,passive_2,808,syntax,argument_structure,trigram8,-32.533520367889295,-32.933520367889294,TRUE
+Name is n't left .,-32.84389185337527,-164.21945926687636,good,passive_2,808,syntax,argument_structure,trigram9,-32.84389185337527,-33.04389185337527,TRUE
+Name is n't answered .,-33.04389185337527,-165.21945926687636,bad,passive_2,808,syntax,argument_structure,trigram9,-32.84389185337527,-33.04389185337527,TRUE
+Name is scared .,-33.026344228412256,-132.10537691364902,good,passive_2,94,syntax,argument_structure,trigram1,-33.026344228412256,-32.66367246585891,FALSE
+Name is gone fishing .,-32.66367246585891,-163.31836232929453,bad,passive_2,94,syntax,argument_structure,trigram1,-33.026344228412256,-32.66367246585891,FALSE
+Name is scared .,-33.090842037787006,-132.36336815114802,good,passive_2,94,syntax,argument_structure,trigram10,-33.090842037787006,-32.63624591331495,FALSE
+Name is gone fishing .,-32.63624591331495,-163.18122956657476,bad,passive_2,94,syntax,argument_structure,trigram10,-33.090842037787006,-32.63624591331495,FALSE
+Name is scared .,-32.9742959477322,-131.8971837909288,good,passive_2,94,syntax,argument_structure,trigram2,-32.9742959477322,-32.53348154539082,FALSE
+Name is gone fishing .,-32.53348154539082,-162.6674077269541,bad,passive_2,94,syntax,argument_structure,trigram2,-32.9742959477322,-32.53348154539082,FALSE
+Name is scared .,-33.001933239266,-132.007732957064,good,passive_2,94,syntax,argument_structure,trigram3,-33.001933239266,-32.679662681849884,FALSE
+Name is gone fishing .,-32.679662681849884,-163.39831340924943,bad,passive_2,94,syntax,argument_structure,trigram3,-33.001933239266,-32.679662681849884,FALSE
+Name is scared .,-33.028786525723696,-132.11514610289478,good,passive_2,94,syntax,argument_structure,trigram4,-33.028786525723696,-32.901758106655564,FALSE
+Name is gone fishing .,-32.901758106655564,-164.50879053327782,bad,passive_2,94,syntax,argument_structure,trigram4,-33.028786525723696,-32.901758106655564,FALSE
+Name is scared .,-33.04250101283003,-132.17000405132012,good,passive_2,94,syntax,argument_structure,trigram5,-33.04250101283003,-32.795124383824735,FALSE
+Name is gone fishing .,-32.795124383824735,-163.97562191912368,bad,passive_2,94,syntax,argument_structure,trigram5,-33.04250101283003,-32.795124383824735,FALSE
+Name is scared .,-33.055548267522965,-132.22219307009186,good,passive_2,94,syntax,argument_structure,trigram6,-33.055548267522965,-32.800952143050914,FALSE
+Name is gone fishing .,-32.800952143050914,-164.00476071525458,bad,passive_2,94,syntax,argument_structure,trigram6,-33.055548267522965,-32.800952143050914,FALSE
+Name is scared .,-33.12636341347829,-132.50545365391315,good,passive_2,94,syntax,argument_structure,trigram7,-33.12636341347829,-32.98683608175973,FALSE
+Name is gone fishing .,-32.98683608175973,-164.93418040879868,bad,passive_2,94,syntax,argument_structure,trigram7,-33.12636341347829,-32.98683608175973,FALSE
+Name is scared .,-33.063904496750354,-132.25561798700141,good,passive_2,94,syntax,argument_structure,trigram8,-33.063904496750354,-33.01652786774506,FALSE
+Name is gone fishing .,-33.01652786774506,-165.0826393387253,bad,passive_2,94,syntax,argument_structure,trigram8,-33.063904496750354,-33.01652786774506,FALSE
+Name is scared .,-33.09126848238056,-132.36507392952223,good,passive_2,94,syntax,argument_structure,trigram9,-33.09126848238056,-32.7608843535195,FALSE
+Name is gone fishing .,-32.7608843535195,-163.8044217675975,bad,passive_2,94,syntax,argument_structure,trigram9,-33.09126848238056,-32.7608843535195,FALSE

@@ -1,0 +1,401 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+what was Name bringing a popsicle while bringing *T* ?,-18.929605925204168,-208.22566517724584,bad,adjunct_island,120,syntax,island_effects,bigram1,-19.91318599710095,-18.929605925204168,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-19.91318599710095,-219.04504596811046,good,adjunct_island,120,syntax,island_effects,bigram1,-19.91318599710095,-18.929605925204168,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-18.77009158531417,-206.47100743845584,bad,adjunct_island,120,syntax,island_effects,bigram10,-19.768675081568816,-18.77009158531417,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-19.768675081568816,-217.455425897257,good,adjunct_island,120,syntax,island_effects,bigram10,-19.768675081568816,-18.77009158531417,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-18.7555277514108,-206.31080526551875,bad,adjunct_island,120,syntax,island_effects,bigram2,-19.769602124960983,-18.7555277514108,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-19.769602124960983,-217.46562337457084,good,adjunct_island,120,syntax,island_effects,bigram2,-19.769602124960983,-18.7555277514108,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-18.880316867395564,-207.68348554135122,bad,adjunct_island,120,syntax,island_effects,bigram3,-19.88868926875837,-18.880316867395564,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-19.88868926875837,-218.77558195634202,good,adjunct_island,120,syntax,island_effects,bigram3,-19.88868926875837,-18.880316867395564,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-18.90823127718608,-207.99054404904683,bad,adjunct_island,120,syntax,island_effects,bigram4,-19.90816722146093,-18.90823127718608,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-19.90816722146093,-218.98983943607024,good,adjunct_island,120,syntax,island_effects,bigram4,-19.90816722146093,-18.90823127718608,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-18.806328946798278,-206.86961841478103,bad,adjunct_island,120,syntax,island_effects,bigram5,-19.811231299664737,-18.806328946798278,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-19.811231299664737,-217.92354429631212,good,adjunct_island,120,syntax,island_effects,bigram5,-19.811231299664737,-18.806328946798278,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-18.85976078086352,-207.4573685894987,bad,adjunct_island,120,syntax,island_effects,bigram6,-19.866865399748487,-18.85976078086352,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-19.866865399748487,-218.53551939723337,good,adjunct_island,120,syntax,island_effects,bigram6,-19.866865399748487,-18.85976078086352,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-19.06005518923028,-209.66060708153304,bad,adjunct_island,120,syntax,island_effects,bigram7,-20.06932570477112,-19.06005518923028,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-20.06932570477112,-220.76258275248227,good,adjunct_island,120,syntax,island_effects,bigram7,-20.06932570477112,-19.06005518923028,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-18.883334757227946,-207.71668232950736,bad,adjunct_island,120,syntax,island_effects,bigram8,-19.897639024079112,-18.883334757227946,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-19.897639024079112,-218.87402926487022,good,adjunct_island,120,syntax,island_effects,bigram8,-19.897639024079112,-18.883334757227946,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-19.004042723849143,-209.0444699623406,bad,adjunct_island,120,syntax,island_effects,bigram9,-19.993997629613823,-19.004042723849143,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-19.993997629613823,-219.93397392575207,good,adjunct_island,120,syntax,island_effects,bigram9,-19.993997629613823,-19.004042723849143,FALSE
+what has Name broken every carriage without breaking *T* ?,-19.563904100067795,-215.20294510074575,bad,adjunct_island,131,syntax,island_effects,bigram1,-20.403396671899017,-19.563904100067795,FALSE
+what has Name broken *T* without breaking every carriage ?,-20.403396671899017,-224.43736339088917,good,adjunct_island,131,syntax,island_effects,bigram1,-20.403396671899017,-19.563904100067795,FALSE
+what has Name broken every carriage without breaking *T* ?,-19.44822173246301,-213.93043905709314,bad,adjunct_island,131,syntax,island_effects,bigram10,-20.3027177286521,-19.44822173246301,FALSE
+what has Name broken *T* without breaking every carriage ?,-20.3027177286521,-223.32989501517312,good,adjunct_island,131,syntax,island_effects,bigram10,-20.3027177286521,-19.44822173246301,FALSE
+what has Name broken every carriage without breaking *T* ?,-19.47433598737521,-214.21769586112728,bad,adjunct_island,131,syntax,island_effects,bigram2,-20.306592179107216,-19.47433598737521,FALSE
+what has Name broken *T* without breaking every carriage ?,-20.306592179107216,-223.37251397017937,good,adjunct_island,131,syntax,island_effects,bigram2,-20.306592179107216,-19.47433598737521,FALSE
+what has Name broken every carriage without breaking *T* ?,-19.514615042259194,-214.66076546485112,bad,adjunct_island,131,syntax,island_effects,bigram3,-20.432078352712903,-19.514615042259194,FALSE
+what has Name broken *T* without breaking every carriage ?,-20.432078352712903,-224.75286187984193,good,adjunct_island,131,syntax,island_effects,bigram3,-20.432078352712903,-19.514615042259194,FALSE
+what has Name broken every carriage without breaking *T* ?,-19.356049406145733,-212.91654346760305,bad,adjunct_island,131,syntax,island_effects,bigram4,-20.265076259511492,-19.356049406145733,FALSE
+what has Name broken *T* without breaking every carriage ?,-20.265076259511492,-222.91583885462646,good,adjunct_island,131,syntax,island_effects,bigram4,-20.265076259511492,-19.356049406145733,FALSE
+what has Name broken every carriage without breaking *T* ?,-19.307325484914404,-212.38058033405844,bad,adjunct_island,131,syntax,island_effects,bigram5,-20.130409655962684,-19.307325484914404,FALSE
+what has Name broken *T* without breaking every carriage ?,-20.130409655962684,-221.43450621558952,good,adjunct_island,131,syntax,island_effects,bigram5,-20.130409655962684,-19.307325484914404,FALSE
+what has Name broken every carriage without breaking *T* ?,-19.46570040969853,-214.12270450668385,bad,adjunct_island,131,syntax,island_effects,bigram6,-20.32871752851794,-19.46570040969853,FALSE
+what has Name broken *T* without breaking every carriage ?,-20.32871752851794,-223.61589281369734,good,adjunct_island,131,syntax,island_effects,bigram6,-20.32871752851794,-19.46570040969853,FALSE
+what has Name broken every carriage without breaking *T* ?,-19.67654243591433,-216.44196679505768,bad,adjunct_island,131,syntax,island_effects,bigram7,-20.450816360480527,-19.67654243591433,FALSE
+what has Name broken *T* without breaking every carriage ?,-20.450816360480527,-224.95897996528578,good,adjunct_island,131,syntax,island_effects,bigram7,-20.450816360480527,-19.67654243591433,FALSE
+what has Name broken every carriage without breaking *T* ?,-19.399864215407373,-213.39850636948108,bad,adjunct_island,131,syntax,island_effects,bigram8,-20.21690257303651,-19.399864215407373,FALSE
+what has Name broken *T* without breaking every carriage ?,-20.21690257303651,-222.3859283034016,good,adjunct_island,131,syntax,island_effects,bigram8,-20.21690257303651,-19.399864215407373,FALSE
+what has Name broken every carriage without breaking *T* ?,-19.574317132431545,-215.31748845674701,bad,adjunct_island,131,syntax,island_effects,bigram9,-20.564272038196226,-19.574317132431545,FALSE
+what has Name broken *T* without breaking every carriage ?,-20.564272038196226,-226.20699242015849,good,adjunct_island,131,syntax,island_effects,bigram9,-20.564272038196226,-19.574317132431545,FALSE
+what will Name fix the bike without fixing *T* ?,-19.20584960412817,-211.2643456454099,bad,adjunct_island,197,syntax,island_effects,bigram1,-20.00761149420677,-19.20584960412817,FALSE
+what will Name fix *T* without fixing the bike ?,-20.00761149420677,-220.0837264362745,good,adjunct_island,197,syntax,island_effects,bigram1,-20.00761149420677,-19.20584960412817,FALSE
+what will Name fix the bike without fixing *T* ?,-19.13372794895053,-210.4710074384558,bad,adjunct_island,197,syntax,island_effects,bigram10,-19.98822394513962,-19.13372794895053,FALSE
+what will Name fix *T* without fixing the bike ?,-19.98822394513962,-219.8704633965358,good,adjunct_island,197,syntax,island_effects,bigram10,-19.98822394513962,-19.13372794895053,FALSE
+what will Name fix the bike without fixing *T* ?,-19.072968941986225,-209.80265836184844,bad,adjunct_island,197,syntax,island_effects,bigram2,-19.91368962502655,-19.072968941986225,FALSE
+what will Name fix *T* without fixing the bike ?,-19.91368962502655,-219.05058587529203,good,adjunct_island,197,syntax,island_effects,bigram2,-19.91368962502655,-19.072968941986225,FALSE
+what will Name fix the bike without fixing *T* ?,-19.15304414012284,-210.68348554135122,bad,adjunct_island,197,syntax,island_effects,bigram3,-19.85942307831406,-19.15304414012284,FALSE
+what will Name fix *T* without fixing the bike ?,-19.85942307831406,-218.45365386145465,good,adjunct_island,197,syntax,island_effects,bigram3,-19.85942307831406,-19.15304414012284,FALSE
+what will Name fix the bike without fixing *T* ?,-19.07796816168632,-209.8576497785495,bad,adjunct_island,197,syntax,island_effects,bigram4,-19.92535211458729,-19.07796816168632,FALSE
+what will Name fix *T* without fixing the bike ?,-19.92535211458729,-219.17887326046025,good,adjunct_island,197,syntax,island_effects,bigram4,-19.92535211458729,-19.07796816168632,FALSE
+what will Name fix the bike without fixing *T* ?,-19.14302049200008,-210.57322541200082,bad,adjunct_island,197,syntax,island_effects,bigram5,-19.93683847260405,-19.14302049200008,FALSE
+what will Name fix *T* without fixing the bike ?,-19.93683847260405,-219.3052231986446,good,adjunct_island,197,syntax,island_effects,bigram5,-19.93683847260405,-19.14302049200008,FALSE
+what will Name fix the bike without fixing *T* ?,-19.14537659551153,-210.59914255062685,bad,adjunct_island,197,syntax,island_effects,bigram6,-20.00839371433094,-19.14537659551153,FALSE
+what will Name fix *T* without fixing the bike ?,-20.00839371433094,-220.09233085764035,good,adjunct_island,197,syntax,island_effects,bigram6,-20.00839371433094,-19.14537659551153,FALSE
+what will Name fix the bike without fixing *T* ?,-19.15706557067196,-210.72772127739154,bad,adjunct_island,197,syntax,island_effects,bigram7,-20.10469318574801,-19.15706557067196,FALSE
+what will Name fix *T* without fixing the bike ?,-20.10469318574801,-221.15162504322814,good,adjunct_island,197,syntax,island_effects,bigram7,-20.10469318574801,-19.15706557067196,FALSE
+what will Name fix the bike without fixing *T* ?,-19.100818159298736,-210.1089997522861,bad,adjunct_island,197,syntax,island_effects,bigram8,-19.880125835175253,-19.100818159298736,FALSE
+what will Name fix *T* without fixing the bike ?,-19.880125835175253,-218.6813841869278,good,adjunct_island,197,syntax,island_effects,bigram8,-19.880125835175253,-19.100818159298736,FALSE
+what will Name fix the bike without fixing *T* ?,-19.18141457835088,-210.99556036185967,bad,adjunct_island,197,syntax,island_effects,bigram9,-20.02728198405,-19.18141457835088,FALSE
+what will Name fix *T* without fixing the bike ?,-20.02728198405,-220.30010182454998,good,adjunct_island,197,syntax,island_effects,bigram9,-20.02728198405,-19.18141457835088,FALSE
+who had Name found Name without talking about *T* ?,-19.556115937520516,-215.11727531272564,bad,adjunct_island,221,syntax,island_effects,bigram1,-19.32532312692267,-19.556115937520516,TRUE
+who had Name found *T* without talking about Name ?,-19.32532312692267,-212.57855439614934,good,adjunct_island,221,syntax,island_effects,bigram1,-19.32532312692267,-19.556115937520516,TRUE
+who had Name found Name without talking about *T* ?,-19.37361204728431,-213.1097325201274,bad,adjunct_island,221,syntax,island_effects,bigram10,-19.25828755204111,-19.37361204728431,TRUE
+who had Name found *T* without talking about Name ?,-19.25828755204111,-211.84116307245222,good,adjunct_island,221,syntax,island_effects,bigram10,-19.25828755204111,-19.37361204728431,TRUE
+who had Name found Name without talking about *T* ?,-19.38006166462643,-213.18067831089076,bad,adjunct_island,221,syntax,island_effects,bigram2,-19.257907235757475,-19.38006166462643,TRUE
+who had Name found *T* without talking about Name ?,-19.257907235757475,-211.83697959333222,good,adjunct_island,221,syntax,island_effects,bigram2,-19.257907235757475,-19.38006166462643,TRUE
+who had Name found Name without talking about *T* ?,-19.44077404674547,-213.84851451420016,bad,adjunct_island,221,syntax,island_effects,bigram3,-19.26217938309798,-19.44077404674547,TRUE
+who had Name found *T* without talking about Name ?,-19.26217938309798,-211.88397321407777,good,adjunct_island,221,syntax,island_effects,bigram3,-19.26217938309798,-19.44077404674547,TRUE
+who had Name found Name without talking about *T* ?,-19.391356461369604,-213.30492107506564,bad,adjunct_island,221,syntax,island_effects,bigram4,-19.37695280633224,-19.391356461369604,TRUE
+who had Name found *T* without talking about Name ?,-19.37695280633224,-213.14648086965462,good,adjunct_island,221,syntax,island_effects,bigram4,-19.37695280633224,-19.391356461369604,TRUE
+who had Name found Name without talking about *T* ?,-19.32567766699527,-212.58245433694796,bad,adjunct_island,221,syntax,island_effects,bigram5,-19.26014042919077,-19.32567766699527,TRUE
+who had Name found *T* without talking about Name ?,-19.26014042919077,-211.86154472109848,good,adjunct_island,221,syntax,island_effects,bigram5,-19.26014042919077,-19.32567766699527,TRUE
+who had Name found Name without talking about *T* ?,-19.31184294246765,-212.4302723671441,bad,adjunct_island,221,syntax,island_effects,bigram6,-19.3457419157528,-19.31184294246765,FALSE
+who had Name found *T* without talking about Name ?,-19.3457419157528,-212.80316107328082,good,adjunct_island,221,syntax,island_effects,bigram6,-19.3457419157528,-19.31184294246765,FALSE
+who had Name found Name without talking about *T* ?,-19.488464937908763,-214.3731143169964,bad,adjunct_island,221,syntax,island_effects,bigram7,-19.357007106389418,-19.488464937908763,TRUE
+who had Name found *T* without talking about Name ?,-19.357007106389418,-212.9270781702836,good,adjunct_island,221,syntax,island_effects,bigram7,-19.357007106389418,-19.488464937908763,TRUE
+who had Name found Name without talking about *T* ?,-19.35411403904898,-212.89525442953877,bad,adjunct_island,221,syntax,island_effects,bigram8,-19.25128798346441,-19.35411403904898,TRUE
+who had Name found *T* without talking about Name ?,-19.25128798346441,-211.76416781810852,good,adjunct_island,221,syntax,island_effects,bigram8,-19.25128798346441,-19.35411403904898,TRUE
+who had Name found Name without talking about *T* ?,-19.39078284710503,-213.2986113181553,bad,adjunct_island,221,syntax,island_effects,bigram9,-19.307161817761905,-19.39078284710503,TRUE
+who had Name found *T* without talking about Name ?,-19.307161817761905,-212.37877999538094,good,adjunct_island,221,syntax,island_effects,bigram9,-19.307161817761905,-19.39078284710503,TRUE
+what does Name buy the windows without bringing *T* ?,-18.666598216469307,-205.33258038116236,bad,adjunct_island,286,syntax,island_effects,bigram1,-19.596999879209616,-18.666598216469307,FALSE
+what does Name buy *T* without bringing the windows ?,-19.596999879209616,-215.56699867130578,good,adjunct_island,286,syntax,island_effects,bigram1,-19.596999879209616,-18.666598216469307,FALSE
+what does Name buy the windows without bringing *T* ?,-18.607501049422687,-204.68251154364955,bad,adjunct_island,286,syntax,island_effects,bigram10,-19.515175454768244,-18.607501049422687,FALSE
+what does Name buy *T* without bringing the windows ?,-19.515175454768244,-214.6669300024507,good,adjunct_island,286,syntax,island_effects,bigram10,-19.515175454768244,-18.607501049422687,FALSE
+what does Name buy the windows without bringing *T* ?,-18.5643091709454,-204.2074008803994,bad,adjunct_island,286,syntax,island_effects,bigram2,-19.414078551581262,-18.5643091709454,FALSE
+what does Name buy *T* without bringing the windows ?,-19.414078551581262,-213.55486406739388,good,adjunct_island,286,syntax,island_effects,bigram2,-19.414078551581262,-18.5643091709454,FALSE
+what does Name buy the windows without bringing *T* ?,-18.626447965565607,-204.8909276212217,bad,adjunct_island,286,syntax,island_effects,bigram3,-19.6055541764841,-18.626447965565607,FALSE
+what does Name buy *T* without bringing the windows ?,-19.6055541764841,-215.66109594132513,good,adjunct_island,286,syntax,island_effects,bigram3,-19.6055541764841,-18.626447965565607,FALSE
+what does Name buy the windows without bringing *T* ?,-18.68782238368354,-205.56604622051893,bad,adjunct_island,286,syntax,island_effects,bigram4,-19.63457991880193,-18.68782238368354,FALSE
+what does Name buy *T* without bringing the windows ?,-19.63457991880193,-215.98037910682118,good,adjunct_island,286,syntax,island_effects,bigram4,-19.63457991880193,-18.68782238368354,FALSE
+what does Name buy the windows without bringing *T* ?,-18.68754155241336,-205.56295707654698,bad,adjunct_island,286,syntax,island_effects,bigram5,-19.43722982145641,-18.68754155241336,FALSE
+what does Name buy *T* without bringing the windows ?,-19.43722982145641,-213.80952803602048,good,adjunct_island,286,syntax,island_effects,bigram5,-19.43722982145641,-18.68754155241336,FALSE
+what does Name buy the windows without bringing *T* ?,-18.5658962773344,-204.22485905067836,bad,adjunct_island,286,syntax,island_effects,bigram6,-19.428913396153803,-18.5658962773344,FALSE
+what does Name buy *T* without bringing the windows ?,-19.428913396153803,-213.71804735769183,good,adjunct_island,286,syntax,island_effects,bigram6,-19.428913396153803,-18.5658962773344,FALSE
+what does Name buy the windows without bringing *T* ?,-18.665788596548246,-205.3236745620307,bad,adjunct_island,286,syntax,island_effects,bigram7,-19.510754119174752,-18.665788596548246,FALSE
+what does Name buy *T* without bringing the windows ?,-19.510754119174752,-214.6182953109223,good,adjunct_island,286,syntax,island_effects,bigram7,-19.510754119174752,-18.665788596548246,FALSE
+what does Name buy the windows without bringing *T* ?,-18.67702015041037,-205.44722165451412,bad,adjunct_island,286,syntax,island_effects,bigram8,-19.50950623544336,-18.67702015041037,FALSE
+what does Name buy *T* without bringing the windows ?,-19.50950623544336,-214.60456858987698,good,adjunct_island,286,syntax,island_effects,bigram8,-19.50950623544336,-18.67702015041037,FALSE
+what does Name buy the windows without bringing *T* ?,-18.59614547941138,-204.5576002735252,bad,adjunct_island,286,syntax,island_effects,bigram9,-19.610012603888222,-18.59614547941138,FALSE
+what does Name buy *T* without bringing the windows ?,-19.610012603888222,-215.71013864277046,good,adjunct_island,286,syntax,island_effects,bigram9,-19.610012603888222,-18.59614547941138,FALSE
+what should Name examine this play without talking about *T* ?,-19.466980455433383,-233.6037654652006,bad,adjunct_island,340,syntax,island_effects,bigram1,-20.220461556450143,-19.466980455433383,FALSE
+what should Name examine *T* without talking about this play ?,-20.220461556450143,-242.6455386774017,good,adjunct_island,340,syntax,island_effects,bigram1,-20.220461556450143,-19.466980455433383,FALSE
+what should Name examine this play without talking about *T* ?,-19.359540801178056,-232.31448961413668,bad,adjunct_island,340,syntax,island_effects,bigram10,-20.00482499778617,-19.359540801178056,FALSE
+what should Name examine *T* without talking about this play ?,-20.00482499778617,-240.05789997343402,good,adjunct_island,340,syntax,island_effects,bigram10,-20.00482499778617,-19.359540801178056,FALSE
+what should Name examine this play without talking about *T* ?,-19.19487462349979,-230.33849548199748,bad,adjunct_island,340,syntax,island_effects,bigram2,-20.004659023228523,-19.19487462349979,FALSE
+what should Name examine *T* without talking about this play ?,-20.004659023228523,-240.05590827874227,good,adjunct_island,340,syntax,island_effects,bigram2,-20.004659023228523,-19.19487462349979,FALSE
+what should Name examine this play without talking about *T* ?,-19.362077994178065,-232.34493593013676,bad,adjunct_island,340,syntax,island_effects,bigram3,-19.99658208736024,-19.362077994178065,FALSE
+what should Name examine *T* without talking about this play ?,-19.99658208736024,-239.95898504832292,good,adjunct_island,340,syntax,island_effects,bigram3,-19.99658208736024,-19.362077994178065,FALSE
+what should Name examine this play without talking about *T* ?,-19.408790549149668,-232.90548658979603,bad,adjunct_island,340,syntax,island_effects,bigram4,-20.101075356015148,-19.408790549149668,FALSE
+what should Name examine *T* without talking about this play ?,-20.101075356015148,-241.21290427218176,good,adjunct_island,340,syntax,island_effects,bigram4,-20.101075356015148,-19.408790549149668,FALSE
+what should Name examine this play without talking about *T* ?,-19.120854396870733,-229.4502527624488,bad,adjunct_island,340,syntax,island_effects,bigram5,-19.94218660553067,-19.120854396870733,FALSE
+what should Name examine *T* without talking about this play ?,-19.94218660553067,-239.306239266368,good,adjunct_island,340,syntax,island_effects,bigram5,-19.94218660553067,-19.120854396870733,FALSE
+what should Name examine this play without talking about *T* ?,-19.203643554282745,-230.44372265139296,bad,adjunct_island,340,syntax,island_effects,bigram6,-20.035194815464727,-19.203643554282745,FALSE
+what should Name examine *T* without talking about this play ?,-20.035194815464727,-240.42233778557673,good,adjunct_island,340,syntax,island_effects,bigram6,-20.035194815464727,-19.203643554282745,FALSE
+what should Name examine this play without talking about *T* ?,-19.364428531099477,-232.37314237319367,bad,adjunct_island,340,syntax,island_effects,bigram7,-20.01059956172688,-19.364428531099477,FALSE
+what should Name examine *T* without talking about this play ?,-20.01059956172688,-240.1271947407226,good,adjunct_island,340,syntax,island_effects,bigram7,-20.01059956172688,-19.364428531099477,FALSE
+what should Name examine this play without talking about *T* ?,-19.28028747156743,-231.36344965880917,bad,adjunct_island,340,syntax,island_effects,bigram8,-20.112572632727478,-19.28028747156743,FALSE
+what should Name examine *T* without talking about this play ?,-20.112572632727478,-241.3508715927297,good,adjunct_island,340,syntax,island_effects,bigram8,-20.112572632727478,-19.28028747156743,FALSE
+what should Name examine this play without talking about *T* ?,-19.18982476639108,-230.27789719669298,bad,adjunct_island,340,syntax,island_effects,bigram9,-19.899252106766223,-19.18982476639108,FALSE
+what should Name examine *T* without talking about this play ?,-19.899252106766223,-238.7910252811947,good,adjunct_island,340,syntax,island_effects,bigram9,-19.899252106766223,-19.18982476639108,FALSE
+who does Name find *T* while thinking about Name ?,-18.978825760510865,-208.7670833656195,good,adjunct_island,406,syntax,island_effects,bigram1,-18.978825760510865,-19.10489101715916,TRUE
+who does Name find Name while thinking about *T* ?,-19.10489101715916,-210.15380118875072,bad,adjunct_island,406,syntax,island_effects,bigram1,-18.978825760510865,-19.10489101715916,TRUE
+who does Name find *T* while thinking about Name ?,-19.06674980623052,-209.7342478685357,good,adjunct_island,406,syntax,island_effects,bigram10,-19.06674980623052,-19.255470203478957,TRUE
+who does Name find Name while thinking about *T* ?,-19.255470203478957,-211.8101722382685,bad,adjunct_island,406,syntax,island_effects,bigram10,-19.06674980623052,-19.255470203478957,TRUE
+who does Name find *T* while thinking about Name ?,-18.7280395499494,-206.0084350494434,good,adjunct_island,406,syntax,island_effects,bigram2,-18.7280395499494,-18.884604126386886,TRUE
+who does Name find Name while thinking about *T* ?,-18.884604126386886,-207.73064539025575,bad,adjunct_island,406,syntax,island_effects,bigram2,-18.7280395499494,-18.884604126386886,TRUE
+who does Name find *T* while thinking about Name ?,-18.88919658259036,-207.78116240849397,good,adjunct_island,406,syntax,island_effects,bigram3,-18.88919658259036,-19.050278057334,TRUE
+who does Name find Name while thinking about *T* ?,-19.050278057334,-209.55305863067397,bad,adjunct_island,406,syntax,island_effects,bigram3,-18.88919658259036,-19.050278057334,TRUE
+who does Name find *T* while thinking about Name ?,-19.09040707056451,-209.9944777762096,good,adjunct_island,406,syntax,island_effects,bigram4,-19.09040707056451,-19.08089850688971,FALSE
+who does Name find Name while thinking about *T* ?,-19.08089850688971,-209.8898835757868,bad,adjunct_island,406,syntax,island_effects,bigram4,-19.09040707056451,-19.08089850688971,FALSE
+who does Name find *T* while thinking about Name ?,-18.920820457451224,-208.12902503196347,good,adjunct_island,406,syntax,island_effects,bigram5,-18.920820457451224,-18.9193608230588,FALSE
+who does Name find Name while thinking about *T* ?,-18.9193608230588,-208.11296905364674,bad,adjunct_island,406,syntax,island_effects,bigram5,-18.920820457451224,-18.9193608230588,FALSE
+who does Name find *T* while thinking about Name ?,-19.024605999313987,-209.27066599245384,good,adjunct_island,406,syntax,island_effects,bigram6,-19.024605999313987,-19.097063844341765,TRUE
+who does Name find Name while thinking about *T* ?,-19.097063844341765,-210.0677022877594,bad,adjunct_island,406,syntax,island_effects,bigram6,-19.024605999313987,-19.097063844341765,TRUE
+who does Name find *T* while thinking about Name ?,-18.92670216633362,-208.1937238296698,good,adjunct_island,406,syntax,island_effects,bigram7,-18.92670216633362,-19.10228970941389,TRUE
+who does Name find Name while thinking about *T* ?,-19.10228970941389,-210.12518680355282,bad,adjunct_island,406,syntax,island_effects,bigram7,-18.92670216633362,-19.10228970941389,TRUE
+who does Name find *T* while thinking about Name ?,-19.01629139248976,-209.17920531738733,good,adjunct_island,406,syntax,island_effects,bigram8,-19.01629139248976,-19.14302966678649,TRUE
+who does Name find Name while thinking about *T* ?,-19.14302966678649,-210.5733263346514,bad,adjunct_island,406,syntax,island_effects,bigram8,-19.01629139248976,-19.14302966678649,TRUE
+who does Name find *T* while thinking about Name ?,-19.16417184790549,-210.8058903269604,good,adjunct_island,406,syntax,island_effects,bigram9,-19.16417184790549,-19.139370597435665,FALSE
+who does Name find Name while thinking about *T* ?,-19.139370597435665,-210.53307657179232,bad,adjunct_island,406,syntax,island_effects,bigram9,-19.16417184790549,-19.139370597435665,FALSE
+what did Name have apples after taking *T* ?,-18.02848244340008,-180.28482443400077,bad,adjunct_island,451,syntax,island_effects,bigram1,-18.36123521285357,-18.02848244340008,FALSE
+what did Name have *T* after taking apples ?,-18.36123521285357,-183.6123521285357,good,adjunct_island,451,syntax,island_effects,bigram1,-18.36123521285357,-18.02848244340008,FALSE
+what did Name have apples after taking *T* ?,-17.952026855216,-179.52026855216002,bad,adjunct_island,451,syntax,island_effects,bigram10,-18.31123695881824,-17.952026855216,FALSE
+what did Name have *T* after taking apples ?,-18.31123695881824,-183.11236958818242,good,adjunct_island,451,syntax,island_effects,bigram10,-18.31123695881824,-17.952026855216,FALSE
+what did Name have apples after taking *T* ?,-17.918805800663424,-179.18805800663424,bad,adjunct_island,451,syntax,island_effects,bigram2,-18.29678366843394,-17.918805800663424,FALSE
+what did Name have *T* after taking apples ?,-18.29678366843394,-182.9678366843394,good,adjunct_island,451,syntax,island_effects,bigram2,-18.29678366843394,-17.918805800663424,FALSE
+what did Name have apples after taking *T* ?,-18.026169215346112,-180.26169215346113,bad,adjunct_island,451,syntax,island_effects,bigram3,-18.499623656383385,-18.026169215346112,FALSE
+what did Name have *T* after taking apples ?,-18.499623656383385,-184.99623656383383,good,adjunct_island,451,syntax,island_effects,bigram3,-18.499623656383385,-18.026169215346112,FALSE
+what did Name have apples after taking *T* ?,-18.07410898835333,-180.7410898835333,bad,adjunct_island,451,syntax,island_effects,bigram4,-18.423259063035804,-18.07410898835333,FALSE
+what did Name have *T* after taking apples ?,-18.423259063035804,-184.23259063035803,good,adjunct_island,451,syntax,island_effects,bigram4,-18.423259063035804,-18.07410898835333,FALSE
+what did Name have apples after taking *T* ?,-17.998488109601674,-179.98488109601675,bad,adjunct_island,451,syntax,island_effects,bigram5,-18.36989569746632,-17.998488109601674,FALSE
+what did Name have *T* after taking apples ?,-18.36989569746632,-183.6989569746632,good,adjunct_island,451,syntax,island_effects,bigram5,-18.36989569746632,-17.998488109601674,FALSE
+what did Name have apples after taking *T* ?,-17.97178434980299,-179.7178434980299,bad,adjunct_island,451,syntax,island_effects,bigram6,-18.345614430288,-17.97178434980299,FALSE
+what did Name have *T* after taking apples ?,-18.345614430288,-183.45614430287998,good,adjunct_island,451,syntax,island_effects,bigram6,-18.345614430288,-17.97178434980299,FALSE
+what did Name have apples after taking *T* ?,-17.890498980797673,-178.90498980797673,bad,adjunct_island,451,syntax,island_effects,bigram7,-18.270318473074884,-17.890498980797673,FALSE
+what did Name have *T* after taking apples ?,-18.270318473074884,-182.70318473074883,good,adjunct_island,451,syntax,island_effects,bigram7,-18.270318473074884,-17.890498980797673,FALSE
+what did Name have apples after taking *T* ?,-18.024538637415446,-180.24538637415446,bad,adjunct_island,451,syntax,island_effects,bigram8,-18.41548057960737,-18.024538637415446,FALSE
+what did Name have *T* after taking apples ?,-18.41548057960737,-184.15480579607373,good,adjunct_island,451,syntax,island_effects,bigram8,-18.41548057960737,-18.024538637415446,FALSE
+what did Name have apples after taking *T* ?,-18.04788052368829,-180.4788052368829,bad,adjunct_island,451,syntax,island_effects,bigram9,-18.402845919740976,-18.04788052368829,FALSE
+what did Name have *T* after taking apples ?,-18.402845919740976,-184.02845919740975,good,adjunct_island,451,syntax,island_effects,bigram9,-18.402845919740976,-18.04788052368829,FALSE
+what would this muffin look like *T* while looking like every print ?,-20.079975448144715,-281.119656274026,good,adjunct_island,458,syntax,island_effects,bigram1,-20.079975448144715,-19.378591105940096,FALSE
+what would this muffin look like every print while looking like *T* ?,-19.378591105940096,-271.30027548316133,bad,adjunct_island,458,syntax,island_effects,bigram1,-20.079975448144715,-19.378591105940096,FALSE
+what would this muffin look like *T* while looking like every print ?,-20.075516982393143,-281.057237753504,good,adjunct_island,458,syntax,island_effects,bigram10,-20.075516982393143,-19.29091566390735,FALSE
+what would this muffin look like every print while looking like *T* ?,-19.29091566390735,-270.07281929470287,bad,adjunct_island,458,syntax,island_effects,bigram10,-20.075516982393143,-19.29091566390735,FALSE
+what would this muffin look like *T* while looking like every print ?,-19.95254301475644,-279.3356022065901,good,adjunct_island,458,syntax,island_effects,bigram2,-19.95254301475644,-19.26898189987565,FALSE
+what would this muffin look like every print while looking like *T* ?,-19.26898189987565,-269.76574659825917,bad,adjunct_island,458,syntax,island_effects,bigram2,-19.95254301475644,-19.26898189987565,FALSE
+what would this muffin look like *T* while looking like every print ?,-20.045235109372857,-280.63329153122,good,adjunct_island,458,syntax,island_effects,bigram3,-20.045235109372857,-19.32437107973066,FALSE
+what would this muffin look like every print while looking like *T* ?,-19.32437107973066,-270.54119511622923,bad,adjunct_island,458,syntax,island_effects,bigram3,-20.045235109372857,-19.32437107973066,FALSE
+what would this muffin look like *T* while looking like every print ?,-20.05346463963227,-280.7485049548518,good,adjunct_island,458,syntax,island_effects,bigram4,-20.05346463963227,-19.38101229061068,FALSE
+what would this muffin look like every print while looking like *T* ?,-19.38101229061068,-271.33417206854955,bad,adjunct_island,458,syntax,island_effects,bigram4,-20.05346463963227,-19.38101229061068,FALSE
+what would this muffin look like *T* while looking like every print ?,-20.05380211855739,-280.7532296598034,good,adjunct_island,458,syntax,island_effects,bigram5,-20.05380211855739,-19.33566455559088,FALSE
+what would this muffin look like every print while looking like *T* ?,-19.33566455559088,-270.69930377827234,bad,adjunct_island,458,syntax,island_effects,bigram5,-20.05380211855739,-19.33566455559088,FALSE
+what would this muffin look like *T* while looking like every print ?,-19.903195923544835,-278.6447429296277,good,adjunct_island,458,syntax,island_effects,bigram6,-19.903195923544835,-19.22511104447244,FALSE
+what would this muffin look like every print while looking like *T* ?,-19.22511104447244,-269.1515546226142,bad,adjunct_island,458,syntax,island_effects,bigram6,-19.903195923544835,-19.22511104447244,FALSE
+what would this muffin look like *T* while looking like every print ?,-20.043623470402032,-280.61072858562846,good,adjunct_island,458,syntax,island_effects,bigram7,-20.043623470402032,-19.322053779619942,FALSE
+what would this muffin look like every print while looking like *T* ?,-19.322053779619942,-270.50875291467923,bad,adjunct_island,458,syntax,island_effects,bigram7,-20.043623470402032,-19.322053779619942,FALSE
+what would this muffin look like *T* while looking like every print ?,-20.121456778945465,-281.7003949052365,good,adjunct_island,458,syntax,island_effects,bigram8,-20.121456778945465,-19.395931997848123,FALSE
+what would this muffin look like every print while looking like *T* ?,-19.395931997848123,-271.5430479698737,bad,adjunct_island,458,syntax,island_effects,bigram8,-20.121456778945465,-19.395931997848123,FALSE
+what would this muffin look like *T* while looking like every print ?,-20.023030861779784,-280.322432064917,good,adjunct_island,458,syntax,island_effects,bigram9,-20.023030861779784,-19.316637721536107,FALSE
+what would this muffin look like every print while looking like *T* ?,-19.316637721536107,-270.4329281015055,bad,adjunct_island,458,syntax,island_effects,bigram9,-20.023030861779784,-19.316637721536107,FALSE
+what has Name dropped by *T* after running around the bank ?,-20.41698111974139,-265.4207545566381,good,adjunct_island,539,syntax,island_effects,bigram1,-20.41698111974139,-19.507797981982574,FALSE
+what has Name dropped by the bank after running around *T* ?,-19.507797981982574,-253.60137376577347,bad,adjunct_island,539,syntax,island_effects,bigram1,-20.41698111974139,-19.507797981982574,FALSE
+what has Name dropped by *T* after running around the bank ?,-20.35868086928104,-264.66285130065353,good,adjunct_island,539,syntax,island_effects,bigram10,-20.35868086928104,-19.37295060333036,FALSE
+what has Name dropped by the bank after running around *T* ?,-19.37295060333036,-251.84835784329468,bad,adjunct_island,539,syntax,island_effects,bigram10,-20.35868086928104,-19.37295060333036,FALSE
+what has Name dropped by *T* after running around the bank ?,-20.42107196568242,-265.47393555387146,good,adjunct_island,539,syntax,island_effects,bigram2,-20.42107196568242,-19.46897884796022,FALSE
+what has Name dropped by the bank after running around *T* ?,-19.46897884796022,-253.09672502348286,bad,adjunct_island,539,syntax,island_effects,bigram2,-20.42107196568242,-19.46897884796022,FALSE
+what has Name dropped by *T* after running around the bank ?,-20.4102190613012,-265.33284779691564,good,adjunct_island,539,syntax,island_effects,bigram3,-20.4102190613012,-19.59656342728881,FALSE
+what has Name dropped by the bank after running around *T* ?,-19.59656342728881,-254.7553245547546,bad,adjunct_island,539,syntax,island_effects,bigram3,-20.4102190613012,-19.59656342728881,FALSE
+what has Name dropped by *T* after running around the bank ?,-20.256063096202503,-263.32882025063253,good,adjunct_island,539,syntax,island_effects,bigram4,-20.256063096202503,-19.38973003521349,FALSE
+what has Name dropped by the bank after running around *T* ?,-19.38973003521349,-252.06649045777533,bad,adjunct_island,539,syntax,island_effects,bigram4,-20.256063096202503,-19.38973003521349,FALSE
+what has Name dropped by *T* after running around the bank ?,-20.26376803110212,-263.42898440432754,good,adjunct_island,539,syntax,island_effects,bigram5,-20.26376803110212,-19.311779263685317,FALSE
+what has Name dropped by the bank after running around *T* ?,-19.311779263685317,-251.05313042790905,bad,adjunct_island,539,syntax,island_effects,bigram5,-20.26376803110212,-19.311779263685317,FALSE
+what has Name dropped by *T* after running around the bank ?,-20.34518067625739,-264.48734879134605,good,adjunct_island,539,syntax,island_effects,bigram6,-20.34518067625739,-19.49301522950857,FALSE
+what has Name dropped by the bank after running around *T* ?,-19.49301522950857,-253.4091979836114,bad,adjunct_island,539,syntax,island_effects,bigram6,-20.34518067625739,-19.49301522950857,FALSE
+what has Name dropped by *T* after running around the bank ?,-20.6723226429871,-268.7401943588323,good,adjunct_island,539,syntax,island_effects,bigram7,-20.6723226429871,-19.68471177643976,FALSE
+what has Name dropped by the bank after running around *T* ?,-19.68471177643976,-255.9012530937169,bad,adjunct_island,539,syntax,island_effects,bigram7,-20.6723226429871,-19.68471177643976,FALSE
+what has Name dropped by *T* after running around the bank ?,-20.39721629143175,-265.16381178861275,good,adjunct_island,539,syntax,island_effects,bigram8,-20.39721629143175,-19.44180234210893,FALSE
+what has Name dropped by the bank after running around *T* ?,-19.44180234210893,-252.7434304474161,bad,adjunct_island,539,syntax,island_effects,bigram8,-20.39721629143175,-19.44180234210893,FALSE
+what has Name dropped by *T* after running around the bank ?,-20.348360718179432,-264.5286893363326,good,adjunct_island,539,syntax,island_effects,bigram9,-20.348360718179432,-19.48594286754106,FALSE
+what has Name dropped by the bank after running around *T* ?,-19.48594286754106,-253.31725727803376,bad,adjunct_island,539,syntax,island_effects,bigram9,-20.348360718179432,-19.48594286754106,FALSE
+who could Name fire *T* after listening to Name ?,-19.49498209156914,-214.44480300726053,good,adjunct_island,693,syntax,island_effects,bigram1,-19.49498209156914,-19.63283237370985,TRUE
+who could Name fire Name after listening to *T* ?,-19.63283237370985,-215.96115611080836,bad,adjunct_island,693,syntax,island_effects,bigram1,-19.49498209156914,-19.63283237370985,TRUE
+who could Name fire *T* after listening to Name ?,-19.52939761445533,-214.8233737590087,good,adjunct_island,693,syntax,island_effects,bigram10,-19.52939761445533,-19.59224694134021,TRUE
+who could Name fire Name after listening to *T* ?,-19.59224694134021,-215.51471635474232,bad,adjunct_island,693,syntax,island_effects,bigram10,-19.52939761445533,-19.59224694134021,TRUE
+who could Name fire *T* after listening to Name ?,-19.5228408835733,-214.7512497193063,good,adjunct_island,693,syntax,island_effects,bigram2,-19.5228408835733,-19.615058255601085,TRUE
+who could Name fire Name after listening to *T* ?,-19.615058255601085,-215.76564081161192,bad,adjunct_island,693,syntax,island_effects,bigram2,-19.5228408835733,-19.615058255601085,TRUE
+who could Name fire *T* after listening to Name ?,-19.376524633776857,-213.1417709715454,good,adjunct_island,693,syntax,island_effects,bigram3,-19.376524633776857,-19.514169948750705,TRUE
+who could Name fire Name after listening to *T* ?,-19.514169948750705,-214.65586943625777,bad,adjunct_island,693,syntax,island_effects,bigram3,-19.376524633776857,-19.514169948750705,TRUE
+who could Name fire *T* after listening to Name ?,-19.43548518722085,-213.79033705942936,good,adjunct_island,693,syntax,island_effects,bigram4,-19.43548518722085,-19.59912029944799,TRUE
+who could Name fire Name after listening to *T* ?,-19.59912029944799,-215.5903232939279,bad,adjunct_island,693,syntax,island_effects,bigram4,-19.43548518722085,-19.59912029944799,TRUE
+who could Name fire *T* after listening to Name ?,-19.41936896580308,-213.61305862383384,good,adjunct_island,693,syntax,island_effects,bigram5,-19.41936896580308,-19.563675626808827,TRUE
+who could Name fire Name after listening to *T* ?,-19.563675626808827,-215.2004318948971,bad,adjunct_island,693,syntax,island_effects,bigram5,-19.41936896580308,-19.563675626808827,TRUE
+who could Name fire *T* after listening to Name ?,-19.51232790693648,-214.63560697630126,good,adjunct_island,693,syntax,island_effects,bigram6,-19.51232790693648,-19.598686417511093,TRUE
+who could Name fire Name after listening to *T* ?,-19.598686417511093,-215.585550592622,bad,adjunct_island,693,syntax,island_effects,bigram6,-19.51232790693648,-19.598686417511093,TRUE
+who could Name fire *T* after listening to Name ?,-19.534661316424597,-214.88127448067053,good,adjunct_island,693,syntax,island_effects,bigram7,-19.534661316424597,-19.63255243797433,TRUE
+who could Name fire Name after listening to *T* ?,-19.63255243797433,-215.9580768177176,bad,adjunct_island,693,syntax,island_effects,bigram7,-19.534661316424597,-19.63255243797433,TRUE
+who could Name fire *T* after listening to Name ?,-19.55328144663599,-215.0860959129959,good,adjunct_island,693,syntax,island_effects,bigram8,-19.55328144663599,-19.669521792076363,TRUE
+who could Name fire Name after listening to *T* ?,-19.669521792076363,-216.36473971284,bad,adjunct_island,693,syntax,island_effects,bigram8,-19.55328144663599,-19.669521792076363,TRUE
+who could Name fire *T* after listening to Name ?,-19.458232553923,-214.04055809315295,good,adjunct_island,693,syntax,island_effects,bigram9,-19.458232553923,-19.62781287562772,TRUE
+who could Name fire Name after listening to *T* ?,-19.62781287562772,-215.90594163190494,bad,adjunct_island,693,syntax,island_effects,bigram9,-19.458232553923,-19.62781287562772,TRUE
+what does Name fix every carriage after breaking *T* ?,-18.7575073073784,-206.33258038116236,bad,adjunct_island,71,syntax,island_effects,bigram1,-19.74108737927518,-18.7575073073784,FALSE
+what does Name fix *T* after breaking every carriage ?,-19.74108737927518,-217.15196117202697,good,adjunct_island,71,syntax,island_effects,bigram1,-19.74108737927518,-18.7575073073784,FALSE
+what does Name fix every carriage after breaking *T* ?,-18.789319231240867,-206.68251154364955,bad,adjunct_island,71,syntax,island_effects,bigram10,-19.64381522742996,-18.789319231240867,FALSE
+what does Name fix *T* after breaking every carriage ?,-19.64381522742996,-216.08196750172954,good,adjunct_island,71,syntax,island_effects,bigram10,-19.64381522742996,-18.789319231240867,FALSE
+what does Name fix every carriage after breaking *T* ?,-18.746127352763583,-206.2074008803994,bad,adjunct_island,71,syntax,island_effects,bigram2,-19.66929263540468,-18.746127352763583,FALSE
+what does Name fix *T* after breaking every carriage ?,-19.66929263540468,-216.3622189894515,good,adjunct_island,71,syntax,island_effects,bigram2,-19.66929263540468,-18.746127352763583,FALSE
+what does Name fix every carriage after breaking *T* ?,-18.7173570564747,-205.8909276212217,bad,adjunct_island,71,syntax,island_effects,bigram3,-19.7257294578375,-18.7173570564747,FALSE
+what does Name fix *T* after breaking every carriage ?,-19.7257294578375,-216.9830240362125,good,adjunct_island,71,syntax,island_effects,bigram3,-19.7257294578375,-18.7173570564747,FALSE
+what does Name fix every carriage after breaking *T* ?,-18.77873147459263,-206.56604622051893,bad,adjunct_island,71,syntax,island_effects,bigram4,-19.778667418867485,-18.77873147459263,FALSE
+what does Name fix *T* after breaking every carriage ?,-19.778667418867485,-217.56534160754234,good,adjunct_island,71,syntax,island_effects,bigram4,-19.778667418867485,-18.77873147459263,FALSE
+what does Name fix every carriage after breaking *T* ?,-18.77845064332245,-206.56295707654698,bad,adjunct_island,71,syntax,island_effects,bigram5,-19.692443905279823,-18.77845064332245,FALSE
+what does Name fix *T* after breaking every carriage ?,-19.692443905279823,-216.61688295807807,good,adjunct_island,71,syntax,island_effects,bigram5,-19.692443905279823,-18.77845064332245,FALSE
+what does Name fix every carriage after breaking *T* ?,-18.65680536824349,-205.22485905067836,bad,adjunct_island,71,syntax,island_effects,bigram6,-19.610731577971983,-18.65680536824349,FALSE
+what does Name fix *T* after breaking every carriage ?,-19.610731577971983,-215.71804735769186,good,adjunct_island,71,syntax,island_effects,bigram6,-19.610731577971983,-18.65680536824349,FALSE
+what does Name fix every carriage after breaking *T* ?,-18.756697687457336,-206.3236745620307,bad,adjunct_island,71,syntax,island_effects,bigram7,-19.675059112089084,-18.756697687457336,FALSE
+what does Name fix *T* after breaking every carriage ?,-19.675059112089084,-216.42565023297993,good,adjunct_island,71,syntax,island_effects,bigram7,-19.675059112089084,-18.756697687457336,FALSE
+what does Name fix every carriage after breaking *T* ?,-18.730198559566844,-206.03218415523529,bad,adjunct_island,71,syntax,island_effects,bigram8,-19.691324417261544,-18.730198559566844,FALSE
+what does Name fix *T* after breaking every carriage ?,-19.691324417261544,-216.60456858987698,good,adjunct_island,71,syntax,island_effects,bigram8,-19.691324417261544,-18.730198559566844,FALSE
+what does Name fix every carriage after breaking *T* ?,-18.74023297947694,-206.14256277424633,bad,adjunct_island,71,syntax,island_effects,bigram9,-19.73018788524162,-18.74023297947694,FALSE
+what does Name fix *T* after breaking every carriage ?,-19.73018788524162,-217.0320667376578,good,adjunct_island,71,syntax,island_effects,bigram9,-19.73018788524162,-18.74023297947694,FALSE
+what can Name like *T* without bringing some books ?,-19.713854626378915,-216.85240089016804,good,adjunct_island,723,syntax,island_effects,bigram1,-19.713854626378915,-18.796363782263366,FALSE
+what can Name like some books without bringing *T* ?,-18.796363782263366,-206.760001604897,bad,adjunct_island,723,syntax,island_effects,bigram1,-19.713854626378915,-18.796363782263366,FALSE
+what can Name like *T* without bringing some books ?,-19.760024424019694,-217.36026866421665,good,adjunct_island,723,syntax,island_effects,bigram10,-19.760024424019694,-18.849588777852,FALSE
+what can Name like some books without bringing *T* ?,-18.849588777852,-207.34547655637198,bad,adjunct_island,723,syntax,island_effects,bigram10,-19.760024424019694,-18.849588777852,FALSE
+what can Name like *T* without bringing some books ?,-19.743283341579623,-217.17611675737587,good,adjunct_island,723,syntax,island_effects,bigram2,-19.743283341579623,-18.78388629743941,FALSE
+what can Name like some books without bringing *T* ?,-18.78388629743941,-206.6227492718335,bad,adjunct_island,723,syntax,island_effects,bigram2,-19.743283341579623,-18.78388629743941,FALSE
+what can Name like *T* without bringing some books ?,-19.77317585149076,-217.50493436639834,good,adjunct_island,723,syntax,island_effects,bigram3,-19.77317585149076,-18.795806806294785,FALSE
+what can Name like some books without bringing *T* ?,-18.795806806294785,-206.75387486924262,bad,adjunct_island,723,syntax,island_effects,bigram3,-19.77317585149076,-18.795806806294785,FALSE
+what can Name like *T* without bringing some books ?,-19.80413177515773,-217.84544952673505,good,adjunct_island,723,syntax,island_effects,bigram4,-19.80413177515773,-18.8748874289432,FALSE
+what can Name like some books without bringing *T* ?,-18.8748874289432,-207.62376171837522,bad,adjunct_island,723,syntax,island_effects,bigram4,-19.80413177515773,-18.8748874289432,FALSE
+what can Name like *T* without bringing some books ?,-19.93314374674065,-219.2645812141472,good,adjunct_island,723,syntax,island_effects,bigram5,-19.93314374674065,-18.90432917516203,FALSE
+what can Name like some books without bringing *T* ?,-18.90432917516203,-207.94762092678232,bad,adjunct_island,723,syntax,island_effects,bigram5,-19.93314374674065,-18.90432917516203,FALSE
+what can Name like *T* without bringing some books ?,-19.595559095358823,-215.55115004894708,good,adjunct_island,723,syntax,island_effects,bigram6,-19.595559095358823,-18.67681680591299,FALSE
+what can Name like some books without bringing *T* ?,-18.67681680591299,-205.44498486504287,bad,adjunct_island,723,syntax,island_effects,bigram6,-19.595559095358823,-18.67681680591299,FALSE
+what can Name like *T* without bringing some books ?,-19.614037165548776,-215.75440882103652,good,adjunct_island,723,syntax,island_effects,bigram7,-19.614037165548776,-18.775916018131745,FALSE
+what can Name like some books without bringing *T* ?,-18.775916018131745,-206.53507619944918,bad,adjunct_island,723,syntax,island_effects,bigram7,-19.614037165548776,-18.775916018131745,FALSE
+what can Name like *T* without bringing some books ?,-19.67991251889028,-216.47903770779308,good,adjunct_island,723,syntax,island_effects,bigram8,-19.67991251889028,-18.72323298851203,FALSE
+what can Name like some books without bringing *T* ?,-18.72323298851203,-205.95556287363235,bad,adjunct_island,723,syntax,island_effects,bigram8,-19.67991251889028,-18.72323298851203,FALSE
+what can Name like *T* without bringing some books ?,-19.80133409067088,-217.8146749973797,good,adjunct_island,723,syntax,island_effects,bigram9,-19.80133409067088,-18.7821129944619,FALSE
+what can Name like some books without bringing *T* ?,-18.7821129944619,-206.6032429390809,bad,adjunct_island,723,syntax,island_effects,bigram9,-19.80133409067088,-18.7821129944619,FALSE
+who can Name sound like *T* before watching Name ?,-19.09568050768016,-210.05248558448176,good,adjunct_island,851,syntax,island_effects,bigram1,-19.09568050768016,-19.206298036924604,TRUE
+who can Name sound like Name before watching *T* ?,-19.206298036924604,-211.26927840617066,bad,adjunct_island,851,syntax,island_effects,bigram1,-19.09568050768016,-19.206298036924604,TRUE
+who can Name sound like *T* before watching Name ?,-19.10307775702227,-210.13385532724496,good,adjunct_island,851,syntax,island_effects,bigram10,-19.10307775702227,-19.223840812258928,TRUE
+who can Name sound like Name before watching *T* ?,-19.223840812258928,-211.4622489348482,bad,adjunct_island,851,syntax,island_effects,bigram10,-19.10307775702227,-19.223840812258928,TRUE
+who can Name sound like *T* before watching Name ?,-18.86902712832127,-207.55929841153397,good,adjunct_island,851,syntax,island_effects,bigram2,-18.86902712832127,-19.03260696480625,TRUE
+who can Name sound like Name before watching *T* ?,-19.03260696480625,-209.35867661286875,bad,adjunct_island,851,syntax,island_effects,bigram2,-18.86902712832127,-19.03260696480625,TRUE
+who can Name sound like *T* before watching Name ?,-19.008679756297408,-209.09547731927148,good,adjunct_island,851,syntax,island_effects,bigram3,-19.008679756297408,-19.08963800345001,TRUE
+who can Name sound like Name before watching *T* ?,-19.08963800345001,-209.9860180379501,bad,adjunct_island,851,syntax,island_effects,bigram3,-19.008679756297408,-19.08963800345001,TRUE
+who can Name sound like *T* before watching Name ?,-19.12502723274096,-210.37529956015052,good,adjunct_island,851,syntax,island_effects,bigram4,-19.12502723274096,-19.235483935811622,TRUE
+who can Name sound like Name before watching *T* ?,-19.235483935811622,-211.5903232939279,bad,adjunct_island,851,syntax,island_effects,bigram4,-19.12502723274096,-19.235483935811622,TRUE
+who can Name sound like *T* before watching Name ?,-19.08530377003221,-209.93834147035435,good,adjunct_island,851,syntax,island_effects,bigram5,-19.08530377003221,-19.261682163637246,TRUE
+who can Name sound like Name before watching *T* ?,-19.261682163637246,-211.8785038000097,bad,adjunct_island,851,syntax,island_effects,bigram5,-19.08530377003221,-19.261682163637246,TRUE
+who can Name sound like *T* before watching Name ?,-19.09465310421191,-210.04118414633103,good,adjunct_island,851,syntax,island_effects,bigram6,-19.09465310421191,-19.253417669869695,TRUE
+who can Name sound like Name before watching *T* ?,-19.253417669869695,-211.7875943685667,bad,adjunct_island,851,syntax,island_effects,bigram6,-19.09465310421191,-19.253417669869695,TRUE
+who can Name sound like *T* before watching Name ?,-18.893518766351487,-207.82870642986637,good,adjunct_island,851,syntax,island_effects,bigram7,-18.893518766351487,-19.09261497676515,TRUE
+who can Name sound like Name before watching *T* ?,-19.09261497676515,-210.01876474441667,bad,adjunct_island,851,syntax,island_effects,bigram7,-18.893518766351487,-19.09261497676515,TRUE
+who can Name sound like *T* before watching Name ?,-18.995261797389176,-208.94787977128092,good,adjunct_island,851,syntax,island_effects,bigram8,-18.995261797389176,-19.012760629761388,TRUE
+who can Name sound like Name before watching *T* ?,-19.012760629761388,-209.14036692737528,bad,adjunct_island,851,syntax,island_effects,bigram8,-18.995261797389176,-19.012760629761388,TRUE
+who can Name sound like *T* before watching Name ?,-19.03443454503463,-209.37877999538097,good,adjunct_island,851,syntax,island_effects,bigram9,-19.03443454503463,-19.131874037418218,TRUE
+who can Name sound like Name before watching *T* ?,-19.131874037418218,-210.45061441160038,bad,adjunct_island,851,syntax,island_effects,bigram9,-19.03443454503463,-19.131874037418218,TRUE
+what can Name break *T* while fixing every glass ?,-20.183847808328213,-222.02232589161036,good,adjunct_island,855,syntax,island_effects,bigram1,-20.183847808328213,-19.472995009158705,FALSE
+what can Name break every glass while fixing *T* ?,-19.472995009158705,-214.20294510074575,bad,adjunct_island,855,syntax,island_effects,bigram1,-20.183847808328213,-19.472995009158705,FALSE
+what can Name break *T* while fixing every glass ?,-20.26498704689948,-222.91485751589428,good,adjunct_island,855,syntax,island_effects,bigram10,-20.26498704689948,-19.44822173246301,FALSE
+what can Name break every glass while fixing *T* ?,-19.44822173246301,-213.93043905709314,bad,adjunct_island,855,syntax,island_effects,bigram10,-20.26498704689948,-19.44822173246301,FALSE
+what can Name break *T* while fixing every glass ?,-20.23959530691029,-222.63554837601316,good,adjunct_island,855,syntax,island_effects,bigram2,-20.23959530691029,-19.40733911517828,FALSE
+what can Name break every glass while fixing *T* ?,-19.40733911517828,-213.48073026696107,bad,adjunct_island,855,syntax,island_effects,bigram2,-20.23959530691029,-19.40733911517828,FALSE
+what can Name break *T* while fixing every glass ?,-20.19708176173825,-222.16789937912077,good,adjunct_island,855,syntax,island_effects,bigram3,-20.19708176173825,-19.4237059513501,FALSE
+what can Name break every glass while fixing *T* ?,-19.4237059513501,-213.66076546485112,bad,adjunct_island,855,syntax,island_effects,bigram3,-20.19708176173825,-19.4237059513501,FALSE
+what can Name break *T* while fixing every glass ?,-20.365034048016124,-224.01537452817738,good,adjunct_island,855,syntax,island_effects,bigram4,-20.365034048016124,-19.45600719465036,FALSE
+what can Name break every glass while fixing *T* ?,-19.45600719465036,-214.01607914115397,bad,adjunct_island,855,syntax,island_effects,bigram4,-20.365034048016124,-19.45600719465036,FALSE
+what can Name break *T* while fixing every glass ?,-20.25058493731608,-222.75643431047686,good,adjunct_island,855,syntax,island_effects,bigram5,-20.25058493731608,-19.4275007662678,FALSE
+what can Name break every glass while fixing *T* ?,-19.4275007662678,-213.70250842894578,bad,adjunct_island,855,syntax,island_effects,bigram5,-20.25058493731608,-19.4275007662678,FALSE
+what can Name break *T* while fixing every glass ?,-20.217590944760083,-222.39350039236092,good,adjunct_island,855,syntax,island_effects,bigram6,-20.217590944760083,-19.392304507693297,FALSE
+what can Name break every glass while fixing *T* ?,-19.392304507693297,-213.31534958462626,bad,adjunct_island,855,syntax,island_effects,bigram6,-20.217590944760083,-19.392304507693297,FALSE
+what can Name break *T* while fixing every glass ?,-20.20200130646541,-222.22201437111954,good,adjunct_island,855,syntax,island_effects,bigram7,-20.20200130646541,-19.374548972742755,FALSE
+what can Name break every glass while fixing *T* ?,-19.374548972742755,-213.1200387001703,bad,adjunct_island,855,syntax,island_effects,bigram7,-20.20200130646541,-19.374548972742755,FALSE
+what can Name break *T* while fixing every glass ?,-20.23235030044036,-222.55585330484394,good,adjunct_island,855,syntax,island_effects,bigram8,-20.23235030044036,-19.45304262456384,FALSE
+what can Name break every glass while fixing *T* ?,-19.45304262456384,-213.98346887020224,bad,adjunct_island,855,syntax,island_effects,bigram8,-20.23235030044036,-19.45304262456384,FALSE
+what can Name break *T* while fixing every glass ?,-20.271327272620184,-222.98459999882203,good,adjunct_island,855,syntax,island_effects,bigram9,-20.271327272620184,-19.463190548673687,FALSE
+what can Name break every glass while fixing *T* ?,-19.463190548673687,-214.09509603541056,bad,adjunct_island,855,syntax,island_effects,bigram9,-20.271327272620184,-19.463190548673687,FALSE
+what has Name broken *T* while fixing a couch ?,-20.312487580989924,-223.43736339088917,good,adjunct_island,873,syntax,island_effects,bigram1,-20.312487580989924,-19.654813190976885,FALSE
+what has Name broken a couch while fixing *T* ?,-19.654813190976885,-216.20294510074575,bad,adjunct_island,873,syntax,island_effects,bigram1,-20.312487580989924,-19.654813190976885,FALSE
+what has Name broken *T* while fixing a couch ?,-20.3027177286521,-223.32989501517312,good,adjunct_island,873,syntax,island_effects,bigram10,-20.3027177286521,-19.44822173246301,FALSE
+what has Name broken a couch while fixing *T* ?,-19.44822173246301,-213.93043905709314,bad,adjunct_island,873,syntax,island_effects,bigram10,-20.3027177286521,-19.44822173246301,FALSE
+what has Name broken *T* while fixing a couch ?,-20.397501270016303,-224.37251397017937,good,adjunct_island,873,syntax,island_effects,bigram2,-20.397501270016303,-19.5652450782843,FALSE
+what has Name broken a couch while fixing *T* ?,-19.5652450782843,-215.21769586112728,bad,adjunct_island,873,syntax,island_effects,bigram2,-20.397501270016303,-19.5652450782843,FALSE
+what has Name broken *T* while fixing a couch ?,-20.432078352712903,-224.75286187984193,good,adjunct_island,873,syntax,island_effects,bigram3,-20.432078352712903,-19.605524133168284,FALSE
+what has Name broken a couch while fixing *T* ?,-19.605524133168284,-215.66076546485112,bad,adjunct_island,873,syntax,island_effects,bigram3,-20.432078352712903,-19.605524133168284,FALSE
+what has Name broken *T* while fixing a couch ?,-20.355985350420585,-223.91583885462646,good,adjunct_island,873,syntax,island_effects,bigram4,-20.355985350420585,-19.446958497054823,FALSE
+what has Name broken a couch while fixing *T* ?,-19.446958497054823,-213.91654346760305,bad,adjunct_island,873,syntax,island_effects,bigram4,-20.355985350420585,-19.446958497054823,FALSE
+what has Name broken *T* while fixing a couch ?,-20.312227837780867,-223.43450621558952,good,adjunct_island,873,syntax,island_effects,bigram5,-20.312227837780867,-19.39823457582349,FALSE
+what has Name broken a couch while fixing *T* ?,-19.39823457582349,-213.38058033405844,bad,adjunct_island,873,syntax,island_effects,bigram5,-20.312227837780867,-19.39823457582349,FALSE
+what has Name broken *T* while fixing a couch ?,-20.38189593767441,-224.2008553144185,good,adjunct_island,873,syntax,island_effects,bigram6,-20.38189593767441,-19.55660950060762,FALSE
+what has Name broken a couch while fixing *T* ?,-19.55660950060762,-215.12270450668385,bad,adjunct_island,873,syntax,island_effects,bigram6,-20.38189593767441,-19.55660950060762,FALSE
+what has Name broken *T* while fixing a couch ?,-20.541725451389617,-225.95897996528578,good,adjunct_island,873,syntax,island_effects,bigram7,-20.541725451389617,-19.767451526823425,FALSE
+what has Name broken a couch while fixing *T* ?,-19.767451526823425,-217.44196679505768,bad,adjunct_island,873,syntax,island_effects,bigram7,-20.541725451389617,-19.767451526823425,FALSE
+what has Name broken *T* while fixing a couch ?,-20.17917189128389,-221.97089080412277,good,adjunct_island,873,syntax,island_effects,bigram8,-20.17917189128389,-19.490773306316463,FALSE
+what has Name broken a couch while fixing *T* ?,-19.490773306316463,-214.39850636948108,bad,adjunct_island,873,syntax,island_effects,bigram8,-20.17917189128389,-19.490773306316463,FALSE
+what has Name broken *T* while fixing a couch ?,-20.473362947287136,-225.20699242015849,good,adjunct_island,873,syntax,island_effects,bigram9,-20.473362947287136,-19.66522622334064,FALSE
+what has Name broken a couch while fixing *T* ?,-19.66522622334064,-216.31748845674701,bad,adjunct_island,873,syntax,island_effects,bigram9,-20.473362947287136,-19.66522622334064,FALSE
+what had Name fixed *T* while taking a bike ?,-20.509753490211956,-225.6072883923315,good,adjunct_island,890,syntax,island_effects,bigram1,-20.509753490211956,-19.798900691042444,FALSE
+what had Name fixed a bike while taking *T* ?,-19.798900691042444,-217.78790760146688,bad,adjunct_island,890,syntax,island_effects,bigram1,-20.509753490211956,-19.798900691042444,FALSE
+what had Name fixed *T* while taking a bike ?,-20.537714319626755,-225.91485751589428,good,adjunct_island,890,syntax,island_effects,bigram10,-20.537714319626755,-19.774127414346754,FALSE
+what had Name fixed a bike while taking *T* ?,-19.774127414346754,-217.5154015578143,bad,adjunct_island,890,syntax,island_effects,bigram10,-20.537714319626755,-19.774127414346754,FALSE
+what had Name fixed *T* while taking a bike ?,-20.33050439781938,-223.63554837601316,good,adjunct_island,890,syntax,island_effects,bigram2,-20.33050439781938,-19.61842348744077,FALSE
+what had Name fixed a bike while taking *T* ?,-19.61842348744077,-215.80265836184844,bad,adjunct_island,890,syntax,island_effects,bigram2,-20.33050439781938,-19.61842348744077,FALSE
+what had Name fixed *T* while taking a bike ?,-20.325721534399964,-223.5829368783996,good,adjunct_island,890,syntax,island_effects,bigram3,-20.325721534399964,-19.69643322407737,FALSE
+what had Name fixed a bike while taking *T* ?,-19.69643322407737,-216.66076546485112,bad,adjunct_island,890,syntax,island_effects,bigram3,-20.325721534399964,-19.69643322407737,FALSE
+what had Name fixed *T* while taking a bike ?,-20.43842995002136,-224.822729450235,good,adjunct_island,890,syntax,island_effects,bigram4,-20.43842995002136,-19.71122127847378,FALSE
+what had Name fixed a bike while taking *T* ?,-19.71122127847378,-216.82343406321158,bad,adjunct_island,890,syntax,island_effects,bigram4,-20.43842995002136,-19.71122127847378,FALSE
+what had Name fixed *T* while taking a bike ?,-20.312227837780867,-223.43450621558955,good,adjunct_island,890,syntax,island_effects,bigram5,-20.312227837780867,-19.662497357242447,FALSE
+what had Name fixed a bike while taking *T* ?,-19.662497357242447,-216.28747092966694,bad,adjunct_island,890,syntax,island_effects,bigram5,-20.312227837780867,-19.662497357242447,FALSE
+what had Name fixed *T* while taking a bike ?,-20.41962661942703,-224.61589281369734,good,adjunct_island,890,syntax,island_effects,bigram6,-20.41962661942703,-19.647518591516715,FALSE
+what had Name fixed a bike while taking *T* ?,-19.647518591516715,-216.12270450668385,bad,adjunct_island,890,syntax,island_effects,bigram6,-20.41962661942703,-19.647518591516715,FALSE
+what had Name fixed *T* while taking a bike ?,-20.503994769636996,-225.5439424660069,good,adjunct_island,890,syntax,island_effects,bigram7,-20.503994769636996,-19.767451526823425,FALSE
+what had Name fixed a bike while taking *T* ?,-19.767451526823425,-217.44196679505768,bad,adjunct_island,890,syntax,island_effects,bigram7,-20.503994769636996,-19.767451526823425,FALSE
+what had Name fixed *T* while taking a bike ?,-20.37643780050592,-224.1408158055651,good,adjunct_island,890,syntax,island_effects,bigram8,-20.37643780050592,-19.68803921553849,FALSE
+what had Name fixed a bike while taking *T* ?,-19.68803921553849,-216.5684313709234,bad,adjunct_island,890,syntax,island_effects,bigram8,-20.37643780050592,-19.68803921553849,FALSE
+what had Name fixed *T* while taking a bike ?,-20.564272038196226,-226.20699242015849,good,adjunct_island,890,syntax,island_effects,bigram9,-20.564272038196226,-19.71840463249711,FALSE
+what had Name fixed a bike while taking *T* ?,-19.71840463249711,-216.90245095746818,bad,adjunct_island,890,syntax,island_effects,bigram9,-20.564272038196226,-19.71840463249711,FALSE
+what did many pictures look like a book after looking like *T* ?,-18.43616972608268,-258.10637616515754,bad,adjunct_island,926,syntax,island_effects,bigram1,-18.911130853898555,-18.43616972608268,FALSE
+what did many pictures look like *T* after looking like a book ?,-18.911130853898555,-264.7558319545798,good,adjunct_island,926,syntax,island_effects,bigram1,-18.911130853898555,-18.43616972608268,FALSE
+what did many pictures look like a book after looking like *T* ?,-18.361276353802637,-257.0578689532369,bad,adjunct_island,926,syntax,island_effects,bigram10,-18.860163386574147,-18.361276353802637,FALSE
+what did many pictures look like *T* after looking like a book ?,-18.860163386574147,-264.04228741203804,good,adjunct_island,926,syntax,island_effects,bigram10,-18.860163386574147,-18.361276353802637,FALSE
+what did many pictures look like a book after looking like *T* ?,-18.369894399864236,-257.1785215980993,bad,adjunct_island,926,syntax,island_effects,bigram2,-18.902349999215016,-18.369894399864236,FALSE
+what did many pictures look like *T* after looking like a book ?,-18.902349999215016,-264.63289998901024,good,adjunct_island,926,syntax,island_effects,bigram2,-18.902349999215016,-18.369894399864236,FALSE
+what did many pictures look like a book after looking like *T* ?,-18.44249703034564,-258.19495842483894,bad,adjunct_island,926,syntax,island_effects,bigram3,-18.94282799989853,-18.44249703034564,FALSE
+what did many pictures look like *T* after looking like a book ?,-18.94282799989853,-265.19959199857936,good,adjunct_island,926,syntax,island_effects,bigram3,-18.94282799989853,-18.44249703034564,FALSE
+what did many pictures look like a book after looking like *T* ?,-18.406500600698017,-257.6910084097722,bad,adjunct_island,926,syntax,island_effects,bigram4,-18.900202925396087,-18.406500600698017,FALSE
+what did many pictures look like *T* after looking like a book ?,-18.900202925396087,-264.6028409555452,good,adjunct_island,926,syntax,island_effects,bigram4,-18.900202925396087,-18.406500600698017,FALSE
+what did many pictures look like a book after looking like *T* ?,-18.46708217011195,-258.5391503815673,bad,adjunct_island,926,syntax,island_effects,bigram5,-18.970934018792743,-18.46708217011195,FALSE
+what did many pictures look like *T* after looking like a book ?,-18.970934018792743,-265.5930762630984,good,adjunct_island,926,syntax,island_effects,bigram5,-18.970934018792743,-18.46708217011195,FALSE
+what did many pictures look like a book after looking like *T* ?,-18.39427336414799,-257.51982709807186,bad,adjunct_island,926,syntax,island_effects,bigram6,-18.89360821889687,-18.39427336414799,FALSE
+what did many pictures look like *T* after looking like a book ?,-18.89360821889687,-264.51051506455616,good,adjunct_island,926,syntax,island_effects,bigram6,-18.89360821889687,-18.39427336414799,FALSE
+what did many pictures look like a book after looking like *T* ?,-18.3923052474294,-257.4922734640116,bad,adjunct_island,926,syntax,island_effects,bigram7,-18.906239895668023,-18.3923052474294,FALSE
+what did many pictures look like *T* after looking like a book ?,-18.906239895668023,-264.6873585393523,good,adjunct_island,926,syntax,island_effects,bigram7,-18.906239895668023,-18.3923052474294,FALSE
+what did many pictures look like a book after looking like *T* ?,-18.43463696029297,-258.08491744410156,bad,adjunct_island,926,syntax,island_effects,bigram8,-18.967273190094524,-18.43463696029297,FALSE
+what did many pictures look like *T* after looking like a book ?,-18.967273190094524,-265.54182466132335,good,adjunct_island,926,syntax,island_effects,bigram8,-18.967273190094524,-18.43463696029297,FALSE
+what did many pictures look like a book after looking like *T* ?,-18.422976400428805,-257.92166960600326,bad,adjunct_island,926,syntax,island_effects,bigram9,-18.91508382638677,-18.422976400428805,FALSE
+what did many pictures look like *T* after looking like a book ?,-18.91508382638677,-264.81117356941473,good,adjunct_island,926,syntax,island_effects,bigram9,-18.91508382638677,-18.422976400428805,FALSE
+what do many fish break the truck before breaking *T* ?,-18.760852804126543,-225.13023364951852,bad,adjunct_island,98,syntax,island_effects,bigram1,-19.318097012029952,-18.760852804126543,FALSE
+what do many fish break *T* before breaking the truck ?,-19.318097012029952,-231.81716414435942,good,adjunct_island,98,syntax,island_effects,bigram1,-19.318097012029952,-18.760852804126543,FALSE
+what do many fish break the truck before breaking *T* ?,-18.75823719269904,-225.0988463123885,bad,adjunct_island,98,syntax,island_effects,bigram10,-19.27299248742767,-18.75823719269904,FALSE
+what do many fish break *T* before breaking the truck ?,-19.27299248742767,-231.27590984913203,good,adjunct_island,98,syntax,island_effects,bigram10,-19.27299248742767,-18.75823719269904,FALSE
+what do many fish break the truck before breaking *T* ?,-18.704399925721503,-224.45279910865804,bad,adjunct_island,98,syntax,island_effects,bigram2,-19.30500705313369,-18.704399925721503,FALSE
+what do many fish break *T* before breaking the truck ?,-19.30500705313369,-231.66008463760429,good,adjunct_island,98,syntax,island_effects,bigram2,-19.30500705313369,-18.704399925721503,FALSE
+what do many fish break the truck before breaking *T* ?,-18.72185504095596,-224.6622604914715,bad,adjunct_island,98,syntax,island_effects,bigram3,-19.29283688142738,-18.72185504095596,FALSE
+what do many fish break *T* before breaking the truck ?,-19.29283688142738,-231.51404257712858,good,adjunct_island,98,syntax,island_effects,bigram3,-19.29283688142738,-18.72185504095596,FALSE
+what do many fish break the truck before breaking *T* ?,-18.69597375171345,-224.35168502056135,bad,adjunct_island,98,syntax,island_effects,bigram4,-19.362581700632063,-18.69597375171345,FALSE
+what do many fish break *T* before breaking the truck ?,-19.362581700632063,-232.35098040758476,good,adjunct_island,98,syntax,island_effects,bigram4,-19.362581700632063,-18.69597375171345,FALSE
+what do many fish break the truck before breaking *T* ?,-18.795925646649057,-225.5511077597887,bad,adjunct_island,98,syntax,island_effects,bigram5,-19.340598778038096,-18.795925646649057,FALSE
+what do many fish break *T* before breaking the truck ?,-19.340598778038096,-232.08718533645717,good,adjunct_island,98,syntax,island_effects,bigram5,-19.340598778038096,-18.795925646649057,FALSE
+what do many fish break the truck before breaking *T* ?,-18.600508171960147,-223.20609806352175,bad,adjunct_island,98,syntax,island_effects,bigram6,-19.239988218014755,-18.600508171960147,FALSE
+what do many fish break *T* before breaking the truck ?,-19.239988218014755,-230.87985861617705,good,adjunct_island,98,syntax,island_effects,bigram6,-19.239988218014755,-18.600508171960147,FALSE
+what do many fish break the truck before breaking *T* ?,-18.847566324504918,-226.17079589405898,bad,adjunct_island,98,syntax,island_effects,bigram7,-19.34877572697982,-18.847566324504918,FALSE
+what do many fish break *T* before breaking the truck ?,-19.34877572697982,-232.18530872375783,good,adjunct_island,98,syntax,island_effects,bigram7,-19.34877572697982,-18.847566324504918,FALSE
+what do many fish break the truck before breaking *T* ?,-18.68504097541393,-224.22049170496715,bad,adjunct_island,98,syntax,island_effects,bigram8,-19.332126768129267,-18.68504097541393,FALSE
+what do many fish break *T* before breaking the truck ?,-19.332126768129267,-231.98552121755122,good,adjunct_island,98,syntax,island_effects,bigram8,-19.332126768129267,-18.68504097541393,FALSE
+what do many fish break the truck before breaking *T* ?,-18.72694236208461,-224.72330834501534,bad,adjunct_island,98,syntax,island_effects,bigram9,-19.23965389285505,-18.72694236208461,FALSE
+what do many fish break *T* before breaking the truck ?,-19.23965389285505,-230.8758467142606,good,adjunct_island,98,syntax,island_effects,bigram9,-19.23965389285505,-18.72694236208461,FALSE
+what should Name buy this face after thinking about *T* ?,-19.6950609216139,-236.34073105936682,bad,adjunct_island,984,syntax,island_effects,bigram1,-20.101048272510464,-19.6950609216139,FALSE
+what should Name buy *T* after thinking about this face ?,-20.101048272510464,-241.2125792701256,good,adjunct_island,984,syntax,island_effects,bigram1,-20.101048272510464,-19.6950609216139,FALSE
+what should Name buy this face after thinking about *T* ?,-19.501244111023148,-234.01492933227777,bad,adjunct_island,984,syntax,island_effects,bigram10,-20.11970096639065,-19.501244111023148,FALSE
+what should Name buy *T* after thinking about this face ?,-20.11970096639065,-241.43641159668775,good,adjunct_island,984,syntax,island_effects,bigram10,-20.11970096639065,-19.501244111023148,FALSE
+what should Name buy this face after thinking about *T* ?,-19.380073991944496,-232.56088790333393,bad,adjunct_island,984,syntax,island_effects,bigram2,-19.955912148168423,-19.380073991944496,FALSE
+what should Name buy *T* after thinking about this face ?,-19.955912148168423,-239.47094577802108,good,adjunct_island,984,syntax,island_effects,bigram2,-19.955912148168423,-19.380073991944496,FALSE
+what should Name buy this face after thinking about *T* ?,-19.65036396239784,-235.80436754877405,bad,adjunct_island,984,syntax,island_effects,bigram3,-20.140120922732837,-19.65036396239784,FALSE
+what should Name buy *T* after thinking about this face ?,-20.140120922732837,-241.681451072794,good,adjunct_island,984,syntax,island_effects,bigram3,-20.140120922732837,-19.65036396239784,FALSE
+what should Name buy this face after thinking about *T* ?,-19.5896176326032,-235.07541159123835,bad,adjunct_island,984,syntax,island_effects,bigram4,-20.13128952929721,-19.5896176326032,FALSE
+what should Name buy *T* after thinking about this face ?,-20.13128952929721,-241.57547435156647,good,adjunct_island,984,syntax,island_effects,bigram4,-20.13128952929721,-19.5896176326032,FALSE
+what should Name buy this face after thinking about *T* ?,-19.42922437338249,-233.15069248058987,bad,adjunct_island,984,syntax,island_effects,bigram5,-20.016610338537625,-19.42922437338249,FALSE
+what should Name buy *T* after thinking about this face ?,-20.016610338537625,-240.1993240624515,good,adjunct_island,984,syntax,island_effects,bigram5,-20.016610338537625,-19.42922437338249,FALSE
+what should Name buy this face after thinking about *T* ?,-19.43758979778755,-233.25107757345057,bad,adjunct_island,984,syntax,island_effects,bigram6,-20.035194815464727,-19.43758979778755,FALSE
+what should Name buy *T* after thinking about this face ?,-20.035194815464727,-240.42233778557673,good,adjunct_island,984,syntax,island_effects,bigram6,-20.035194815464727,-19.43758979778755,FALSE
+what should Name buy this face after thinking about *T* ?,-19.53109519776614,-234.37314237319367,bad,adjunct_island,984,syntax,island_effects,bigram7,-20.04270707471728,-19.53109519776614,FALSE
+what should Name buy *T* after thinking about this face ?,-20.04270707471728,-240.51248489660736,good,adjunct_island,984,syntax,island_effects,bigram7,-20.04270707471728,-19.53109519776614,FALSE
+what should Name buy this face after thinking about *T* ?,-19.579034346627527,-234.94841215953033,bad,adjunct_island,984,syntax,island_effects,bigram8,-20.244652841120907,-19.579034346627527,FALSE
+what should Name buy *T* after thinking about this face ?,-20.244652841120907,-242.93583409345086,good,adjunct_island,984,syntax,island_effects,bigram8,-20.244652841120907,-19.579034346627527,FALSE
+what should Name buy this face after thinking about *T* ?,-19.68206564935846,-236.1847877923015,bad,adjunct_island,984,syntax,island_effects,bigram9,-20.18533205737257,-19.68206564935846,FALSE
+what should Name buy *T* after thinking about this face ?,-20.18533205737257,-242.2239846884708,good,adjunct_island,984,syntax,island_effects,bigram9,-20.18533205737257,-19.68206564935846,FALSE

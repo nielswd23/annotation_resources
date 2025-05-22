@@ -1,0 +1,241 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+some children are going fishing Name .,-33.00214814320419,-231.0150370024293,bad,transitive,118,syntax,argument_structure,trigram1,-32.384729843934565,-33.00214814320419,TRUE
+some children are talking about Name .,-32.384729843934565,-226.69310890754195,good,transitive,118,syntax,argument_structure,trigram1,-32.384729843934565,-33.00214814320419,TRUE
+some children are going fishing Name .,-33.047418197030325,-231.33192737921226,bad,transitive,118,syntax,argument_structure,trigram10,-32.34643382622911,-33.047418197030325,TRUE
+some children are talking about Name .,-32.34643382622911,-226.42503678360376,good,transitive,118,syntax,argument_structure,trigram10,-32.34643382622911,-33.047418197030325,TRUE
+some children are going fishing Name .,-32.980085173451535,-230.86059621416072,bad,transitive,118,syntax,argument_structure,trigram2,-32.18223338763422,-32.980085173451535,TRUE
+some children are talking about Name .,-32.18223338763422,-225.27563371343956,good,transitive,118,syntax,argument_structure,trigram2,-32.18223338763422,-32.980085173451535,TRUE
+some children are going fishing Name .,-33.008805403332346,-231.0616378233264,bad,transitive,118,syntax,argument_structure,trigram3,-32.41310183169772,-33.008805403332346,TRUE
+some children are talking about Name .,-32.41310183169772,-226.89171282188408,good,transitive,118,syntax,argument_structure,trigram3,-32.41310183169772,-33.008805403332346,TRUE
+some children are going fishing Name .,-33.05035699844373,-231.35249898910612,bad,transitive,118,syntax,argument_structure,trigram4,-32.36359200957836,-33.05035699844373,TRUE
+some children are talking about Name .,-32.36359200957836,-226.54514406704854,good,transitive,118,syntax,argument_structure,trigram4,-32.36359200957836,-33.05035699844373,TRUE
+some children are going fishing Name .,-32.99918313855711,-230.99428196989976,bad,transitive,118,syntax,argument_structure,trigram5,-32.381764839287484,-32.99918313855711,TRUE
+some children are talking about Name .,-32.381764839287484,-226.6723538750124,good,transitive,118,syntax,argument_structure,trigram5,-32.381764839287484,-32.99918313855711,TRUE
+some children are going fishing Name .,-32.99479032614929,-230.96353228304503,bad,transitive,118,syntax,argument_structure,trigram6,-32.21487152348682,-32.99479032614929,TRUE
+some children are talking about Name .,-32.21487152348682,-225.50410066440773,good,transitive,118,syntax,argument_structure,trigram6,-32.21487152348682,-32.99479032614929,TRUE
+some children are going fishing Name .,-33.087274046856926,-231.6109183279985,bad,transitive,118,syntax,argument_structure,trigram7,-32.4698557475873,-33.087274046856926,TRUE
+some children are talking about Name .,-32.4698557475873,-227.28899023311112,good,transitive,118,syntax,argument_structure,trigram7,-32.4698557475873,-33.087274046856926,TRUE
+some children are going fishing Name .,-33.02695123937422,-231.18865867561954,bad,transitive,118,syntax,argument_structure,trigram8,-32.4095329401046,-33.02695123937422,TRUE
+some children are talking about Name .,-32.4095329401046,-226.86673058073217,good,transitive,118,syntax,argument_structure,trigram8,-32.4095329401046,-33.02695123937422,TRUE
+some children are going fishing Name .,-33.051598478408664,-231.36118934886065,bad,transitive,118,syntax,argument_structure,trigram9,-32.480169906980095,-33.051598478408664,TRUE
+some children are talking about Name .,-32.480169906980095,-227.36118934886065,good,transitive,118,syntax,argument_structure,trigram9,-32.480169906980095,-33.051598478408664,TRUE
+Name knows Name .,-31.71657643779149,-126.86630575116597,good,transitive,193,syntax,argument_structure,trigram1,-31.71657643779149,-31.96657643779149,TRUE
+Name falls Name .,-31.96657643779149,-127.86630575116597,bad,transitive,193,syntax,argument_structure,trigram1,-31.71657643779149,-31.96657643779149,TRUE
+Name knows Name .,-31.780863907692144,-127.12345563076858,good,transitive,193,syntax,argument_structure,trigram10,-31.780863907692144,-32.030863907692144,TRUE
+Name falls Name .,-32.030863907692144,-128.12345563076858,bad,transitive,193,syntax,argument_structure,trigram10,-31.780863907692144,-32.030863907692144,TRUE
+Name knows Name .,-31.94875922598033,-127.79503690392133,good,transitive,193,syntax,argument_structure,trigram2,-31.94875922598033,-31.94875922598033,FALSE
+Name falls Name .,-31.94875922598033,-127.79503690392133,bad,transitive,193,syntax,argument_structure,trigram2,-31.94875922598033,-31.94875922598033,FALSE
+Name knows Name .,-31.72247411669253,-126.88989646677014,good,transitive,193,syntax,argument_structure,trigram3,-31.72247411669253,-31.97247411669253,TRUE
+Name falls Name .,-31.97247411669253,-127.88989646677014,bad,transitive,193,syntax,argument_structure,trigram3,-31.72247411669253,-31.97247411669253,TRUE
+Name knows Name .,-31.79289142448927,-127.17156569795708,good,transitive,193,syntax,argument_structure,trigram4,-31.79289142448927,-32.04289142448927,TRUE
+Name falls Name .,-32.04289142448927,-128.17156569795708,bad,transitive,193,syntax,argument_structure,trigram4,-31.79289142448927,-32.04289142448927,TRUE
+Name knows Name .,-31.7056352160814,-126.8225408643256,good,transitive,193,syntax,argument_structure,trigram5,-31.7056352160814,-31.9556352160814,TRUE
+Name falls Name .,-31.9556352160814,-127.8225408643256,bad,transitive,193,syntax,argument_structure,trigram5,-31.7056352160814,-31.9556352160814,TRUE
+Name knows Name .,-31.965235461348367,-127.86094184539347,good,transitive,193,syntax,argument_structure,trigram6,-31.965235461348367,-31.965235461348367,FALSE
+Name falls Name .,-31.965235461348367,-127.86094184539347,bad,transitive,193,syntax,argument_structure,trigram6,-31.965235461348367,-31.965235461348367,FALSE
+Name knows Name .,-32.081184515835474,-128.3247380633419,good,transitive,193,syntax,argument_structure,trigram7,-32.081184515835474,-32.081184515835474,FALSE
+Name falls Name .,-32.081184515835474,-128.3247380633419,bad,transitive,193,syntax,argument_structure,trigram7,-32.081184515835474,-32.081184515835474,FALSE
+Name knows Name .,-31.7381767795711,-126.9527071182844,good,transitive,193,syntax,argument_structure,trigram8,-31.7381767795711,-31.9881767795711,TRUE
+Name falls Name .,-31.9881767795711,-127.9527071182844,bad,transitive,193,syntax,argument_structure,trigram8,-31.7381767795711,-31.9881767795711,TRUE
+Name knows Name .,-31.76078645865872,-127.04314583463488,good,transitive,193,syntax,argument_structure,trigram9,-31.76078645865872,-32.01078645865872,TRUE
+Name falls Name .,-32.01078645865872,-128.04314583463488,bad,transitive,193,syntax,argument_structure,trigram9,-31.76078645865872,-32.01078645865872,TRUE
+Name was n't running around that high school .,-33.494021528198886,-301.44619375379,good,transitive,33,syntax,argument_structure,trigram1,-33.494021528198886,-33.25791041708778,FALSE
+Name was n't smiling that high school .,-33.25791041708778,-266.0632833367022,bad,transitive,33,syntax,argument_structure,trigram1,-33.494021528198886,-33.25791041708778,FALSE
+Name was n't running around that high school .,-33.60616558265431,-302.4554902438888,good,transitive,33,syntax,argument_structure,trigram10,-33.60616558265431,-33.38158329096761,FALSE
+Name was n't smiling that high school .,-33.38158329096761,-267.0526663277409,bad,transitive,33,syntax,argument_structure,trigram10,-33.60616558265431,-33.38158329096761,FALSE
+Name was n't running around that high school .,-33.434586190206204,-300.9112757118558,good,transitive,33,syntax,argument_structure,trigram2,-33.434586190206204,-33.31951115938867,FALSE
+Name was n't smiling that high school .,-33.31951115938867,-266.55608927510934,bad,transitive,33,syntax,argument_structure,trigram2,-33.434586190206204,-33.31951115938867,FALSE
+Name was n't running around that high school .,-33.58737837546366,-302.2864053791729,good,transitive,33,syntax,argument_structure,trigram3,-33.58737837546366,-33.361978115873434,FALSE
+Name was n't smiling that high school .,-33.361978115873434,-266.8958249269875,bad,transitive,33,syntax,argument_structure,trigram3,-33.58737837546366,-33.361978115873434,FALSE
+Name was n't running around that high school .,-33.63443442880916,-302.7099098592824,good,transitive,33,syntax,argument_structure,trigram4,-33.63443442880916,-33.41453317861242,FALSE
+Name was n't smiling that high school .,-33.41453317861242,-267.3162654288994,bad,transitive,33,syntax,argument_structure,trigram4,-33.63443442880916,-33.41453317861242,FALSE
+Name was n't running around that high school .,-33.46592169131501,-301.1932952218351,good,transitive,33,syntax,argument_structure,trigram5,-33.46592169131501,-33.225339356663795,FALSE
+Name was n't smiling that high school .,-33.225339356663795,-265.80271485331036,bad,transitive,33,syntax,argument_structure,trigram5,-33.46592169131501,-33.225339356663795,FALSE
+Name was n't running around that high school .,-33.4889867463718,-301.4008807173462,good,transitive,33,syntax,argument_structure,trigram6,-33.4889867463718,-33.25416882143279,FALSE
+Name was n't smiling that high school .,-33.25416882143279,-266.03335057146234,bad,transitive,33,syntax,argument_structure,trigram6,-33.4889867463718,-33.25416882143279,FALSE
+Name was n't running around that high school .,-33.62340147561402,-302.61061328052614,good,transitive,33,syntax,argument_structure,trigram7,-33.62340147561402,-33.39773581570508,FALSE
+Name was n't smiling that high school .,-33.39773581570508,-267.1818865256406,bad,transitive,33,syntax,argument_structure,trigram7,-33.62340147561402,-33.39773581570508,FALSE
+Name was n't running around that high school .,-33.65561108332753,-302.90049974994776,good,transitive,33,syntax,argument_structure,trigram8,-33.65561108332753,-33.43606448718784,FALSE
+Name was n't smiling that high school .,-33.43606448718784,-267.48851589750274,bad,transitive,33,syntax,argument_structure,trigram8,-33.65561108332753,-33.43606448718784,FALSE
+Name was n't running around that high school .,-33.64268950458166,-302.78420554123494,good,transitive,33,syntax,argument_structure,trigram9,-33.64268950458166,-33.54310721289496,FALSE
+Name was n't smiling that high school .,-33.54310721289496,-268.3448577031597,bad,transitive,33,syntax,argument_structure,trigram9,-33.64268950458166,-33.54310721289496,FALSE
+Name is n't talking about some play .,-33.01814568570881,-264.1451654856705,good,transitive,394,syntax,argument_structure,trigram1,-33.01814568570881,-32.82317929551182,FALSE
+Name is n't falling some play .,-32.82317929551182,-229.76225506858273,bad,transitive,394,syntax,argument_structure,trigram1,-33.01814568570881,-32.82317929551182,FALSE
+Name is n't talking about some play .,-33.14591361171025,-265.167308893682,good,transitive,394,syntax,argument_structure,trigram10,-33.14591361171025,-32.96635499679059,FALSE
+Name is n't falling some play .,-32.96635499679059,-230.76448497753412,bad,transitive,394,syntax,argument_structure,trigram10,-33.14591361171025,-32.96635499679059,FALSE
+Name is n't talking about some play .,-33.05137986778826,-264.4110389423061,good,transitive,394,syntax,argument_structure,trigram2,-33.05137986778826,-32.865121786508524,FALSE
+Name is n't falling some play .,-32.865121786508524,-230.05585250555967,bad,transitive,394,syntax,argument_structure,trigram2,-33.05137986778826,-32.865121786508524,FALSE
+Name is n't talking about some play .,-33.123136533135565,-264.9850922650845,good,transitive,394,syntax,argument_structure,trigram3,-33.123136533135565,-32.94207311612844,FALSE
+Name is n't falling some play .,-32.94207311612844,-230.5945118128991,bad,transitive,394,syntax,argument_structure,trigram3,-33.123136533135565,-32.94207311612844,FALSE
+Name is n't talking about some play .,-33.11029611279616,-264.88236890236925,good,transitive,394,syntax,argument_structure,trigram4,-33.11029611279616,-32.92696063885518,FALSE
+Name is n't falling some play .,-32.92696063885518,-230.48872447198625,bad,transitive,394,syntax,argument_structure,trigram4,-33.11029611279616,-32.92696063885518,FALSE
+Name is n't talking about some play .,-33.14342037808723,-265.1473630246978,good,transitive,394,syntax,argument_structure,trigram5,-33.14342037808723,-32.96525466516759,FALSE
+Name is n't falling some play .,-32.96525466516759,-230.75678265617313,bad,transitive,394,syntax,argument_structure,trigram5,-33.14342037808723,-32.96525466516759,FALSE
+Name is n't talking about some play .,-33.223177882252344,-265.78542305801875,good,transitive,394,syntax,argument_structure,trigram6,-33.223177882252344,-33.059698987447845,FALSE
+Name is n't falling some play .,-33.059698987447845,-231.4178929121349,bad,transitive,394,syntax,argument_structure,trigram6,-33.223177882252344,-33.059698987447845,FALSE
+Name is n't talking about some play .,-33.22850540633456,-265.8280432506765,good,transitive,394,syntax,argument_structure,trigram7,-33.22850540633456,-33.057045213684425,FALSE
+Name is n't falling some play .,-33.057045213684425,-231.39931649579097,bad,transitive,394,syntax,argument_structure,trigram7,-33.22850540633456,-33.057045213684425,FALSE
+Name is n't talking about some play .,-33.1370248093405,-265.096198474724,good,transitive,394,syntax,argument_structure,trigram8,-33.1370248093405,-32.95488780318271,FALSE
+Name is n't falling some play .,-32.95488780318271,-230.68421462227894,bad,transitive,394,syntax,argument_structure,trigram8,-33.1370248093405,-32.95488780318271,FALSE
+Name is n't talking about some play .,-33.24406753504762,-265.95254028038096,good,transitive,394,syntax,argument_structure,trigram9,-33.24406753504762,-33.07331320604367,FALSE
+Name is n't falling some play .,-33.07331320604367,-231.51319244230572,bad,transitive,394,syntax,argument_structure,trigram9,-33.24406753504762,-33.07331320604367,FALSE
+a picture looks like a mirror .,-32.98094167548535,-230.86659172839745,good,transitive,437,syntax,argument_structure,trigram1,-32.98094167548535,-33.521256250180734,TRUE
+a picture falls a mirror .,-33.521256250180734,-201.12753750108442,bad,transitive,437,syntax,argument_structure,trigram1,-32.98094167548535,-33.521256250180734,TRUE
+a picture looks like a mirror .,-33.24446327946531,-232.71124295625714,good,transitive,437,syntax,argument_structure,trigram10,-33.24446327946531,-33.80533016602771,TRUE
+a picture falls a mirror .,-33.80533016602771,-202.83198099616624,bad,transitive,437,syntax,argument_structure,trigram10,-33.24446327946531,-33.80533016602771,TRUE
+a picture looks like a mirror .,-33.10448822215168,-231.73141755506174,good,transitive,437,syntax,argument_structure,trigram2,-33.10448822215168,-33.688519770079786,TRUE
+a picture falls a mirror .,-33.688519770079786,-202.13111862047873,bad,transitive,437,syntax,argument_structure,trigram2,-33.10448822215168,-33.688519770079786,TRUE
+a picture looks like a mirror .,-33.4773922489313,-234.34174574251912,good,transitive,437,syntax,argument_structure,trigram3,-33.4773922489313,-34.05724711885208,TRUE
+a picture falls a mirror .,-34.05724711885208,-204.34348271311248,bad,transitive,437,syntax,argument_structure,trigram3,-33.4773922489313,-34.05724711885208,TRUE
+a picture looks like a mirror .,-33.085813271947,-231.60069290362904,good,transitive,437,syntax,argument_structure,trigram4,-33.085813271947,-33.57582933111494,TRUE
+a picture falls a mirror .,-33.57582933111494,-201.45497598668962,bad,transitive,437,syntax,argument_structure,trigram4,-33.085813271947,-33.57582933111494,TRUE
+a picture looks like a mirror .,-33.13988215392994,-231.97917507750955,good,transitive,437,syntax,argument_structure,trigram5,-33.13988215392994,-33.72391370185805,TRUE
+a picture falls a mirror .,-33.72391370185805,-202.3434822111483,bad,transitive,437,syntax,argument_structure,trigram5,-33.13988215392994,-33.72391370185805,TRUE
+a picture looks like a mirror .,-33.07862045830837,-231.55034320815858,good,transitive,437,syntax,argument_structure,trigram6,-33.07862045830837,-33.64720879673597,TRUE
+a picture falls a mirror .,-33.64720879673597,-201.8832527804158,bad,transitive,437,syntax,argument_structure,trigram6,-33.07862045830837,-33.64720879673597,TRUE
+a picture looks like a mirror .,-33.0186746520879,-231.1307225646153,good,transitive,437,syntax,argument_structure,trigram7,-33.0186746520879,-33.56707258797848,TRUE
+a picture falls a mirror .,-33.56707258797848,-201.40243552787086,bad,transitive,437,syntax,argument_structure,trigram7,-33.0186746520879,-33.56707258797848,TRUE
+a picture looks like a mirror .,-33.01001511084261,-231.07010577589824,good,transitive,437,syntax,argument_structure,trigram8,-33.01001511084261,-33.59416875317695,TRUE
+a picture falls a mirror .,-33.59416875317695,-201.56501251906172,bad,transitive,437,syntax,argument_structure,trigram8,-33.01001511084261,-33.59416875317695,TRUE
+a picture looks like a mirror .,-33.02151748041729,-231.150622362921,good,transitive,437,syntax,argument_structure,trigram9,-33.02151748041729,-33.5776936711682,TRUE
+a picture falls a mirror .,-33.5776936711682,-201.4661620270092,bad,transitive,437,syntax,argument_structure,trigram9,-33.02151748041729,-33.5776936711682,TRUE
+Name will n't cry Name .,-32.2437002639832,-193.4622015838992,bad,transitive,545,syntax,argument_structure,trigram1,-31.99117448648264,-32.2437002639832,TRUE
+Name will n't sound like Name .,-31.99117448648264,-223.93822140537847,good,transitive,545,syntax,argument_structure,trigram1,-31.99117448648264,-32.2437002639832,TRUE
+Name will n't cry Name .,-32.5573568270572,-195.3441409623432,bad,transitive,545,syntax,argument_structure,trigram10,-32.22529141100697,-32.5573568270572,TRUE
+Name will n't sound like Name .,-32.22529141100697,-225.5770398770488,good,transitive,545,syntax,argument_structure,trigram10,-32.22529141100697,-32.5573568270572,TRUE
+Name will n't cry Name .,-32.15340787944884,-192.92044727669307,bad,transitive,545,syntax,argument_structure,trigram2,-31.88402441031274,-32.15340787944884,TRUE
+Name will n't sound like Name .,-31.88402441031274,-223.18817087218918,good,transitive,545,syntax,argument_structure,trigram2,-31.88402441031274,-32.15340787944884,TRUE
+Name will n't cry Name .,-32.12736112925541,-192.7641667755325,bad,transitive,545,syntax,argument_structure,trigram3,-31.74969380458705,-32.12736112925541,TRUE
+Name will n't sound like Name .,-31.74969380458705,-222.24785663210935,good,transitive,545,syntax,argument_structure,trigram3,-31.74969380458705,-32.12736112925541,TRUE
+Name will n't cry Name .,-32.17532732718577,-193.05196396311462,bad,transitive,545,syntax,argument_structure,trigram4,-32.09117906734858,-32.17532732718577,TRUE
+Name will n't sound like Name .,-32.09117906734858,-224.63825347144004,good,transitive,545,syntax,argument_structure,trigram4,-32.09117906734858,-32.17532732718577,TRUE
+Name will n't cry Name .,-32.238962766655455,-193.43377659993274,bad,transitive,545,syntax,argument_structure,trigram5,-32.11776528120821,-32.238962766655455,TRUE
+Name will n't sound like Name .,-32.11776528120821,-224.82435696845747,good,transitive,545,syntax,argument_structure,trigram5,-32.11776528120821,-32.238962766655455,TRUE
+Name will n't cry Name .,-32.23767952261981,-193.42607713571886,bad,transitive,545,syntax,argument_structure,trigram6,-31.904882237566486,-32.23767952261981,TRUE
+Name will n't sound like Name .,-31.904882237566486,-223.3341756629654,good,transitive,545,syntax,argument_structure,trigram6,-31.904882237566486,-32.23767952261981,TRUE
+Name will n't cry Name .,-32.36369859551883,-194.18219157311296,bad,transitive,545,syntax,argument_structure,trigram7,-31.86085083246819,-32.36369859551883,TRUE
+Name will n't sound like Name .,-31.86085083246819,-223.02595582727733,good,transitive,545,syntax,argument_structure,trigram7,-31.86085083246819,-32.36369859551883,TRUE
+Name will n't cry Name .,-32.36528538707556,-194.19171232245336,bad,transitive,545,syntax,argument_structure,trigram8,-32.086242310699774,-32.36528538707556,TRUE
+Name will n't sound like Name .,-32.086242310699774,-224.6036961748984,good,transitive,545,syntax,argument_structure,trigram8,-32.086242310699774,-32.36528538707556,TRUE
+Name will n't cry Name .,-32.29198608489051,-193.75191650934306,bad,transitive,545,syntax,argument_structure,trigram9,-31.897767678829972,-32.29198608489051,TRUE
+Name will n't sound like Name .,-31.897767678829972,-223.2843737518098,good,transitive,545,syntax,argument_structure,trigram9,-31.897767678829972,-32.29198608489051,TRUE
+a lot of pictures fell that bicycle .,-33.88291041708778,-271.0632833367022,bad,transitive,658,syntax,argument_structure,trigram1,-33.762359028118766,-33.88291041708778,TRUE
+a lot of pictures looked like that bicycle .,-33.762359028118766,-303.86123125306887,good,transitive,658,syntax,argument_structure,trigram1,-33.762359028118766,-33.88291041708778,TRUE
+a lot of pictures fell that bicycle .,-33.88158329096761,-271.0526663277409,bad,transitive,658,syntax,argument_structure,trigram10,-33.76339197146307,-33.88158329096761,TRUE
+a lot of pictures looked like that bicycle .,-33.76339197146307,-303.87052774316766,good,transitive,658,syntax,argument_structure,trigram10,-33.76339197146307,-33.88158329096761,TRUE
+a lot of pictures fell that bicycle .,-33.814945424885536,-270.5195633990843,bad,transitive,658,syntax,argument_structure,trigram2,-33.69886525945662,-33.814945424885536,TRUE
+a lot of pictures looked like that bicycle .,-33.69886525945662,-303.28978733510957,good,transitive,658,syntax,argument_structure,trigram2,-33.69886525945662,-33.814945424885536,TRUE
+a lot of pictures fell that bicycle .,-33.81746013959527,-270.53968111676215,bad,transitive,658,syntax,argument_structure,trigram3,-33.77002906321639,-33.81746013959527,TRUE
+a lot of pictures looked like that bicycle .,-33.77002906321639,-303.9302615689475,good,transitive,658,syntax,argument_structure,trigram3,-33.77002906321639,-33.81746013959527,TRUE
+a lot of pictures fell that bicycle .,-33.90528310593195,-271.2422648474556,bad,transitive,658,syntax,argument_structure,trigram4,-33.78343853079083,-33.90528310593195,TRUE
+a lot of pictures looked like that bicycle .,-33.78343853079083,-304.0509467771175,good,transitive,658,syntax,argument_structure,trigram4,-33.78343853079083,-33.90528310593195,TRUE
+a lot of pictures fell that bicycle .,-33.942460055934575,-271.5396804474766,bad,transitive,658,syntax,argument_structure,trigram5,-33.99225120177792,-33.942460055934575,FALSE
+a lot of pictures looked like that bicycle .,-33.99225120177792,-305.9302608160013,good,transitive,658,syntax,argument_structure,trigram5,-33.99225120177792,-33.942460055934575,FALSE
+a lot of pictures fell that bicycle .,-33.66940983329371,-269.3552786663497,bad,transitive,658,syntax,argument_structure,trigram6,-33.63586764580373,-33.66940983329371,TRUE
+a lot of pictures looked like that bicycle .,-33.63586764580373,-302.72280881223355,good,transitive,658,syntax,argument_structure,trigram6,-33.63586764580373,-33.66940983329371,TRUE
+a lot of pictures fell that bicycle .,-33.78248612970524,-270.2598890376419,bad,transitive,658,syntax,argument_structure,trigram7,-33.74317953250305,-33.78248612970524,TRUE
+a lot of pictures looked like that bicycle .,-33.74317953250305,-303.68861579252746,good,transitive,658,syntax,argument_structure,trigram7,-33.74317953250305,-33.78248612970524,TRUE
+a lot of pictures fell that bicycle .,-33.7379441745977,-269.9035533967816,bad,transitive,658,syntax,argument_structure,trigram8,-33.63673052761172,-33.7379441745977,TRUE
+a lot of pictures looked like that bicycle .,-33.63673052761172,-302.7305747485055,good,transitive,658,syntax,argument_structure,trigram8,-33.63673052761172,-33.7379441745977,TRUE
+a lot of pictures fell that bicycle .,-33.74122752548511,-269.92982020388087,bad,transitive,658,syntax,argument_structure,trigram9,-33.70768533799512,-33.74122752548511,TRUE
+a lot of pictures looked like that bicycle .,-33.70768533799512,-303.36916804195613,good,transitive,658,syntax,argument_structure,trigram9,-33.70768533799512,-33.74122752548511,TRUE
+Name could talk some car .,-33.60893438545866,-201.65360631275198,bad,transitive,666,syntax,argument_structure,trigram1,-33.442267718792,-33.60893438545866,TRUE
+Name could buy some car .,-33.442267718792,-200.65360631275198,good,transitive,666,syntax,argument_structure,trigram1,-33.442267718792,-33.60893438545866,TRUE
+Name could talk some car .,-33.54794341332374,-201.28766047994245,bad,transitive,666,syntax,argument_structure,trigram10,-33.54794341332374,-33.54794341332374,FALSE
+Name could buy some car .,-33.54794341332374,-201.28766047994245,good,transitive,666,syntax,argument_structure,trigram10,-33.54794341332374,-33.54794341332374,FALSE
+Name could talk some car .,-33.48053185117252,-200.88319110703515,bad,transitive,666,syntax,argument_structure,trigram2,-33.48053185117252,-33.48053185117252,FALSE
+Name could buy some car .,-33.48053185117252,-200.88319110703515,good,transitive,666,syntax,argument_structure,trigram2,-33.48053185117252,-33.48053185117252,FALSE
+Name could talk some car .,-33.4976551180824,-200.98593070849438,bad,transitive,666,syntax,argument_structure,trigram3,-33.4976551180824,-33.4976551180824,FALSE
+Name could buy some car .,-33.4976551180824,-200.98593070849438,good,transitive,666,syntax,argument_structure,trigram3,-33.4976551180824,-33.4976551180824,FALSE
+Name could talk some car .,-33.560311097049684,-201.3618665822981,bad,transitive,666,syntax,argument_structure,trigram4,-33.39364443038301,-33.560311097049684,TRUE
+Name could buy some car .,-33.39364443038301,-200.3618665822981,good,transitive,666,syntax,argument_structure,trigram4,-33.39364443038301,-33.560311097049684,TRUE
+Name could talk some car .,-33.564880983460235,-201.38928590076142,bad,transitive,666,syntax,argument_structure,trigram5,-33.564880983460235,-33.564880983460235,FALSE
+Name could buy some car .,-33.564880983460235,-201.38928590076142,good,transitive,666,syntax,argument_structure,trigram5,-33.564880983460235,-33.564880983460235,FALSE
+Name could talk some car .,-33.49928791827903,-200.9957275096742,bad,transitive,666,syntax,argument_structure,trigram6,-33.332621251612366,-33.49928791827903,TRUE
+Name could buy some car .,-33.332621251612366,-199.9957275096742,good,transitive,666,syntax,argument_structure,trigram6,-33.332621251612366,-33.49928791827903,TRUE
+Name could talk some car .,-33.60302736982104,-201.61816421892627,bad,transitive,666,syntax,argument_structure,trigram7,-33.43636070315438,-33.60302736982104,TRUE
+Name could buy some car .,-33.43636070315438,-200.61816421892627,good,transitive,666,syntax,argument_structure,trigram7,-33.43636070315438,-33.60302736982104,TRUE
+Name could talk some car .,-33.57125149921863,-201.4275089953118,bad,transitive,666,syntax,argument_structure,trigram8,-33.40458483255197,-33.57125149921863,TRUE
+Name could buy some car .,-33.40458483255197,-200.4275089953118,good,transitive,666,syntax,argument_structure,trigram8,-33.40458483255197,-33.57125149921863,TRUE
+Name could talk some car .,-33.60601450474192,-201.63608702845153,bad,transitive,666,syntax,argument_structure,trigram9,-33.60601450474192,-33.60601450474192,FALSE
+Name could buy some car .,-33.60601450474192,-201.63608702845153,good,transitive,666,syntax,argument_structure,trigram9,-33.60601450474192,-33.60601450474192,FALSE
+Name should n't talk Name .,-32.60535443089025,-195.63212658534152,bad,transitive,806,syntax,argument_structure,trigram1,-32.43868776422359,-32.60535443089025,TRUE
+Name should n't find Name .,-32.43868776422359,-194.63212658534152,good,transitive,806,syntax,argument_structure,trigram1,-32.43868776422359,-32.60535443089025,TRUE
+Name should n't talk Name .,-32.65485057717739,-195.92910346306437,bad,transitive,806,syntax,argument_structure,trigram10,-32.48818391051073,-32.65485057717739,TRUE
+Name should n't find Name .,-32.48818391051073,-194.92910346306437,good,transitive,806,syntax,argument_structure,trigram10,-32.48818391051073,-32.65485057717739,TRUE
+Name should n't talk Name .,-32.75090162956904,-196.50540977741426,bad,transitive,806,syntax,argument_structure,trigram2,-32.75090162956904,-32.75090162956904,FALSE
+Name should n't find Name .,-32.75090162956904,-196.50540977741426,good,transitive,806,syntax,argument_structure,trigram2,-32.75090162956904,-32.75090162956904,FALSE
+Name should n't talk Name .,-32.77850956185683,-196.671057371141,bad,transitive,806,syntax,argument_structure,trigram3,-32.611842895190165,-32.77850956185683,TRUE
+Name should n't find Name .,-32.611842895190165,-195.671057371141,good,transitive,806,syntax,argument_structure,trigram3,-32.611842895190165,-32.77850956185683,TRUE
+Name should n't talk Name .,-32.826475759787186,-196.95885455872312,bad,transitive,806,syntax,argument_structure,trigram4,-32.65980909312052,-32.826475759787186,TRUE
+Name should n't find Name .,-32.65980909312052,-195.95885455872312,good,transitive,806,syntax,argument_structure,trigram4,-32.65980909312052,-32.826475759787186,TRUE
+Name should n't talk Name .,-32.76728360022917,-196.60370160137504,bad,transitive,806,syntax,argument_structure,trigram5,-32.600616933562506,-32.76728360022917,TRUE
+Name should n't find Name .,-32.600616933562506,-195.60370160137504,good,transitive,806,syntax,argument_structure,trigram5,-32.600616933562506,-32.76728360022917,TRUE
+Name should n't talk Name .,-32.76600035619353,-196.59600213716118,bad,transitive,806,syntax,argument_structure,trigram6,-32.599333689526865,-32.76600035619353,TRUE
+Name should n't find Name .,-32.599333689526865,-195.59600213716118,good,transitive,806,syntax,argument_structure,trigram6,-32.599333689526865,-32.76600035619353,TRUE
+Name should n't talk Name .,-32.69703192885216,-196.18219157311296,bad,transitive,806,syntax,argument_structure,trigram7,-32.53036526218549,-32.69703192885216,TRUE
+Name should n't find Name .,-32.53036526218549,-195.18219157311296,good,transitive,806,syntax,argument_structure,trigram7,-32.53036526218549,-32.69703192885216,TRUE
+Name should n't talk Name .,-32.62944580386242,-195.7766748231745,bad,transitive,806,syntax,argument_structure,trigram8,-32.462779137195746,-32.62944580386242,TRUE
+Name should n't find Name .,-32.462779137195746,-194.7766748231745,good,transitive,806,syntax,argument_structure,trigram8,-32.462779137195746,-32.62944580386242,TRUE
+Name should n't talk Name .,-32.65364025179756,-195.92184151078538,bad,transitive,806,syntax,argument_structure,trigram9,-32.4869735851309,-32.65364025179756,TRUE
+Name should n't find Name .,-32.4869735851309,-194.92184151078538,good,transitive,806,syntax,argument_structure,trigram9,-32.4869735851309,-32.65364025179756,TRUE
+some drawing of these dishes can fall Name .,-33.3089842040672,-299.7808578366048,bad,transitive,831,syntax,argument_structure,trigram1,-32.82568776580841,-33.3089842040672,TRUE
+some drawing of these dishes can look like Name .,-32.82568776580841,-328.25687765808414,good,transitive,831,syntax,argument_structure,trigram1,-32.82568776580841,-33.3089842040672,TRUE
+some drawing of these dishes can fall Name .,-33.34861946794534,-300.1375752115081,bad,transitive,831,syntax,argument_structure,trigram10,-32.93704741262137,-33.34861946794534,TRUE
+some drawing of these dishes can look like Name .,-32.93704741262137,-329.37047412621365,good,transitive,831,syntax,argument_structure,trigram10,-32.93704741262137,-33.34861946794534,TRUE
+some drawing of these dishes can fall Name .,-33.285663231961514,-299.5709690876536,bad,transitive,831,syntax,argument_structure,trigram2,-32.983869268314976,-33.285663231961514,TRUE
+some drawing of these dishes can look like Name .,-32.983869268314976,-329.83869268314976,good,transitive,831,syntax,argument_structure,trigram2,-32.983869268314976,-33.285663231961514,TRUE
+some drawing of these dishes can fall Name .,-33.31586652529969,-299.8427987276972,bad,transitive,831,syntax,argument_structure,trigram3,-32.89114510849952,-33.31586652529969,TRUE
+some drawing of these dishes can look like Name .,-32.89114510849952,-328.91145108499524,good,transitive,831,syntax,argument_structure,trigram3,-32.89114510849952,-33.31586652529969,TRUE
+some drawing of these dishes can fall Name .,-33.34886531665246,-300.1397878498721,bad,transitive,831,syntax,argument_structure,trigram4,-33.01411148574764,-33.34886531665246,TRUE
+some drawing of these dishes can look like Name .,-33.01411148574764,-330.1411148574764,good,transitive,831,syntax,argument_structure,trigram4,-33.01411148574764,-33.34886531665246,TRUE
+some drawing of these dishes can fall Name .,-33.30838252299436,-299.7754427069492,bad,transitive,831,syntax,argument_structure,trigram5,-33.21660230754739,-33.30838252299436,TRUE
+some drawing of these dishes can look like Name .,-33.21660230754739,-332.1660230754739,good,transitive,831,syntax,argument_structure,trigram5,-33.21660230754739,-33.30838252299436,TRUE
+some drawing of these dishes can fall Name .,-33.29984361942363,-299.6985925748127,bad,transitive,831,syntax,argument_structure,trigram6,-32.86066911020593,-33.29984361942363,TRUE
+some drawing of these dishes can look like Name .,-32.86066911020593,-328.6066911020593,good,transitive,831,syntax,argument_structure,trigram6,-32.86066911020593,-33.29984361942363,TRUE
+some drawing of these dishes can fall Name .,-33.38537464864106,-300.46837183776955,bad,transitive,831,syntax,argument_structure,trigram7,-32.98970985926551,-33.38537464864106,TRUE
+some drawing of these dishes can look like Name .,-32.98970985926551,-329.8970985926551,good,transitive,831,syntax,argument_structure,trigram7,-32.98970985926551,-33.38537464864106,TRUE
+some drawing of these dishes can fall Name .,-33.33473626450107,-300.01262638050963,bad,transitive,831,syntax,argument_structure,trigram8,-32.98396477322335,-33.33473626450107,TRUE
+some drawing of these dishes can look like Name .,-32.98396477322335,-329.8396477322335,good,transitive,831,syntax,argument_structure,trigram8,-32.98396477322335,-33.33473626450107,TRUE
+some drawing of these dishes can fall Name .,-33.35998722500124,-300.2398850250112,bad,transitive,831,syntax,argument_structure,trigram9,-32.97723422674779,-33.35998722500124,TRUE
+some drawing of these dishes can look like Name .,-32.97723422674779,-329.7723422674779,good,transitive,831,syntax,argument_structure,trigram9,-32.97723422674779,-33.35998722500124,TRUE
+Name fell Name .,-31.5703358126112,-126.2813432504448,bad,transitive,872,syntax,argument_structure,trigram1,-31.71657643779149,-31.5703358126112,FALSE
+Name forgot Name .,-31.71657643779149,-126.86630575116597,good,transitive,872,syntax,argument_structure,trigram1,-31.71657643779149,-31.5703358126112,FALSE
+Name fell Name .,-31.780863907692144,-127.12345563076858,bad,transitive,872,syntax,argument_structure,trigram10,-32.030863907692144,-31.780863907692144,FALSE
+Name forgot Name .,-32.030863907692144,-128.12345563076858,good,transitive,872,syntax,argument_structure,trigram10,-32.030863907692144,-31.780863907692144,FALSE
+Name fell Name .,-31.55251860080004,-126.21007440320017,bad,transitive,872,syntax,argument_structure,trigram2,-31.69875922598033,-31.55251860080004,FALSE
+Name forgot Name .,-31.69875922598033,-126.79503690392133,good,transitive,872,syntax,argument_structure,trigram2,-31.69875922598033,-31.55251860080004,FALSE
+Name fell Name .,-31.576233491512244,-126.30493396604898,bad,transitive,872,syntax,argument_structure,trigram3,-31.97247411669253,-31.576233491512244,FALSE
+Name forgot Name .,-31.97247411669253,-127.88989646677014,good,transitive,872,syntax,argument_structure,trigram3,-31.97247411669253,-31.576233491512244,FALSE
+Name fell Name .,-32.04289142448927,-128.17156569795708,bad,transitive,872,syntax,argument_structure,trigram4,-31.79289142448927,-32.04289142448927,TRUE
+Name forgot Name .,-31.79289142448927,-127.17156569795708,good,transitive,872,syntax,argument_structure,trigram4,-31.79289142448927,-32.04289142448927,TRUE
+Name fell Name .,-31.55939459090112,-126.23757836360447,bad,transitive,872,syntax,argument_structure,trigram5,-31.7056352160814,-31.55939459090112,FALSE
+Name forgot Name .,-31.7056352160814,-126.8225408643256,good,transitive,872,syntax,argument_structure,trigram5,-31.7056352160814,-31.55939459090112,FALSE
+Name fell Name .,-31.56899483616808,-126.27597934467231,bad,transitive,872,syntax,argument_structure,trigram6,-31.965235461348367,-31.56899483616808,FALSE
+Name forgot Name .,-31.965235461348367,-127.86094184539347,good,transitive,872,syntax,argument_structure,trigram6,-31.965235461348367,-31.56899483616808,FALSE
+Name fell Name .,-32.081184515835474,-128.3247380633419,bad,transitive,872,syntax,argument_structure,trigram7,-32.081184515835474,-32.081184515835474,FALSE
+Name forgot Name .,-32.081184515835474,-128.3247380633419,good,transitive,872,syntax,argument_structure,trigram7,-32.081184515835474,-32.081184515835474,FALSE
+Name fell Name .,-31.9881767795711,-127.9527071182844,bad,transitive,872,syntax,argument_structure,trigram8,-31.9881767795711,-31.9881767795711,FALSE
+Name forgot Name .,-31.9881767795711,-127.9527071182844,good,transitive,872,syntax,argument_structure,trigram8,-31.9881767795711,-31.9881767795711,FALSE
+Name fell Name .,-31.76078645865872,-127.04314583463488,bad,transitive,872,syntax,argument_structure,trigram9,-31.76078645865872,-31.76078645865872,FALSE
+Name forgot Name .,-31.76078645865872,-127.04314583463488,good,transitive,872,syntax,argument_structure,trigram9,-31.76078645865872,-31.76078645865872,FALSE
+Name fell some hat .,-33.17403159321609,-165.87015796608046,bad,transitive,927,syntax,argument_structure,trigram1,-33.17403159321609,-33.17403159321609,FALSE
+Name had some hat .,-33.17403159321609,-165.87015796608046,good,transitive,927,syntax,argument_structure,trigram1,-33.17403159321609,-33.17403159321609,FALSE
+Name fell some hat .,-33.324360431592154,-166.62180215796076,bad,transitive,927,syntax,argument_structure,trigram10,-33.324360431592154,-33.324360431592154,FALSE
+Name had some hat .,-33.324360431592154,-166.62180215796076,good,transitive,927,syntax,argument_structure,trigram10,-33.324360431592154,-33.324360431592154,FALSE
+Name fell some hat .,-33.32120143645799,-166.60600718228994,bad,transitive,927,syntax,argument_structure,trigram2,-33.23819393660222,-33.32120143645799,TRUE
+Name had some hat .,-33.23819393660222,-166.1909696830111,good,transitive,927,syntax,argument_structure,trigram2,-33.23819393660222,-33.32120143645799,TRUE
+Name fell some hat .,-33.14481671408623,-165.72408357043116,bad,transitive,927,syntax,argument_structure,trigram3,-33.26180921423047,-33.14481671408623,FALSE
+Name had some hat .,-33.26180921423047,-166.30904607115232,good,transitive,927,syntax,argument_structure,trigram3,-33.26180921423047,-33.14481671408623,FALSE
+Name fell some hat .,-33.46487319242807,-167.32436596214038,bad,transitive,927,syntax,argument_structure,trigram4,-33.14788069228384,-33.46487319242807,TRUE
+Name had some hat .,-33.14788069228384,-165.73940346141922,good,transitive,927,syntax,argument_structure,trigram4,-33.14788069228384,-33.46487319242807,TRUE
+Name fell some hat .,-33.18170154465303,-165.90850772326516,bad,transitive,927,syntax,argument_structure,trigram5,-33.29869404479726,-33.18170154465303,FALSE
+Name had some hat .,-33.29869404479726,-166.4934702239863,good,transitive,927,syntax,argument_structure,trigram5,-33.29869404479726,-33.18170154465303,FALSE
+Name fell some hat .,-33.12176640778468,-165.60883203892342,bad,transitive,927,syntax,argument_structure,trigram6,-33.12176640778468,-33.12176640778468,FALSE
+Name had some hat .,-33.12176640778468,-165.60883203892342,good,transitive,927,syntax,argument_structure,trigram6,-33.12176640778468,-33.12176640778468,FALSE
+Name fell some hat .,-33.59474175459706,-167.9737087729853,bad,transitive,927,syntax,argument_structure,trigram7,-33.19474175459706,-33.59474175459706,TRUE
+Name had some hat .,-33.19474175459706,-165.9737087729853,good,transitive,927,syntax,argument_structure,trigram7,-33.19474175459706,-33.59474175459706,TRUE
+Name fell some hat .,-33.50727146123364,-167.53635730616818,bad,transitive,927,syntax,argument_structure,trigram8,-33.30727146123364,-33.50727146123364,TRUE
+Name had some hat .,-33.30727146123364,-166.53635730616818,good,transitive,927,syntax,argument_structure,trigram8,-33.30727146123364,-33.50727146123364,TRUE
+Name fell some hat .,-33.40536283778679,-167.02681418893394,bad,transitive,927,syntax,argument_structure,trigram9,-33.20536283778679,-33.40536283778679,TRUE
+Name had some hat .,-33.20536283778679,-166.02681418893394,good,transitive,927,syntax,argument_structure,trigram9,-33.20536283778679,-33.40536283778679,TRUE

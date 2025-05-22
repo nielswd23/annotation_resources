@@ -1,0 +1,461 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+Name went fishing Name .,-17.35832072645868,-104.14992435875207,bad,causative,116,syntax,argument_structure,bigram1,-17.19165405979201,-17.35832072645868,TRUE
+Name sits down Name .,-17.19165405979201,-103.14992435875207,good,causative,116,syntax,argument_structure,bigram1,-17.19165405979201,-17.35832072645868,TRUE
+Name went fishing Name .,-17.38963307957344,-104.33779847744063,bad,causative,116,syntax,argument_structure,bigram10,-17.38963307957344,-17.38963307957344,FALSE
+Name sits down Name .,-17.38963307957344,-104.33779847744063,good,causative,116,syntax,argument_structure,bigram10,-17.38963307957344,-17.38963307957344,FALSE
+Name went fishing Name .,-17.185222663176216,-103.11133597905729,bad,causative,116,syntax,argument_structure,bigram2,-17.185222663176216,-17.185222663176216,FALSE
+Name sits down Name .,-17.185222663176216,-103.11133597905729,good,causative,116,syntax,argument_structure,bigram2,-17.185222663176216,-17.185222663176216,FALSE
+Name went fishing Name .,-17.26079373967848,-103.56476243807089,bad,causative,116,syntax,argument_structure,bigram3,-17.26079373967848,-17.26079373967848,FALSE
+Name sits down Name .,-17.26079373967848,-103.56476243807087,good,causative,116,syntax,argument_structure,bigram3,-17.26079373967848,-17.26079373967848,FALSE
+Name went fishing Name .,-17.47293278764707,-104.83759672588243,bad,causative,116,syntax,argument_structure,bigram4,-17.306266120980407,-17.47293278764707,TRUE
+Name sits down Name .,-17.306266120980407,-103.83759672588243,good,causative,116,syntax,argument_structure,bigram4,-17.306266120980407,-17.47293278764707,TRUE
+Name went fishing Name .,-17.245319392654824,-103.47191635592895,bad,causative,116,syntax,argument_structure,bigram5,-17.245319392654824,-17.245319392654824,FALSE
+Name sits down Name .,-17.245319392654824,-103.47191635592895,good,causative,116,syntax,argument_structure,bigram5,-17.245319392654824,-17.245319392654824,FALSE
+Name went fishing Name .,-17.228743290015842,-103.37245974009505,bad,causative,116,syntax,argument_structure,bigram6,-17.175088607534615,-17.228743290015842,TRUE
+Name sits down Name .,-17.175088607534615,-103.0505316452077,good,causative,116,syntax,argument_structure,bigram6,-17.175088607534615,-17.228743290015842,TRUE
+Name went fishing Name .,-17.418652213773488,-104.51191328264093,bad,causative,116,syntax,argument_structure,bigram7,-17.349479297227017,-17.418652213773488,TRUE
+Name sits down Name .,-17.349479297227017,-104.0968757833621,good,causative,116,syntax,argument_structure,bigram7,-17.349479297227017,-17.418652213773488,TRUE
+Name went fishing Name .,-17.278597123114835,-103.67158273868901,bad,causative,116,syntax,argument_structure,bigram8,-17.20942420656836,-17.278597123114835,TRUE
+Name sits down Name .,-17.20942420656836,-103.25654523941017,good,causative,116,syntax,argument_structure,bigram8,-17.20942420656836,-17.278597123114835,TRUE
+Name went fishing Name .,-17.411556019053872,-104.46933611432324,bad,causative,116,syntax,argument_structure,bigram9,-17.244889352387208,-17.411556019053872,TRUE
+Name sits down Name .,-17.244889352387208,-103.46933611432324,good,causative,116,syntax,argument_structure,bigram9,-17.244889352387208,-17.411556019053872,TRUE
+Name rolled the cars .,-18.371716295869348,-110.23029777521609,good,causative,121,syntax,argument_structure,bigram1,-18.371716295869348,-18.107555879082486,FALSE
+Name fell the cars .,-18.107555879082486,-108.64533527449493,bad,causative,121,syntax,argument_structure,bigram1,-18.371716295869348,-18.107555879082486,FALSE
+Name rolled the cars .,-18.600541014987872,-111.60324608992724,good,causative,121,syntax,argument_structure,bigram10,-18.600541014987872,-18.433874348321208,FALSE
+Name fell the cars .,-18.433874348321208,-110.60324608992724,bad,causative,121,syntax,argument_structure,bigram10,-18.600541014987872,-18.433874348321208,FALSE
+Name rolled the cars .,-18.390787899890498,-110.34472739934299,good,causative,121,syntax,argument_structure,bigram2,-18.390787899890498,-18.12662748310364,FALSE
+Name fell the cars .,-18.12662748310364,-108.75976489862182,bad,causative,121,syntax,argument_structure,bigram2,-18.390787899890498,-18.12662748310364,FALSE
+Name rolled the cars .,-18.53953129667373,-111.23718778004238,good,causative,121,syntax,argument_structure,bigram3,-18.53953129667373,-18.27537087988687,FALSE
+Name fell the cars .,-18.27537087988687,-109.65222527932123,bad,causative,121,syntax,argument_structure,bigram3,-18.53953129667373,-18.27537087988687,FALSE
+Name rolled the cars .,-18.40554230456664,-110.43325382739984,good,causative,121,syntax,argument_structure,bigram4,-18.40554230456664,-18.40554230456664,FALSE
+Name fell the cars .,-18.40554230456664,-110.43325382739984,bad,causative,121,syntax,argument_structure,bigram4,-18.40554230456664,-18.40554230456664,FALSE
+Name rolled the cars .,-18.43778907749684,-110.62673446498106,good,causative,121,syntax,argument_structure,bigram5,-18.43778907749684,-18.173628660709984,FALSE
+Name fell the cars .,-18.173628660709984,-109.0417719642599,bad,causative,121,syntax,argument_structure,bigram5,-18.43778907749684,-18.173628660709984,FALSE
+Name rolled the cars .,-18.36238059269657,-110.17428355617942,good,causative,121,syntax,argument_structure,bigram6,-18.36238059269657,-18.098220175909717,FALSE
+Name fell the cars .,-18.098220175909717,-108.58932105545829,bad,causative,121,syntax,argument_structure,bigram6,-18.36238059269657,-18.098220175909717,FALSE
+Name rolled the cars .,-18.552853289686663,-111.31711973811997,good,causative,121,syntax,argument_structure,bigram7,-18.552853289686663,-18.552853289686663,FALSE
+Name fell the cars .,-18.552853289686663,-111.31711973811997,bad,causative,121,syntax,argument_structure,bigram7,-18.552853289686663,-18.552853289686663,FALSE
+Name rolled the cars .,-18.32529558848432,-109.95177353090591,good,causative,121,syntax,argument_structure,bigram8,-18.32529558848432,-18.32529558848432,FALSE
+Name fell the cars .,-18.32529558848432,-109.95177353090591,bad,causative,121,syntax,argument_structure,bigram8,-18.32529558848432,-18.32529558848432,FALSE
+Name rolled the cars .,-18.433103188544703,-110.59861913126821,good,causative,121,syntax,argument_structure,bigram9,-18.433103188544703,-18.266436521878035,FALSE
+Name fell the cars .,-18.266436521878035,-109.59861913126821,bad,causative,121,syntax,argument_structure,bigram9,-18.433103188544703,-18.266436521878035,FALSE
+Name would n't waste away every box .,-18.748436008781272,-168.73592407903146,bad,causative,171,syntax,argument_structure,bigram1,-18.171968212384243,-18.748436008781272,TRUE
+Name would n't open every box .,-18.171968212384243,-145.37574569907395,good,causative,171,syntax,argument_structure,bigram1,-18.171968212384243,-18.748436008781272,TRUE
+Name would n't waste away every box .,-18.8429080810365,-169.58617272932852,bad,causative,171,syntax,argument_structure,bigram10,-18.32840166702847,-18.8429080810365,TRUE
+Name would n't open every box .,-18.32840166702847,-146.62721333622775,good,causative,171,syntax,argument_structure,bigram10,-18.32840166702847,-18.8429080810365,TRUE
+Name would n't waste away every box .,-18.920212213517328,-170.28190992165594,bad,causative,171,syntax,argument_structure,bigram2,-18.169219422341023,-18.920212213517328,TRUE
+Name would n't open every box .,-18.169219422341023,-145.35375537872818,good,causative,171,syntax,argument_structure,bigram2,-18.169219422341023,-18.920212213517328,TRUE
+Name would n't waste away every box .,-18.90924091137505,-170.18316820237547,bad,causative,171,syntax,argument_structure,bigram3,-18.330906086959224,-18.90924091137505,TRUE
+Name would n't open every box .,-18.330906086959224,-146.6472486956738,good,causative,171,syntax,argument_structure,bigram3,-18.330906086959224,-18.90924091137505,TRUE
+Name would n't waste away every box .,-18.84423768314422,-169.598139148298,bad,causative,171,syntax,argument_structure,bigram4,-18.40383555035641,-18.84423768314422,TRUE
+Name would n't open every box .,-18.40383555035641,-147.2306844028513,good,causative,171,syntax,argument_structure,bigram4,-18.40383555035641,-18.84423768314422,TRUE
+Name would n't waste away every box .,-18.79926504695985,-169.1933854226386,bad,causative,171,syntax,argument_structure,bigram5,-18.28033762880817,-18.79926504695985,TRUE
+Name would n't open every box .,-18.28033762880817,-146.24270103046535,good,causative,171,syntax,argument_structure,bigram5,-18.28033762880817,-18.79926504695985,TRUE
+Name would n't waste away every box .,-18.747992306260794,-168.73193075634714,bad,causative,171,syntax,argument_structure,bigram6,-18.224525345940357,-18.747992306260794,TRUE
+Name would n't open every box .,-18.224525345940357,-145.79620276752283,good,causative,171,syntax,argument_structure,bigram6,-18.224525345940357,-18.747992306260794,TRUE
+Name would n't waste away every box .,-18.96167935500234,-170.65511419502104,bad,causative,171,syntax,argument_structure,bigram7,-18.459943062190824,-18.96167935500234,TRUE
+Name would n't open every box .,-18.459943062190824,-147.6795444975266,good,causative,171,syntax,argument_structure,bigram7,-18.459943062190824,-18.96167935500234,TRUE
+Name would n't waste away every box .,-18.819718931006733,-169.37747037906058,bad,causative,171,syntax,argument_structure,bigram8,-18.301565886216565,-18.819718931006733,TRUE
+Name would n't open every box .,-18.301565886216565,-146.41252708973252,good,causative,171,syntax,argument_structure,bigram8,-18.301565886216565,-18.819718931006733,TRUE
+Name would n't waste away every box .,-18.8630710906924,-169.7676398162316,bad,causative,171,syntax,argument_structure,bigram9,-18.42122822049729,-18.8630710906924,TRUE
+Name would n't open every box .,-18.42122822049729,-147.36982576397833,good,causative,171,syntax,argument_structure,bigram9,-18.42122822049729,-18.8630710906924,TRUE
+Name could sneeze Name .,-17.260826976338485,-103.56496185803091,bad,causative,173,syntax,argument_structure,bigram1,-17.346091413922753,-17.260826976338485,FALSE
+Name could stand up Name .,-17.346091413922753,-121.42263989745926,good,causative,173,syntax,argument_structure,bigram1,-17.346091413922753,-17.260826976338485,FALSE
+Name could sneeze Name .,-17.487126829693633,-104.92276097816179,bad,causative,173,syntax,argument_structure,bigram10,-17.567832825093433,-17.487126829693633,FALSE
+Name could stand up Name .,-17.567832825093433,-122.97482977565403,good,causative,173,syntax,argument_structure,bigram10,-17.567832825093433,-17.487126829693633,FALSE
+Name could sneeze Name .,-17.35188932984288,-104.11133597905729,bad,causative,173,syntax,argument_structure,bigram2,-17.477007257691994,-17.35188932984288,FALSE
+Name could stand up Name .,-17.477007257691994,-122.33905080384396,good,causative,173,syntax,argument_structure,bigram2,-17.477007257691994,-17.35188932984288,FALSE
+Name could sneeze Name .,-17.26079373967848,-103.56476243807089,bad,causative,173,syntax,argument_structure,bigram3,-17.181113132943974,-17.26079373967848,TRUE
+Name could stand up Name .,-17.181113132943974,-120.26779193060783,good,causative,173,syntax,argument_structure,bigram3,-17.181113132943974,-17.26079373967848,TRUE
+Name could sneeze Name .,-17.375439037526878,-104.25263422516127,bad,causative,173,syntax,argument_structure,bigram4,-17.643515964741148,-17.375439037526878,FALSE
+Name could stand up Name .,-17.643515964741148,-123.50461175318804,good,causative,173,syntax,argument_structure,bigram4,-17.643515964741148,-17.375439037526878,FALSE
+Name could sneeze Name .,-17.245319392654824,-103.47191635592895,bad,causative,173,syntax,argument_structure,bigram5,-17.203228678300317,-17.245319392654824,TRUE
+Name could stand up Name .,-17.203228678300317,-120.42260074810223,good,causative,173,syntax,argument_structure,bigram5,-17.203228678300317,-17.245319392654824,TRUE
+Name could sneeze Name .,-17.39540995668251,-104.37245974009505,bad,causative,173,syntax,argument_structure,bigram6,-17.472598246988483,-17.39540995668251,FALSE
+Name could stand up Name .,-17.472598246988483,-122.30818772891938,good,causative,173,syntax,argument_structure,bigram6,-17.472598246988483,-17.39540995668251,FALSE
+Name could sneeze Name .,-17.51614596389368,-105.0968757833621,bad,causative,173,syntax,argument_structure,bigram7,-17.624572251816495,-17.51614596389368,FALSE
+Name could stand up Name .,-17.624572251816495,-123.37200576271546,good,causative,173,syntax,argument_structure,bigram7,-17.624572251816495,-17.51614596389368,FALSE
+Name could sneeze Name .,-17.37609087323503,-104.25654523941017,bad,causative,173,syntax,argument_structure,bigram8,-17.376646575431014,-17.37609087323503,FALSE
+Name could stand up Name .,-17.376646575431014,-121.6365260280171,good,causative,173,syntax,argument_structure,bigram8,-17.376646575431014,-17.37609087323503,FALSE
+Name could sneeze Name .,-17.31406226893368,-103.88437361360208,bad,causative,173,syntax,argument_structure,bigram9,-17.385317880733457,-17.31406226893368,FALSE
+Name could stand up Name .,-17.385317880733457,-121.6972251651342,good,causative,173,syntax,argument_structure,bigram9,-17.385317880733457,-17.31406226893368,FALSE
+Name moves Name .,-16.440956695614673,-82.20478347807337,good,causative,221,syntax,argument_structure,bigram1,-16.440956695614673,-17.70359146256978,TRUE
+Name got a job Name .,-17.70359146256978,-123.92514023798844,bad,causative,221,syntax,argument_structure,bigram1,-16.440956695614673,-17.70359146256978,TRUE
+Name moves Name .,-16.592760317012203,-82.96380158506102,good,causative,221,syntax,argument_structure,bigram10,-16.592760317012203,-17.58954755272844,TRUE
+Name got a job Name .,-17.58954755272844,-123.12683286909908,bad,causative,221,syntax,argument_structure,bigram10,-16.592760317012203,-17.58954755272844,TRUE
+Name moves Name .,-16.4366362872259,-82.18318143612952,good,causative,221,syntax,argument_structure,bigram2,-16.4366362872259,-17.719927217426438,TRUE
+Name got a job Name .,-17.719927217426438,-124.03949052198506,bad,causative,221,syntax,argument_structure,bigram2,-16.4366362872259,-17.719927217426438,TRUE
+Name moves Name .,-16.4397535865623,-82.1987679328115,good,causative,221,syntax,argument_structure,bigram3,-16.4397535865623,-17.628606032375924,TRUE
+Name got a job Name .,-17.628606032375924,-123.40024222663148,bad,causative,221,syntax,argument_structure,bigram3,-16.4397535865623,-17.628606032375924,TRUE
+Name moves Name .,-16.57703589594292,-82.8851794797146,good,causative,221,syntax,argument_structure,bigram4,-16.57703589594292,-17.719303781412403,TRUE
+Name got a job Name .,-17.719303781412403,-124.03512646988682,bad,causative,221,syntax,argument_structure,bigram4,-16.57703589594292,-17.719303781412403,TRUE
+Name moves Name .,-16.421238892895367,-82.10619446447684,good,causative,221,syntax,argument_structure,bigram5,-16.421238892895367,-17.46466796380856,TRUE
+Name got a job Name .,-17.46466796380856,-122.25267574665992,bad,causative,221,syntax,argument_structure,bigram5,-16.421238892895367,-17.46466796380856,TRUE
+Name moves Name .,-16.487346350254146,-82.43673175127073,good,causative,221,syntax,argument_structure,bigram6,-16.487346350254146,-17.712322804861717,TRUE
+Name got a job Name .,-17.712322804861717,-123.98625963403202,bad,causative,221,syntax,argument_structure,bigram6,-16.487346350254146,-17.712322804861717,TRUE
+Name moves Name .,-16.62426121717353,-83.12130608586764,good,causative,221,syntax,argument_structure,bigram7,-16.62426121717353,-17.783926140019343,TRUE
+Name got a job Name .,-17.783926140019343,-124.4874829801354,bad,causative,221,syntax,argument_structure,bigram7,-16.62426121717353,-17.783926140019343,TRUE
+Name moves Name .,-16.458320390016418,-82.29160195008208,good,causative,221,syntax,argument_structure,bigram8,-16.458320390016418,-17.578794789613706,TRUE
+Name got a job Name .,-17.578794789613706,-123.05156352729594,bad,causative,221,syntax,argument_structure,bigram8,-16.458320390016418,-17.578794789613706,TRUE
+Name moves Name .,-16.497311912269762,-82.48655956134881,good,causative,221,syntax,argument_structure,bigram9,-16.497311912269762,-17.875740653201472,TRUE
+Name got a job Name .,-17.875740653201472,-125.1301845724103,bad,causative,221,syntax,argument_structure,bigram9,-16.497311912269762,-17.875740653201472,TRUE
+Name tipped over this carriage .,-19.251485879516565,-134.76040115661596,good,causative,305,syntax,argument_structure,bigram1,-19.251485879516565,-18.802543379322877,FALSE
+Name falls this carriage .,-18.802543379322877,-112.81526027593725,bad,causative,305,syntax,argument_structure,bigram1,-19.251485879516565,-18.802543379322877,FALSE
+Name tipped over this carriage .,-19.17137648623476,-134.1996354036433,good,causative,305,syntax,argument_structure,bigram10,-19.17137648623476,-18.97093975187728,FALSE
+Name falls this carriage .,-18.97093975187728,-113.82563851126369,bad,causative,305,syntax,argument_structure,bigram10,-19.17137648623476,-18.97093975187728,FALSE
+Name tipped over this carriage .,-19.237885623578507,-134.66519936504955,good,causative,305,syntax,argument_structure,bigram2,-19.237885623578507,-18.95617413702029,FALSE
+Name falls this carriage .,-18.95617413702029,-113.73704482212176,bad,causative,305,syntax,argument_structure,bigram2,-19.237885623578507,-18.95617413702029,FALSE
+Name tipped over this carriage .,-19.31259211228899,-135.18814478602292,good,causative,305,syntax,argument_structure,bigram3,-19.31259211228899,-18.87286463000706,FALSE
+Name falls this carriage .,-18.87286463000706,-113.23718778004238,bad,causative,305,syntax,argument_structure,bigram3,-19.31259211228899,-18.87286463000706,FALSE
+Name tipped over this carriage .,-19.08686621355773,-133.60806349490414,good,causative,305,syntax,argument_structure,bigram4,-19.08686621355773,-18.87343479157624,FALSE
+Name falls this carriage .,-18.87343479157624,-113.24060874945744,bad,causative,305,syntax,argument_structure,bigram4,-19.08686621355773,-18.87343479157624,FALSE
+Name tipped over this carriage .,-19.30891162255364,-135.1623813578755,good,causative,305,syntax,argument_structure,bigram5,-19.30891162255364,-18.86861616095037,FALSE
+Name falls this carriage .,-18.86861616095037,-113.21169696570222,bad,causative,305,syntax,argument_structure,bigram5,-19.30891162255364,-18.86861616095037,FALSE
+Name tipped over this carriage .,-19.190343423762886,-134.3324039663402,good,causative,305,syntax,argument_structure,bigram6,-19.190343423762886,-18.83027307970617,FALSE
+Name falls this carriage .,-18.83027307970617,-112.98163847823703,bad,causative,305,syntax,argument_structure,bigram6,-19.190343423762886,-18.83027307970617,FALSE
+Name tipped over this carriage .,-19.184669919373487,-134.29268943561442,good,causative,305,syntax,argument_structure,bigram7,-19.184669919373487,-18.983680373140185,FALSE
+Name falls this carriage .,-18.983680373140185,-113.90208223884112,bad,causative,305,syntax,argument_structure,bigram7,-19.184669919373487,-18.983680373140185,FALSE
+Name tipped over this carriage .,-19.190250617073264,-134.33175431951284,good,causative,305,syntax,argument_structure,bigram8,-19.190250617073264,-18.89446850503079,FALSE
+Name falls this carriage .,-18.89446850503079,-113.36681103018475,bad,causative,305,syntax,argument_structure,bigram8,-19.190250617073264,-18.89446850503079,FALSE
+Name tipped over this carriage .,-19.083056526320377,-133.58139568424264,good,causative,305,syntax,argument_structure,bigram9,-19.083056526320377,-18.86393027199823,FALSE
+Name falls this carriage .,-18.86393027199823,-113.18358163198937,bad,causative,305,syntax,argument_structure,bigram9,-19.083056526320377,-18.86393027199823,FALSE
+Name was rolling that bicycle .,-19.16791980798497,-134.17543865589477,good,causative,378,syntax,argument_structure,bigram1,-19.16791980798497,-19.16791980798497,FALSE
+Name was falling that bicycle .,-19.16791980798497,-134.17543865589477,bad,causative,378,syntax,argument_structure,bigram1,-19.16791980798497,-19.16791980798497,FALSE
+Name was rolling that bicycle .,-19.11208541490921,-133.78459790436446,good,causative,378,syntax,argument_structure,bigram10,-19.11208541490921,-19.11208541490921,FALSE
+Name was falling that bicycle .,-19.11208541490921,-133.78459790436446,bad,causative,378,syntax,argument_structure,bigram10,-19.11208541490921,-19.11208541490921,FALSE
+Name was rolling that bicycle .,-18.868605266332622,-132.08023686432836,good,causative,378,syntax,argument_structure,bigram2,-18.868605266332622,-18.868605266332622,FALSE
+Name was falling that bicycle .,-18.868605266332622,-132.08023686432836,bad,causative,378,syntax,argument_structure,bigram2,-18.868605266332622,-18.868605266332622,FALSE
+Name was rolling that bicycle .,-19.08616889790025,-133.60318228530176,good,causative,378,syntax,argument_structure,bigram3,-19.08616889790025,-19.08616889790025,FALSE
+Name was falling that bicycle .,-19.08616889790025,-133.60318228530176,bad,causative,378,syntax,argument_structure,bigram3,-19.08616889790025,-19.08616889790025,FALSE
+Name was rolling that bicycle .,-19.062591213351688,-133.43813849346182,good,causative,378,syntax,argument_structure,bigram4,-19.062591213351688,-19.062591213351688,FALSE
+Name was falling that bicycle .,-19.062591213351688,-133.43813849346182,bad,causative,378,syntax,argument_structure,bigram4,-19.062591213351688,-19.062591213351688,FALSE
+Name was rolling that bicycle .,-19.02319733683936,-133.1623813578755,good,causative,378,syntax,argument_structure,bigram5,-19.02319733683936,-19.02319733683936,FALSE
+Name was falling that bicycle .,-19.02319733683936,-133.1623813578755,bad,causative,378,syntax,argument_structure,bigram5,-19.02319733683936,-19.02319733683936,FALSE
+Name was rolling that bicycle .,-19.015715935000536,-133.11001154500374,good,causative,378,syntax,argument_structure,bigram6,-19.015715935000536,-19.015715935000536,FALSE
+Name was falling that bicycle .,-19.015715935000536,-133.11001154500374,bad,causative,378,syntax,argument_structure,bigram6,-19.015715935000536,-19.015715935000536,FALSE
+Name was rolling that bicycle .,-19.184669919373487,-134.29268943561442,good,causative,378,syntax,argument_structure,bigram7,-19.184669919373487,-19.184669919373487,FALSE
+Name was falling that bicycle .,-19.184669919373487,-134.29268943561442,bad,causative,378,syntax,argument_structure,bigram7,-19.184669919373487,-19.184669919373487,FALSE
+Name was rolling that bicycle .,-19.02311847401008,-133.16182931807055,good,causative,378,syntax,argument_structure,bigram8,-19.02311847401008,-19.02311847401008,FALSE
+Name was falling that bicycle .,-19.02311847401008,-133.16182931807055,bad,causative,378,syntax,argument_structure,bigram8,-19.02311847401008,-19.02311847401008,FALSE
+Name was rolling that bicycle .,-19.083056526320377,-133.58139568424264,good,causative,378,syntax,argument_structure,bigram9,-19.083056526320377,-19.083056526320377,FALSE
+Name was falling that bicycle .,-19.083056526320377,-133.58139568424264,bad,causative,378,syntax,argument_structure,bigram9,-19.083056526320377,-19.083056526320377,FALSE
+Name was falling a car .,-18.17280776731896,-127.2096543712327,bad,causative,440,syntax,argument_structure,bigram1,-18.02995062446181,-18.17280776731896,TRUE
+Name was rolling a car .,-18.02995062446181,-126.2096543712327,good,causative,440,syntax,argument_structure,bigram1,-18.02995062446181,-18.17280776731896,TRUE
+Name was falling a car .,-18.047626684647447,-126.33338679253212,bad,causative,440,syntax,argument_structure,bigram10,-17.904769541790305,-18.047626684647447,TRUE
+Name was rolling a car .,-17.904769541790305,-125.33338679253212,good,causative,440,syntax,argument_structure,bigram10,-17.904769541790305,-18.047626684647447,TRUE
+Name was falling a car .,-17.86070777554674,-125.02495442882717,bad,causative,440,syntax,argument_structure,bigram2,-17.717850632689597,-17.86070777554674,TRUE
+Name was rolling a car .,-17.717850632689597,-124.02495442882717,good,causative,440,syntax,argument_structure,bigram2,-17.717850632689597,-17.86070777554674,TRUE
+Name was falling a car .,-18.01859329475196,-126.13015306326375,bad,causative,440,syntax,argument_structure,bigram3,-18.01859329475196,-18.01859329475196,FALSE
+Name was rolling a car .,-18.01859329475196,-126.13015306326375,good,causative,440,syntax,argument_structure,bigram3,-18.01859329475196,-18.01859329475196,FALSE
+Name was falling a car .,-18.030820867446483,-126.21574607212537,bad,causative,440,syntax,argument_structure,bigram4,-18.030820867446483,-18.030820867446483,FALSE
+Name was rolling a car .,-18.030820867446483,-126.21574607212537,good,causative,440,syntax,argument_structure,bigram4,-18.030820867446483,-18.030820867446483,FALSE
+Name was falling a car .,-18.013243975724098,-126.09270783006868,bad,causative,440,syntax,argument_structure,bigram5,-17.870386832866952,-18.013243975724098,TRUE
+Name was rolling a car .,-17.870386832866952,-125.09270783006868,good,causative,440,syntax,argument_structure,bigram5,-17.870386832866952,-18.013243975724098,TRUE
+Name was falling a car .,-17.985794025624973,-125.90055817937481,bad,causative,440,syntax,argument_structure,bigram6,-17.985794025624973,-17.985794025624973,FALSE
+Name was rolling a car .,-17.985794025624973,-125.90055817937481,good,causative,440,syntax,argument_structure,bigram6,-17.985794025624973,-17.985794025624973,FALSE
+Name was falling a car .,-18.10764723207234,-126.75353062450637,bad,causative,440,syntax,argument_structure,bigram7,-17.964790089215196,-18.10764723207234,TRUE
+Name was rolling a car .,-17.964790089215196,-125.75353062450637,good,causative,440,syntax,argument_structure,bigram7,-17.964790089215196,-18.10764723207234,TRUE
+Name was falling a car .,-17.98500611105366,-125.89504277737564,bad,causative,440,syntax,argument_structure,bigram8,-17.84214896819652,-17.98500611105366,TRUE
+Name was rolling a car .,-17.84214896819652,-124.89504277737564,good,causative,440,syntax,argument_structure,bigram8,-17.84214896819652,-17.98500611105366,TRUE
+Name was falling a car .,-18.05128618041517,-126.35900326290619,bad,causative,440,syntax,argument_structure,bigram9,-17.908429037558026,-18.05128618041517,TRUE
+Name was rolling a car .,-17.908429037558026,-125.35900326290619,good,causative,440,syntax,argument_structure,bigram9,-17.908429037558026,-18.05128618041517,TRUE
+Name can n't fall apart these forks .,-18.83308492687074,-169.49776434183667,bad,causative,459,syntax,argument_structure,bigram1,-18.218158567387547,-18.83308492687074,TRUE
+Name can n't break these forks .,-18.218158567387547,-145.74526853910038,good,causative,459,syntax,argument_structure,bigram1,-18.218158567387547,-18.83308492687074,TRUE
+Name can n't fall apart these forks .,-18.642814568247733,-167.7853311142296,bad,causative,459,syntax,argument_structure,bigram10,-18.05491857475245,-18.642814568247733,TRUE
+Name can n't break these forks .,-18.05491857475245,-144.4393485980196,good,causative,459,syntax,argument_structure,bigram10,-18.05491857475245,-18.642814568247733,TRUE
+Name can n't fall apart these forks .,-18.655310932662957,-167.89779839396658,bad,causative,459,syntax,argument_structure,bigram2,-18.16770157855322,-18.655310932662957,TRUE
+Name can n't break these forks .,-18.16770157855322,-145.34161262842576,good,causative,459,syntax,argument_structure,bigram2,-18.16770157855322,-18.655310932662957,TRUE
+Name can n't fall apart these forks .,-18.576912593553164,-167.1922133419785,bad,causative,459,syntax,argument_structure,bigram3,-18.14072238982225,-18.576912593553164,TRUE
+Name can n't break these forks .,-18.14072238982225,-145.125779118578,good,causative,459,syntax,argument_structure,bigram3,-18.14072238982225,-18.576912593553164,TRUE
+Name can n't fall apart these forks .,-18.599617114000267,-167.3965540260024,bad,causative,459,syntax,argument_structure,bigram4,-18.064767170159787,-18.599617114000267,TRUE
+Name can n't break these forks .,-18.064767170159787,-144.5181373612783,good,causative,459,syntax,argument_structure,bigram4,-18.064767170159787,-18.599617114000267,TRUE
+Name can n't fall apart these forks .,-18.521784709550214,-166.69606238595196,bad,causative,459,syntax,argument_structure,bigram5,-17.977422321902807,-18.521784709550214,TRUE
+Name can n't break these forks .,-17.977422321902807,-143.81937857522246,good,causative,459,syntax,argument_structure,bigram5,-17.977422321902807,-18.521784709550214,TRUE
+Name can n't fall apart these forks .,-18.63823186873924,-167.74408681865313,bad,causative,459,syntax,argument_structure,bigram6,-18.02792454113845,-18.63823186873924,TRUE
+Name can n't break these forks .,-18.02792454113845,-144.2233963291076,good,causative,459,syntax,argument_structure,bigram6,-18.02792454113845,-18.63823186873924,TRUE
+Name can n't fall apart these forks .,-18.870669997820148,-169.83602998038134,bad,causative,459,syntax,argument_structure,bigram7,-18.265436836090085,-18.870669997820148,TRUE
+Name can n't break these forks .,-18.265436836090085,-146.12349468872068,good,causative,459,syntax,argument_structure,bigram7,-18.265436836090085,-18.870669997820148,TRUE
+Name can n't fall apart these forks .,-18.60561487125004,-167.45053384125032,bad,causative,459,syntax,argument_structure,bigram8,-18.06069881899028,-18.60561487125004,TRUE
+Name can n't break these forks .,-18.06069881899028,-144.48559055192223,good,causative,459,syntax,argument_structure,bigram8,-18.06069881899028,-18.60561487125004,TRUE
+Name can n't fall apart these forks .,-18.65529917918602,-167.89769261267418,bad,causative,459,syntax,argument_structure,bigram9,-18.19912349560155,-18.65529917918602,TRUE
+Name can n't break these forks .,-18.19912349560155,-145.5929879648124,good,causative,459,syntax,argument_structure,bigram9,-18.19912349560155,-18.65529917918602,TRUE
+Name falls some wheelbarrow .,-18.871716295869348,-113.23029777521609,bad,causative,461,syntax,argument_structure,bigram1,-18.70504962920268,-18.871716295869348,TRUE
+Name broke some wheelbarrow .,-18.70504962920268,-112.23029777521609,good,causative,461,syntax,argument_structure,bigram1,-18.70504962920268,-18.871716295869348,TRUE
+Name falls some wheelbarrow .,-18.97093975187728,-113.82563851126369,bad,causative,461,syntax,argument_structure,bigram10,-18.70677933509042,-18.97093975187728,TRUE
+Name broke some wheelbarrow .,-18.70677933509042,-112.24067601054253,good,causative,461,syntax,argument_structure,bigram10,-18.70677933509042,-18.97093975187728,TRUE
+Name falls some wheelbarrow .,-19.12284080368696,-114.73704482212176,bad,causative,461,syntax,argument_structure,bigram2,-18.8586803869001,-19.12284080368696,TRUE
+Name broke some wheelbarrow .,-18.8586803869001,-113.1520823214006,good,causative,461,syntax,argument_structure,bigram2,-18.8586803869001,-19.12284080368696,TRUE
+Name falls some wheelbarrow .,-18.87286463000706,-113.23718778004238,bad,causative,461,syntax,argument_structure,bigram3,-18.7061979633404,-18.87286463000706,TRUE
+Name broke some wheelbarrow .,-18.7061979633404,-112.23718778004238,good,causative,461,syntax,argument_structure,bigram3,-18.7061979633404,-18.87286463000706,TRUE
+Name falls some wheelbarrow .,-18.94260770812271,-113.65564624873628,bad,causative,461,syntax,argument_structure,bigram4,-18.678447291335853,-18.94260770812271,TRUE
+Name broke some wheelbarrow .,-18.678447291335853,-112.07068374801511,good,causative,461,syntax,argument_structure,bigram4,-18.678447291335853,-18.94260770812271,TRUE
+Name falls some wheelbarrow .,-18.86861616095037,-113.21169696570222,bad,causative,461,syntax,argument_structure,bigram5,-18.60445574416351,-18.86861616095037,TRUE
+Name broke some wheelbarrow .,-18.60445574416351,-111.62673446498106,good,causative,461,syntax,argument_structure,bigram5,-18.60445574416351,-18.86861616095037,TRUE
+Name falls some wheelbarrow .,-19.163606413039503,-114.98163847823703,bad,causative,461,syntax,argument_structure,bigram6,-18.99693974637284,-19.163606413039503,TRUE
+Name broke some wheelbarrow .,-18.99693974637284,-113.98163847823703,good,causative,461,syntax,argument_structure,bigram6,-18.99693974637284,-19.163606413039503,TRUE
+Name falls some wheelbarrow .,-19.247840789927043,-115.48704473956226,bad,causative,461,syntax,argument_structure,bigram7,-18.983680373140185,-19.247840789927043,TRUE
+Name broke some wheelbarrow .,-18.983680373140185,-113.9020822388411,good,causative,461,syntax,argument_structure,bigram7,-18.983680373140185,-19.247840789927043,TRUE
+Name falls some wheelbarrow .,-19.15862892181765,-114.95177353090591,bad,causative,461,syntax,argument_structure,bigram8,-18.82529558848432,-19.15862892181765,TRUE
+Name broke some wheelbarrow .,-18.82529558848432,-112.95177353090591,good,causative,461,syntax,argument_structure,bigram8,-18.82529558848432,-19.15862892181765,TRUE
+Name falls some wheelbarrow .,-18.933103188544703,-113.59861913126821,bad,causative,461,syntax,argument_structure,bigram9,-18.66894277175784,-18.933103188544703,TRUE
+Name broke some wheelbarrow .,-18.66894277175784,-112.01365663054705,good,causative,461,syntax,argument_structure,bigram9,-18.66894277175784,-18.933103188544703,TRUE
+Name might wash Name .,-17.524987393125347,-105.14992435875207,good,causative,493,syntax,argument_structure,bigram1,-17.524987393125347,-17.35832072645868,FALSE
+Name might sing Name .,-17.35832072645868,-104.14992435875207,bad,causative,493,syntax,argument_structure,bigram1,-17.524987393125347,-17.35832072645868,FALSE
+Name might wash Name .,-17.487126829693633,-104.92276097816179,good,causative,493,syntax,argument_structure,bigram10,-17.487126829693633,-17.22296641290677,FALSE
+Name might sing Name .,-17.22296641290677,-103.33779847744063,bad,causative,493,syntax,argument_structure,bigram10,-17.487126829693633,-17.22296641290677,FALSE
+Name might wash Name .,-17.35188932984288,-104.11133597905729,good,causative,493,syntax,argument_structure,bigram2,-17.35188932984288,-17.185222663176216,FALSE
+Name might sing Name .,-17.185222663176216,-103.11133597905729,bad,causative,493,syntax,argument_structure,bigram2,-17.35188932984288,-17.185222663176216,FALSE
+Name might wash Name .,-17.358287489798673,-104.14972493879203,good,causative,493,syntax,argument_structure,bigram3,-17.358287489798673,-17.094127073011812,FALSE
+Name might sing Name .,-17.094127073011812,-102.56476243807087,bad,causative,493,syntax,argument_structure,bigram3,-17.358287489798673,-17.094127073011812,FALSE
+Name might wash Name .,-17.47293278764707,-104.83759672588243,good,causative,493,syntax,argument_structure,bigram4,-17.47293278764707,-17.208772370860217,FALSE
+Name might sing Name .,-17.208772370860217,-103.2526342251613,bad,causative,493,syntax,argument_structure,bigram4,-17.47293278764707,-17.208772370860217,FALSE
+Name might wash Name .,-17.509479809441686,-105.05687885665012,good,causative,493,syntax,argument_structure,bigram5,-17.509479809441686,-17.342813142775018,FALSE
+Name might sing Name .,-17.342813142775018,-104.05687885665012,bad,causative,493,syntax,argument_structure,bigram5,-17.509479809441686,-17.342813142775018,FALSE
+Name might wash Name .,-17.562076623349174,-105.37245974009505,good,causative,493,syntax,argument_structure,bigram6,-17.562076623349174,-17.39540995668251,FALSE
+Name might sing Name .,-17.39540995668251,-104.37245974009505,bad,causative,493,syntax,argument_structure,bigram6,-17.562076623349174,-17.39540995668251,FALSE
+Name might wash Name .,-17.51614596389368,-105.0968757833621,good,causative,493,syntax,argument_structure,bigram7,-17.51614596389368,-17.251985547106823,FALSE
+Name might sing Name .,-17.251985547106823,-103.51191328264095,bad,causative,493,syntax,argument_structure,bigram7,-17.51614596389368,-17.251985547106823,FALSE
+Name might wash Name .,-17.37609087323503,-104.25654523941017,good,causative,493,syntax,argument_structure,bigram8,-17.37609087323503,-17.111930456448167,FALSE
+Name might sing Name .,-17.111930456448167,-102.67158273868901,bad,causative,493,syntax,argument_structure,bigram8,-17.37609087323503,-17.111930456448167,FALSE
+Name might wash Name .,-17.411556019053872,-104.46933611432324,good,causative,493,syntax,argument_structure,bigram9,-17.411556019053872,-17.244889352387208,FALSE
+Name might sing Name .,-17.244889352387208,-103.46933611432324,bad,causative,493,syntax,argument_structure,bigram9,-17.411556019053872,-17.244889352387208,FALSE
+Name can n't bake these cakes .,-18.64219824523489,-149.13758596187915,good,causative,504,syntax,argument_structure,bigram1,-18.64219824523489,-18.194077932644756,FALSE
+Name can n't fall these cakes .,-18.194077932644756,-145.55262346115802,bad,causative,504,syntax,argument_structure,bigram1,-18.64219824523489,-18.194077932644756,FALSE
+Name can n't bake these cakes .,-18.56585142990874,-148.52681143926992,good,causative,504,syntax,argument_structure,bigram10,-18.56585142990874,-18.103296465141103,FALSE
+Name can n't fall these cakes .,-18.103296465141103,-144.82637172112882,bad,causative,504,syntax,argument_structure,bigram10,-18.56585142990874,-18.103296465141103,FALSE
+Name can n't bake these cakes .,-18.67863443370951,-149.4290754696761,good,causative,504,syntax,argument_structure,bigram2,-18.67863443370951,-18.246205481379853,FALSE
+Name can n't fall these cakes .,-18.246205481379853,-145.96964385103882,bad,causative,504,syntax,argument_structure,bigram2,-18.67863443370951,-18.246205481379853,FALSE
+Name can n't bake these cakes .,-18.72827735458989,-149.8262188367191,good,causative,504,syntax,argument_structure,bigram3,-18.72827735458989,-18.280157041999743,FALSE
+Name can n't fall these cakes .,-18.280157041999743,-146.24125633599795,bad,causative,504,syntax,argument_structure,bigram3,-18.72827735458989,-18.280157041999743,FALSE
+Name can n't bake these cakes .,-18.720758109340235,-149.76606487472188,good,causative,504,syntax,argument_structure,bigram4,-18.720758109340235,-18.30551709747932,FALSE
+Name can n't fall these cakes .,-18.30551709747932,-146.44413677983454,bad,causative,504,syntax,argument_structure,bigram4,-18.720758109340235,-18.30551709747932,FALSE
+Name can n't bake these cakes .,-18.633413261083252,-149.06730608866604,good,causative,504,syntax,argument_structure,bigram5,-18.633413261083252,-18.218172249222334,FALSE
+Name can n't fall these cakes .,-18.218172249222334,-145.7453779937787,bad,causative,504,syntax,argument_structure,bigram5,-18.633413261083252,-18.218172249222334,FALSE
+Name can n't bake these cakes .,-18.51628586558952,-148.13028692471613,good,causative,504,syntax,argument_structure,bigram6,-18.51628586558952,-18.1010448537286,FALSE
+Name can n't fall these cakes .,-18.1010448537286,-144.8083588298288,bad,causative,504,syntax,argument_structure,bigram6,-18.51628586558952,-18.1010448537286,FALSE
+Name can n't bake these cakes .,-18.62879816054115,-149.0303852843292,good,causative,504,syntax,argument_structure,bigram7,-18.62879816054115,-18.23255753536086,FALSE
+Name can n't fall these cakes .,-18.23255753536086,-145.8604602828869,bad,causative,504,syntax,argument_structure,bigram7,-18.62879816054115,-18.23255753536086,FALSE
+Name can n't bake these cakes .,-18.7259398308512,-149.8075186468096,good,causative,504,syntax,argument_structure,bigram8,-18.7259398308512,-18.31069881899028,FALSE
+Name can n't fall these cakes .,-18.31069881899028,-146.48559055192223,bad,causative,504,syntax,argument_structure,bigram8,-18.7259398308512,-18.31069881899028,FALSE
+Name can n't bake these cakes .,-18.81248482005261,-150.4998785604209,good,causative,504,syntax,argument_structure,bigram9,-18.81248482005261,-18.36436450746247,FALSE
+Name can n't fall these cakes .,-18.36436450746247,-146.91491605969975,bad,causative,504,syntax,argument_structure,bigram9,-18.81248482005261,-18.36436450746247,FALSE
+Name could fall apart a wheelbarrow .,-19.566952129481542,-156.53561703585234,bad,causative,538,syntax,argument_structure,bigram1,-19.368831816891397,-19.566952129481542,TRUE
+Name could tip over a wheelbarrow .,-19.368831816891397,-154.95065453513115,good,causative,538,syntax,argument_structure,bigram1,-19.368831816891397,-19.566952129481542,TRUE
+Name could fall apart a wheelbarrow .,-19.64482434959301,-157.15859479674407,bad,causative,538,syntax,argument_structure,bigram10,-19.39482434959301,-19.64482434959301,TRUE
+Name could tip over a wheelbarrow .,-19.39482434959301,-155.15859479674407,good,causative,538,syntax,argument_structure,bigram10,-19.39482434959301,-19.64482434959301,TRUE
+Name could fall apart a wheelbarrow .,-19.699169238497163,-157.5933539079773,bad,causative,538,syntax,argument_structure,bigram2,-19.574169238497163,-19.699169238497163,TRUE
+Name could tip over a wheelbarrow .,-19.574169238497163,-156.5933539079773,good,causative,538,syntax,argument_structure,bigram2,-19.574169238497163,-19.699169238497163,TRUE
+Name could fall apart a wheelbarrow .,-19.319267411410287,-154.5541392912823,bad,causative,538,syntax,argument_structure,bigram3,-19.121147098820146,-19.319267411410287,TRUE
+Name could tip over a wheelbarrow .,-19.121147098820146,-152.96917679056114,good,causative,538,syntax,argument_structure,bigram3,-19.121147098820146,-19.319267411410287,TRUE
+Name could fall apart a wheelbarrow .,-19.621939780043853,-156.97551824035082,bad,causative,538,syntax,argument_structure,bigram4,-19.371939780043853,-19.621939780043853,TRUE
+Name could tip over a wheelbarrow .,-19.371939780043853,-154.97551824035082,good,causative,538,syntax,argument_structure,bigram4,-19.371939780043853,-19.621939780043853,TRUE
+Name could fall apart a wheelbarrow .,-19.367892593575803,-154.94314074860642,bad,causative,538,syntax,argument_structure,bigram5,-19.242892593575803,-19.367892593575803,TRUE
+Name could tip over a wheelbarrow .,-19.242892593575803,-153.94314074860642,good,causative,538,syntax,argument_structure,bigram5,-19.242892593575803,-19.367892593575803,TRUE
+Name could fall apart a wheelbarrow .,-19.98163680698571,-159.85309445588567,bad,causative,538,syntax,argument_structure,bigram6,-19.73163680698571,-19.98163680698571,TRUE
+Name could tip over a wheelbarrow .,-19.73163680698571,-157.85309445588567,good,causative,538,syntax,argument_structure,bigram6,-19.73163680698571,-19.98163680698571,TRUE
+Name could fall apart a wheelbarrow .,-19.929773016818896,-159.43818413455116,bad,causative,538,syntax,argument_structure,bigram7,-19.73165270422875,-19.929773016818896,TRUE
+Name could tip over a wheelbarrow .,-19.73165270422875,-157.85322163383,good,causative,538,syntax,argument_structure,bigram7,-19.73165270422875,-19.929773016818896,TRUE
+Name could fall apart a wheelbarrow .,-19.610207513695265,-156.88166010956212,bad,causative,538,syntax,argument_structure,bigram8,-19.360207513695265,-19.610207513695265,TRUE
+Name could tip over a wheelbarrow .,-19.360207513695265,-154.88166010956212,good,causative,538,syntax,argument_structure,bigram8,-19.360207513695265,-19.610207513695265,TRUE
+Name could fall apart a wheelbarrow .,-19.497401217061988,-155.9792097364959,bad,causative,538,syntax,argument_structure,bigram9,-19.247401217061988,-19.497401217061988,TRUE
+Name could tip over a wheelbarrow .,-19.247401217061988,-153.9792097364959,good,causative,538,syntax,argument_structure,bigram9,-19.247401217061988,-19.497401217061988,TRUE
+Name had n't disappeared a lot of forks .,-19.720350637587323,-197.20350637587325,bad,causative,591,syntax,argument_structure,bigram1,-19.720350637587323,-19.720350637587323,FALSE
+Name had n't cracked a lot of forks .,-19.720350637587323,-197.20350637587325,good,causative,591,syntax,argument_structure,bigram1,-19.720350637587323,-19.720350637587323,FALSE
+Name had n't disappeared a lot of forks .,-19.775458548805823,-197.75458548805824,bad,causative,591,syntax,argument_structure,bigram10,-19.775458548805823,-19.775458548805823,FALSE
+Name had n't cracked a lot of forks .,-19.775458548805823,-197.75458548805824,good,causative,591,syntax,argument_structure,bigram10,-19.775458548805823,-19.775458548805823,FALSE
+Name had n't disappeared a lot of forks .,-19.74052688744744,-197.40526887447436,bad,causative,591,syntax,argument_structure,bigram2,-19.74052688744744,-19.74052688744744,FALSE
+Name had n't cracked a lot of forks .,-19.74052688744744,-197.40526887447436,good,causative,591,syntax,argument_structure,bigram2,-19.74052688744744,-19.74052688744744,FALSE
+Name had n't disappeared a lot of forks .,-19.745605330324334,-197.45605330324338,bad,causative,591,syntax,argument_structure,bigram3,-19.745605330324334,-19.745605330324334,FALSE
+Name had n't cracked a lot of forks .,-19.745605330324334,-197.45605330324338,good,causative,591,syntax,argument_structure,bigram3,-19.745605330324334,-19.745605330324334,FALSE
+Name had n't disappeared a lot of forks .,-19.74429474203793,-197.44294742037928,bad,causative,591,syntax,argument_structure,bigram4,-19.74429474203793,-19.74429474203793,FALSE
+Name had n't cracked a lot of forks .,-19.74429474203793,-197.44294742037928,good,causative,591,syntax,argument_structure,bigram4,-19.74429474203793,-19.74429474203793,FALSE
+Name had n't disappeared a lot of forks .,-19.75993970351164,-197.59939703511643,bad,causative,591,syntax,argument_structure,bigram5,-19.75993970351164,-19.75993970351164,FALSE
+Name had n't cracked a lot of forks .,-19.75993970351164,-197.59939703511643,good,causative,591,syntax,argument_structure,bigram5,-19.75993970351164,-19.75993970351164,FALSE
+Name had n't disappeared a lot of forks .,-19.68728013921183,-196.8728013921183,bad,causative,591,syntax,argument_structure,bigram6,-19.68728013921183,-19.68728013921183,FALSE
+Name had n't cracked a lot of forks .,-19.68728013921183,-196.8728013921183,good,causative,591,syntax,argument_structure,bigram6,-19.68728013921183,-19.68728013921183,FALSE
+Name had n't disappeared a lot of forks .,-19.706739543465268,-197.0673954346527,bad,causative,591,syntax,argument_structure,bigram7,-19.706739543465268,-19.706739543465268,FALSE
+Name had n't cracked a lot of forks .,-19.706739543465268,-197.0673954346527,good,causative,591,syntax,argument_structure,bigram7,-19.706739543465268,-19.706739543465268,FALSE
+Name had n't disappeared a lot of forks .,-19.68342667647184,-196.83426676471836,bad,causative,591,syntax,argument_structure,bigram8,-19.68342667647184,-19.68342667647184,FALSE
+Name had n't cracked a lot of forks .,-19.68342667647184,-196.83426676471836,good,causative,591,syntax,argument_structure,bigram8,-19.68342667647184,-19.68342667647184,FALSE
+Name had n't disappeared a lot of forks .,-19.67223704211083,-196.7223704211083,bad,causative,591,syntax,argument_structure,bigram9,-19.67223704211083,-19.67223704211083,FALSE
+Name had n't cracked a lot of forks .,-19.67223704211083,-196.7223704211083,good,causative,591,syntax,argument_structure,bigram9,-19.67223704211083,-19.67223704211083,FALSE
+those people fell most bananas .,-20.139769771261765,-140.97838839883235,bad,causative,600,syntax,argument_structure,bigram1,-20.139769771261765,-20.139769771261765,FALSE
+those people grow most bananas .,-20.139769771261765,-140.97838839883235,good,causative,600,syntax,argument_structure,bigram1,-20.139769771261765,-20.139769771261765,FALSE
+those people fell most bananas .,-20.066957864483367,-140.46870505138358,bad,causative,600,syntax,argument_structure,bigram10,-20.066957864483367,-20.066957864483367,FALSE
+those people grow most bananas .,-20.066957864483367,-140.46870505138358,good,causative,600,syntax,argument_structure,bigram10,-20.066957864483367,-20.066957864483367,FALSE
+those people fell most bananas .,-20.12566329046721,-140.8796430332705,bad,causative,600,syntax,argument_structure,bigram2,-20.12566329046721,-20.12566329046721,FALSE
+those people grow most bananas .,-20.12566329046721,-140.8796430332705,good,causative,600,syntax,argument_structure,bigram2,-20.12566329046721,-20.12566329046721,FALSE
+those people fell most bananas .,-20.053713099351786,-140.3759916954625,bad,causative,600,syntax,argument_structure,bigram3,-20.053713099351786,-20.053713099351786,FALSE
+those people grow most bananas .,-20.053713099351786,-140.3759916954625,good,causative,600,syntax,argument_structure,bigram3,-20.053713099351786,-20.053713099351786,FALSE
+those people fell most bananas .,-20.289588680805046,-142.02712076563532,bad,causative,600,syntax,argument_structure,bigram4,-20.289588680805046,-20.289588680805046,FALSE
+those people grow most bananas .,-20.289588680805046,-142.02712076563532,good,causative,600,syntax,argument_structure,bigram4,-20.289588680805046,-20.289588680805046,FALSE
+those people fell most bananas .,-20.131298470809043,-140.9190892956633,bad,causative,600,syntax,argument_structure,bigram5,-20.131298470809043,-20.131298470809043,FALSE
+those people grow most bananas .,-20.131298470809043,-140.9190892956633,good,causative,600,syntax,argument_structure,bigram5,-20.131298470809043,-20.131298470809043,FALSE
+those people fell most bananas .,-20.031038322231243,-140.2172682556187,bad,causative,600,syntax,argument_structure,bigram6,-20.031038322231243,-20.031038322231243,FALSE
+those people grow most bananas .,-20.031038322231243,-140.2172682556187,good,causative,600,syntax,argument_structure,bigram6,-20.031038322231243,-20.031038322231243,FALSE
+those people fell most bananas .,-20.192448174233824,-141.34713721963678,bad,causative,600,syntax,argument_structure,bigram7,-20.192448174233824,-20.192448174233824,FALSE
+those people grow most bananas .,-20.192448174233824,-141.34713721963678,good,causative,600,syntax,argument_structure,bigram7,-20.192448174233824,-20.192448174233824,FALSE
+those people fell most bananas .,-20.10289286161989,-140.72025003133922,bad,causative,600,syntax,argument_structure,bigram8,-20.10289286161989,-20.10289286161989,FALSE
+those people grow most bananas .,-20.10289286161989,-140.72025003133922,good,causative,600,syntax,argument_structure,bigram8,-20.10289286161989,-20.10289286161989,FALSE
+those people fell most bananas .,-20.19329412845099,-141.35305889915693,bad,causative,600,syntax,argument_structure,bigram9,-20.19329412845099,-20.19329412845099,FALSE
+those people grow most bananas .,-20.19329412845099,-141.35305889915693,good,causative,600,syntax,argument_structure,bigram9,-20.19329412845099,-20.19329412845099,FALSE
+most ladies fall these glasses .,-20.64694078305612,-144.52858548139284,bad,causative,612,syntax,argument_structure,bigram1,-20.809215795258943,-20.64694078305612,FALSE
+most ladies tip over these glasses .,-20.809215795258943,-166.47372636207155,good,causative,612,syntax,argument_structure,bigram1,-20.809215795258943,-20.64694078305612,FALSE
+most ladies fall these glasses .,-20.584184494547923,-144.08929146183547,bad,causative,612,syntax,argument_structure,bigram10,-20.756031356867027,-20.584184494547923,FALSE
+most ladies tip over these glasses .,-20.756031356867027,-166.0482508549362,good,causative,612,syntax,argument_structure,bigram10,-20.756031356867027,-20.584184494547923,FALSE
+most ladies fall these glasses .,-20.570731464384348,-143.99512025069043,bad,causative,612,syntax,argument_structure,bigram2,-20.615409349202277,-20.570731464384348,FALSE
+most ladies tip over these glasses .,-20.615409349202277,-164.9232747936182,good,causative,612,syntax,argument_structure,bigram2,-20.615409349202277,-20.570731464384348,FALSE
+most ladies fall these glasses .,-20.6393610527162,-144.4755273690134,bad,causative,612,syntax,argument_structure,bigram3,-20.678310546874243,-20.6393610527162,FALSE
+most ladies tip over these glasses .,-20.678310546874243,-165.42648437499395,good,causative,612,syntax,argument_structure,bigram3,-20.678310546874243,-20.6393610527162,FALSE
+most ladies fall these glasses .,-20.631348312630585,-144.4194381884141,bad,causative,612,syntax,argument_structure,bigram4,-20.671481929322745,-20.631348312630585,FALSE
+most ladies tip over these glasses .,-20.671481929322745,-165.37185543458196,good,causative,612,syntax,argument_structure,bigram4,-20.671481929322745,-20.631348312630585,FALSE
+most ladies fall these glasses .,-20.601227987551187,-144.2085959128583,bad,causative,612,syntax,argument_structure,bigram5,-20.894910038128945,-20.601227987551187,FALSE
+most ladies tip over these glasses .,-20.894910038128945,-167.15928030503156,good,causative,612,syntax,argument_structure,bigram5,-20.894910038128945,-20.601227987551187,FALSE
+most ladies fall these glasses .,-20.608808910711023,-144.26166237497716,bad,causative,612,syntax,argument_structure,bigram6,-20.649673795475184,-20.608808910711023,FALSE
+most ladies tip over these glasses .,-20.649673795475184,-165.19739036380147,good,causative,612,syntax,argument_structure,bigram6,-20.649673795475184,-20.608808910711023,FALSE
+most ladies fall these glasses .,-20.63751634815096,-144.46261443705671,bad,causative,612,syntax,argument_structure,bigram7,-20.929773016818896,-20.63751634815096,FALSE
+most ladies tip over these glasses .,-20.929773016818896,-167.43818413455116,good,causative,612,syntax,argument_structure,bigram7,-20.929773016818896,-20.63751634815096,FALSE
+most ladies fall these glasses .,-20.639305361928955,-144.47513753350268,bad,causative,612,syntax,argument_structure,bigram8,-20.80501010285385,-20.639305361928955,FALSE
+most ladies tip over these glasses .,-20.80501010285385,-166.44008082283077,good,causative,612,syntax,argument_structure,bigram8,-20.80501010285385,-20.639305361928955,FALSE
+most ladies fall these glasses .,-20.684804498648987,-144.7936314905429,bad,causative,612,syntax,argument_structure,bigram9,-20.722051005439667,-20.684804498648987,FALSE
+most ladies tip over these glasses .,-20.722051005439667,-165.77640804351734,good,causative,612,syntax,argument_structure,bigram9,-20.722051005439667,-20.684804498648987,FALSE
+Name fell apart the mirrors .,-19.084353736453377,-133.59047615517363,bad,causative,705,syntax,argument_structure,bigram1,-18.92499984825053,-19.084353736453377,TRUE
+Name tipped over the mirrors .,-18.92499984825053,-132.4749989377537,good,causative,705,syntax,argument_structure,bigram1,-18.92499984825053,-19.084353736453377,TRUE
+Name fell apart the mirrors .,-19.254942557766352,-134.78459790436446,bad,causative,705,syntax,argument_structure,bigram10,-18.77032578308367,-19.254942557766352,TRUE
+Name tipped over the mirrors .,-18.77032578308367,-131.3922804815857,good,causative,705,syntax,argument_structure,bigram10,-18.77032578308367,-19.254942557766352,TRUE
+Name fell apart the mirrors .,-19.29717669490405,-135.08023686432836,bad,causative,705,syntax,argument_structure,bigram2,-18.97969206328456,-19.29717669490405,TRUE
+Name tipped over the mirrors .,-18.97969206328456,-132.8578444429919,good,causative,705,syntax,argument_structure,bigram2,-18.97969206328456,-19.29717669490405,TRUE
+Name fell apart the mirrors .,-19.31259211228899,-135.18814478602292,bad,causative,705,syntax,argument_structure,bigram3,-19.010381081229,-19.31259211228899,TRUE
+Name tipped over the mirrors .,-19.010381081229,-133.07266756860298,good,causative,705,syntax,argument_structure,bigram3,-19.010381081229,-19.31259211228899,TRUE
+Name fell apart the mirrors .,-19.59900371366076,-137.1930259956253,bad,causative,705,syntax,argument_structure,bigram4,-18.957310414185088,-19.59900371366076,TRUE
+Name tipped over the mirrors .,-18.957310414185088,-132.7011728992956,good,causative,705,syntax,argument_structure,bigram4,-18.957310414185088,-19.59900371366076,TRUE
+Name fell apart the mirrors .,-19.30891162255364,-135.1623813578755,bad,causative,705,syntax,argument_structure,bigram5,-19.0607736805299,-19.30891162255364,TRUE
+Name tipped over the mirrors .,-19.0607736805299,-133.42541576370928,good,causative,705,syntax,argument_structure,bigram5,-19.0607736805299,-19.30891162255364,TRUE
+Name fell apart the mirrors .,-19.10677735223129,-133.74744146561903,bad,causative,705,syntax,argument_structure,bigram6,-18.79678806631096,-19.10677735223129,TRUE
+Name tipped over the mirrors .,-18.79678806631096,-131.5775164641767,good,causative,705,syntax,argument_structure,bigram6,-18.79678806631096,-19.10677735223129,TRUE
+Name fell apart the mirrors .,-19.411093133762225,-135.87765193633555,bad,causative,705,syntax,argument_structure,bigram7,-18.85296590581815,-19.411093133762225,TRUE
+Name tipped over the mirrors .,-18.85296590581815,-131.97076134072705,good,causative,705,syntax,argument_structure,bigram7,-18.85296590581815,-19.411093133762225,TRUE
+Name fell apart the mirrors .,-19.333107759930407,-135.33175431951284,bad,causative,705,syntax,argument_structure,bigram8,-18.78919991392218,-19.333107759930407,TRUE
+Name tipped over the mirrors .,-18.78919991392218,-131.52439939745526,good,causative,705,syntax,argument_structure,bigram8,-18.78919991392218,-19.333107759930407,TRUE
+Name fell apart the mirrors .,-19.36877081203466,-135.58139568424264,bad,causative,705,syntax,argument_structure,bigram9,-18.7012814774673,-19.36877081203466,TRUE
+Name tipped over the mirrors .,-18.7012814774673,-130.90897034227112,good,causative,705,syntax,argument_structure,bigram9,-18.7012814774673,-19.36877081203466,TRUE
+Name might grow bananas .,-19.13587671265621,-114.81526027593725,good,causative,746,syntax,argument_structure,bigram1,-19.13587671265621,-18.748888696841647,FALSE
+Name might fall bananas .,-18.748888696841647,-112.49333218104988,bad,causative,746,syntax,argument_structure,bigram1,-19.13587671265621,-18.748888696841647,FALSE
+Name might grow bananas .,-19.068433501997475,-114.41060101198485,good,causative,746,syntax,argument_structure,bigram10,-19.068433501997475,-18.63760641854395,FALSE
+Name might fall bananas .,-18.63760641854395,-111.82563851126369,bad,causative,746,syntax,argument_structure,bigram10,-19.068433501997475,-18.63760641854395,FALSE
+Name might grow bananas .,-18.95617413702029,-113.73704482212176,good,causative,746,syntax,argument_structure,bigram2,-18.95617413702029,-18.56918612120573,FALSE
+Name might fall bananas .,-18.56918612120573,-111.41511672723439,bad,causative,746,syntax,argument_structure,bigram2,-18.95617413702029,-18.56918612120573,FALSE
+Name might grow bananas .,-18.97035838012725,-113.82215028076354,good,causative,746,syntax,argument_structure,bigram3,-18.97035838012725,-18.583370364312696,FALSE
+Name might fall bananas .,-18.583370364312696,-111.50022218587617,bad,causative,746,syntax,argument_structure,bigram3,-18.97035838012725,-18.583370364312696,FALSE
+Name might grow bananas .,-19.040101458242905,-114.24060874945744,good,causative,746,syntax,argument_structure,bigram4,-19.040101458242905,-18.653113442428342,FALSE
+Name might fall bananas .,-18.653113442428342,-111.91868065457007,bad,causative,746,syntax,argument_structure,bigram4,-19.040101458242905,-18.653113442428342,FALSE
+Name might grow bananas .,-19.13277657773723,-114.79665946642338,good,causative,746,syntax,argument_structure,bigram5,-19.13277657773723,-18.74578856192267,FALSE
+Name might fall bananas .,-18.74578856192267,-112.47473137153601,bad,causative,746,syntax,argument_structure,bigram5,-19.13277657773723,-18.74578856192267,FALSE
+Name might grow bananas .,-19.163606413039503,-114.98163847823703,good,causative,746,syntax,argument_structure,bigram6,-19.163606413039503,-18.899445996252645,FALSE
+Name might fall bananas .,-18.899445996252645,-113.39667597751587,bad,causative,746,syntax,argument_structure,bigram6,-19.163606413039503,-18.899445996252645,FALSE
+Name might grow bananas .,-19.08117412326038,-114.48704473956226,good,causative,746,syntax,argument_structure,bigram7,-19.08117412326038,-18.747840789927043,FALSE
+Name might fall bananas .,-18.747840789927043,-112.48704473956226,bad,causative,746,syntax,argument_structure,bigram7,-19.08117412326038,-18.747840789927043,FALSE
+Name might grow bananas .,-18.991962255150984,-113.95177353090591,good,causative,746,syntax,argument_structure,bigram8,-18.991962255150984,-18.72780183836413,FALSE
+Name might fall bananas .,-18.72780183836413,-112.36681103018475,bad,causative,746,syntax,argument_structure,bigram8,-18.991962255150984,-18.72780183836413,FALSE
+Name might grow bananas .,-19.030596938664896,-114.18358163198937,good,causative,746,syntax,argument_structure,bigram9,-19.030596938664896,-18.766436521878035,FALSE
+Name might fall bananas .,-18.766436521878035,-112.59861913126821,bad,causative,746,syntax,argument_structure,bigram9,-19.030596938664896,-18.766436521878035,FALSE
+Name should paint Name .,-17.35832072645868,-104.14992435875207,bad,causative,817,syntax,argument_structure,bigram1,-17.094160309671818,-17.35832072645868,TRUE
+Name should move Name .,-17.094160309671818,-102.56496185803091,good,causative,817,syntax,argument_structure,bigram1,-17.094160309671818,-17.35832072645868,TRUE
+Name should paint Name .,-17.487126829693633,-104.92276097816179,bad,causative,817,syntax,argument_structure,bigram10,-17.22296641290677,-17.487126829693633,TRUE
+Name should move Name .,-17.22296641290677,-103.33779847744063,good,causative,817,syntax,argument_structure,bigram10,-17.22296641290677,-17.487126829693633,TRUE
+Name should paint Name .,-17.518555996509548,-105.11133597905729,bad,causative,817,syntax,argument_structure,bigram2,-17.254395579722686,-17.518555996509548,TRUE
+Name should move Name .,-17.254395579722686,-103.52637347833613,good,causative,817,syntax,argument_structure,bigram2,-17.254395579722686,-17.518555996509548,TRUE
+Name should paint Name .,-17.524954156465338,-105.14972493879203,bad,causative,817,syntax,argument_structure,bigram3,-17.524954156465338,-17.524954156465338,FALSE
+Name should move Name .,-17.524954156465338,-105.14972493879203,good,causative,817,syntax,argument_structure,bigram3,-17.524954156465338,-17.524954156465338,FALSE
+Name should paint Name .,-17.63959945431374,-105.83759672588243,bad,causative,817,syntax,argument_structure,bigram4,-17.375439037526885,-17.63959945431374,TRUE
+Name should move Name .,-17.375439037526885,-104.2526342251613,good,causative,817,syntax,argument_structure,bigram4,-17.375439037526885,-17.63959945431374,TRUE
+Name should paint Name .,-17.509479809441686,-105.05687885665012,bad,causative,817,syntax,argument_structure,bigram5,-17.245319392654824,-17.509479809441686,TRUE
+Name should move Name .,-17.245319392654824,-103.47191635592895,good,causative,817,syntax,argument_structure,bigram5,-17.245319392654824,-17.509479809441686,TRUE
+Name should paint Name .,-17.562076623349174,-105.37245974009505,bad,causative,817,syntax,argument_structure,bigram6,-17.297916206562316,-17.562076623349174,TRUE
+Name should move Name .,-17.297916206562316,-103.78749723937389,good,causative,817,syntax,argument_structure,bigram6,-17.297916206562316,-17.562076623349174,TRUE
+Name should paint Name .,-17.51614596389368,-105.0968757833621,bad,causative,817,syntax,argument_structure,bigram7,-17.251985547106823,-17.51614596389368,TRUE
+Name should move Name .,-17.251985547106823,-103.51191328264095,good,causative,817,syntax,argument_structure,bigram7,-17.251985547106823,-17.51614596389368,TRUE
+Name should paint Name .,-17.37609087323503,-104.25654523941017,bad,causative,817,syntax,argument_structure,bigram8,-17.37609087323503,-17.37609087323503,FALSE
+Name should move Name .,-17.37609087323503,-104.25654523941017,good,causative,817,syntax,argument_structure,bigram8,-17.37609087323503,-17.37609087323503,FALSE
+Name should paint Name .,-17.411556019053872,-104.46933611432324,bad,causative,817,syntax,argument_structure,bigram9,-17.147395602267014,-17.411556019053872,TRUE
+Name should move Name .,-17.147395602267014,-102.88437361360208,good,causative,817,syntax,argument_structure,bigram9,-17.147395602267014,-17.411556019053872,TRUE
+Name has n't broken every car .,-18.43459041834984,-147.47672334679874,good,causative,845,syntax,argument_structure,bigram1,-18.43459041834984,-18.68459041834984,TRUE
+Name has n't disappeared every car .,-18.68459041834984,-149.47672334679874,bad,causative,845,syntax,argument_structure,bigram1,-18.43459041834984,-18.68459041834984,TRUE
+Name has n't broken every car .,-18.69085142990874,-149.52681143926992,good,causative,845,syntax,argument_structure,bigram10,-18.69085142990874,-18.81585142990874,TRUE
+Name has n't disappeared every car .,-18.81585142990874,-150.52681143926992,bad,causative,845,syntax,argument_structure,bigram10,-18.69085142990874,-18.81585142990874,TRUE
+Name has n't broken every car .,-18.40461274221944,-147.23690193775553,good,causative,845,syntax,argument_structure,bigram2,-18.40461274221944,-18.65461274221944,TRUE
+Name has n't disappeared every car .,-18.65461274221944,-149.23690193775553,bad,causative,845,syntax,argument_structure,bigram2,-18.40461274221944,-18.65461274221944,TRUE
+Name has n't broken every car .,-18.40724847891605,-147.25798783132836,good,causative,845,syntax,argument_structure,bigram3,-18.40724847891605,-18.605368791506187,TRUE
+Name has n't disappeared every car .,-18.605368791506187,-148.8429503320495,bad,causative,845,syntax,argument_structure,bigram3,-18.40724847891605,-18.605368791506187,TRUE
+Name has n't broken every car .,-18.602939393363226,-148.82351514690578,good,causative,845,syntax,argument_structure,bigram4,-18.602939393363226,-18.727939393363226,TRUE
+Name has n't disappeared every car .,-18.727939393363226,-149.82351514690578,bad,causative,845,syntax,argument_structure,bigram4,-18.602939393363226,-18.727939393363226,TRUE
+Name has n't broken every car .,-18.613867740777284,-148.91094192621827,good,causative,845,syntax,argument_structure,bigram5,-18.613867740777284,-18.811988053367436,TRUE
+Name has n't disappeared every car .,-18.811988053367436,-150.49590442693946,bad,causative,845,syntax,argument_structure,bigram5,-18.613867740777284,-18.811988053367436,TRUE
+Name has n't broken every car .,-18.523026183952428,-148.18420947161943,good,causative,845,syntax,argument_structure,bigram6,-18.523026183952428,-18.773026183952428,TRUE
+Name has n't disappeared every car .,-18.773026183952428,-150.18420947161943,bad,causative,845,syntax,argument_structure,bigram6,-18.523026183952428,-18.773026183952428,TRUE
+Name has n't broken every car .,-18.63645880017319,-149.09167040138553,good,causative,845,syntax,argument_structure,bigram7,-18.63645880017319,-18.88645880017319,TRUE
+Name has n't disappeared every car .,-18.88645880017319,-151.09167040138553,bad,causative,845,syntax,argument_structure,bigram7,-18.63645880017319,-18.88645880017319,TRUE
+Name has n't broken every car .,-18.525988671265505,-148.20790937012404,good,causative,845,syntax,argument_structure,bigram8,-18.525988671265505,-18.72410898385565,TRUE
+Name has n't disappeared every car .,-18.72410898385565,-149.7928718708452,bad,causative,845,syntax,argument_structure,bigram8,-18.525988671265505,-18.72410898385565,TRUE
+Name has n't broken every car .,-18.48765090306183,-147.90120722449464,good,causative,845,syntax,argument_structure,bigram9,-18.48765090306183,-18.73765090306183,TRUE
+Name has n't disappeared every car .,-18.73765090306183,-149.90120722449464,bad,causative,845,syntax,argument_structure,bigram9,-18.48765090306183,-18.73765090306183,TRUE
+this teacher was n't falling apart every bicycle .,-20.41066202807363,-204.1066202807363,bad,causative,853,syntax,argument_structure,bigram1,-20.12905326667307,-20.41066202807363,TRUE
+this teacher was n't rolling every bicycle .,-20.12905326667307,-181.1614794000576,good,causative,853,syntax,argument_structure,bigram1,-20.12905326667307,-20.41066202807363,TRUE
+this teacher was n't falling apart every bicycle .,-20.350223663026554,-203.50223663026554,bad,causative,853,syntax,argument_structure,bigram10,-20.060364137462752,-20.350223663026554,TRUE
+this teacher was n't rolling every bicycle .,-20.060364137462752,-180.54327723716477,good,causative,853,syntax,argument_structure,bigram10,-20.060364137462752,-20.350223663026554,TRUE
+this teacher was n't falling apart every bicycle .,-20.29851680131236,-202.9851680131236,bad,causative,853,syntax,argument_structure,bigram2,-20.00633483002176,-20.29851680131236,TRUE
+this teacher was n't rolling every bicycle .,-20.00633483002176,-180.05701347019584,good,causative,853,syntax,argument_structure,bigram2,-20.00633483002176,-20.29851680131236,TRUE
+this teacher was n't falling apart every bicycle .,-20.348807004112643,-203.48807004112643,bad,causative,853,syntax,argument_structure,bigram3,-20.05967922612732,-20.348807004112643,TRUE
+this teacher was n't rolling every bicycle .,-20.05967922612732,-180.5371130351459,good,causative,853,syntax,argument_structure,bigram3,-20.05967922612732,-20.348807004112643,TRUE
+this teacher was n't falling apart every bicycle .,-20.342026439829212,-203.42026439829215,bad,causative,853,syntax,argument_structure,bigram4,-20.051983016902696,-20.342026439829212,TRUE
+this teacher was n't rolling every bicycle .,-20.051983016902696,-180.46784715212428,good,causative,853,syntax,argument_structure,bigram4,-20.051983016902696,-20.342026439829212,TRUE
+this teacher was n't falling apart every bicycle .,-20.32042235607526,-203.20422356075258,bad,causative,853,syntax,argument_structure,bigram5,-20.02817101873104,-20.32042235607526,TRUE
+this teacher was n't rolling every bicycle .,-20.02817101873104,-180.25353916857932,good,causative,853,syntax,argument_structure,bigram5,-20.02817101873104,-20.32042235607526,TRUE
+this teacher was n't falling apart every bicycle .,-20.274241685432784,-202.74241685432784,bad,causative,853,syntax,argument_structure,bigram6,-19.978520985055944,-20.274241685432784,TRUE
+this teacher was n't rolling every bicycle .,-19.978520985055944,-179.8066888655035,good,causative,853,syntax,argument_structure,bigram6,-19.978520985055944,-20.274241685432784,TRUE
+this teacher was n't falling apart every bicycle .,-20.464785654313893,-204.64785654313891,bad,causative,853,syntax,argument_structure,bigram7,-20.18580964951605,-20.464785654313893,TRUE
+this teacher was n't rolling every bicycle .,-20.18580964951605,-181.67228684564446,good,causative,853,syntax,argument_structure,bigram7,-20.18580964951605,-20.464785654313893,TRUE
+this teacher was n't falling apart every bicycle .,-20.38932211975475,-203.8932211975475,bad,causative,853,syntax,argument_structure,bigram8,-20.103141989802157,-20.38932211975475,TRUE
+this teacher was n't rolling every bicycle .,-20.103141989802157,-180.9282779082194,good,causative,853,syntax,argument_structure,bigram8,-20.103141989802157,-20.38932211975475,TRUE
+this teacher was n't falling apart every bicycle .,-20.42501080531365,-204.25010805313653,bad,causative,853,syntax,argument_structure,bigram9,-20.140814611129123,-20.42501080531365,TRUE
+this teacher was n't rolling every bicycle .,-20.140814611129123,-181.2673315001621,good,causative,853,syntax,argument_structure,bigram9,-20.140814611129123,-20.42501080531365,TRUE
+Name is n't opening this mouth .,-17.869799754888483,-142.95839803910786,good,causative,903,syntax,argument_structure,bigram1,-17.869799754888483,-17.994799754888483,TRUE
+Name is n't falling this mouth .,-17.994799754888483,-143.95839803910786,bad,causative,903,syntax,argument_structure,bigram1,-17.869799754888483,-17.994799754888483,TRUE
+Name is n't opening this mouth .,-17.864725433072763,-142.9178034645821,good,causative,903,syntax,argument_structure,bigram10,-17.864725433072763,-17.989725433072763,TRUE
+Name is n't falling this mouth .,-17.989725433072763,-143.9178034645821,bad,causative,903,syntax,argument_structure,bigram10,-17.864725433072763,-17.989725433072763,TRUE
+Name is n't opening this mouth .,-17.818300057083817,-142.54640045667054,good,causative,903,syntax,argument_structure,bigram2,-17.818300057083817,-17.943300057083817,TRUE
+Name is n't falling this mouth .,-17.943300057083817,-143.54640045667054,bad,causative,903,syntax,argument_structure,bigram2,-17.818300057083817,-17.943300057083817,TRUE
+Name is n't opening this mouth .,-17.923379351112796,-143.38703480890237,good,causative,903,syntax,argument_structure,bigram3,-17.923379351112796,-18.0483793511128,TRUE
+Name is n't falling this mouth .,-18.0483793511128,-144.38703480890237,bad,causative,903,syntax,argument_structure,bigram3,-17.923379351112796,-18.0483793511128,TRUE
+Name is n't opening this mouth .,-18.027565797542675,-144.2205263803414,good,causative,903,syntax,argument_structure,bigram4,-18.027565797542675,-18.027565797542675,FALSE
+Name is n't falling this mouth .,-18.027565797542675,-144.2205263803414,bad,causative,903,syntax,argument_structure,bigram4,-18.027565797542675,-18.027565797542675,FALSE
+Name is n't opening this mouth .,-17.81554388930831,-142.52435111446647,good,causative,903,syntax,argument_structure,bigram5,-17.81554388930831,-17.94054388930831,TRUE
+Name is n't falling this mouth .,-17.94054388930831,-143.52435111446647,bad,causative,903,syntax,argument_structure,bigram5,-17.81554388930831,-17.94054388930831,TRUE
+Name is n't opening this mouth .,-17.860039569198246,-142.88031655358597,good,causative,903,syntax,argument_structure,bigram6,-17.860039569198246,-17.985039569198246,TRUE
+Name is n't falling this mouth .,-17.985039569198246,-143.88031655358597,bad,causative,903,syntax,argument_structure,bigram6,-17.860039569198246,-17.985039569198246,TRUE
+Name is n't opening this mouth .,-18.05235675402013,-144.41885403216108,good,causative,903,syntax,argument_structure,bigram7,-18.05235675402013,-18.05235675402013,FALSE
+Name is n't falling this mouth .,-18.05235675402013,-144.41885403216108,bad,causative,903,syntax,argument_structure,bigram7,-18.05235675402013,-18.05235675402013,FALSE
+Name is n't opening this mouth .,-17.833065746644284,-142.66452597315427,good,causative,903,syntax,argument_structure,bigram8,-17.833065746644284,-17.958065746644284,TRUE
+Name is n't falling this mouth .,-17.958065746644284,-143.66452597315427,bad,causative,903,syntax,argument_structure,bigram8,-17.833065746644284,-17.958065746644284,TRUE
+Name is n't opening this mouth .,-17.870764967131933,-142.96611973705546,good,causative,903,syntax,argument_structure,bigram9,-17.870764967131933,-17.995764967131933,TRUE
+Name is n't falling this mouth .,-17.995764967131933,-143.96611973705546,bad,causative,903,syntax,argument_structure,bigram9,-17.870764967131933,-17.995764967131933,TRUE
+Name had disappeared this carriage .,-18.99329231922261,-132.95304623455831,bad,causative,96,syntax,argument_structure,bigram1,-18.99329231922261,-18.99329231922261,FALSE
+Name had turned this carriage .,-18.99329231922261,-132.95304623455831,good,causative,96,syntax,argument_structure,bigram1,-18.99329231922261,-18.99329231922261,FALSE
+Name had disappeared this carriage .,-19.17137648623476,-134.1996354036433,bad,causative,96,syntax,argument_structure,bigram10,-19.17137648623476,-19.17137648623476,FALSE
+Name had turned this carriage .,-19.17137648623476,-134.1996354036433,good,causative,96,syntax,argument_structure,bigram10,-19.17137648623476,-19.17137648623476,FALSE
+Name had disappeared this carriage .,-19.095028480721364,-133.66519936504955,bad,causative,96,syntax,argument_structure,bigram2,-19.095028480721364,-19.095028480721364,FALSE
+Name had turned this carriage .,-19.095028480721364,-133.66519936504955,good,causative,96,syntax,argument_structure,bigram2,-19.095028480721364,-19.095028480721364,FALSE
+Name had disappeared this carriage .,-19.08616889790025,-133.60318228530176,bad,causative,96,syntax,argument_structure,bigram3,-19.08616889790025,-19.08616889790025,FALSE
+Name had turned this carriage .,-19.08616889790025,-133.60318228530176,good,causative,96,syntax,argument_structure,bigram3,-19.08616889790025,-19.08616889790025,FALSE
+Name had disappeared this carriage .,-19.12444255724828,-133.87109790073794,bad,causative,96,syntax,argument_structure,bigram4,-19.12444255724828,-19.12444255724828,FALSE
+Name had turned this carriage .,-19.12444255724828,-133.87109790073794,good,causative,96,syntax,argument_structure,bigram4,-19.12444255724828,-19.12444255724828,FALSE
+Name had disappeared this carriage .,-19.02319733683936,-133.1623813578755,bad,causative,96,syntax,argument_structure,bigram5,-19.02319733683936,-19.02319733683936,FALSE
+Name had turned this carriage .,-19.02319733683936,-133.1623813578755,good,causative,96,syntax,argument_structure,bigram5,-19.02319733683936,-19.02319733683936,FALSE
+Name had disappeared this carriage .,-19.04748628090574,-133.3324039663402,bad,causative,96,syntax,argument_structure,bigram6,-19.04748628090574,-19.04748628090574,FALSE
+Name had turned this carriage .,-19.04748628090574,-133.3324039663402,good,causative,96,syntax,argument_structure,bigram6,-19.04748628090574,-19.04748628090574,FALSE
+Name had disappeared this carriage .,-19.125378848047937,-133.87765193633555,bad,causative,96,syntax,argument_structure,bigram7,-19.125378848047937,-19.125378848047937,FALSE
+Name had turned this carriage .,-19.125378848047937,-133.87765193633555,good,causative,96,syntax,argument_structure,bigram7,-19.125378848047937,-19.125378848047937,FALSE
+Name had disappeared this carriage .,-19.10668454554167,-133.74679181879168,bad,causative,96,syntax,argument_structure,bigram8,-19.10668454554167,-19.10668454554167,FALSE
+Name had turned this carriage .,-19.10668454554167,-133.74679181879168,good,causative,96,syntax,argument_structure,bigram8,-19.10668454554167,-19.10668454554167,FALSE
+Name had disappeared this carriage .,-19.05128618041517,-133.35900326290619,bad,causative,96,syntax,argument_structure,bigram9,-19.05128618041517,-19.05128618041517,FALSE
+Name had turned this carriage .,-19.05128618041517,-133.35900326290619,good,causative,96,syntax,argument_structure,bigram9,-19.05128618041517,-19.05128618041517,FALSE

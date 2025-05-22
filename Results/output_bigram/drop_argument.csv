@@ -1,0 +1,961 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+Name will watch .,-16.916943435279258,-84.5847171763963,good,drop_argument,113,syntax,argument_structure,bigram1,-16.916943435279258,-16.641729659594922,FALSE
+Name will go to .,-16.641729659594922,-99.85037795756953,bad,drop_argument,113,syntax,argument_structure,bigram1,-16.916943435279258,-16.641729659594922,FALSE
+Name will watch .,-17.29487233907683,-86.47436169538415,good,drop_argument,113,syntax,argument_structure,bigram10,-17.29487233907683,-16.747631418063175,FALSE
+Name will go to .,-16.747631418063175,-100.48578850837904,bad,drop_argument,113,syntax,argument_structure,bigram10,-17.29487233907683,-16.747631418063175,FALSE
+Name will watch .,-17.03590673182287,-85.17953365911436,good,drop_argument,113,syntax,argument_structure,bigram2,-17.03590673182287,-16.655183245053134,FALSE
+Name will go to .,-16.655183245053134,-99.93109947031881,bad,drop_argument,113,syntax,argument_structure,bigram2,-17.03590673182287,-16.655183245053134,FALSE
+Name will watch .,-16.91715821118415,-84.58579105592077,good,drop_argument,113,syntax,argument_structure,bigram3,-16.91715821118415,-16.638231488303404,FALSE
+Name will go to .,-16.638231488303404,-99.82938892982042,bad,drop_argument,113,syntax,argument_structure,bigram3,-16.91715821118415,-16.638231488303404,FALSE
+Name will watch .,-17.096167316246394,-85.48083658123197,good,drop_argument,113,syntax,argument_structure,bigram4,-17.096167316246394,-16.781403331650047,FALSE
+Name will go to .,-16.781403331650047,-100.68841998990028,bad,drop_argument,113,syntax,argument_structure,bigram4,-17.096167316246394,-16.781403331650047,FALSE
+Name will watch .,-16.964721452244326,-84.82360726122164,good,drop_argument,113,syntax,argument_structure,bigram5,-16.964721452244326,-16.919483968450375,FALSE
+Name will go to .,-16.919483968450375,-101.51690381070226,bad,drop_argument,113,syntax,argument_structure,bigram5,-16.964721452244326,-16.919483968450375,FALSE
+Name will watch .,-17.11729577415508,-85.58647887077541,good,drop_argument,113,syntax,argument_structure,bigram6,-17.11729577415508,-16.83405975912285,FALSE
+Name will go to .,-16.83405975912285,-101.00435855473711,bad,drop_argument,113,syntax,argument_structure,bigram6,-17.11729577415508,-16.83405975912285,FALSE
+Name will watch .,-17.24893770027459,-86.24468850137293,good,drop_argument,113,syntax,argument_structure,bigram7,-17.24893770027459,-16.906483080890453,FALSE
+Name will go to .,-16.906483080890453,-101.43889848534272,bad,drop_argument,113,syntax,argument_structure,bigram7,-17.24893770027459,-16.906483080890453,FALSE
+Name will watch .,-17.023293104398885,-85.11646552199443,good,drop_argument,113,syntax,argument_structure,bigram8,-17.023293104398885,-16.69026726554021,FALSE
+Name will go to .,-16.69026726554021,-100.14160359324126,bad,drop_argument,113,syntax,argument_structure,bigram8,-17.023293104398885,-16.69026726554021,FALSE
+Name will watch .,-16.986803707664006,-84.93401853832003,good,drop_argument,113,syntax,argument_structure,bigram9,-16.986803707664006,-16.761555317383326,FALSE
+Name will go to .,-16.761555317383326,-100.56933190429996,bad,drop_argument,113,syntax,argument_structure,bigram9,-16.986803707664006,-16.761555317383326,FALSE
+Name has n't run around .,-17.844093159314266,-124.90865211519987,good,drop_argument,127,syntax,argument_structure,bigram1,-17.844093159314266,-17.895506865755177,TRUE
+Name has n't gone to .,-17.895506865755177,-125.26854806028625,bad,drop_argument,127,syntax,argument_structure,bigram1,-17.844093159314266,-17.895506865755177,TRUE
+Name has n't run around .,-17.971759614258023,-125.80231729980616,good,drop_argument,127,syntax,argument_structure,bigram10,-17.971759614258023,-18.016024651770422,TRUE
+Name has n't gone to .,-18.016024651770422,-126.11217256239296,bad,drop_argument,127,syntax,argument_structure,bigram10,-17.971759614258023,-18.016024651770422,TRUE
+Name has n't run around .,-17.769535700975574,-124.38674990682902,good,drop_argument,127,syntax,argument_structure,bigram2,-17.769535700975574,-17.88062249792751,TRUE
+Name has n't gone to .,-17.88062249792751,-125.16435748549257,bad,drop_argument,127,syntax,argument_structure,bigram2,-17.769535700975574,-17.88062249792751,TRUE
+Name has n't run around .,-17.777455772661348,-124.44219040862944,good,drop_argument,127,syntax,argument_structure,bigram3,-17.777455772661348,-17.886450173046942,TRUE
+Name has n't gone to .,-17.886450173046942,-125.2051512113286,bad,drop_argument,127,syntax,argument_structure,bigram3,-17.777455772661348,-17.886450173046942,TRUE
+Name has n't run around .,-17.911320686344038,-125.37924480440826,good,drop_argument,127,syntax,argument_structure,bigram4,-17.911320686344038,-17.915952326014374,TRUE
+Name has n't gone to .,-17.915952326014374,-125.41166628210063,bad,drop_argument,127,syntax,argument_structure,bigram4,-17.911320686344038,-17.915952326014374,TRUE
+Name has n't run around .,-17.971282375287423,-125.79897662701197,good,drop_argument,127,syntax,argument_structure,bigram5,-17.971282375287423,-18.01286077271648,TRUE
+Name has n't gone to .,-18.01286077271648,-126.09002540901535,bad,drop_argument,127,syntax,argument_structure,bigram5,-17.971282375287423,-18.01286077271648,TRUE
+Name has n't run around .,-17.937588155016588,-125.56311708511612,good,drop_argument,127,syntax,argument_structure,bigram6,-17.937588155016588,-18.00937391794933,TRUE
+Name has n't gone to .,-18.00937391794933,-126.0656174256453,bad,drop_argument,127,syntax,argument_structure,bigram6,-17.937588155016588,-18.00937391794933,TRUE
+Name has n't run around .,-18.03756315603148,-126.26294209222036,good,drop_argument,127,syntax,argument_structure,bigram7,-18.03756315603148,-18.146557556417072,TRUE
+Name has n't gone to .,-18.146557556417072,-127.02590289491951,bad,drop_argument,127,syntax,argument_structure,bigram7,-18.03756315603148,-18.146557556417072,TRUE
+Name has n't run around .,-17.82640855137503,-124.78485985962521,good,drop_argument,127,syntax,argument_structure,bigram8,-17.82640855137503,-17.900352441792087,TRUE
+Name has n't gone to .,-17.900352441792087,-125.30246709254462,bad,drop_argument,127,syntax,argument_structure,bigram8,-17.82640855137503,-17.900352441792087,TRUE
+Name has n't run around .,-17.860516129744607,-125.02361290821226,good,drop_argument,127,syntax,argument_structure,bigram9,-17.860516129744607,-17.952929022582374,TRUE
+Name has n't gone to .,-17.952929022582374,-125.67050315807663,bad,drop_argument,127,syntax,argument_structure,bigram9,-17.860516129744607,-17.952929022582374,TRUE
+a son of Name should n't work with .,-19.255502510071477,-192.55502510071472,bad,drop_argument,144,syntax,argument_structure,bigram1,-19.480458859744683,-19.255502510071477,FALSE
+a son of Name should n't leave .,-19.480458859744683,-175.32412973770215,good,drop_argument,144,syntax,argument_structure,bigram1,-19.480458859744683,-19.255502510071477,FALSE
+a son of Name should n't work with .,-19.23929011634618,-192.3929011634618,bad,drop_argument,144,syntax,argument_structure,bigram10,-19.316553252182207,-19.23929011634618,FALSE
+a son of Name should n't leave .,-19.316553252182207,-173.84897926963987,good,drop_argument,144,syntax,argument_structure,bigram10,-19.316553252182207,-19.23929011634618,FALSE
+a son of Name should n't work with .,-19.495995361256,-194.95995361256,bad,drop_argument,144,syntax,argument_structure,bigram2,-19.667675443681347,-19.495995361256,FALSE
+a son of Name should n't leave .,-19.667675443681347,-177.0090789931321,good,drop_argument,144,syntax,argument_structure,bigram2,-19.667675443681347,-19.495995361256,FALSE
+a son of Name should n't work with .,-19.485355171593103,-194.85355171593105,bad,drop_argument,144,syntax,argument_structure,bigram3,-19.544732745550057,-19.485355171593103,FALSE
+a son of Name should n't leave .,-19.544732745550057,-175.9025947099505,good,drop_argument,144,syntax,argument_structure,bigram3,-19.544732745550057,-19.485355171593103,FALSE
+a son of Name should n't work with .,-19.482831546725485,-194.82831546725487,bad,drop_argument,144,syntax,argument_structure,bigram4,-19.652877580120776,-19.482831546725485,FALSE
+a son of Name should n't leave .,-19.652877580120776,-176.875898221087,good,drop_argument,144,syntax,argument_structure,bigram4,-19.652877580120776,-19.482831546725485,FALSE
+a son of Name should n't work with .,-19.557067572626664,-195.57067572626664,bad,drop_argument,144,syntax,argument_structure,bigram5,-19.59720875958409,-19.557067572626664,FALSE
+a son of Name should n't leave .,-19.59720875958409,-176.37487883625684,good,drop_argument,144,syntax,argument_structure,bigram5,-19.59720875958409,-19.557067572626664,FALSE
+a son of Name should n't work with .,-19.37960434463708,-193.79604344637082,bad,drop_argument,144,syntax,argument_structure,bigram6,-19.781137828776533,-19.37960434463708,FALSE
+a son of Name should n't leave .,-19.781137828776533,-178.0302404589888,good,drop_argument,144,syntax,argument_structure,bigram6,-19.781137828776533,-19.37960434463708,FALSE
+a son of Name should n't work with .,-19.33389434244883,-193.3389434244883,bad,drop_argument,144,syntax,argument_structure,bigram7,-19.482294850054863,-19.33389434244883,FALSE
+a son of Name should n't leave .,-19.482294850054863,-175.34065365049378,good,drop_argument,144,syntax,argument_structure,bigram7,-19.482294850054863,-19.33389434244883,FALSE
+a son of Name should n't work with .,-19.321500099670143,-193.21500099670143,bad,drop_argument,144,syntax,argument_structure,bigram8,-19.57299425588688,-19.321500099670143,FALSE
+a son of Name should n't leave .,-19.57299425588688,-176.15694830298187,good,drop_argument,144,syntax,argument_structure,bigram8,-19.57299425588688,-19.321500099670143,FALSE
+a son of Name should n't work with .,-19.32154619103296,-193.21546191032962,bad,drop_argument,144,syntax,argument_structure,bigram9,-19.728290383582507,-19.32154619103296,FALSE
+a son of Name should n't leave .,-19.728290383582507,-177.55461345224256,good,drop_argument,144,syntax,argument_structure,bigram9,-19.728290383582507,-19.32154619103296,FALSE
+Name went to .,-16.475653259785773,-82.37826629892886,bad,drop_argument,145,syntax,argument_structure,bigram1,-17.231244628644966,-16.475653259785773,FALSE
+Name helps .,-17.231244628644966,-68.92497851457986,good,drop_argument,145,syntax,argument_structure,bigram1,-17.231244628644966,-16.475653259785773,FALSE
+Name went to .,-16.438850755238285,-82.19425377619142,bad,drop_argument,145,syntax,argument_structure,bigram10,-17.373170556445828,-16.438850755238285,FALSE
+Name helps .,-17.373170556445828,-69.49268222578331,good,drop_argument,145,syntax,argument_structure,bigram10,-17.373170556445828,-16.438850755238285,FALSE
+Name went to .,-16.265822003032977,-81.32911001516489,bad,drop_argument,145,syntax,argument_structure,bigram2,-17.220183934066554,-16.265822003032977,FALSE
+Name helps .,-17.220183934066554,-68.88073573626622,good,drop_argument,145,syntax,argument_structure,bigram2,-17.220183934066554,-16.265822003032977,FALSE
+Name went to .,-16.36535983108491,-81.82679915542455,bad,drop_argument,145,syntax,argument_structure,bigram3,-17.230059067200614,-16.36535983108491,FALSE
+Name helps .,-17.230059067200614,-68.92023626880246,good,drop_argument,145,syntax,argument_structure,bigram3,-17.230059067200614,-16.36535983108491,FALSE
+Name went to .,-16.531766976641997,-82.65883488320998,bad,drop_argument,145,syntax,argument_structure,bigram4,-17.333943564280432,-16.531766976641997,FALSE
+Name helps .,-17.333943564280432,-69.33577425712173,good,drop_argument,145,syntax,argument_structure,bigram4,-17.333943564280432,-16.531766976641997,FALSE
+Name went to .,-16.37032432747825,-81.85162163739125,bad,drop_argument,145,syntax,argument_structure,bigram5,-17.22382267051921,-16.37032432747825,FALSE
+Name helps .,-17.22382267051921,-68.89529068207683,good,drop_argument,145,syntax,argument_structure,bigram5,-17.22382267051921,-16.37032432747825,FALSE
+Name went to .,-16.226006222115387,-81.13003111057694,bad,drop_argument,145,syntax,argument_structure,bigram6,-17.277545625147095,-16.226006222115387,FALSE
+Name helps .,-17.277545625147095,-69.11018250058838,good,drop_argument,145,syntax,argument_structure,bigram6,-17.277545625147095,-16.226006222115387,FALSE
+Name went to .,-16.45943118425341,-82.29715592126706,bad,drop_argument,145,syntax,argument_structure,bigram7,-17.383976336143345,-16.45943118425341,FALSE
+Name helps .,-17.383976336143345,-69.53590534457338,good,drop_argument,145,syntax,argument_structure,bigram7,-17.383976336143345,-16.45943118425341,FALSE
+Name went to .,-16.41329547723255,-82.06647738616275,bad,drop_argument,145,syntax,argument_structure,bigram8,-17.255471738062433,-16.41329547723255,FALSE
+Name helps .,-17.255471738062433,-69.02188695224973,good,drop_argument,145,syntax,argument_structure,bigram8,-17.255471738062433,-16.41329547723255,FALSE
+Name went to .,-16.59057551311427,-82.95287756557136,bad,drop_argument,145,syntax,argument_structure,bigram9,-17.304507131510128,-16.59057551311427,FALSE
+Name helps .,-17.304507131510128,-69.21802852604051,good,drop_argument,145,syntax,argument_structure,bigram9,-17.304507131510128,-16.59057551311427,FALSE
+Name could n't care for .,-18.733006362362328,-131.1310445365363,bad,drop_argument,147,syntax,argument_structure,bigram1,-18.12847769276313,-18.733006362362328,TRUE
+Name could n't buy .,-18.12847769276313,-108.77086615657879,good,drop_argument,147,syntax,argument_structure,bigram1,-18.12847769276313,-18.733006362362328,TRUE
+Name could n't care for .,-18.74280505766333,-131.1996354036433,bad,drop_argument,147,syntax,argument_structure,bigram10,-18.30427308521061,-18.74280505766333,TRUE
+Name could n't buy .,-18.30427308521061,-109.82563851126369,good,drop_argument,147,syntax,argument_structure,bigram10,-18.30427308521061,-18.74280505766333,TRUE
+Name could n't care for .,-18.679758395634423,-130.758308769441,bad,drop_argument,147,syntax,argument_structure,bigram2,-18.402519454539064,-18.679758395634423,TRUE
+Name could n't buy .,-18.402519454539064,-110.41511672723439,good,drop_argument,147,syntax,argument_structure,bigram2,-18.402519454539064,-18.679758395634423,TRUE
+Name could n't care for .,-18.670898812813324,-130.69629168969325,bad,drop_argument,147,syntax,argument_structure,bigram3,-18.221716197405645,-18.670898812813324,TRUE
+Name could n't buy .,-18.221716197405645,-109.33029718443387,good,drop_argument,147,syntax,argument_structure,bigram3,-18.221716197405645,-18.670898812813324,TRUE
+Name could n't care for .,-18.79480991079224,-131.5636693755457,bad,drop_argument,147,syntax,argument_structure,bigram4,-18.199369105016498,-18.79480991079224,TRUE
+Name could n't buy .,-18.199369105016498,-109.19621463009898,good,drop_argument,147,syntax,argument_structure,bigram4,-18.199369105016498,-18.79480991079224,TRUE
+Name could n't care for .,-18.66721832307797,-130.6705282615458,bad,drop_argument,147,syntax,argument_structure,bigram5,-18.05080106168228,-18.66721832307797,TRUE
+Name could n't buy .,-18.05080106168228,-108.3048063700937,good,drop_argument,147,syntax,argument_structure,bigram5,-18.05080106168228,-18.66721832307797,TRUE
+Name could n't care for .,-18.8045663211713,-131.6319642481991,bad,drop_argument,147,syntax,argument_structure,bigram6,-18.116039376562465,-18.8045663211713,TRUE
+Name could n't buy .,-18.116039376562465,-108.69623625937477,good,drop_argument,147,syntax,argument_structure,bigram6,-18.116039376562465,-18.8045663211713,TRUE
+Name could n't care for .,-18.710108762961006,-130.97076134072705,bad,drop_argument,147,syntax,argument_structure,bigram7,-18.26335902399229,-18.710108762961006,TRUE
+Name could n't buy .,-18.26335902399229,-109.58015414395376,good,drop_argument,147,syntax,argument_structure,bigram7,-18.26335902399229,-18.710108762961006,TRUE
+Name could n't care for .,-18.820970259827384,-131.74679181879168,bad,drop_argument,147,syntax,argument_structure,bigram8,-18.13030808824393,-18.820970259827384,TRUE
+Name could n't buy .,-18.13030808824393,-108.78184852946359,good,drop_argument,147,syntax,argument_structure,bigram8,-18.13030808824393,-18.820970259827384,TRUE
+Name could n't care for .,-18.58422036970185,-130.08954258791294,bad,drop_argument,147,syntax,argument_structure,bigram9,-18.11528808927661,-18.58422036970185,TRUE
+Name could n't buy .,-18.11528808927661,-108.69172853565969,good,drop_argument,147,syntax,argument_structure,bigram9,-18.11528808927661,-18.58422036970185,TRUE
+Name ran around .,-17.682137555324253,-88.41068777662126,good,drop_argument,169,syntax,argument_structure,bigram1,-17.682137555324253,-16.645252641096764,FALSE
+Name goes to .,-16.645252641096764,-83.22626320548382,bad,drop_argument,169,syntax,argument_structure,bigram1,-17.682137555324253,-16.645252641096764,FALSE
+Name ran around .,-17.672835755526748,-88.36417877763374,good,drop_argument,169,syntax,argument_structure,bigram10,-17.672835755526748,-16.70895020465511,FALSE
+Name goes to .,-16.70895020465511,-83.54475102327555,bad,drop_argument,169,syntax,argument_structure,bigram10,-17.672835755526748,-16.70895020465511,FALSE
+Name ran around .,-17.561778055838797,-87.80889027919399,good,drop_argument,169,syntax,argument_structure,bigram2,-17.561778055838797,-17.01892895230557,FALSE
+Name goes to .,-17.01892895230557,-85.09464476152785,bad,drop_argument,169,syntax,argument_structure,bigram2,-17.561778055838797,-17.01892895230557,FALSE
+Name ran around .,-17.61276767054508,-88.0638383527254,good,drop_argument,169,syntax,argument_structure,bigram3,-17.61276767054508,-16.56535983108491,FALSE
+Name goes to .,-16.56535983108491,-82.82679915542454,bad,drop_argument,169,syntax,argument_structure,bigram3,-17.61276767054508,-16.56535983108491,FALSE
+Name ran around .,-17.623653300369455,-88.11826650184727,good,drop_argument,169,syntax,argument_structure,bigram4,-17.623653300369455,-17.004280992518936,FALSE
+Name goes to .,-17.004280992518936,-85.02140496259467,bad,drop_argument,169,syntax,argument_structure,bigram4,-17.623653300369455,-17.004280992518936,FALSE
+Name ran around .,-17.629107071221803,-88.14553535610901,good,drop_argument,169,syntax,argument_structure,bigram5,-17.629107071221803,-16.687316827622478,FALSE
+Name goes to .,-16.687316827622478,-83.4365841381124,bad,drop_argument,169,syntax,argument_structure,bigram5,-17.629107071221803,-16.687316827622478,FALSE
+Name ran around .,-17.591689529632472,-87.95844764816236,good,drop_argument,169,syntax,argument_structure,bigram6,-17.591689529632472,-16.696733613038326,FALSE
+Name goes to .,-16.696733613038326,-83.48366806519164,bad,drop_argument,169,syntax,argument_structure,bigram6,-17.591689529632472,-16.696733613038326,FALSE
+Name ran around .,-17.702295008413564,-88.51147504206783,good,drop_argument,169,syntax,argument_structure,bigram7,-17.702295008413564,-16.776423684397646,FALSE
+Name goes to .,-16.776423684397646,-83.88211842198822,bad,drop_argument,169,syntax,argument_structure,bigram7,-17.702295008413564,-16.776423684397646,FALSE
+Name ran around .,-17.579873480065498,-87.89936740032749,good,drop_argument,169,syntax,argument_structure,bigram8,-17.579873480065498,-16.683394926649378,FALSE
+Name goes to .,-16.683394926649378,-83.4169746332469,bad,drop_argument,169,syntax,argument_structure,bigram8,-17.579873480065498,-16.683394926649378,FALSE
+Name ran around .,-17.62266844755292,-88.1133422377646,good,drop_argument,169,syntax,argument_structure,bigram9,-17.62266844755292,-16.95659051282581,FALSE
+Name goes to .,-16.95659051282581,-84.78295256412905,bad,drop_argument,169,syntax,argument_structure,bigram9,-17.62266844755292,-16.95659051282581,FALSE
+Name can n't work with .,-17.068314223362048,-119.47819956353435,bad,drop_argument,187,syntax,argument_structure,bigram1,-16.610390283300102,-17.068314223362048,TRUE
+Name can n't watch .,-16.610390283300102,-99.6623416998006,good,drop_argument,187,syntax,argument_structure,bigram1,-16.610390283300102,-17.068314223362048,TRUE
+Name can n't work with .,-17.081121720881306,-119.56785204616915,bad,drop_argument,187,syntax,argument_structure,bigram10,-16.536095871714934,-17.081121720881306,TRUE
+Name can n't watch .,-16.536095871714934,-99.2165752302896,good,drop_argument,187,syntax,argument_structure,bigram10,-16.536095871714934,-17.081121720881306,TRUE
+Name can n't work with .,-17.074805857606915,-119.52364100324841,bad,drop_argument,187,syntax,argument_structure,bigram2,-16.469646480276182,-17.074805857606915,TRUE
+Name can n't watch .,-16.469646480276182,-98.8178788816571,good,drop_argument,187,syntax,argument_structure,bigram2,-16.469646480276182,-17.074805857606915,TRUE
+Name can n't work with .,-17.221904819407314,-120.5533337358512,bad,drop_argument,187,syntax,argument_structure,bigram3,-16.556557054006145,-17.221904819407314,TRUE
+Name can n't watch .,-16.556557054006145,-99.33934232403686,good,drop_argument,187,syntax,argument_structure,bigram3,-16.556557054006145,-17.221904819407314,TRUE
+Name can n't work with .,-17.116235375507717,-119.81364762855402,bad,drop_argument,187,syntax,argument_structure,bigram4,-16.54604464694417,-17.116235375507717,TRUE
+Name can n't watch .,-16.54604464694417,-99.27626788166502,good,drop_argument,187,syntax,argument_structure,bigram4,-16.54604464694417,-17.116235375507717,TRUE
+Name can n't work with .,-17.19453345633276,-120.36173419432933,bad,drop_argument,187,syntax,argument_structure,bigram5,-16.37650778478517,-17.19453345633276,TRUE
+Name can n't watch .,-16.37650778478517,-98.25904670871101,good,drop_argument,187,syntax,argument_structure,bigram5,-16.37650778478517,-17.19453345633276,TRUE
+Name can n't work with .,-17.003519133492787,-119.02463393444951,bad,drop_argument,187,syntax,argument_structure,bigram6,-16.369072804618174,-17.003519133492787,TRUE
+Name can n't watch .,-16.369072804618174,-98.21443682770904,good,drop_argument,187,syntax,argument_structure,bigram6,-16.369072804618174,-17.003519133492787,TRUE
+Name can n't work with .,-17.15393366619069,-120.07753566333483,bad,drop_argument,187,syntax,argument_structure,bigram7,-16.71198182788045,-17.15393366619069,TRUE
+Name can n't watch .,-16.71198182788045,-100.2718909672827,good,drop_argument,187,syntax,argument_structure,bigram7,-16.71198182788045,-17.15393366619069,TRUE
+Name can n't work with .,-17.13366925169614,-119.93568476187298,bad,drop_argument,187,syntax,argument_structure,bigram8,-16.432038308215194,-17.13366925169614,TRUE
+Name can n't watch .,-16.432038308215194,-98.59222984929116,good,drop_argument,187,syntax,argument_structure,bigram8,-16.432038308215194,-17.13366925169614,TRUE
+Name can n't work with .,-17.170739130365586,-120.19517391255911,bad,drop_argument,187,syntax,argument_structure,bigram9,-16.523668005282214,-17.170739130365586,TRUE
+Name can n't watch .,-16.523668005282214,-99.14200803169328,good,drop_argument,187,syntax,argument_structure,bigram9,-16.523668005282214,-17.170739130365586,TRUE
+Name can n't see .,-15.515414348578275,-93.09248609146967,good,drop_argument,189,syntax,argument_structure,bigram1,-15.515414348578275,-17.552930998044726,TRUE
+Name can n't bike to .,-17.552930998044726,-122.87051698631309,bad,drop_argument,189,syntax,argument_structure,bigram1,-15.515414348578275,-17.552930998044726,TRUE
+Name can n't see .,-15.408170219381663,-92.44902131628999,good,drop_argument,189,syntax,argument_structure,bigram10,-15.408170219381663,-17.42612707792114,TRUE
+Name can n't bike to .,-17.42612707792114,-121.98288954544799,bad,drop_argument,189,syntax,argument_structure,bigram10,-15.408170219381663,-17.42612707792114,TRUE
+Name can n't see .,-15.348494492025806,-92.09096695215483,good,drop_argument,189,syntax,argument_structure,bigram2,-15.348494492025806,-17.444086214852796,TRUE
+Name can n't bike to .,-17.444086214852796,-122.10860350396958,bad,drop_argument,189,syntax,argument_structure,bigram2,-15.348494492025806,-17.444086214852796,TRUE
+Name can n't see .,-15.343611244533207,-92.06166746719924,good,drop_argument,189,syntax,argument_structure,bigram3,-15.343611244533207,-17.487975744585896,TRUE
+Name can n't bike to .,-17.487975744585896,-122.41583021210127,bad,drop_argument,189,syntax,argument_structure,bigram3,-15.343611244533207,-17.487975744585896,TRUE
+Name can n't see .,-15.421345838679258,-92.52807503207555,good,drop_argument,189,syntax,argument_structure,bigram4,-15.421345838679258,-17.47917371570239,TRUE
+Name can n't bike to .,-17.47917371570239,-122.35421600991673,bad,drop_argument,189,syntax,argument_structure,bigram4,-15.421345838679258,-17.47917371570239,TRUE
+Name can n't see .,-15.275368284727849,-91.6522097083671,good,drop_argument,189,syntax,argument_structure,bigram5,-15.275368284727849,-17.43273697932035,TRUE
+Name can n't bike to .,-17.43273697932035,-122.02915885524246,bad,drop_argument,189,syntax,argument_structure,bigram5,-15.275368284727849,-17.43273697932035,TRUE
+Name can n't see .,-15.326603821446705,-91.95962292868022,good,drop_argument,189,syntax,argument_structure,bigram6,-15.326603821446705,-17.40032021615901,TRUE
+Name can n't bike to .,-17.40032021615901,-121.80224151311306,bad,drop_argument,189,syntax,argument_structure,bigram6,-15.326603821446705,-17.40032021615901,TRUE
+Name can n't see .,-15.479112457515184,-92.8746747450911,good,drop_argument,189,syntax,argument_structure,bigram7,-15.479112457515184,-17.513626281171067,TRUE
+Name can n't bike to .,-17.513626281171067,-122.59538396819747,bad,drop_argument,189,syntax,argument_structure,bigram7,-15.479112457515184,-17.513626281171067,TRUE
+Name can n't see .,-15.43828409245164,-92.62970455470983,good,drop_argument,189,syntax,argument_structure,bigram8,-15.43828409245164,-17.513521120576847,TRUE
+Name can n't bike to .,-17.513521120576847,-122.59464784403792,bad,drop_argument,189,syntax,argument_structure,bigram8,-15.43828409245164,-17.513521120576847,TRUE
+Name can n't see .,-15.517312150467754,-93.10387290280653,good,drop_argument,189,syntax,argument_structure,bigram9,-15.517312150467754,-17.609882070571842,TRUE
+Name can n't bike to .,-17.609882070571842,-123.2691744940029,bad,drop_argument,189,syntax,argument_structure,bigram9,-15.517312150467754,-17.609882070571842,TRUE
+Name watches .,-16.981244628644966,-67.92497851457986,good,drop_argument,202,syntax,argument_structure,bigram1,-16.981244628644966,-17.169550316446017,TRUE
+Name sounds like .,-17.169550316446017,-85.84775158223009,bad,drop_argument,202,syntax,argument_structure,bigram1,-16.981244628644966,-17.169550316446017,TRUE
+Name watches .,-17.123170556445828,-68.49268222578331,good,drop_argument,202,syntax,argument_structure,bigram10,-17.123170556445828,-17.481449499905125,TRUE
+Name sounds like .,-17.481449499905125,-87.40724749952562,bad,drop_argument,202,syntax,argument_structure,bigram10,-17.123170556445828,-17.481449499905125,TRUE
+Name watches .,-16.970183934066554,-67.88073573626622,good,drop_argument,202,syntax,argument_structure,bigram2,-16.970183934066554,-17.18039993671709,TRUE
+Name sounds like .,-17.18039993671709,-85.90199968358546,bad,drop_argument,202,syntax,argument_structure,bigram2,-16.970183934066554,-17.18039993671709,TRUE
+Name watches .,-17.230059067200614,-68.92023626880246,good,drop_argument,202,syntax,argument_structure,bigram3,-17.230059067200614,-17.309853035979124,TRUE
+Name sounds like .,-17.309853035979124,-86.54926517989563,bad,drop_argument,202,syntax,argument_structure,bigram3,-17.230059067200614,-17.309853035979124,TRUE
+Name watches .,-17.083943564280432,-68.33577425712173,good,drop_argument,202,syntax,argument_structure,bigram4,-17.083943564280432,-17.423653300369455,TRUE
+Name sounds like .,-17.423653300369455,-87.11826650184727,bad,drop_argument,202,syntax,argument_structure,bigram4,-17.083943564280432,-17.423653300369455,TRUE
+Name watches .,-16.97382267051921,-67.89529068207683,good,drop_argument,202,syntax,argument_structure,bigram5,-16.97382267051921,-17.407724030438498,TRUE
+Name sounds like .,-17.407724030438498,-87.0386201521925,bad,drop_argument,202,syntax,argument_structure,bigram5,-16.97382267051921,-17.407724030438498,TRUE
+Name watches .,-17.027545625147095,-68.11018250058838,good,drop_argument,202,syntax,argument_structure,bigram6,-17.027545625147095,-17.20030327401085,TRUE
+Name sounds like .,-17.20030327401085,-86.00151637005425,bad,drop_argument,202,syntax,argument_structure,bigram6,-17.027545625147095,-17.20030327401085,TRUE
+Name watches .,-17.383976336143345,-69.53590534457338,good,drop_argument,202,syntax,argument_structure,bigram7,-17.383976336143345,-17.223831523857815,FALSE
+Name sounds like .,-17.223831523857815,-86.11915761928907,bad,drop_argument,202,syntax,argument_structure,bigram7,-17.383976336143345,-17.223831523857815,FALSE
+Name watches .,-17.005471738062433,-68.02188695224973,good,drop_argument,202,syntax,argument_structure,bigram8,-17.005471738062433,-17.192892485709876,TRUE
+Name sounds like .,-17.192892485709876,-85.96446242854938,bad,drop_argument,202,syntax,argument_structure,bigram8,-17.005471738062433,-17.192892485709876,TRUE
+Name watches .,-17.304507131510128,-69.21802852604051,good,drop_argument,202,syntax,argument_structure,bigram9,-17.304507131510128,-17.375775396825514,TRUE
+Name sounds like .,-17.375775396825514,-86.87887698412757,bad,drop_argument,202,syntax,argument_structure,bigram9,-17.304507131510128,-17.375775396825514,TRUE
+Name should n't help .,-18.20504962920268,-109.23029777521609,good,drop_argument,226,syntax,argument_structure,bigram1,-18.20504962920268,-18.435165091278545,TRUE
+Name should n't sound like .,-18.435165091278545,-129.0461556389498,bad,drop_argument,226,syntax,argument_structure,bigram1,-18.20504962920268,-18.435165091278545,TRUE
+Name should n't help .,-18.01477881951625,-108.08867291709748,good,drop_argument,226,syntax,argument_structure,bigram10,-18.01477881951625,-18.54065684348064,TRUE
+Name should n't sound like .,-18.54065684348064,-129.78459790436446,bad,drop_argument,226,syntax,argument_structure,bigram10,-18.01477881951625,-18.54065684348064,TRUE
+Name should n't help .,-18.62284080368696,-111.73704482212176,good,drop_argument,226,syntax,argument_structure,bigram2,-18.62284080368696,-18.679758395634423,TRUE
+Name should n't sound like .,-18.679758395634423,-130.758308769441,bad,drop_argument,226,syntax,argument_structure,bigram2,-18.62284080368696,-18.679758395634423,TRUE
+Name should n't help .,-18.2061979633404,-109.23718778004238,good,drop_argument,226,syntax,argument_structure,bigram3,-18.2061979633404,-18.55231667016222,TRUE
+Name should n't sound like .,-18.55231667016222,-129.86621669113555,bad,drop_argument,226,syntax,argument_structure,bigram3,-18.2061979633404,-18.55231667016222,TRUE
+Name should n't help .,-18.706768124909573,-112.24060874945744,good,drop_argument,226,syntax,argument_structure,bigram4,-18.706768124909573,-18.7418608565179,TRUE
+Name should n't sound like .,-18.7418608565179,-131.1930259956253,bad,drop_argument,226,syntax,argument_structure,bigram4,-18.706768124909573,-18.7418608565179,TRUE
+Name should n't help .,-18.31496147846914,-109.88976887081485,good,drop_argument,226,syntax,argument_structure,bigram5,-18.31496147846914,-18.60792725175242,TRUE
+Name should n't sound like .,-18.60792725175242,-130.25549076226696,bad,drop_argument,226,syntax,argument_structure,bigram5,-18.31496147846914,-18.60792725175242,TRUE
+Name should n't help .,-18.389630381410388,-110.33778228846232,good,drop_argument,226,syntax,argument_structure,bigram6,-18.389630381410388,-18.63221619581881,TRUE
+Name should n't sound like .,-18.63221619581881,-130.42551337073166,bad,drop_argument,226,syntax,argument_structure,bigram6,-18.389630381410388,-18.63221619581881,TRUE
+Name should n't help .,-18.059626953769552,-108.35776172261731,good,drop_argument,226,syntax,argument_structure,bigram7,-18.059626953769552,-18.41433885897652,TRUE
+Name should n't sound like .,-18.41433885897652,-128.90037201283565,bad,drop_argument,226,syntax,argument_structure,bigram7,-18.059626953769552,-18.41433885897652,TRUE
+Name should n't help .,-18.39446850503079,-110.36681103018475,good,drop_argument,226,syntax,argument_structure,bigram8,-18.39446850503079,-18.48926624627205,TRUE
+Name should n't sound like .,-18.48926624627205,-129.42486372390434,bad,drop_argument,226,syntax,argument_structure,bigram8,-18.39446850503079,-18.48926624627205,TRUE
+Name should n't help .,-18.131877368201767,-108.7912642092106,good,drop_argument,226,syntax,argument_structure,bigram9,-18.131877368201767,-18.455582608780556,TRUE
+Name should n't sound like .,-18.455582608780556,-129.18907826146386,bad,drop_argument,226,syntax,argument_structure,bigram9,-18.131877368201767,-18.455582608780556,TRUE
+Name did remember .,-17.124438376362995,-85.62219188181497,good,drop_argument,296,syntax,argument_structure,bigram1,-17.124438376362995,-18.163728376962084,TRUE
+Name did care for .,-18.163728376962084,-108.9823702617725,bad,drop_argument,296,syntax,argument_structure,bigram1,-17.124438376362995,-18.163728376962084,TRUE
+Name did remember .,-17.50895020465511,-87.54475102327555,good,drop_argument,296,syntax,argument_structure,bigram10,-17.50895020465511,-18.31979131927586,TRUE
+Name did care for .,-18.31979131927586,-109.91874791565516,bad,drop_argument,296,syntax,argument_structure,bigram10,-17.50895020465511,-18.31979131927586,TRUE
+Name did remember .,-17.112192553150077,-85.56096276575039,good,drop_argument,296,syntax,argument_structure,bigram2,-17.112192553150077,-18.150692467992837,TRUE
+Name did care for .,-18.150692467992837,-108.904154807957,bad,drop_argument,296,syntax,argument_structure,bigram2,-17.112192553150077,-18.150692467992837,TRUE
+Name did remember .,-17.140253654668136,-85.70126827334069,good,drop_argument,296,syntax,argument_structure,bigram3,-17.140253654668136,-18.442037546553536,TRUE
+Name did care for .,-18.442037546553536,-110.65222527932121,bad,drop_argument,296,syntax,argument_structure,bigram3,-17.140253654668136,-18.442037546553536,TRUE
+Name did remember .,-17.765751976930456,-88.82875988465229,good,drop_argument,296,syntax,argument_structure,bigram4,-17.765751976930456,-18.630196188470023,TRUE
+Name did care for .,-18.630196188470023,-111.78117713082014,bad,drop_argument,296,syntax,argument_structure,bigram4,-17.765751976930456,-18.630196188470023,TRUE
+Name did remember .,-17.123431276750843,-85.61715638375422,good,drop_argument,296,syntax,argument_structure,bigram5,-17.123431276750843,-18.48162814513581,TRUE
+Name did care for .,-18.48162814513581,-110.88976887081486,bad,drop_argument,296,syntax,argument_structure,bigram5,-17.123431276750843,-18.48162814513581,TRUE
+Name did remember .,-17.25291015517761,-86.26455077588805,good,drop_argument,296,syntax,argument_structure,bigram6,-17.25291015517761,-18.322874059813092,TRUE
+Name did care for .,-18.322874059813092,-109.93724435887857,bad,drop_argument,296,syntax,argument_structure,bigram6,-17.25291015517761,-18.322874059813092,TRUE
+Name did remember .,-17.25653127031439,-86.28265635157194,good,drop_argument,296,syntax,argument_structure,bigram7,-17.25653127031439,-18.332531940538768,TRUE
+Name did care for .,-18.332531940538768,-109.9951916432326,bad,drop_argument,296,syntax,argument_structure,bigram7,-17.25653127031439,-18.332531940538768,TRUE
+Name did remember .,-17.197366048315565,-85.98683024157782,good,drop_argument,296,syntax,argument_structure,bigram8,-17.197366048315565,-18.491962255150984,TRUE
+Name did care for .,-18.491962255150984,-110.95177353090591,bad,drop_argument,296,syntax,argument_structure,bigram8,-17.197366048315565,-18.491962255150984,TRUE
+Name did remember .,-17.278690031391466,-86.39345015695733,good,drop_argument,296,syntax,argument_structure,bigram9,-17.278690031391466,-18.29854403486843,TRUE
+Name did care for .,-18.29854403486843,-109.7912642092106,bad,drop_argument,296,syntax,argument_structure,bigram9,-17.278690031391466,-18.29854403486843,TRUE
+Name can love .,-17.682137555324253,-88.41068777662126,good,drop_argument,312,syntax,argument_structure,bigram1,-17.682137555324253,-18.225971442883324,TRUE
+Name can walk through .,-18.225971442883324,-109.35582865729995,bad,drop_argument,312,syntax,argument_structure,bigram1,-17.682137555324253,-18.225971442883324,TRUE
+Name can love .,-17.611864839221063,-88.05932419610532,good,drop_argument,312,syntax,argument_structure,bigram10,-17.611864839221063,-17.974726431293963,TRUE
+Name can walk through .,-17.974726431293963,-107.84835858776377,bad,drop_argument,312,syntax,argument_structure,bigram10,-17.611864839221063,-17.974726431293963,TRUE
+Name can love .,-17.580399936717093,-87.90199968358546,good,drop_argument,312,syntax,argument_structure,bigram2,-17.580399936717093,-18.040865287632013,TRUE
+Name can walk through .,-18.040865287632013,-108.24519172579207,bad,drop_argument,312,syntax,argument_structure,bigram2,-17.580399936717093,-18.040865287632013,TRUE
+Name can love .,-17.65724615481237,-88.28623077406185,good,drop_argument,312,syntax,argument_structure,bigram3,-17.65724615481237,-18.37286463000706,TRUE
+Name can walk through .,-18.37286463000706,-110.23718778004238,bad,drop_argument,312,syntax,argument_structure,bigram3,-17.65724615481237,-18.37286463000706,TRUE
+Name can love .,-17.62365330036945,-88.11826650184726,good,drop_argument,312,syntax,argument_structure,bigram4,-17.62365330036945,-17.914286874548992,TRUE
+Name can walk through .,-17.914286874548992,-107.48572124729395,bad,drop_argument,312,syntax,argument_structure,bigram4,-17.62365330036945,-17.914286874548992,TRUE
+Name can love .,-17.49073153029427,-87.45365765147135,good,drop_argument,312,syntax,argument_structure,bigram5,-17.49073153029427,-17.96989659048724,TRUE
+Name can walk through .,-17.96989659048724,-107.81937954292346,bad,drop_argument,312,syntax,argument_structure,bigram5,-17.49073153029427,-17.96989659048724,TRUE
+Name can love .,-17.54479647890507,-87.72398239452535,good,drop_argument,312,syntax,argument_structure,bigram6,-17.54479647890507,-18.012457980438086,TRUE
+Name can walk through .,-18.012457980438086,-108.07474788262851,bad,drop_argument,312,syntax,argument_structure,bigram6,-17.54479647890507,-18.012457980438086,TRUE
+Name can love .,-17.65270950572485,-88.26354752862424,good,drop_argument,312,syntax,argument_structure,bigram7,-17.65270950572485,-18.011532037446063,TRUE
+Name can walk through .,-18.011532037446063,-108.06919222467639,bad,drop_argument,312,syntax,argument_structure,bigram7,-17.65270950572485,-18.011532037446063,TRUE
+Name can love .,-17.63589506390404,-88.17947531952021,good,drop_argument,312,syntax,argument_structure,bigram8,-17.63589506390404,-17.92657601802119,TRUE
+Name can walk through .,-17.92657601802119,-107.55945610812714,bad,drop_argument,312,syntax,argument_structure,bigram8,-17.63589506390404,-17.92657601802119,TRUE
+Name can love .,-17.74827469207553,-88.74137346037764,good,drop_argument,312,syntax,argument_structure,bigram9,-17.74827469207553,-18.023197918771817,TRUE
+Name can walk through .,-18.023197918771817,-108.13918751263091,bad,drop_argument,312,syntax,argument_structure,bigram9,-17.74827469207553,-18.023197918771817,TRUE
+Name was n't buying .,-17.972996725406222,-107.83798035243733,good,drop_argument,337,syntax,argument_structure,bigram1,-17.972996725406222,-16.661865236290648,FALSE
+Name was n't going to .,-16.661865236290648,-116.63305665403455,bad,drop_argument,337,syntax,argument_structure,bigram1,-17.972996725406222,-16.661865236290648,FALSE
+Name was n't buying .,-17.991861565557926,-107.95116939334756,good,drop_argument,337,syntax,argument_structure,bigram10,-17.991861565557926,-16.64586218064912,FALSE
+Name was n't going to .,-16.64586218064912,-116.52103526454384,bad,drop_argument,337,syntax,argument_structure,bigram10,-17.991861565557926,-16.64586218064912,FALSE
+Name was n't buying .,-17.830359553326378,-106.98215731995828,good,drop_argument,337,syntax,argument_structure,bigram2,-17.830359553326378,-16.526443489420362,FALSE
+Name was n't going to .,-16.526443489420362,-115.68510442594253,bad,drop_argument,337,syntax,argument_structure,bigram2,-17.830359553326378,-16.526443489420362,FALSE
+Name was n't buying .,-17.95227097066423,-107.71362582398538,good,drop_argument,337,syntax,argument_structure,bigram3,-17.95227097066423,-16.71647523606409,FALSE
+Name was n't going to .,-16.71647523606409,-117.0153266524486,bad,drop_argument,337,syntax,argument_structure,bigram3,-17.95227097066423,-16.71647523606409,FALSE
+Name was n't buying .,-17.914286874548996,-107.48572124729397,good,drop_argument,337,syntax,argument_structure,bigram4,-17.914286874548996,-16.604119635346812,FALSE
+Name was n't going to .,-16.604119635346812,-116.22883744742768,bad,drop_argument,337,syntax,argument_structure,bigram4,-17.914286874548996,-16.604119635346812,FALSE
+Name was n't buying .,-17.84029532737665,-107.04177196425991,good,drop_argument,337,syntax,argument_structure,bigram5,-17.84029532737665,-16.601643793954786,FALSE
+Name was n't going to .,-16.601643793954786,-116.2115065576835,bad,drop_argument,337,syntax,argument_structure,bigram5,-17.84029532737665,-16.601643793954786,FALSE
+Name was n't buying .,-17.931553509243045,-107.58932105545827,good,drop_argument,337,syntax,argument_structure,bigram6,-17.931553509243045,-16.574886737817952,FALSE
+Name was n't going to .,-16.574886737817952,-116.02420716472567,bad,drop_argument,337,syntax,argument_structure,bigram6,-17.931553509243045,-16.574886737817952,FALSE
+Name was n't buying .,-18.02453245611294,-108.14719473667765,good,drop_argument,337,syntax,argument_structure,bigram7,-18.02453245611294,-16.784058161862017,FALSE
+Name was n't going to .,-16.784058161862017,-117.48840713303412,bad,drop_argument,337,syntax,argument_structure,bigram7,-18.02453245611294,-16.784058161862017,FALSE
+Name was n't buying .,-17.922320169336672,-107.53392101602003,good,drop_argument,337,syntax,argument_structure,bigram8,-17.922320169336672,-16.86728967169851,FALSE
+Name was n't going to .,-16.86728967169851,-118.07102770188959,bad,drop_argument,337,syntax,argument_structure,bigram8,-17.922320169336672,-16.86728967169851,FALSE
+Name was n't buying .,-18.030596938664896,-108.18358163198937,good,drop_argument,337,syntax,argument_structure,bigram9,-18.030596938664896,-16.80079253089084,FALSE
+Name was n't going to .,-16.80079253089084,-117.60554771623586,bad,drop_argument,337,syntax,argument_structure,bigram9,-18.030596938664896,-16.80079253089084,FALSE
+Name sounded like .,-17.275653259785773,-86.37826629892886,bad,drop_argument,342,syntax,argument_structure,bigram1,-16.585004003464675,-17.275653259785773,TRUE
+Name forgot .,-16.585004003464675,-66.3400160138587,good,drop_argument,342,syntax,argument_structure,bigram1,-16.585004003464675,-17.275653259785773,TRUE
+Name sounded like .,-17.50895020465511,-87.54475102327555,bad,drop_argument,342,syntax,argument_structure,bigram10,-16.873170556445828,-17.50895020465511,TRUE
+Name forgot .,-16.873170556445828,-67.49268222578331,good,drop_argument,342,syntax,argument_structure,bigram10,-16.873170556445828,-17.50895020465511,TRUE
+Name sounded like .,-17.23300681788385,-86.16503408941925,bad,drop_argument,342,syntax,argument_structure,bigram2,-16.389701910344712,-17.23300681788385,TRUE
+Name forgot .,-16.389701910344712,-65.55880764137885,good,drop_argument,342,syntax,argument_structure,bigram2,-16.389701910344712,-17.23300681788385,TRUE
+Name sounded like .,-17.340253654668135,-86.70126827334067,bad,drop_argument,342,syntax,argument_structure,bigram3,-16.730059067200614,-17.340253654668135,TRUE
+Name forgot .,-16.730059067200614,-66.92023626880246,good,drop_argument,342,syntax,argument_structure,bigram3,-16.730059067200614,-17.340253654668135,TRUE
+Name sounded like .,-17.365751976930458,-86.82875988465229,bad,drop_argument,342,syntax,argument_structure,bigram4,-16.583943564280432,-17.365751976930458,TRUE
+Name forgot .,-16.583943564280432,-66.33577425712173,good,drop_argument,342,syntax,argument_structure,bigram4,-16.583943564280432,-17.365751976930458,TRUE
+Name sounded like .,-17.25220251470579,-86.26101257352894,bad,drop_argument,342,syntax,argument_structure,bigram5,-16.577582045338918,-17.25220251470579,TRUE
+Name forgot .,-16.577582045338918,-66.31032818135567,good,drop_argument,342,syntax,argument_structure,bigram5,-16.577582045338918,-17.25220251470579,TRUE
+Name sounded like .,-17.330718613326788,-86.65359306663395,bad,drop_argument,342,syntax,argument_structure,bigram6,-16.697063601425253,-17.330718613326788,TRUE
+Name forgot .,-16.697063601425253,-66.78825440570101,good,drop_argument,342,syntax,argument_structure,bigram6,-16.697063601425253,-17.330718613326788,TRUE
+Name sounded like .,-17.423831523857814,-87.11915761928907,bad,drop_argument,342,syntax,argument_structure,bigram7,-17.133976336143345,-17.423831523857814,TRUE
+Name forgot .,-17.133976336143345,-68.53590534457338,good,drop_argument,342,syntax,argument_structure,bigram7,-17.133976336143345,-17.423831523857814,TRUE
+Name sounded like .,-17.241094105610635,-86.20547052805318,bad,drop_argument,342,syntax,argument_structure,bigram8,-17.005471738062433,-17.241094105610635,TRUE
+Name forgot .,-17.005471738062433,-68.02188695224973,good,drop_argument,342,syntax,argument_structure,bigram8,-17.005471738062433,-17.241094105610635,TRUE
+Name sounded like .,-17.323168515658757,-86.61584257829378,bad,drop_argument,342,syntax,argument_structure,bigram9,-16.554507131510128,-17.323168515658757,TRUE
+Name forgot .,-16.554507131510128,-66.21802852604051,good,drop_argument,342,syntax,argument_structure,bigram9,-16.554507131510128,-17.323168515658757,TRUE
+Name does talk about .,-18.172316760402097,-109.03390056241258,bad,drop_argument,379,syntax,argument_structure,bigram1,-16.94204961169603,-18.172316760402097,TRUE
+Name does know .,-16.94204961169603,-84.71024805848016,good,drop_argument,379,syntax,argument_structure,bigram1,-16.94204961169603,-18.172316760402097,TRUE
+Name does talk about .,-18.20677933509042,-109.24067601054253,bad,drop_argument,379,syntax,argument_structure,bigram10,-16.36155708582187,-18.20677933509042,TRUE
+Name does know .,-16.36155708582187,-81.80778542910936,good,drop_argument,379,syntax,argument_structure,bigram10,-16.36155708582187,-18.20677933509042,TRUE
+Name does talk about .,-18.11911283484888,-108.7146770090933,bad,drop_argument,379,syntax,argument_structure,bigram2,-16.087205043816276,-18.11911283484888,TRUE
+Name does know .,-16.087205043816276,-80.43602521908139,good,drop_argument,379,syntax,argument_structure,bigram2,-16.087205043816276,-18.11911283484888,TRUE
+Name does talk about .,-18.034573406108056,-108.20744043664834,bad,drop_argument,379,syntax,argument_structure,bigram3,-16.082557332309296,-18.034573406108056,TRUE
+Name does know .,-16.082557332309296,-80.41278666154648,good,drop_argument,379,syntax,argument_structure,bigram3,-16.082557332309296,-18.034573406108056,TRUE
+Name does talk about .,-18.162303701460424,-108.97382220876254,bad,drop_argument,379,syntax,argument_structure,bigram4,-16.232684793493423,-18.162303701460424,TRUE
+Name does know .,-16.232684793493423,-81.16342396746711,good,drop_argument,379,syntax,argument_structure,bigram4,-16.232684793493423,-18.162303701460424,TRUE
+Name does talk about .,-18.36861616095037,-110.21169696570222,bad,drop_argument,379,syntax,argument_structure,bigram5,-16.86448262363862,-18.36861616095037,TRUE
+Name does know .,-16.86448262363862,-84.3224131181931,good,drop_argument,379,syntax,argument_structure,bigram5,-16.86448262363862,-18.36861616095037,TRUE
+Name does talk about .,-18.14205924354868,-108.85235546129206,bad,drop_argument,379,syntax,argument_structure,bigram6,-16.207496373468427,-18.14205924354868,TRUE
+Name does know .,-16.207496373468427,-81.03748186734214,good,drop_argument,379,syntax,argument_structure,bigram6,-16.207496373468427,-18.14205924354868,TRUE
+Name does talk about .,-18.142948019913774,-108.85768811948267,bad,drop_argument,379,syntax,argument_structure,bigram7,-16.881637446731162,-18.142948019913774,TRUE
+Name does know .,-16.881637446731162,-84.40818723365581,good,drop_argument,379,syntax,argument_structure,bigram7,-16.881637446731162,-18.142948019913774,TRUE
+Name does talk about .,-18.07665340576271,-108.45992043457625,bad,drop_argument,379,syntax,argument_structure,bigram8,-16.19849536094379,-18.07665340576271,TRUE
+Name does know .,-16.19849536094379,-80.99247680471896,good,drop_argument,379,syntax,argument_structure,bigram8,-16.19849536094379,-18.07665340576271,TRUE
+Name does talk about .,-18.193535636493483,-109.1612138189609,bad,drop_argument,379,syntax,argument_structure,bigram9,-16.162772966738125,-18.193535636493483,TRUE
+Name does know .,-16.162772966738125,-80.81386483369063,good,drop_argument,379,syntax,argument_structure,bigram9,-16.162772966738125,-18.193535636493483,TRUE
+Name sees .,-16.731244628644966,-66.92497851457986,good,drop_argument,429,syntax,argument_structure,bigram1,-16.731244628644966,-17.275653259785773,TRUE
+Name sounded like .,-17.275653259785773,-86.37826629892886,bad,drop_argument,429,syntax,argument_structure,bigram1,-16.731244628644966,-17.275653259785773,TRUE
+Name sees .,-16.726929931265538,-66.90771972506215,good,drop_argument,429,syntax,argument_structure,bigram10,-16.726929931265538,-17.50895020465511,TRUE
+Name sounded like .,-17.50895020465511,-87.54475102327555,bad,drop_argument,429,syntax,argument_structure,bigram10,-16.726929931265538,-17.50895020465511,TRUE
+Name sees .,-16.720183934066554,-66.88073573626622,good,drop_argument,429,syntax,argument_structure,bigram2,-16.720183934066554,-17.23300681788385,TRUE
+Name sounded like .,-17.23300681788385,-86.16503408941925,bad,drop_argument,429,syntax,argument_structure,bigram2,-16.720183934066554,-17.23300681788385,TRUE
+Name sees .,-16.980059067200614,-67.92023626880246,good,drop_argument,429,syntax,argument_structure,bigram3,-16.980059067200614,-17.340253654668135,TRUE
+Name sounded like .,-17.340253654668135,-86.70126827334067,bad,drop_argument,429,syntax,argument_structure,bigram3,-16.980059067200614,-17.340253654668135,TRUE
+Name sees .,-17.083943564280432,-68.33577425712173,good,drop_argument,429,syntax,argument_structure,bigram4,-17.083943564280432,-17.365751976930458,TRUE
+Name sounded like .,-17.365751976930458,-86.82875988465229,bad,drop_argument,429,syntax,argument_structure,bigram4,-17.083943564280432,-17.365751976930458,TRUE
+Name sees .,-16.577582045338918,-66.31032818135567,good,drop_argument,429,syntax,argument_structure,bigram5,-16.577582045338918,-17.25220251470579,TRUE
+Name sounded like .,-17.25220251470579,-86.26101257352894,bad,drop_argument,429,syntax,argument_structure,bigram5,-16.577582045338918,-17.25220251470579,TRUE
+Name sees .,-17.027545625147095,-68.11018250058838,good,drop_argument,429,syntax,argument_structure,bigram6,-17.027545625147095,-17.330718613326788,TRUE
+Name sounded like .,-17.330718613326788,-86.65359306663395,bad,drop_argument,429,syntax,argument_structure,bigram6,-17.027545625147095,-17.330718613326788,TRUE
+Name sees .,-17.133976336143345,-68.53590534457338,good,drop_argument,429,syntax,argument_structure,bigram7,-17.133976336143345,-17.423831523857814,TRUE
+Name sounded like .,-17.423831523857814,-87.11915761928907,bad,drop_argument,429,syntax,argument_structure,bigram7,-17.133976336143345,-17.423831523857814,TRUE
+Name sees .,-16.859231112882142,-67.43692445152857,good,drop_argument,429,syntax,argument_structure,bigram8,-16.859231112882142,-17.241094105610635,TRUE
+Name sounded like .,-17.241094105610635,-86.20547052805318,bad,drop_argument,429,syntax,argument_structure,bigram8,-16.859231112882142,-17.241094105610635,TRUE
+Name sees .,-17.054507131510128,-68.21802852604051,good,drop_argument,429,syntax,argument_structure,bigram9,-17.054507131510128,-17.323168515658757,TRUE
+Name sounded like .,-17.323168515658757,-86.61584257829378,bad,drop_argument,429,syntax,argument_structure,bigram9,-17.054507131510128,-17.323168515658757,TRUE
+Name has n't bought .,-18.038382962536016,-108.23029777521609,good,drop_argument,442,syntax,argument_structure,bigram1,-18.038382962536016,-18.07594035230287,TRUE
+Name has n't looked like .,-18.07594035230287,-126.53158246612007,bad,drop_argument,442,syntax,argument_structure,bigram1,-18.038382962536016,-18.07594035230287,TRUE
+Name has n't bought .,-18.289695945002222,-109.73817567001335,good,drop_argument,442,syntax,argument_structure,bigram10,-18.289695945002222,-18.44459608034185,TRUE
+Name has n't looked like .,-18.44459608034185,-129.11217256239294,bad,drop_argument,442,syntax,argument_structure,bigram10,-18.289695945002222,-18.44459608034185,TRUE
+Name has n't bought .,-18.10475339422393,-108.62852036534358,good,drop_argument,442,syntax,argument_structure,bigram2,-18.10475339422393,-18.130402674070943,TRUE
+Name has n't looked like .,-18.130402674070943,-126.91281871849661,bad,drop_argument,442,syntax,argument_structure,bigram2,-18.10475339422393,-18.130402674070943,TRUE
+Name has n't bought .,-18.04976472078442,-108.29858832470651,good,drop_argument,442,syntax,argument_structure,bigram3,-18.04976472078442,-18.32136361866958,TRUE
+Name has n't looked like .,-18.32136361866958,-128.24954533068706,bad,drop_argument,442,syntax,argument_structure,bigram3,-18.04976472078442,-18.32136361866958,TRUE
+Name has n't bought .,-18.153113442428342,-108.91868065457007,good,drop_argument,442,syntax,argument_structure,bigram4,-18.153113442428342,-18.22130997226437,TRUE
+Name has n't looked like .,-18.22130997226437,-127.54916980585057,bad,drop_argument,442,syntax,argument_structure,bigram4,-18.153113442428342,-18.22130997226437,TRUE
+Name has n't bought .,-18.2581219921633,-109.5487319529798,good,drop_argument,442,syntax,argument_structure,bigram5,-18.2581219921633,-18.41635054920456,TRUE
+Name has n't looked like .,-18.41635054920456,-128.9144538444319,bad,drop_argument,442,syntax,argument_structure,bigram5,-18.2581219921633,-18.41635054920456,TRUE
+Name has n't bought .,-18.25370114326662,-109.52220685959973,good,drop_argument,442,syntax,argument_structure,bigram6,-18.25370114326662,-18.267567478243272,TRUE
+Name has n't looked like .,-18.267567478243272,-127.8729723477029,bad,drop_argument,442,syntax,argument_structure,bigram6,-18.25370114326662,-18.267567478243272,TRUE
+Name has n't bought .,-18.34912121946392,-110.09472731678352,good,drop_argument,442,syntax,argument_structure,bigram7,-18.34912121946392,-18.41433885897652,TRUE
+Name has n't looked like .,-18.41433885897652,-128.90037201283565,bad,drop_argument,442,syntax,argument_structure,bigram7,-18.34912121946392,-18.41433885897652,TRUE
+Name has n't bought .,-18.151229901924577,-108.90737941154745,good,drop_argument,442,syntax,argument_structure,bigram8,-18.151229901924577,-18.2214849437126,TRUE
+Name has n't looked like .,-18.2214849437126,-127.5503946059882,bad,drop_argument,442,syntax,argument_structure,bigram8,-18.151229901924577,-18.2214849437126,TRUE
+Name has n't bought .,-18.155942353090964,-108.93565411854578,good,drop_argument,442,syntax,argument_structure,bigram9,-18.155942353090964,-18.274061524502887,TRUE
+Name has n't looked like .,-18.274061524502887,-127.91843067152021,bad,drop_argument,442,syntax,argument_structure,bigram9,-18.155942353090964,-18.274061524502887,TRUE
+Name would n't remember .,-17.030983942642937,-102.18590365585763,good,drop_argument,445,syntax,argument_structure,bigram1,-17.030983942642937,-16.73970562656357,FALSE
+Name would n't look like .,-16.73970562656357,-117.17793938594498,bad,drop_argument,445,syntax,argument_structure,bigram1,-17.030983942642937,-16.73970562656357,FALSE
+Name would n't remember .,-17.31320325857809,-103.87921955146852,good,drop_argument,445,syntax,argument_structure,bigram10,-17.31320325857809,-16.990829118583324,FALSE
+Name would n't look like .,-16.990829118583324,-118.93580383008326,bad,drop_argument,445,syntax,argument_structure,bigram10,-17.31320325857809,-16.990829118583324,FALSE
+Name would n't remember .,-16.837993501595232,-101.0279610095714,good,drop_argument,445,syntax,argument_structure,bigram2,-16.837993501595232,-16.79272626989077,FALSE
+Name would n't look like .,-16.79272626989077,-117.54908388923539,bad,drop_argument,445,syntax,argument_structure,bigram2,-16.837993501595232,-16.79272626989077,FALSE
+Name would n't remember .,-17.108704213220204,-102.65222527932121,good,drop_argument,445,syntax,argument_structure,bigram3,-17.108704213220204,-17.103809334105254,FALSE
+Name would n't look like .,-17.103809334105254,-119.72666533873678,bad,drop_argument,445,syntax,argument_structure,bigram3,-17.108704213220204,-17.103809334105254,FALSE
+Name would n't remember .,-17.573554521322585,-105.44132712793551,good,drop_argument,445,syntax,argument_structure,bigram4,-17.573554521322585,-16.888165091768577,FALSE
+Name would n't look like .,-16.888165091768577,-118.21715564238004,bad,drop_argument,445,syntax,argument_structure,bigram4,-17.573554521322585,-16.888165091768577,FALSE
+Name would n't remember .,-16.916241908006015,-101.49745144803609,good,drop_argument,445,syntax,argument_structure,bigram5,-16.916241908006015,-16.898859519756012,FALSE
+Name would n't look like .,-16.898859519756012,-118.29201663829208,bad,drop_argument,445,syntax,argument_structure,bigram5,-16.916241908006015,-16.898859519756012,FALSE
+Name would n't remember .,-16.951890525294168,-101.711343151765,good,drop_argument,445,syntax,argument_structure,bigram6,-16.951890525294168,-16.723803445855808,FALSE
+Name would n't look like .,-16.723803445855808,-117.06662412099065,bad,drop_argument,445,syntax,argument_structure,bigram6,-16.951890525294168,-16.723803445855808,FALSE
+Name would n't remember .,-17.035638654951324,-102.21383192970794,good,drop_argument,445,syntax,argument_structure,bigram7,-17.035638654951324,-16.93343568551283,FALSE
+Name would n't look like .,-16.93343568551283,-118.53404979858982,bad,drop_argument,445,syntax,argument_structure,bigram7,-17.035638654951324,-16.93343568551283,FALSE
+Name would n't remember .,-16.91377341851272,-101.48264051107631,good,drop_argument,445,syntax,argument_structure,bigram8,-16.91377341851272,-16.892247451072684,FALSE
+Name would n't look like .,-16.892247451072684,-118.2457321575088,bad,drop_argument,445,syntax,argument_structure,bigram8,-16.91377341851272,-16.892247451072684,FALSE
+Name would n't remember .,-16.888378679430947,-101.33027207658569,good,drop_argument,445,syntax,argument_structure,bigram9,-16.888378679430947,-16.94745167269149,TRUE
+Name would n't look like .,-16.94745167269149,-118.63216170884043,bad,drop_argument,445,syntax,argument_structure,bigram9,-16.888378679430947,-16.94745167269149,TRUE
+some driver can n't clean .,-18.962223264334657,-132.7355628503426,good,drop_argument,528,syntax,argument_structure,bigram1,-18.962223264334657,-19.533208278967805,TRUE
+some driver can n't walk through .,-19.533208278967805,-156.26566623174244,bad,drop_argument,528,syntax,argument_structure,bigram1,-18.962223264334657,-19.533208278967805,TRUE
+some driver can n't clean .,-19.159883653031898,-134.11918557122328,good,drop_argument,528,syntax,argument_structure,bigram10,-19.159883653031898,-19.31164780795036,TRUE
+some driver can n't walk through .,-19.31164780795036,-154.4931824636029,bad,drop_argument,528,syntax,argument_structure,bigram10,-19.159883653031898,-19.31164780795036,TRUE
+some driver can n't clean .,-18.906487855031287,-132.345414985219,good,drop_argument,528,syntax,argument_structure,bigram2,-18.906487855031287,-19.35731650360849,TRUE
+some driver can n't walk through .,-19.35731650360849,-154.85853202886796,bad,drop_argument,528,syntax,argument_structure,bigram2,-18.906487855031287,-19.35731650360849,TRUE
+some driver can n't clean .,-18.905806102243865,-132.34064271570705,good,drop_argument,528,syntax,argument_structure,bigram3,-18.905806102243865,-19.60957027780109,TRUE
+some driver can n't walk through .,-19.60957027780109,-156.87656222240875,bad,drop_argument,528,syntax,argument_structure,bigram3,-18.905806102243865,-19.60957027780109,TRUE
+some driver can n't clean .,-19.116809628572337,-133.81766740000637,good,drop_argument,528,syntax,argument_structure,bigram4,-19.116809628572337,-19.398140268181635,TRUE
+some driver can n't walk through .,-19.398140268181635,-155.18512214545308,bad,drop_argument,528,syntax,argument_structure,bigram4,-19.116809628572337,-19.398140268181635,TRUE
+some driver can n't clean .,-18.95438350804832,-132.68068455633824,good,drop_argument,528,syntax,argument_structure,bigram5,-18.95438350804832,-19.380800805973795,TRUE
+some driver can n't walk through .,-19.380800805973795,-155.04640644779036,bad,drop_argument,528,syntax,argument_structure,bigram5,-18.95438350804832,-19.380800805973795,TRUE
+some driver can n't clean .,-18.887104463930864,-132.20973124751606,good,drop_argument,528,syntax,argument_structure,bigram6,-18.887104463930864,-19.268182404542543,TRUE
+some driver can n't walk through .,-19.268182404542543,-154.14545923634037,bad,drop_argument,528,syntax,argument_structure,bigram6,-18.887104463930864,-19.268182404542543,TRUE
+some driver can n't clean .,-19.098758341170853,-133.69130838819598,good,drop_argument,528,syntax,argument_structure,bigram7,-19.098758341170853,-19.38523944812116,TRUE
+some driver can n't walk through .,-19.38523944812116,-155.08191558496927,bad,drop_argument,528,syntax,argument_structure,bigram7,-19.098758341170853,-19.38523944812116,TRUE
+some driver can n't clean .,-19.033010152758266,-133.23107106930786,good,drop_argument,528,syntax,argument_structure,bigram8,-19.033010152758266,-19.399501794829494,TRUE
+some driver can n't walk through .,-19.399501794829494,-155.19601435863595,bad,drop_argument,528,syntax,argument_structure,bigram8,-19.033010152758266,-19.399501794829494,TRUE
+some driver can n't clean .,-19.160822804979748,-134.12575963485824,good,drop_argument,528,syntax,argument_structure,bigram9,-19.160822804979748,-19.440446710888946,TRUE
+some driver can n't walk through .,-19.440446710888946,-155.52357368711154,bad,drop_argument,528,syntax,argument_structure,bigram9,-19.160822804979748,-19.440446710888946,TRUE
+Name had n't left .,-18.403823808859745,-110.42294285315847,good,drop_argument,546,syntax,argument_structure,bigram1,-18.403823808859745,-18.615598577826237,TRUE
+Name had n't looked like .,-18.615598577826237,-130.30919004478363,bad,drop_argument,546,syntax,argument_structure,bigram1,-18.403823808859745,-18.615598577826237,TRUE
+Name had n't left .,-18.54011266842376,-111.24067601054253,good,drop_argument,546,syntax,argument_structure,bigram10,-18.54011266842376,-18.88566220052047,TRUE
+Name had n't looked like .,-18.88566220052047,-132.1996354036433,bad,drop_argument,546,syntax,argument_structure,bigram10,-18.54011266842376,-18.88566220052047,TRUE
+Name had n't left .,-18.45617413702029,-110.73704482212176,good,drop_argument,546,syntax,argument_structure,bigram2,-18.45617413702029,-18.57447759646783,TRUE
+Name had n't looked like .,-18.57447759646783,-130.0213431752748,bad,drop_argument,546,syntax,argument_structure,bigram2,-18.45617413702029,-18.57447759646783,TRUE
+Name had n't left .,-18.37286463000706,-110.23718778004238,good,drop_argument,546,syntax,argument_structure,bigram3,-18.37286463000706,-18.88402068371756,TRUE
+Name had n't looked like .,-18.88402068371756,-132.18814478602292,bad,drop_argument,546,syntax,argument_structure,bigram3,-18.37286463000706,-18.88402068371756,TRUE
+Name had n't left .,-18.555619692308152,-111.3337181538489,good,drop_argument,546,syntax,argument_structure,bigram4,-18.555619692308152,-18.792738543692938,TRUE
+Name had n't looked like .,-18.792738543692938,-131.54916980585057,bad,drop_argument,546,syntax,argument_structure,bigram4,-18.555619692308152,-18.792738543692938,TRUE
+Name had n't left .,-18.299443244403896,-109.79665946642338,good,drop_argument,546,syntax,argument_structure,bigram5,-18.299443244403896,-18.73748305112507,TRUE
+Name had n't looked like .,-18.73748305112507,-131.1623813578755,bad,drop_argument,546,syntax,argument_structure,bigram5,-18.299443244403896,-18.73748305112507,TRUE
+Name had n't left .,-18.46861891279912,-110.81171347679472,good,drop_argument,546,syntax,argument_structure,bigram6,-18.46861891279912,-18.678205923659863,TRUE
+Name had n't looked like .,-18.678205923659863,-130.74744146561903,bad,drop_argument,546,syntax,argument_structure,bigram6,-18.46861891279912,-18.678205923659863,TRUE
+Name had n't left .,-18.58117412326038,-111.48704473956226,good,drop_argument,546,syntax,argument_structure,bigram7,-18.58117412326038,-18.756098490802056,TRUE
+Name had n't looked like .,-18.756098490802056,-131.2926894356144,bad,drop_argument,546,syntax,argument_structure,bigram7,-18.58117412326038,-18.756098490802056,TRUE
+Name had n't left .,-18.39446850503079,-110.36681103018475,good,drop_argument,546,syntax,argument_structure,bigram8,-18.39446850503079,-18.715689460660787,TRUE
+Name had n't looked like .,-18.715689460660787,-131.0098262246255,bad,drop_argument,546,syntax,argument_structure,bigram8,-18.39446850503079,-18.715689460660787,TRUE
+Name had n't left .,-18.562704451655293,-111.37622670993176,good,drop_argument,546,syntax,argument_structure,bigram9,-18.562704451655293,-18.765571894700884,TRUE
+Name had n't looked like .,-18.765571894700884,-131.35900326290619,bad,drop_argument,546,syntax,argument_structure,bigram9,-18.562704451655293,-18.765571894700884,TRUE
+Name could n't bike to .,-18.342011277481447,-128.39407894237013,bad,drop_argument,56,syntax,argument_structure,bigram1,-18.2951443594298,-18.342011277481447,TRUE
+Name could n't love .,-18.2951443594298,-109.77086615657879,good,drop_argument,56,syntax,argument_structure,bigram1,-18.2951443594298,-18.342011277481447,TRUE
+Name could n't bike to .,-18.457090771949044,-129.1996354036433,bad,drop_argument,56,syntax,argument_structure,bigram10,-18.47093975187728,-18.457090771949044,FALSE
+Name could n't love .,-18.47093975187728,-110.82563851126369,good,drop_argument,56,syntax,argument_structure,bigram10,-18.47093975187728,-18.457090771949044,FALSE
+Name could n't bike to .,-18.421564835340487,-128.9509538473834,bad,drop_argument,56,syntax,argument_structure,bigram2,-18.402519454539064,-18.421564835340487,TRUE
+Name could n't love .,-18.402519454539064,-110.41511672723439,good,drop_argument,56,syntax,argument_structure,bigram2,-18.402519454539064,-18.421564835340487,TRUE
+Name could n't bike to .,-18.26026036739673,-127.82182257177712,bad,drop_argument,56,syntax,argument_structure,bigram3,-18.221716197405645,-18.26026036739673,TRUE
+Name could n't love .,-18.221716197405645,-109.33029718443387,good,drop_argument,56,syntax,argument_structure,bigram3,-18.221716197405645,-18.26026036739673,TRUE
+Name could n't bike to .,-18.38417146537565,-128.68920025762955,bad,drop_argument,56,syntax,argument_structure,bigram4,-18.36603577168316,-18.38417146537565,TRUE
+Name could n't love .,-18.36603577168316,-110.19621463009898,good,drop_argument,56,syntax,argument_structure,bigram4,-18.36603577168316,-18.38417146537565,TRUE
+Name could n't bike to .,-18.309718274430946,-128.16802792101663,bad,drop_argument,56,syntax,argument_structure,bigram5,-18.21746772834895,-18.309718274430946,TRUE
+Name could n't love .,-18.21746772834895,-109.3048063700937,good,drop_argument,56,syntax,argument_structure,bigram5,-18.21746772834895,-18.309718274430946,TRUE
+Name could n't bike to .,-18.40351561802021,-128.82460932614148,bad,drop_argument,56,syntax,argument_structure,bigram6,-18.380199793349323,-18.40351561802021,TRUE
+Name could n't love .,-18.380199793349323,-110.28119876009593,good,drop_argument,56,syntax,argument_structure,bigram6,-18.380199793349323,-18.40351561802021,TRUE
+Name could n't bike to .,-18.525893531933157,-129.68125472353208,bad,drop_argument,56,syntax,argument_structure,bigram7,-18.527519440779155,-18.525893531933157,FALSE
+Name could n't love .,-18.527519440779155,-111.16511664467492,good,drop_argument,56,syntax,argument_structure,bigram7,-18.527519440779155,-18.525893531933157,FALSE
+Name could n't bike to .,-18.44054668658132,-129.08382680606925,bad,drop_argument,56,syntax,argument_structure,bigram8,-18.39446850503079,-18.44054668658132,TRUE
+Name could n't love .,-18.39446850503079,-110.36681103018475,good,drop_argument,56,syntax,argument_structure,bigram8,-18.39446850503079,-18.44054668658132,TRUE
+Name could n't bike to .,-18.43022001084453,-129.01154007591168,bad,drop_argument,56,syntax,argument_structure,bigram9,-18.379448506063472,-18.43022001084453,TRUE
+Name could n't love .,-18.379448506063472,-110.27669103638084,good,drop_argument,56,syntax,argument_structure,bigram9,-18.379448506063472,-18.43022001084453,TRUE
+Name will n't walk through .,-18.178943788059605,-127.25260651641723,bad,drop_argument,615,syntax,argument_structure,bigram1,-16.884577605956423,-18.178943788059605,TRUE
+Name will n't remember .,-16.884577605956423,-101.30746563573854,good,drop_argument,615,syntax,argument_structure,bigram1,-16.884577605956423,-18.178943788059605,TRUE
+Name will n't walk through .,-18.119044741342496,-126.83331318939747,bad,drop_argument,615,syntax,argument_structure,bigram10,-17.243219382836312,-18.119044741342496,TRUE
+Name will n't remember .,-17.243219382836312,-103.45931629701786,good,drop_argument,615,syntax,argument_structure,bigram10,-17.243219382836312,-18.119044741342496,TRUE
+Name will n't walk through .,-18.05326824746393,-126.37287773224747,bad,drop_argument,615,syntax,argument_structure,bigram2,-16.712466364646232,-18.05326824746393,TRUE
+Name will n't remember .,-16.712466364646232,-100.2747981878774,good,drop_argument,615,syntax,argument_structure,bigram2,-16.712466364646232,-18.05326824746393,TRUE
+Name will n't walk through .,-18.331111438062788,-128.31778006643952,bad,drop_argument,615,syntax,argument_structure,bigram3,-16.8944705100765,-18.331111438062788,TRUE
+Name will n't remember .,-16.8944705100765,-101.36682306045898,good,drop_argument,615,syntax,argument_structure,bigram3,-16.8944705100765,-18.331111438062788,TRUE
+Name will n't walk through .,-17.981424462183377,-125.86997123528363,bad,drop_argument,615,syntax,argument_structure,bigram4,-17.319592331519296,-17.981424462183377,TRUE
+Name will n't remember .,-17.319592331519296,-103.91755398911577,good,drop_argument,615,syntax,argument_structure,bigram4,-17.319592331519296,-17.981424462183377,TRUE
+Name will n't walk through .,-17.969930899680413,-125.7895162977629,bad,drop_argument,615,syntax,argument_structure,bigram5,-16.715751898227637,-17.969930899680413,TRUE
+Name will n't remember .,-16.715751898227637,-100.29451138936582,good,drop_argument,615,syntax,argument_structure,bigram5,-16.715751898227637,-17.969930899680413,TRUE
+Name will n't walk through .,-18.067774710173232,-126.47442297121262,bad,drop_argument,615,syntax,argument_structure,bigram6,-16.966954898037013,-18.067774710173232,TRUE
+Name will n't remember .,-16.966954898037013,-101.80172938822209,good,drop_argument,615,syntax,argument_structure,bigram6,-16.966954898037013,-18.067774710173232,TRUE
+Name will n't walk through .,-18.09098008631052,-126.63686060417362,bad,drop_argument,615,syntax,argument_structure,bigram7,-16.8898938019653,-18.09098008631052,TRUE
+Name will n't remember .,-16.8898938019653,-101.3393628117918,good,drop_argument,615,syntax,argument_structure,bigram7,-16.8898938019653,-18.09098008631052,TRUE
+Name will n't walk through .,-18.05435280064941,-126.38046960454588,bad,drop_argument,615,syntax,argument_structure,bigram8,-16.805093969082773,-18.05435280064941,TRUE
+Name will n't remember .,-16.805093969082773,-100.83056381449663,good,drop_argument,615,syntax,argument_structure,bigram8,-16.805093969082773,-18.05435280064941,TRUE
+Name will n't walk through .,-18.037711867211108,-126.26398307047776,bad,drop_argument,615,syntax,argument_structure,bigram9,-16.757373487222853,-18.037711867211108,TRUE
+Name will n't remember .,-16.757373487222853,-100.54424092333713,good,drop_argument,615,syntax,argument_structure,bigram9,-16.757373487222853,-18.037711867211108,TRUE
+this friend of Name went to .,-18.59056067788115,-148.7244854230492,bad,drop_argument,636,syntax,argument_structure,bigram1,-19.181599662671456,-18.59056067788115,FALSE
+this friend of Name knows .,-19.181599662671456,-134.2711976387002,good,drop_argument,636,syntax,argument_structure,bigram1,-19.181599662671456,-18.59056067788115,FALSE
+this friend of Name went to .,-18.45886055032359,-147.6708844025887,bad,drop_argument,636,syntax,argument_structure,bigram10,-19.138473264597227,-18.45886055032359,FALSE
+this friend of Name knows .,-19.138473264597227,-133.9693128521806,good,drop_argument,636,syntax,argument_structure,bigram10,-19.138473264597227,-18.45886055032359,FALSE
+this friend of Name went to .,-18.466442602928865,-147.73154082343092,bad,drop_argument,636,syntax,argument_structure,bigram2,-19.183309506361752,-18.466442602928865,FALSE
+this friend of Name knows .,-19.183309506361752,-134.28316654453226,good,drop_argument,636,syntax,argument_structure,bigram2,-19.183309506361752,-18.466442602928865,FALSE
+this friend of Name went to .,-18.532246117975788,-148.2579689438063,bad,drop_argument,636,syntax,argument_structure,bigram3,-19.19305800816917,-18.532246117975788,FALSE
+this friend of Name knows .,-19.19305800816917,-134.35140605718422,good,drop_argument,636,syntax,argument_structure,bigram3,-19.19305800816917,-18.532246117975788,FALSE
+this friend of Name went to .,-18.56655454140776,-148.5324363312621,bad,drop_argument,636,syntax,argument_structure,bigram4,-19.172767957881977,-18.56655454140776,FALSE
+this friend of Name knows .,-19.172767957881977,-134.20937570517384,good,drop_argument,636,syntax,argument_structure,bigram4,-19.172767957881977,-18.56655454140776,FALSE
+this friend of Name went to .,-18.493488953036337,-147.9479116242907,bad,drop_argument,636,syntax,argument_structure,bigram5,-19.14165438128233,-18.493488953036337,FALSE
+this friend of Name knows .,-19.14165438128233,-133.9915806689763,good,drop_argument,636,syntax,argument_structure,bigram5,-19.14165438128233,-18.493488953036337,FALSE
+this friend of Name went to .,-18.502060255313445,-148.01648204250756,bad,drop_argument,636,syntax,argument_structure,bigram6,-19.42809049035986,-18.502060255313445,FALSE
+this friend of Name knows .,-19.42809049035986,-135.99663343251902,good,drop_argument,636,syntax,argument_structure,bigram6,-19.42809049035986,-18.502060255313445,FALSE
+this friend of Name went to .,-18.541299366738023,-148.3303949339042,bad,drop_argument,636,syntax,argument_structure,bigram7,-19.367020622458647,-18.541299366738023,FALSE
+this friend of Name knows .,-19.367020622458647,-135.56914435721052,good,drop_argument,636,syntax,argument_structure,bigram7,-19.367020622458647,-18.541299366738023,FALSE
+this friend of Name went to .,-18.544038727697995,-148.35230982158396,bad,drop_argument,636,syntax,argument_structure,bigram8,-19.186817055381564,-18.544038727697995,FALSE
+this friend of Name knows .,-19.186817055381564,-134.30771938767094,good,drop_argument,636,syntax,argument_structure,bigram8,-19.186817055381564,-18.544038727697995,FALSE
+this friend of Name went to .,-18.70269874180816,-149.62158993446525,bad,drop_argument,636,syntax,argument_structure,bigram9,-19.412391556419198,-18.70269874180816,FALSE
+this friend of Name knows .,-19.412391556419198,-135.8867408949344,good,drop_argument,636,syntax,argument_structure,bigram9,-19.412391556419198,-18.70269874180816,FALSE
+Name might help .,-18.17402387905171,-90.87011939525856,good,drop_argument,646,syntax,argument_structure,bigram1,-18.17402387905171,-17.509638260074237,FALSE
+Name might like .,-17.509638260074237,-87.54819130037119,bad,drop_argument,646,syntax,argument_structure,bigram1,-18.17402387905171,-17.509638260074237,FALSE
+Name might help .,-17.825942704799342,-89.12971352399671,good,drop_argument,646,syntax,argument_structure,bigram10,-17.825942704799342,-17.65634332348835,FALSE
+Name might like .,-17.65634332348835,-88.28171661744176,bad,drop_argument,646,syntax,argument_structure,bigram10,-17.825942704799342,-17.65634332348835,FALSE
+Name might help .,-17.9617780558388,-89.80889027919399,good,drop_argument,646,syntax,argument_structure,bigram2,-17.9617780558388,-17.497392436861325,FALSE
+Name might like .,-17.497392436861325,-87.48696218430662,bad,drop_argument,646,syntax,argument_structure,bigram2,-17.9617780558388,-17.497392436861325,FALSE
+Name might help .,-17.774238654956598,-88.871193274783,good,drop_argument,646,syntax,argument_structure,bigram3,-17.774238654956598,-17.774238654956598,FALSE
+Name might like .,-17.774238654956598,-88.871193274783,bad,drop_argument,646,syntax,argument_structure,bigram3,-17.774238654956598,-17.774238654956598,FALSE
+Name might help .,-18.25763830065792,-91.28819150328958,good,drop_argument,646,syntax,argument_structure,bigram4,-18.25763830065792,-17.457638300657916,FALSE
+Name might like .,-17.457638300657916,-87.28819150328958,bad,drop_argument,646,syntax,argument_structure,bigram4,-18.25763830065792,-17.457638300657916,FALSE
+Name might help .,-18.05220251470579,-90.26101257352894,good,drop_argument,646,syntax,argument_structure,bigram5,-18.05220251470579,-17.56919501485002,FALSE
+Name might like .,-17.56919501485002,-87.8459750742501,bad,drop_argument,646,syntax,argument_structure,bigram5,-18.05220251470579,-17.56919501485002,FALSE
+Name might help .,-17.94479647890507,-89.72398239452535,good,drop_argument,646,syntax,argument_structure,bigram6,-17.94479647890507,-17.575197097594078,FALSE
+Name might like .,-17.575197097594078,-87.87598548797038,bad,drop_argument,646,syntax,argument_structure,bigram6,-17.94479647890507,-17.575197097594078,FALSE
+Name might help .,-17.837909389436096,-89.18954694718047,good,drop_argument,646,syntax,argument_structure,bigram7,-17.837909389436096,-17.468310008125105,FALSE
+Name might like .,-17.468310008125105,-87.34155004062552,bad,drop_argument,646,syntax,argument_structure,bigram7,-17.837909389436096,-17.468310008125105,FALSE
+Name might help .,-18.197366048315565,-90.98683024157782,good,drop_argument,646,syntax,argument_structure,bigram8,-18.197366048315565,-17.532980429338096,FALSE
+Name might like .,-17.532980429338096,-87.66490214669048,bad,drop_argument,646,syntax,argument_structure,bigram8,-18.197366048315565,-17.532980429338096,FALSE
+Name might help .,-17.923168515658755,-89.61584257829378,good,drop_argument,646,syntax,argument_structure,bigram9,-17.923168515658755,-17.523168515658757,FALSE
+Name might like .,-17.523168515658757,-87.61584257829378,bad,drop_argument,646,syntax,argument_structure,bigram9,-17.923168515658755,-17.523168515658757,FALSE
+that school was looking like .,-19.043561213716107,-133.30492849601274,bad,drop_argument,66,syntax,argument_structure,bigram1,-19.211113035157094,-19.043561213716107,FALSE
+that school was buying .,-19.211113035157094,-115.26667821094259,good,drop_argument,66,syntax,argument_structure,bigram1,-19.211113035157094,-19.043561213716107,FALSE
+that school was looking like .,-19.185260928836502,-134.29682650185552,bad,drop_argument,66,syntax,argument_structure,bigram10,-18.987138268245985,-19.185260928836502,TRUE
+that school was buying .,-18.987138268245985,-113.92282960947591,good,drop_argument,66,syntax,argument_structure,bigram10,-18.987138268245985,-19.185260928836502,TRUE
+that school was looking like .,-18.863058399761268,-132.0414087983289,bad,drop_argument,66,syntax,argument_structure,bigram2,-18.95951840752931,-18.863058399761268,FALSE
+that school was buying .,-18.95951840752931,-113.75711044517585,good,drop_argument,66,syntax,argument_structure,bigram2,-18.95951840752931,-18.863058399761268,FALSE
+that school was looking like .,-18.823040264478184,-131.7612818513473,bad,drop_argument,66,syntax,argument_structure,bigram3,-18.801720807561125,-18.823040264478184,TRUE
+that school was buying .,-18.801720807561125,-112.81032484536675,good,drop_argument,66,syntax,argument_structure,bigram3,-18.801720807561125,-18.823040264478184,TRUE
+that school was looking like .,-19.045821155962926,-133.32074809174048,bad,drop_argument,66,syntax,argument_structure,bigram4,-18.992215557715628,-19.045821155962926,TRUE
+that school was buying .,-18.992215557715628,-113.95329334629378,good,drop_argument,66,syntax,argument_structure,bigram4,-18.992215557715628,-19.045821155962926,TRUE
+that school was looking like .,-18.78490719931317,-131.49435039519219,bad,drop_argument,66,syntax,argument_structure,bigram5,-18.810932349651047,-18.78490719931317,FALSE
+that school was buying .,-18.810932349651047,-112.86559409790628,good,drop_argument,66,syntax,argument_structure,bigram5,-18.810932349651047,-18.78490719931317,FALSE
+that school was looking like .,-18.6923120953256,-130.84618466727918,bad,drop_argument,66,syntax,argument_structure,bigram6,-18.84673027998286,-18.6923120953256,FALSE
+that school was buying .,-18.84673027998286,-113.08038167989717,good,drop_argument,66,syntax,argument_structure,bigram6,-18.84673027998286,-18.6923120953256,FALSE
+that school was looking like .,-18.887812417659017,-132.21468692361313,bad,drop_argument,66,syntax,argument_structure,bigram7,-18.901507037926837,-18.887812417659017,FALSE
+that school was buying .,-18.901507037926837,-113.409042227561,good,drop_argument,66,syntax,argument_structure,bigram7,-18.901507037926837,-18.887812417659017,FALSE
+that school was looking like .,-18.759650535396503,-131.31755374777552,bad,drop_argument,66,syntax,argument_structure,bigram8,-18.832744441370355,-18.759650535396503,FALSE
+that school was buying .,-18.832744441370355,-112.99646664822214,good,drop_argument,66,syntax,argument_structure,bigram8,-18.832744441370355,-18.759650535396503,FALSE
+that school was looking like .,-19.01501876938762,-133.10513138571335,bad,drop_argument,66,syntax,argument_structure,bigram9,-19.020392472123152,-19.01501876938762,FALSE
+that school was buying .,-19.020392472123152,-114.12235483273892,good,drop_argument,66,syntax,argument_structure,bigram9,-19.020392472123152,-19.01501876938762,FALSE
+Name can love .,-17.682137555324253,-88.41068777662126,good,drop_argument,687,syntax,argument_structure,bigram1,-17.682137555324253,-17.36514505518002,FALSE
+Name can wear .,-17.36514505518002,-86.8257252759001,bad,drop_argument,687,syntax,argument_structure,bigram1,-17.682137555324253,-17.36514505518002,FALSE
+Name can love .,-17.611864839221063,-88.05932419610532,good,drop_argument,687,syntax,argument_structure,bigram10,-17.611864839221063,-17.294872339076832,FALSE
+Name can wear .,-17.294872339076832,-86.47436169538416,bad,drop_argument,687,syntax,argument_structure,bigram10,-17.611864839221063,-17.294872339076832,FALSE
+Name can love .,-17.580399936717093,-87.90199968358546,good,drop_argument,687,syntax,argument_structure,bigram2,-17.580399936717093,-17.26340743657286,FALSE
+Name can wear .,-17.26340743657286,-86.3170371828643,bad,drop_argument,687,syntax,argument_structure,bigram2,-17.580399936717093,-17.26340743657286,FALSE
+Name can love .,-17.65724615481237,-88.28623077406185,good,drop_argument,687,syntax,argument_structure,bigram3,-17.65724615481237,-17.34025365466814,FALSE
+Name can wear .,-17.34025365466814,-86.7012682733407,bad,drop_argument,687,syntax,argument_structure,bigram3,-17.65724615481237,-17.34025365466814,FALSE
+Name can love .,-17.62365330036945,-88.11826650184726,good,drop_argument,687,syntax,argument_structure,bigram4,-17.62365330036945,-17.62365330036945,FALSE
+Name can wear .,-17.62365330036945,-88.11826650184726,bad,drop_argument,687,syntax,argument_structure,bigram4,-17.62365330036945,-17.62365330036945,FALSE
+Name can love .,-17.49073153029427,-87.45365765147135,good,drop_argument,687,syntax,argument_structure,bigram5,-17.49073153029427,-17.49073153029427,FALSE
+Name can wear .,-17.49073153029427,-87.45365765147135,bad,drop_argument,687,syntax,argument_structure,bigram5,-17.49073153029427,-17.49073153029427,FALSE
+Name can love .,-17.54479647890507,-87.72398239452535,good,drop_argument,687,syntax,argument_structure,bigram6,-17.54479647890507,-17.22780397876084,FALSE
+Name can wear .,-17.22780397876084,-86.13901989380419,bad,drop_argument,687,syntax,argument_structure,bigram6,-17.54479647890507,-17.22780397876084,FALSE
+Name can love .,-17.65270950572485,-88.26354752862424,good,drop_argument,687,syntax,argument_structure,bigram7,-17.65270950572485,-17.33571700558062,FALSE
+Name can wear .,-17.33571700558062,-86.6785850279031,bad,drop_argument,687,syntax,argument_structure,bigram7,-17.65270950572485,-17.33571700558062,FALSE
+Name can love .,-17.63589506390404,-88.17947531952021,good,drop_argument,687,syntax,argument_structure,bigram8,-17.63589506390404,-17.31890256375981,FALSE
+Name can wear .,-17.31890256375981,-86.59451281879905,bad,drop_argument,687,syntax,argument_structure,bigram8,-17.63589506390404,-17.31890256375981,FALSE
+Name can love .,-17.74827469207553,-88.74137346037764,good,drop_argument,687,syntax,argument_structure,bigram9,-17.74827469207553,-17.431282191931295,FALSE
+Name can wear .,-17.431282191931295,-87.15641095965648,bad,drop_argument,687,syntax,argument_structure,bigram9,-17.74827469207553,-17.431282191931295,FALSE
+Name will drive to .,-17.7988154104848,-106.7928924629088,bad,drop_argument,691,syntax,argument_structure,bigram1,-17.265209766956524,-17.7988154104848,TRUE
+Name will climb up .,-17.265209766956524,-103.59125860173914,good,drop_argument,691,syntax,argument_structure,bigram1,-17.265209766956524,-17.7988154104848,TRUE
+Name will drive to .,-17.942618918303562,-107.65571350982137,bad,drop_argument,691,syntax,argument_structure,bigram10,-17.49254563194671,-17.942618918303562,TRUE
+Name will climb up .,-17.49254563194671,-104.95527379168027,good,drop_argument,691,syntax,argument_structure,bigram10,-17.49254563194671,-17.942618918303562,TRUE
+Name will drive to .,-17.814215963450945,-106.88529578070568,bad,drop_argument,691,syntax,argument_structure,bigram2,-17.320010199811062,-17.814215963450945,TRUE
+Name will climb up .,-17.320010199811062,-103.92006119886636,good,drop_argument,691,syntax,argument_structure,bigram2,-17.320010199811062,-17.814215963450945,TRUE
+Name will drive to .,-17.77704649066419,-106.66227894398514,bad,drop_argument,691,syntax,argument_structure,bigram3,-17.285386604414125,-17.77704649066419,TRUE
+Name will climb up .,-17.285386604414125,-103.71231962648474,good,drop_argument,691,syntax,argument_structure,bigram3,-17.285386604414125,-17.77704649066419,TRUE
+Name will drive to .,-17.828970368127088,-106.97382220876253,bad,drop_argument,691,syntax,argument_structure,bigram4,-17.38399513507581,-17.828970368127088,TRUE
+Name will climb up .,-17.38399513507581,-104.30397081045486,good,drop_argument,691,syntax,argument_structure,bigram4,-17.38399513507581,-17.828970368127088,TRUE
+Name will drive to .,-17.834792817838657,-107.00875690703194,bad,drop_argument,691,syntax,argument_structure,bigram5,-17.33835509297075,-17.834792817838657,TRUE
+Name will climb up .,-17.33835509297075,-104.0301305578245,good,drop_argument,691,syntax,argument_structure,bigram5,-17.33835509297075,-17.834792817838657,TRUE
+Name will drive to .,-17.931553509243045,-107.58932105545827,bad,drop_argument,691,syntax,argument_structure,bigram6,-17.455618494132242,-17.931553509243045,TRUE
+Name will climb up .,-17.455618494132242,-104.73371096479345,good,drop_argument,691,syntax,argument_structure,bigram6,-17.455618494132242,-17.931553509243045,TRUE
+Name will drive to .,-17.92803025038128,-107.56818150228767,bad,drop_argument,691,syntax,argument_structure,bigram7,-17.611676852717817,-17.92803025038128,TRUE
+Name will climb up .,-17.611676852717817,-105.6700611163069,good,drop_argument,691,syntax,argument_structure,bigram7,-17.611676852717817,-17.92803025038128,TRUE
+Name will drive to .,-17.922320169336672,-107.53392101602003,bad,drop_argument,691,syntax,argument_structure,bigram8,-17.567801516352784,-17.922320169336672,TRUE
+Name will climb up .,-17.567801516352784,-105.4068090981167,good,drop_argument,691,syntax,argument_structure,bigram8,-17.567801516352784,-17.922320169336672,TRUE
+Name will drive to .,-17.912703749984747,-107.47622249990849,bad,drop_argument,691,syntax,argument_structure,bigram9,-17.385793179535728,-17.912703749984747,TRUE
+Name will climb up .,-17.385793179535728,-104.31475907721438,good,drop_argument,691,syntax,argument_structure,bigram9,-17.385793179535728,-17.912703749984747,TRUE
+Name knows .,-16.981244628644966,-67.92497851457986,good,drop_argument,703,syntax,argument_structure,bigram1,-16.981244628644966,-17.445252641096765,TRUE
+Name looked like .,-17.445252641096765,-87.22626320548382,bad,drop_argument,703,syntax,argument_structure,bigram1,-16.981244628644966,-17.445252641096765,TRUE
+Name knows .,-17.123170556445828,-68.49268222578331,good,drop_argument,703,syntax,argument_structure,bigram10,-17.123170556445828,-17.773335823632586,TRUE
+Name looked like .,-17.773335823632586,-88.86667911816292,bad,drop_argument,703,syntax,argument_structure,bigram10,-17.123170556445828,-17.773335823632586,TRUE
+Name knows .,-16.970183934066554,-67.88073573626622,good,drop_argument,703,syntax,argument_structure,bigram2,-16.970183934066554,-17.43300681788385,TRUE
+Name looked like .,-17.43300681788385,-87.16503408941925,bad,drop_argument,703,syntax,argument_structure,bigram2,-16.970183934066554,-17.43300681788385,TRUE
+Name knows .,-16.980059067200614,-67.92023626880246,good,drop_argument,703,syntax,argument_structure,bigram3,-16.980059067200614,-17.774238654956598,TRUE
+Name looked like .,-17.774238654956598,-88.871193274783,bad,drop_argument,703,syntax,argument_structure,bigram3,-16.980059067200614,-17.774238654956598,TRUE
+Name knows .,-17.083943564280432,-68.33577425712173,good,drop_argument,703,syntax,argument_structure,bigram4,-17.083943564280432,-17.593252681680443,TRUE
+Name looked like .,-17.593252681680443,-87.96626340840221,bad,drop_argument,703,syntax,argument_structure,bigram4,-17.083943564280432,-17.593252681680443,TRUE
+Name knows .,-16.97382267051921,-67.89529068207683,good,drop_argument,703,syntax,argument_structure,bigram5,-16.97382267051921,-17.652202514705788,TRUE
+Name looked like .,-17.652202514705788,-88.26101257352894,bad,drop_argument,703,syntax,argument_structure,bigram5,-16.97382267051921,-17.652202514705788,TRUE
+Name knows .,-17.277545625147095,-69.11018250058838,good,drop_argument,703,syntax,argument_structure,bigram6,-17.277545625147095,-17.49218959773831,TRUE
+Name looked like .,-17.49218959773831,-87.46094798869154,bad,drop_argument,703,syntax,argument_structure,bigram6,-17.277545625147095,-17.49218959773831,TRUE
+Name knows .,-17.383976336143345,-69.53590534457338,good,drop_argument,703,syntax,argument_structure,bigram7,-17.383976336143345,-17.668310008125104,TRUE
+Name looked like .,-17.668310008125104,-88.34155004062552,bad,drop_argument,703,syntax,argument_structure,bigram7,-17.383976336143345,-17.668310008125104,TRUE
+Name knows .,-17.005471738062433,-68.02188695224973,good,drop_argument,703,syntax,argument_structure,bigram8,-17.005471738062433,-17.532980429338096,TRUE
+Name looked like .,-17.532980429338096,-87.66490214669048,bad,drop_argument,703,syntax,argument_structure,bigram8,-17.005471738062433,-17.532980429338096,TRUE
+Name knows .,-17.304507131510128,-69.21802852604051,good,drop_argument,703,syntax,argument_structure,bigram9,-17.304507131510128,-17.64016101580299,TRUE
+Name looked like .,-17.64016101580299,-88.20080507901494,bad,drop_argument,703,syntax,argument_structure,bigram9,-17.304507131510128,-17.64016101580299,TRUE
+some boys care for .,-19.48315773774035,-116.8989464264421,bad,drop_argument,715,syntax,argument_structure,bigram1,-17.92637549017521,-19.48315773774035,TRUE
+some boys see .,-17.92637549017521,-89.63187745087605,good,drop_argument,715,syntax,argument_structure,bigram1,-17.92637549017521,-19.48315773774035,TRUE
+some boys care for .,-19.497442435589843,-116.98465461353906,bad,drop_argument,715,syntax,argument_structure,bigram10,-17.98204360060367,-19.497442435589843,TRUE
+some boys see .,-17.98204360060367,-89.91021800301836,good,drop_argument,715,syntax,argument_structure,bigram10,-17.98204360060367,-19.497442435589843,TRUE
+some boys care for .,-19.44577471416398,-116.67464828498389,bad,drop_argument,715,syntax,argument_structure,bigram2,-17.861817685949767,-19.44577471416398,TRUE
+some boys see .,-17.861817685949767,-89.30908842974883,good,drop_argument,715,syntax,argument_structure,bigram2,-17.861817685949767,-19.44577471416398,TRUE
+some boys care for .,-19.714588527622,-118.28753116573202,bad,drop_argument,715,syntax,argument_structure,bigram3,-17.817729329261578,-19.714588527622,TRUE
+some boys see .,-17.817729329261578,-89.0886466463079,good,drop_argument,715,syntax,argument_structure,bigram3,-17.817729329261578,-19.714588527622,TRUE
+some boys care for .,-19.845783919911245,-119.07470351946746,bad,drop_argument,715,syntax,argument_structure,bigram4,-18.043079135538218,-19.845783919911245,TRUE
+some boys see .,-18.043079135538218,-90.21539567769109,good,drop_argument,715,syntax,argument_structure,bigram4,-18.043079135538218,-19.845783919911245,TRUE
+some boys care for .,-19.82806748391501,-118.96840490349005,bad,drop_argument,715,syntax,argument_structure,bigram5,-17.98605153401329,-19.82806748391501,TRUE
+some boys see .,-17.98605153401329,-89.93025767006644,good,drop_argument,715,syntax,argument_structure,bigram5,-17.98605153401329,-19.82806748391501,TRUE
+some boys care for .,-19.44581378249565,-116.67488269497392,bad,drop_argument,715,syntax,argument_structure,bigram6,-17.90335245696263,-19.44581378249565,TRUE
+some boys see .,-17.90335245696263,-89.51676228481314,good,drop_argument,715,syntax,argument_structure,bigram6,-17.90335245696263,-19.44581378249565,TRUE
+some boys care for .,-19.548441254459792,-117.29064752675876,bad,drop_argument,715,syntax,argument_structure,bigram7,-18.00347945612473,-19.548441254459792,TRUE
+some boys see .,-18.00347945612473,-90.01739728062364,good,drop_argument,715,syntax,argument_structure,bigram7,-18.00347945612473,-19.548441254459792,TRUE
+some boys care for .,-19.85297947023264,-119.11787682139581,bad,drop_argument,715,syntax,argument_structure,bigram8,-18.030586706413544,-19.85297947023264,TRUE
+some boys see .,-18.030586706413544,-90.15293353206772,good,drop_argument,715,syntax,argument_structure,bigram8,-18.030586706413544,-19.85297947023264,TRUE
+some boys care for .,-19.624640856673786,-117.74784514004268,bad,drop_argument,715,syntax,argument_structure,bigram9,-18.088628098436185,-19.624640856673786,TRUE
+some boys see .,-18.088628098436185,-90.4431404921809,good,drop_argument,715,syntax,argument_structure,bigram9,-18.088628098436185,-19.624640856673786,TRUE
+Name was watching .,-17.340038878763245,-86.70019439381623,good,drop_argument,744,syntax,argument_structure,bigram1,-17.340038878763245,-18.274222545749154,TRUE
+Name was walking through .,-18.274222545749154,-109.64533527449493,bad,drop_argument,744,syntax,argument_structure,bigram1,-17.340038878763245,-18.274222545749154,TRUE
+Name was watching .,-17.690328323776818,-88.45164161888408,good,drop_argument,744,syntax,argument_structure,bigram10,-17.690328323776818,-18.20677933509042,TRUE
+Name was walking through .,-18.20677933509042,-109.24067601054253,bad,drop_argument,744,syntax,argument_structure,bigram10,-17.690328323776818,-18.20677933509042,TRUE
+Name was watching .,-17.127793055550335,-85.63896527775167,good,drop_argument,744,syntax,argument_structure,bigram2,-17.127793055550335,-18.025347053566765,TRUE
+Name was walking through .,-18.025347053566765,-108.1520823214006,bad,drop_argument,744,syntax,argument_structure,bigram2,-17.127793055550335,-18.025347053566765,TRUE
+Name was watching .,-17.65724615481237,-88.28623077406185,good,drop_argument,744,syntax,argument_structure,bigram3,-17.65724615481237,-18.44203754655354,TRUE
+Name was walking through .,-18.44203754655354,-110.65222527932124,bad,drop_argument,744,syntax,argument_structure,bigram3,-17.65724615481237,-18.44203754655354,TRUE
+Name was watching .,-17.306660800225224,-86.53330400112611,good,drop_argument,744,syntax,argument_structure,bigram4,-17.306660800225224,-18.247620207882324,TRUE
+Name was walking through .,-18.247620207882324,-109.48572124729395,bad,drop_argument,744,syntax,argument_structure,bigram4,-17.306660800225224,-18.247620207882324,TRUE
+Name was watching .,-17.45220251470579,-87.26101257352894,good,drop_argument,744,syntax,argument_structure,bigram5,-17.45220251470579,-18.10445574416351,TRUE
+Name was walking through .,-18.10445574416351,-108.62673446498106,bad,drop_argument,744,syntax,argument_structure,bigram5,-17.45220251470579,-18.10445574416351,TRUE
+Name was watching .,-17.647711113471022,-88.2385555673551,good,drop_argument,744,syntax,argument_structure,bigram6,-17.647711113471022,-18.098220175909717,TRUE
+Name was walking through .,-18.098220175909717,-108.58932105545827,bad,drop_argument,744,syntax,argument_structure,bigram6,-17.647711113471022,-18.098220175909717,TRUE
+Name was watching .,-17.551317507980873,-87.75658753990436,good,drop_argument,744,syntax,argument_structure,bigram7,-17.551317507980873,-18.2886928728998,TRUE
+Name was walking through .,-18.2886928728998,-109.73215723739881,bad,drop_argument,744,syntax,argument_structure,bigram7,-17.551317507980873,-18.2886928728998,TRUE
+Name was watching .,-17.563381048027104,-87.81690524013553,good,drop_argument,744,syntax,argument_structure,bigram8,-17.563381048027104,-18.101987254670217,TRUE
+Name was walking through .,-18.101987254670217,-108.6119235280213,bad,drop_argument,744,syntax,argument_structure,bigram8,-17.563381048027104,-18.101987254670217,TRUE
+Name was watching .,-17.64016101580299,-88.20080507901494,good,drop_argument,744,syntax,argument_structure,bigram9,-17.64016101580299,-18.266436521878035,TRUE
+Name was walking through .,-18.266436521878035,-109.59861913126821,bad,drop_argument,744,syntax,argument_structure,bigram9,-17.64016101580299,-18.266436521878035,TRUE
+Name wears .,-16.981244628644966,-67.92497851457986,bad,drop_argument,759,syntax,argument_structure,bigram1,-16.585004003464675,-16.981244628644966,TRUE
+Name forgot .,-16.585004003464675,-66.3400160138587,good,drop_argument,759,syntax,argument_structure,bigram1,-16.585004003464675,-16.981244628644966,TRUE
+Name wears .,-17.123170556445828,-68.49268222578331,bad,drop_argument,759,syntax,argument_structure,bigram10,-16.873170556445828,-17.123170556445828,TRUE
+Name forgot .,-16.873170556445828,-67.49268222578331,good,drop_argument,759,syntax,argument_structure,bigram10,-16.873170556445828,-17.123170556445828,TRUE
+Name wears .,-16.970183934066554,-67.88073573626622,bad,drop_argument,759,syntax,argument_structure,bigram2,-16.389701910344712,-16.970183934066554,TRUE
+Name forgot .,-16.389701910344712,-65.55880764137885,good,drop_argument,759,syntax,argument_structure,bigram2,-16.389701910344712,-16.970183934066554,TRUE
+Name wears .,-16.980059067200614,-67.92023626880246,bad,drop_argument,759,syntax,argument_structure,bigram3,-16.730059067200614,-16.980059067200614,TRUE
+Name forgot .,-16.730059067200614,-66.92023626880246,good,drop_argument,759,syntax,argument_structure,bigram3,-16.730059067200614,-16.980059067200614,TRUE
+Name wears .,-17.333943564280432,-69.33577425712173,bad,drop_argument,759,syntax,argument_structure,bigram4,-16.583943564280432,-17.333943564280432,TRUE
+Name forgot .,-16.583943564280432,-66.33577425712173,good,drop_argument,759,syntax,argument_structure,bigram4,-16.583943564280432,-17.333943564280432,TRUE
+Name wears .,-17.22382267051921,-68.89529068207683,bad,drop_argument,759,syntax,argument_structure,bigram5,-16.577582045338918,-17.22382267051921,TRUE
+Name forgot .,-16.577582045338918,-66.31032818135567,good,drop_argument,759,syntax,argument_structure,bigram5,-16.577582045338918,-17.22382267051921,TRUE
+Name wears .,-17.277545625147095,-69.11018250058838,bad,drop_argument,759,syntax,argument_structure,bigram6,-16.697063601425253,-17.277545625147095,TRUE
+Name forgot .,-16.697063601425253,-66.78825440570101,good,drop_argument,759,syntax,argument_structure,bigram6,-16.697063601425253,-17.277545625147095,TRUE
+Name wears .,-17.383976336143345,-69.53590534457338,bad,drop_argument,759,syntax,argument_structure,bigram7,-17.133976336143345,-17.383976336143345,TRUE
+Name forgot .,-17.133976336143345,-68.53590534457338,good,drop_argument,759,syntax,argument_structure,bigram7,-17.133976336143345,-17.383976336143345,TRUE
+Name wears .,-17.005471738062433,-68.02188695224973,bad,drop_argument,759,syntax,argument_structure,bigram8,-17.005471738062433,-17.005471738062433,FALSE
+Name forgot .,-17.005471738062433,-68.02188695224973,good,drop_argument,759,syntax,argument_structure,bigram8,-17.005471738062433,-17.005471738062433,FALSE
+Name wears .,-17.054507131510128,-68.21802852604051,bad,drop_argument,759,syntax,argument_structure,bigram9,-16.554507131510128,-17.054507131510128,TRUE
+Name forgot .,-16.554507131510128,-66.21802852604051,good,drop_argument,759,syntax,argument_structure,bigram9,-16.554507131510128,-17.054507131510128,TRUE
+Name has gone to .,-17.123074113147734,-102.73844467888641,bad,drop_argument,775,syntax,argument_structure,bigram1,-17.140038878763246,-17.123074113147734,FALSE
+Name has left .,-17.140038878763246,-85.70019439381623,good,drop_argument,775,syntax,argument_structure,bigram1,-17.140038878763246,-17.123074113147734,FALSE
+Name has gone to .,-17.192202194882032,-103.15321316929219,bad,drop_argument,775,syntax,argument_structure,bigram10,-17.355843255382517,-17.192202194882032,FALSE
+Name has left .,-17.355843255382517,-86.77921627691258,good,drop_argument,775,syntax,argument_structure,bigram10,-17.355843255382517,-17.192202194882032,FALSE
+Name has gone to .,-17.039367157094137,-102.23620294256482,bad,drop_argument,775,syntax,argument_structure,bigram2,-17.257065664627394,-17.039367157094137,FALSE
+Name has left .,-17.257065664627394,-86.28532832313697,good,drop_argument,775,syntax,argument_structure,bigram2,-17.257065664627394,-17.039367157094137,FALSE
+Name has gone to .,-17.04236570089135,-102.25419420534809,bad,drop_argument,775,syntax,argument_structure,bigram3,-17.069526263745196,-17.04236570089135,FALSE
+Name has left .,-17.069526263745196,-85.34763131872599,good,drop_argument,775,syntax,argument_structure,bigram3,-17.069526263745196,-17.04236570089135,FALSE
+Name has gone to .,-17.14571442253527,-102.87428653521162,bad,drop_argument,775,syntax,argument_structure,bigram4,-17.276260181536212,-17.14571442253527,FALSE
+Name has left .,-17.276260181536212,-86.38130090768107,good,drop_argument,775,syntax,argument_structure,bigram4,-17.276260181536212,-17.14571442253527,FALSE
+Name has gone to .,-17.023223502807014,-102.13934101684208,bad,drop_argument,775,syntax,argument_structure,bigram5,-17.119609512161304,-17.023223502807014,FALSE
+Name has left .,-17.119609512161304,-85.59804756080652,good,drop_argument,775,syntax,argument_structure,bigram5,-17.119609512161304,-17.023223502807014,FALSE
+Name has gone to .,-17.090821156016634,-102.54492693609981,bad,drop_argument,775,syntax,argument_structure,bigram6,-17.20030327401085,-17.090821156016634,FALSE
+Name has left .,-17.20030327401085,-86.00151637005425,good,drop_argument,775,syntax,argument_structure,bigram6,-17.20030327401085,-17.090821156016634,FALSE
+Name has gone to .,-17.24422844945065,-103.4653706967039,bad,drop_argument,775,syntax,argument_structure,bigram7,-17.423831523857814,-17.24422844945065,FALSE
+Name has left .,-17.423831523857814,-87.11915761928907,good,drop_argument,775,syntax,argument_structure,bigram7,-17.423831523857814,-17.24422844945065,FALSE
+Name has gone to .,-16.987081050656283,-101.92248630393769,bad,drop_argument,775,syntax,argument_structure,bigram8,-17.105479724588104,-16.987081050656283,FALSE
+Name has left .,-17.105479724588104,-85.52739862294052,good,drop_argument,775,syntax,argument_structure,bigram8,-17.105479724588104,-16.987081050656283,FALSE
+Name has gone to .,-17.18379401739684,-103.10276410438104,bad,drop_argument,775,syntax,argument_structure,bigram9,-17.39057551311427,-17.18379401739684,FALSE
+Name has left .,-17.39057551311427,-86.95287756557136,good,drop_argument,775,syntax,argument_structure,bigram9,-17.39057551311427,-17.18379401739684,FALSE
+Name does run around .,-17.98273283977711,-107.89639703866266,good,drop_argument,784,syntax,argument_structure,bigram1,-17.98273283977711,-17.16514505518002,FALSE
+Name does fire .,-17.16514505518002,-85.8257252759001,bad,drop_argument,784,syntax,argument_structure,bigram1,-17.98273283977711,-17.16514505518002,FALSE
+Name does run around .,-18.053856361789084,-108.32313817073451,good,drop_argument,784,syntax,argument_structure,bigram10,-18.053856361789084,-17.373335823632583,FALSE
+Name does fire .,-17.373335823632583,-86.86667911816292,bad,drop_argument,784,syntax,argument_structure,bigram10,-18.053856361789084,-17.373335823632583,FALSE
+Name does run around .,-17.839434183996776,-107.03660510398066,good,drop_argument,784,syntax,argument_structure,bigram2,-17.839434183996776,-17.021690112210578,FALSE
+Name does fire .,-17.021690112210578,-85.10845056105289,bad,drop_argument,784,syntax,argument_structure,bigram2,-17.839434183996776,-17.021690112210578,FALSE
+Name does run around .,-17.867906739441388,-107.20744043664833,good,drop_argument,784,syntax,argument_structure,bigram3,-17.867906739441388,-17.01276767054508,FALSE
+Name does fire .,-17.01276767054508,-85.0638383527254,bad,drop_argument,784,syntax,argument_structure,bigram3,-17.867906739441388,-17.01276767054508,FALSE
+Name does run around .,-17.93520868822964,-107.61125212937783,good,drop_argument,784,syntax,argument_structure,bigram4,-17.93520868822964,-17.20428099251894,FALSE
+Name does fire .,-17.20428099251894,-86.02140496259469,bad,drop_argument,784,syntax,argument_structure,bigram4,-17.93520868822964,-17.20428099251894,FALSE
+Name does run around .,-18.016036624713717,-108.09621974828228,good,drop_argument,784,syntax,argument_structure,bigram5,-18.016036624713717,-17.36919501485002,FALSE
+Name does fire .,-17.36919501485002,-86.8459750742501,bad,drop_argument,784,syntax,argument_structure,bigram5,-18.016036624713717,-17.36919501485002,FALSE
+Name does run around .,-17.928707923683223,-107.57224754209933,good,drop_argument,784,syntax,argument_structure,bigram6,-17.928707923683223,-17.110811478616608,FALSE
+Name does fire .,-17.110811478616608,-85.55405739308304,bad,drop_argument,784,syntax,argument_structure,bigram6,-17.928707923683223,-17.110811478616608,FALSE
+Name does run around .,-18.00460218682083,-108.02761312092497,good,drop_argument,784,syntax,argument_structure,bigram7,-18.00460218682083,-17.176423684397644,FALSE
+Name does fire .,-17.176423684397644,-85.88211842198822,bad,drop_argument,784,syntax,argument_structure,bigram7,-18.00460218682083,-17.176423684397644,FALSE
+Name does run around .,-17.92373043246137,-107.54238259476821,good,drop_argument,784,syntax,argument_structure,bigram8,-17.92373043246137,-17.26859481036062,FALSE
+Name does fire .,-17.26859481036062,-86.34297405180311,bad,drop_argument,784,syntax,argument_structure,bigram8,-17.92373043246137,-17.26859481036062,FALSE
+Name does run around .,-17.89927984543299,-107.39567907259793,good,drop_argument,784,syntax,argument_structure,bigram9,-17.89927984543299,-17.183080572030537,FALSE
+Name does fire .,-17.183080572030537,-85.91540286015268,bad,drop_argument,784,syntax,argument_structure,bigram9,-17.89927984543299,-17.183080572030537,FALSE
+Name should n't drop by .,-18.941496593596234,-132.59047615517363,bad,drop_argument,785,syntax,argument_structure,bigram1,-18.274222545749154,-18.941496593596234,TRUE
+Name should n't clean .,-18.274222545749154,-109.64533527449493,good,drop_argument,785,syntax,argument_structure,bigram1,-18.274222545749154,-18.941496593596234,TRUE
+Name should n't drop by .,-18.969228272052067,-132.78459790436446,bad,drop_argument,785,syntax,argument_structure,bigram10,-18.568433501997475,-18.969228272052067,TRUE
+Name should n't clean .,-18.568433501997475,-111.41060101198485,good,drop_argument,785,syntax,argument_structure,bigram10,-18.568433501997475,-18.969228272052067,TRUE
+Name should n't drop by .,-19.095028480721364,-133.66519936504955,bad,drop_argument,785,syntax,argument_structure,bigram2,-18.525347053566765,-19.095028480721364,TRUE
+Name should n't clean .,-18.525347053566765,-111.1520823214006,good,drop_argument,785,syntax,argument_structure,bigram2,-18.525347053566765,-19.095028480721364,TRUE
+Name should n't drop by .,-19.169734969431847,-134.18814478602292,bad,drop_argument,785,syntax,argument_structure,bigram3,-18.442037546553536,-19.169734969431847,TRUE
+Name should n't clean .,-18.442037546553536,-110.65222527932121,good,drop_argument,785,syntax,argument_structure,bigram3,-18.442037546553536,-19.169734969431847,TRUE
+Name should n't drop by .,-19.17043228508933,-134.1930259956253,bad,drop_argument,785,syntax,argument_structure,bigram4,-18.706768124909573,-19.17043228508933,TRUE
+Name should n't clean .,-18.706768124909573,-112.24060874945744,good,drop_argument,785,syntax,argument_structure,bigram4,-18.706768124909573,-19.17043228508933,TRUE
+Name should n't drop by .,-19.0607736805299,-133.42541576370928,bad,drop_argument,785,syntax,argument_structure,bigram5,-18.412455228589334,-19.0607736805299,TRUE
+Name should n't clean .,-18.412455228589334,-110.47473137153601,good,drop_argument,785,syntax,argument_structure,bigram5,-18.412455228589334,-19.0607736805299,TRUE
+Name should n't drop by .,-19.039072896755236,-133.27351027728662,bad,drop_argument,785,syntax,argument_structure,bigram6,-18.51245798043809,-19.039072896755236,TRUE
+Name should n't clean .,-18.51245798043809,-111.07474788262851,good,drop_argument,785,syntax,argument_structure,bigram6,-18.51245798043809,-19.039072896755236,TRUE
+Name should n't drop by .,-18.95075135928559,-132.65525951499913,bad,drop_argument,785,syntax,argument_structure,bigram7,-18.446614969584115,-18.95075135928559,TRUE
+Name should n't clean .,-18.446614969584115,-110.67968981750468,good,drop_argument,785,syntax,argument_structure,bigram7,-18.446614969584115,-18.95075135928559,TRUE
+Name should n't drop by .,-18.85854660351793,-132.0098262246255,bad,drop_argument,785,syntax,argument_structure,bigram8,-18.2969747549106,-18.85854660351793,TRUE
+Name should n't clean .,-18.2969747549106,-109.78184852946359,good,drop_argument,785,syntax,argument_structure,bigram8,-18.2969747549106,-18.85854660351793,TRUE
+Name should n't drop by .,-18.908429037558022,-132.35900326290619,bad,drop_argument,785,syntax,argument_structure,bigram9,-18.396037784988625,-18.908429037558022,TRUE
+Name should n't clean .,-18.396037784988625,-110.37622670993176,good,drop_argument,785,syntax,argument_structure,bigram9,-18.396037784988625,-18.908429037558022,TRUE
+Name will talk to .,-17.27049457691108,-103.62296746146647,bad,drop_argument,789,syntax,argument_structure,bigram1,-17.233935935423492,-17.27049457691108,TRUE
+Name will remember .,-17.233935935423492,-86.16967967711746,good,drop_argument,789,syntax,argument_structure,bigram1,-17.233935935423492,-17.27049457691108,TRUE
+Name will talk to .,-17.41429808472984,-104.48578850837904,bad,drop_argument,789,syntax,argument_structure,bigram10,-17.65634332348835,-17.41429808472984,FALSE
+Name will remember .,-17.65634332348835,-88.28171661744176,good,drop_argument,789,syntax,argument_structure,bigram10,-17.65634332348835,-17.41429808472984,FALSE
+Name will talk to .,-17.314215963450945,-103.88529578070568,bad,drop_argument,789,syntax,argument_structure,bigram2,-17.269891732111336,-17.314215963450945,TRUE
+Name will remember .,-17.269891732111336,-86.34945866055668,good,drop_argument,789,syntax,argument_structure,bigram2,-17.269891732111336,-17.314215963450945,TRUE
+Name will talk to .,-17.27704649066419,-103.66227894398514,bad,drop_argument,789,syntax,argument_structure,bigram3,-17.234150711328382,-17.27704649066419,TRUE
+Name will remember .,-17.234150711328382,-86.17075355664191,good,drop_argument,789,syntax,argument_structure,bigram3,-17.234150711328382,-17.27704649066419,TRUE
+Name will talk to .,-17.328970368127088,-103.97382220876253,bad,drop_argument,789,syntax,argument_structure,bigram4,-17.696167316246395,-17.328970368127088,FALSE
+Name will remember .,-17.696167316246395,-88.48083658123197,good,drop_argument,789,syntax,argument_structure,bigram4,-17.696167316246395,-17.328970368127088,FALSE
+Name will talk to .,-17.334792817838657,-104.00875690703194,bad,drop_argument,789,syntax,argument_structure,bigram5,-17.16472145224433,-17.334792817838657,TRUE
+Name will remember .,-17.16472145224433,-85.82360726122164,good,drop_argument,789,syntax,argument_structure,bigram5,-17.16472145224433,-17.334792817838657,TRUE
+Name will talk to .,-17.403232675669326,-104.41939605401596,bad,drop_argument,789,syntax,argument_structure,bigram6,-17.34479647890507,-17.403232675669326,TRUE
+Name will remember .,-17.34479647890507,-86.72398239452535,good,drop_argument,789,syntax,argument_structure,bigram6,-17.34479647890507,-17.403232675669326,TRUE
+Name will talk to .,-17.35145831394173,-104.10874988365038,bad,drop_argument,789,syntax,argument_structure,bigram7,-17.346023065708636,-17.35145831394173,TRUE
+Name will remember .,-17.346023065708636,-86.73011532854318,good,drop_argument,789,syntax,argument_structure,bigram7,-17.346023065708636,-17.35145831394173,TRUE
+Name will talk to .,-17.422320169336672,-104.53392101602003,bad,drop_argument,789,syntax,argument_structure,bigram8,-17.363381048027104,-17.422320169336672,TRUE
+Name will remember .,-17.363381048027104,-86.81690524013553,good,drop_argument,789,syntax,argument_structure,bigram8,-17.363381048027104,-17.422320169336672,TRUE
+Name will talk to .,-17.444811262975147,-104.66886757785088,bad,drop_argument,789,syntax,argument_structure,bigram9,-17.348274692075528,-17.444811262975147,TRUE
+Name will remember .,-17.348274692075528,-86.74137346037764,good,drop_argument,789,syntax,argument_structure,bigram9,-17.348274692075528,-17.444811262975147,TRUE
+Name might find .,-18.374023879051716,-91.87011939525856,bad,drop_argument,794,syntax,argument_structure,bigram1,-18.374023879051716,-18.374023879051716,FALSE
+Name might visit .,-18.374023879051716,-91.87011939525856,good,drop_argument,794,syntax,argument_structure,bigram1,-18.374023879051716,-18.374023879051716,FALSE
+Name might find .,-18.290328323776816,-91.45164161888408,bad,drop_argument,794,syntax,argument_structure,bigram10,-18.290328323776816,-18.290328323776816,FALSE
+Name might visit .,-18.290328323776816,-91.45164161888408,good,drop_argument,794,syntax,argument_structure,bigram10,-18.290328323776816,-18.290328323776816,FALSE
+Name might find .,-18.1617780558388,-90.80889027919399,bad,drop_argument,794,syntax,argument_structure,bigram2,-18.1617780558388,-18.1617780558388,FALSE
+Name might visit .,-18.1617780558388,-90.80889027919399,good,drop_argument,794,syntax,argument_structure,bigram2,-18.1617780558388,-18.1617780558388,FALSE
+Name might find .,-18.1742386549566,-90.871193274783,bad,drop_argument,794,syntax,argument_structure,bigram3,-18.1742386549566,-18.1742386549566,FALSE
+Name might visit .,-18.1742386549566,-90.871193274783,good,drop_argument,794,syntax,argument_structure,bigram3,-18.1742386549566,-18.1742386549566,FALSE
+Name might find .,-18.25763830065792,-91.28819150328958,bad,drop_argument,794,syntax,argument_structure,bigram4,-18.25763830065792,-18.25763830065792,FALSE
+Name might visit .,-18.25763830065792,-91.28819150328958,good,drop_argument,794,syntax,argument_structure,bigram4,-18.25763830065792,-18.25763830065792,FALSE
+Name might find .,-18.36919501485002,-91.8459750742501,bad,drop_argument,794,syntax,argument_structure,bigram5,-18.36919501485002,-18.36919501485002,FALSE
+Name might visit .,-18.36919501485002,-91.8459750742501,good,drop_argument,794,syntax,argument_structure,bigram5,-18.36919501485002,-18.36919501485002,FALSE
+Name might find .,-18.409182097882542,-92.0459104894127,bad,drop_argument,794,syntax,argument_structure,bigram6,-18.409182097882542,-18.409182097882542,FALSE
+Name might visit .,-18.409182097882542,-92.0459104894127,good,drop_argument,794,syntax,argument_structure,bigram6,-18.409182097882542,-18.409182097882542,FALSE
+Name might find .,-18.30229500841357,-91.51147504206783,bad,drop_argument,794,syntax,argument_structure,bigram7,-18.30229500841357,-18.30229500841357,FALSE
+Name might visit .,-18.30229500841357,-91.51147504206783,good,drop_argument,794,syntax,argument_structure,bigram7,-18.30229500841357,-18.30229500841357,FALSE
+Name might find .,-18.197366048315565,-90.98683024157782,bad,drop_argument,794,syntax,argument_structure,bigram8,-18.197366048315565,-18.197366048315565,FALSE
+Name might visit .,-18.197366048315565,-90.98683024157782,good,drop_argument,794,syntax,argument_structure,bigram8,-18.197366048315565,-18.197366048315565,FALSE
+Name might find .,-18.24016101580299,-91.20080507901494,bad,drop_argument,794,syntax,argument_structure,bigram9,-18.24016101580299,-18.24016101580299,FALSE
+Name might visit .,-18.24016101580299,-91.20080507901494,good,drop_argument,794,syntax,argument_structure,bigram9,-18.24016101580299,-18.24016101580299,FALSE
+Name should talk to .,-17.720567863267927,-106.32340717960757,bad,drop_argument,806,syntax,argument_structure,bigram1,-17.77402387905171,-17.720567863267927,FALSE
+Name should remember .,-17.77402387905171,-88.87011939525856,good,drop_argument,806,syntax,argument_structure,bigram1,-17.77402387905171,-17.720567863267927,FALSE
+Name should talk to .,-17.775952251636895,-106.65571350982137,bad,drop_argument,806,syntax,argument_structure,bigram10,-18.090328323776816,-17.775952251636895,FALSE
+Name should remember .,-18.090328323776816,-90.45164161888408,good,drop_argument,806,syntax,argument_structure,bigram10,-18.090328323776816,-17.775952251636895,FALSE
+Name should talk to .,-17.8907878998905,-107.344727399343,bad,drop_argument,806,syntax,argument_structure,bigram2,-17.9617780558388,-17.8907878998905,FALSE
+Name should remember .,-17.9617780558388,-89.80889027919399,good,drop_argument,806,syntax,argument_structure,bigram2,-17.9617780558388,-17.8907878998905,FALSE
+Name should talk to .,-17.893786443687706,-107.36271866212624,bad,drop_argument,806,syntax,argument_structure,bigram3,-17.9742386549566,-17.893786443687706,FALSE
+Name should remember .,-17.9742386549566,-89.871193274783,good,drop_argument,806,syntax,argument_structure,bigram3,-17.9742386549566,-17.893786443687706,FALSE
+Name should talk to .,-17.963529521803355,-107.78117713082014,bad,drop_argument,806,syntax,argument_structure,bigram4,-18.45763830065792,-17.963529521803355,FALSE
+Name should remember .,-18.45763830065792,-92.28819150328958,good,drop_argument,806,syntax,argument_structure,bigram4,-18.45763830065792,-17.963529521803355,FALSE
+Name should talk to .,-17.951532770862173,-107.70919662517304,bad,drop_argument,806,syntax,argument_structure,bigram5,-17.904809395872547,-17.951532770862173,TRUE
+Name should remember .,-17.904809395872547,-89.52404697936274,good,drop_argument,806,syntax,argument_structure,bigram5,-17.904809395872547,-17.951532770862173,TRUE
+Name should talk to .,-17.903232675669326,-107.41939605401596,bad,drop_argument,806,syntax,argument_structure,bigram6,-17.94479647890507,-17.903232675669326,FALSE
+Name should remember .,-17.94479647890507,-89.72398239452535,good,drop_argument,806,syntax,argument_structure,bigram6,-17.94479647890507,-17.903232675669326,FALSE
+Name should talk to .,-17.761363583714612,-106.56818150228767,bad,drop_argument,806,syntax,argument_structure,bigram7,-17.837909389436096,-17.761363583714612,FALSE
+Name should remember .,-17.837909389436096,-89.18954694718047,good,drop_argument,806,syntax,argument_structure,bigram7,-17.837909389436096,-17.761363583714612,FALSE
+Name should talk to .,-17.78397433624372,-106.70384601746233,bad,drop_argument,806,syntax,argument_structure,bigram8,-17.797366048315563,-17.78397433624372,FALSE
+Name should remember .,-17.797366048315563,-88.98683024157782,good,drop_argument,806,syntax,argument_structure,bigram8,-17.797366048315563,-17.78397433624372,FALSE
+Name should talk to .,-17.85471653274803,-107.12829919648817,bad,drop_argument,806,syntax,argument_structure,bigram9,-17.840161015802988,-17.85471653274803,TRUE
+Name should remember .,-17.840161015802988,-89.20080507901494,good,drop_argument,806,syntax,argument_structure,bigram9,-17.840161015802988,-17.85471653274803,TRUE
+Name will n't love .,-17.55124427262309,-105.30746563573854,good,drop_argument,821,syntax,argument_structure,bigram1,-17.55124427262309,-17.704382631647125,TRUE
+Name will n't drive to .,-17.704382631647125,-123.93067842152986,bad,drop_argument,821,syntax,argument_structure,bigram1,-17.55124427262309,-17.704382631647125,TRUE
+Name will n't love .,-17.743219382836312,-106.45931629701786,good,drop_argument,821,syntax,argument_structure,bigram10,-17.743219382836312,-17.69047331277107,FALSE
+Name will n't drive to .,-17.69047331277107,-123.83331318939747,bad,drop_argument,821,syntax,argument_structure,bigram10,-17.743219382836312,-17.69047331277107,FALSE
+Name will n't love .,-17.574120531553284,-105.4447231893197,good,drop_argument,821,syntax,argument_structure,bigram2,-17.574120531553284,-17.568651472781244,FALSE
+Name will n't drive to .,-17.568651472781244,-122.98056030946871,bad,drop_argument,821,syntax,argument_structure,bigram2,-17.574120531553284,-17.568651472781244,FALSE
+Name will n't love .,-17.561137176743163,-105.36682306045898,good,drop_argument,821,syntax,argument_structure,bigram3,-17.561137176743163,-17.55119263540032,FALSE
+Name will n't drive to .,-17.55119263540032,-122.85834844780223,bad,drop_argument,821,syntax,argument_structure,bigram3,-17.561137176743163,-17.55119263540032,FALSE
+Name will n't love .,-17.583752748306157,-105.50251648983694,good,drop_argument,821,syntax,argument_structure,bigram4,-17.583752748306157,-17.713643159623928,TRUE
+Name will n't drive to .,-17.713643159623928,-123.9955021173675,bad,drop_argument,821,syntax,argument_structure,bigram4,-17.583752748306157,-17.713643159623928,TRUE
+Name will n't love .,-17.5706324010518,-105.42379440631079,good,drop_argument,821,syntax,argument_structure,bigram5,-17.5706324010518,-17.75528799389053,TRUE
+Name will n't drive to .,-17.75528799389053,-124.28701595723372,bad,drop_argument,821,syntax,argument_structure,bigram5,-17.5706324010518,-17.75528799389053,TRUE
+Name will n't love .,-17.687276247184908,-106.12365748310945,good,drop_argument,821,syntax,argument_structure,bigram6,-17.687276247184908,-17.666724007022147,FALSE
+Name will n't drive to .,-17.666724007022147,-123.66706804915502,bad,drop_argument,821,syntax,argument_structure,bigram6,-17.687276247184908,-17.666724007022147,FALSE
+Name will n't love .,-17.70770890123339,-106.24625340740033,good,drop_argument,821,syntax,argument_structure,bigram7,-17.70770890123339,-17.82319878375107,TRUE
+Name will n't drive to .,-17.82319878375107,-124.76239148625748,bad,drop_argument,821,syntax,argument_structure,bigram7,-17.70770890123339,-17.82319878375107,TRUE
+Name will n't love .,-17.666748135989824,-106.00048881593895,good,drop_argument,821,syntax,argument_structure,bigram8,-17.666748135989824,-17.816786370260495,TRUE
+Name will n't drive to .,-17.816786370260495,-124.71750459182346,bad,drop_argument,821,syntax,argument_structure,bigram8,-17.666748135989824,-17.816786370260495,TRUE
+Name will n't love .,-17.644361503037416,-105.8661690182245,good,drop_argument,821,syntax,argument_structure,bigram9,-17.644361503037416,-17.80014543682219,TRUE
+Name will n't drive to .,-17.80014543682219,-124.60101805775534,bad,drop_argument,821,syntax,argument_structure,bigram9,-17.644361503037416,-17.80014543682219,TRUE
+most people work with .,-19.999747016665506,-119.99848209999301,bad,drop_argument,836,syntax,argument_structure,bigram1,-19.572139228274384,-19.999747016665506,TRUE
+most people watch .,-19.572139228274384,-97.86069614137192,good,drop_argument,836,syntax,argument_structure,bigram1,-19.572139228274384,-19.999747016665506,TRUE
+most people work with .,-20.07537669393701,-120.45226016362206,bad,drop_argument,836,syntax,argument_structure,bigram10,-19.737189169692734,-20.07537669393701,TRUE
+most people watch .,-19.737189169692734,-98.68594584846367,good,drop_argument,836,syntax,argument_structure,bigram10,-19.737189169692734,-20.07537669393701,TRUE
+most people work with .,-20.01116095129377,-120.06696570776263,bad,drop_argument,836,syntax,argument_structure,bigram2,-19.627762232966973,-20.01116095129377,TRUE
+most people watch .,-19.627762232966973,-98.13881116483486,good,drop_argument,836,syntax,argument_structure,bigram2,-19.627762232966973,-20.01116095129377,TRUE
+most people work with .,-20.16833286503385,-121.00999719020311,bad,drop_argument,836,syntax,argument_structure,bigram3,-19.559201155677755,-20.16833286503385,TRUE
+most people watch .,-19.559201155677755,-97.79600577838877,good,drop_argument,836,syntax,argument_structure,bigram3,-19.559201155677755,-20.16833286503385,TRUE
+most people work with .,-20.077836823707703,-120.46702094224622,bad,drop_argument,836,syntax,argument_structure,bigram4,-19.702920739215678,-20.077836823707703,TRUE
+most people watch .,-19.702920739215678,-98.51460369607837,good,drop_argument,836,syntax,argument_structure,bigram4,-19.702920739215678,-20.077836823707703,TRUE
+most people work with .,-20.30714567023437,-121.84287402140619,bad,drop_argument,836,syntax,argument_structure,bigram5,-19.631044807013343,-20.30714567023437,TRUE
+most people watch .,-19.631044807013343,-98.15522403506671,good,drop_argument,836,syntax,argument_structure,bigram5,-19.631044807013343,-20.30714567023437,TRUE
+most people work with .,-20.026001564118424,-120.15600938471054,bad,drop_argument,836,syntax,argument_structure,bigram6,-19.586154955738245,-20.026001564118424,TRUE
+most people watch .,-19.586154955738245,-97.93077477869123,good,drop_argument,836,syntax,argument_structure,bigram6,-19.586154955738245,-20.026001564118424,TRUE
+most people work with .,-20.08117412326038,-120.48704473956226,bad,drop_argument,836,syntax,argument_structure,bigram7,-19.774809024290505,-20.08117412326038,TRUE
+most people watch .,-19.774809024290505,-98.87404512145253,good,drop_argument,836,syntax,argument_structure,bigram7,-19.774809024290505,-20.08117412326038,TRUE
+most people work with .,-20.10055060809434,-120.60330364856605,bad,drop_argument,836,syntax,argument_structure,bigram8,-19.56896224734108,-20.10055060809434,TRUE
+most people watch .,-19.56896224734108,-97.8448112367054,good,drop_argument,836,syntax,argument_structure,bigram8,-19.56896224734108,-20.10055060809434,TRUE
+most people work with .,-20.10303497660435,-120.61820985962609,bad,drop_argument,836,syntax,argument_structure,bigram9,-19.56561567691881,-20.10303497660435,TRUE
+most people watch .,-19.56561567691881,-97.82807838459405,good,drop_argument,836,syntax,argument_structure,bigram9,-19.56561567691881,-20.10303497660435,TRUE
+Name could n't go to .,-16.882649420374925,-118.17854594262447,bad,drop_argument,840,syntax,argument_structure,bigram1,-16.554826575339423,-16.882649420374925,TRUE
+Name could n't know .,-16.554826575339423,-99.32895945203654,good,drop_argument,840,syntax,argument_structure,bigram1,-16.554826575339423,-16.882649420374925,TRUE
+Name could n't go to .,-17.039260414291075,-119.27482290003752,bad,drop_argument,840,syntax,argument_structure,bigram10,-15.827102300171134,-17.039260414291075,TRUE
+Name could n't know .,-15.827102300171134,-94.9626138010268,good,drop_argument,840,syntax,argument_structure,bigram10,-15.827102300171134,-17.039260414291075,TRUE
+Name could n't go to .,-17.034552862119007,-119.24187003483304,bad,drop_argument,840,syntax,argument_structure,bigram2,-15.749127311969884,-17.034552862119007,TRUE
+Name could n't know .,-15.749127311969884,-94.4947638718193,good,drop_argument,840,syntax,argument_structure,bigram2,-15.749127311969884,-17.034552862119007,TRUE
+Name could n't go to .,-16.809572066103573,-117.667004462725,bad,drop_argument,840,syntax,argument_structure,bigram3,-15.589949023476024,-16.809572066103573,TRUE
+Name could n't know .,-15.589949023476024,-93.53969414085614,good,drop_argument,840,syntax,argument_structure,bigram3,-15.589949023476024,-16.809572066103573,TRUE
+Name could n't go to .,-16.96570597842751,-118.75994184899257,bad,drop_argument,840,syntax,argument_structure,bigram4,-15.71461745490681,-16.96570597842751,TRUE
+Name could n't know .,-15.71461745490681,-94.28770472944086,good,drop_argument,840,syntax,argument_structure,bigram4,-15.71461745490681,-16.96570597842751,TRUE
+Name could n't go to .,-16.810882117812422,-117.67617482468695,bad,drop_argument,840,syntax,argument_structure,bigram5,-16.282296928797724,-16.810882117812422,TRUE
+Name could n't know .,-16.282296928797724,-97.69378157278634,good,drop_argument,840,syntax,argument_structure,bigram5,-16.282296928797724,-16.810882117812422,TRUE
+Name could n't go to .,-16.98148757367923,-118.87041301575462,bad,drop_argument,840,syntax,argument_structure,bigram6,-15.728449426452435,-16.98148757367923,TRUE
+Name could n't know .,-15.728449426452435,-94.37069655871461,good,drop_argument,840,syntax,argument_structure,bigram6,-15.728449426452435,-16.98148757367923,TRUE
+Name could n't go to .,-17.099141530208502,-119.69399071145952,bad,drop_argument,840,syntax,argument_structure,bigram7,-16.567053230362777,-17.099141530208502,TRUE
+Name could n't know .,-16.567053230362777,-99.40231938217667,good,drop_argument,840,syntax,argument_structure,bigram7,-16.567053230362777,-17.099141530208502,TRUE
+Name could n't go to .,-16.990945983018147,-118.93662188112702,bad,drop_argument,840,syntax,argument_structure,bigram8,-15.736376880489836,-16.990945983018147,TRUE
+Name could n't know .,-15.736376880489836,-94.41826128293903,good,drop_argument,840,syntax,argument_structure,bigram8,-15.736376880489836,-16.990945983018147,TRUE
+Name could n't go to .,-17.0149499257576,-119.10464948030318,bad,drop_argument,840,syntax,argument_structure,bigram9,-15.715928293384335,-17.0149499257576,TRUE
+Name could n't know .,-15.715928293384335,-94.29556976030601,good,drop_argument,840,syntax,argument_structure,bigram9,-15.715928293384335,-17.0149499257576,TRUE
+Name did talk about .,-18.040900777934382,-108.2454046676063,bad,drop_argument,851,syntax,argument_structure,bigram1,-17.00744587621876,-18.040900777934382,TRUE
+Name did forget .,-17.00744587621876,-85.03722938109381,good,drop_argument,851,syntax,argument_structure,bigram1,-17.00744587621876,-18.040900777934382,TRUE
+Name did talk about .,-18.055630902489,-108.333785414934,bad,drop_argument,851,syntax,argument_structure,bigram10,-17.70895020465511,-18.055630902489,TRUE
+Name did forget .,-17.70895020465511,-88.54475102327555,good,drop_argument,851,syntax,argument_structure,bigram10,-17.70895020465511,-18.055630902489,TRUE
+Name did talk about .,-18.02786486896513,-108.16718921379079,bad,drop_argument,851,syntax,argument_structure,bigram2,-17.112192553150077,-18.02786486896513,TRUE
+Name did forget .,-17.112192553150077,-85.56096276575039,good,drop_argument,851,syntax,argument_structure,bigram2,-17.112192553150077,-18.02786486896513,TRUE
+Name did talk about .,-17.97414505954394,-107.84487035726363,bad,drop_argument,851,syntax,argument_structure,bigram3,-17.34025365466814,-17.97414505954394,TRUE
+Name did forget .,-17.34025365466814,-86.70126827334069,good,drop_argument,851,syntax,argument_structure,bigram3,-17.34025365466814,-17.97414505954394,TRUE
+Name did talk about .,-18.162303701460424,-108.97382220876254,bad,drop_argument,851,syntax,argument_structure,bigram4,-17.365751976930458,-18.162303701460424,TRUE
+Name did forget .,-17.365751976930458,-86.82875988465229,good,drop_argument,851,syntax,argument_structure,bigram4,-17.365751976930458,-18.162303701460424,TRUE
+Name did talk about .,-18.21746772834895,-109.3048063700937,bad,drop_argument,851,syntax,argument_structure,bigram5,-17.187816895728318,-18.21746772834895,TRUE
+Name did forget .,-17.187816895728318,-85.93908447864159,good,drop_argument,851,syntax,argument_structure,bigram5,-17.187816895728318,-18.21746772834895,TRUE
+Name did talk about .,-18.11914198959036,-108.71485193754214,bad,drop_argument,851,syntax,argument_structure,bigram6,-17.717295774155083,-18.11914198959036,TRUE
+Name did forget .,-17.717295774155083,-88.58647887077541,good,drop_argument,851,syntax,argument_structure,bigram6,-17.717295774155083,-18.11914198959036,TRUE
+Name did talk about .,-18.068371523751907,-108.41022914251144,bad,drop_argument,851,syntax,argument_structure,bigram7,-17.320916889291862,-18.068371523751907,TRUE
+Name did forget .,-17.320916889291862,-86.60458444645931,good,drop_argument,851,syntax,argument_structure,bigram7,-17.320916889291862,-18.068371523751907,TRUE
+Name did talk about .,-17.963641421577268,-107.78184852946362,bad,drop_argument,851,syntax,argument_structure,bigram8,-17.08037354817133,-17.963641421577268,TRUE
+Name did forget .,-17.08037354817133,-85.40186774085666,good,drop_argument,851,syntax,argument_structure,bigram8,-17.08037354817133,-17.963641421577268,TRUE
+Name did talk about .,-18.17571643584073,-109.05429861504439,bad,drop_argument,851,syntax,argument_structure,bigram9,-17.678690031391465,-18.17571643584073,TRUE
+Name did forget .,-17.678690031391465,-88.39345015695733,good,drop_argument,851,syntax,argument_structure,bigram9,-17.678690031391465,-18.17571643584073,TRUE
+Name can n't watch .,-16.610390283300102,-99.6623416998006,good,drop_argument,875,syntax,argument_structure,bigram1,-16.610390283300102,-16.943723616633434,TRUE
+Name can n't fire .,-16.943723616633434,-101.6623416998006,bad,drop_argument,875,syntax,argument_structure,bigram1,-16.610390283300102,-16.943723616633434,TRUE
+Name can n't watch .,-16.536095871714934,-99.2165752302896,good,drop_argument,875,syntax,argument_structure,bigram10,-16.536095871714934,-16.83732169205787,TRUE
+Name can n't fire .,-16.83732169205787,-101.02393015234722,bad,drop_argument,875,syntax,argument_structure,bigram10,-16.536095871714934,-16.83732169205787,TRUE
+Name can n't watch .,-16.469646480276182,-98.8178788816571,good,drop_argument,875,syntax,argument_structure,bigram2,-16.469646480276182,-16.762127730636763,TRUE
+Name can n't fire .,-16.762127730636763,-100.57276638382058,bad,drop_argument,875,syntax,argument_structure,bigram2,-16.469646480276182,-16.762127730636763,TRUE
+Name can n't watch .,-16.556557054006145,-99.33934232403686,good,drop_argument,875,syntax,argument_structure,bigram3,-16.556557054006145,-16.820717470793003,TRUE
+Name can n't fire .,-16.820717470793003,-100.92430482475802,bad,drop_argument,875,syntax,argument_structure,bigram3,-16.556557054006145,-16.820717470793003,TRUE
+Name can n't watch .,-16.54604464694417,-99.27626788166502,good,drop_argument,875,syntax,argument_structure,bigram4,-16.54604464694417,-16.84231257672143,TRUE
+Name can n't fire .,-16.84231257672143,-101.05387546032857,bad,drop_argument,875,syntax,argument_structure,bigram4,-16.54604464694417,-16.84231257672143,TRUE
+Name can n't watch .,-16.37650778478517,-98.25904670871101,good,drop_argument,875,syntax,argument_structure,bigram5,-16.37650778478517,-16.86098955071992,TRUE
+Name can n't fire .,-16.86098955071992,-101.16593730431953,bad,drop_argument,875,syntax,argument_structure,bigram5,-16.37650778478517,-16.86098955071992,TRUE
+Name can n't watch .,-16.369072804618174,-98.21443682770904,good,drop_argument,875,syntax,argument_structure,bigram6,-16.369072804618174,-16.681484324270865,TRUE
+Name can n't fire .,-16.681484324270865,-100.08890594562519,bad,drop_argument,875,syntax,argument_structure,bigram6,-16.369072804618174,-16.681484324270865,TRUE
+Name can n't watch .,-16.71198182788045,-100.2718909672827,good,drop_argument,875,syntax,argument_structure,bigram7,-16.71198182788045,-16.818220147983,TRUE
+Name can n't fire .,-16.818220147983,-100.90932088789799,bad,drop_argument,875,syntax,argument_structure,bigram7,-16.71198182788045,-16.818220147983,TRUE
+Name can n't watch .,-16.432038308215194,-98.59222984929116,good,drop_argument,875,syntax,argument_structure,bigram8,-16.432038308215194,-16.925950662211008,TRUE
+Name can n't fire .,-16.925950662211008,-101.55570397326605,bad,drop_argument,875,syntax,argument_structure,bigram8,-16.432038308215194,-16.925950662211008,TRUE
+Name can n't watch .,-16.523668005282214,-99.14200803169328,good,drop_argument,875,syntax,argument_structure,bigram9,-16.523668005282214,-16.991560492291814,TRUE
+Name can n't fire .,-16.991560492291814,-101.94936295375089,bad,drop_argument,875,syntax,argument_structure,bigram9,-16.523668005282214,-16.991560492291814,TRUE
+Name does look like .,-16.715968050465346,-100.29580830279208,bad,drop_argument,884,syntax,argument_structure,bigram1,-17.48213755532425,-16.715968050465346,FALSE
+Name does help .,-17.48213755532425,-87.41068777662126,good,drop_argument,884,syntax,argument_structure,bigram1,-17.48213755532425,-16.715968050465346,FALSE
+Name does look like .,-17.063782502569158,-102.38269501541495,bad,drop_argument,884,syntax,argument_structure,bigram10,-17.425942704799343,-17.063782502569158,FALSE
+Name does help .,-17.425942704799343,-87.12971352399671,good,drop_argument,884,syntax,argument_structure,bigram10,-17.425942704799343,-17.063782502569158,FALSE
+Name does look like .,-16.762520942782416,-100.5751256566945,bad,drop_argument,884,syntax,argument_structure,bigram2,-17.421690112210577,-16.762520942782416,FALSE
+Name does help .,-17.421690112210577,-87.10845056105289,good,drop_argument,884,syntax,argument_structure,bigram2,-17.421690112210577,-16.762520942782416,FALSE
+Name does look like .,-16.856379735356825,-101.13827841214095,bad,drop_argument,884,syntax,argument_structure,bigram3,-17.21276767054508,-16.856379735356825,FALSE
+Name does help .,-17.21276767054508,-86.0638383527254,good,drop_argument,884,syntax,argument_structure,bigram3,-17.21276767054508,-16.856379735356825,FALSE
+Name does look like .,-16.836604316395942,-101.01962589837565,bad,drop_argument,884,syntax,argument_structure,bigram4,-17.765751976930456,-16.836604316395942,FALSE
+Name does help .,-17.765751976930456,-88.82875988465229,good,drop_argument,884,syntax,argument_structure,bigram4,-17.765751976930456,-16.836604316395942,FALSE
+Name does look like .,-16.962381942232486,-101.77429165339491,bad,drop_argument,884,syntax,argument_structure,bigram5,-17.45220251470579,-16.962381942232486,FALSE
+Name does help .,-17.45220251470579,-87.26101257352894,good,drop_argument,884,syntax,argument_structure,bigram5,-17.45220251470579,-16.962381942232486,FALSE
+Name does look like .,-16.869461147916823,-101.21676688750094,bad,drop_argument,884,syntax,argument_structure,bigram6,-17.280410859927596,-16.869461147916823,FALSE
+Name does help .,-17.280410859927596,-86.40205429963798,good,drop_argument,884,syntax,argument_structure,bigram6,-17.280410859927596,-16.869461147916823,FALSE
+Name does look like .,-16.841722199570842,-101.05033319742506,bad,drop_argument,884,syntax,argument_structure,bigram7,-17.346023065708636,-16.841722199570842,FALSE
+Name does help .,-17.346023065708636,-86.73011532854318,good,drop_argument,884,syntax,argument_structure,bigram7,-17.346023065708636,-16.841722199570842,FALSE
+Name does look like .,-16.763332814427997,-100.57999688656798,bad,drop_argument,884,syntax,argument_structure,bigram8,-17.73298042933809,-16.763332814427997,FALSE
+Name does help .,-17.73298042933809,-88.66490214669045,good,drop_argument,884,syntax,argument_structure,bigram8,-17.73298042933809,-16.763332814427997,FALSE
+Name does look like .,-16.844214899827062,-101.06528939896236,bad,drop_argument,884,syntax,argument_structure,bigram9,-17.383080572030536,-16.844214899827062,FALSE
+Name does help .,-17.383080572030536,-86.91540286015268,good,drop_argument,884,syntax,argument_structure,bigram9,-17.383080572030536,-16.844214899827062,FALSE
+Name does climb up .,-17.30537778354049,-103.83226670124294,good,drop_argument,89,syntax,argument_structure,bigram1,-17.30537778354049,-16.94605809296575,FALSE
+Name does go to .,-16.94605809296575,-101.6763485577945,bad,drop_argument,89,syntax,argument_structure,bigram1,-17.30537778354049,-16.94605809296575,FALSE
+Name does climb up .,-17.52086646552043,-105.12519879312259,good,drop_argument,89,syntax,argument_structure,bigram10,-17.52086646552043,-17.109285584970227,FALSE
+Name does go to .,-17.109285584970227,-102.65571350982137,bad,drop_argument,89,syntax,argument_structure,bigram10,-17.52086646552043,-17.109285584970227,FALSE
+Name does climb up .,-17.279842183227096,-103.67905309936258,good,drop_argument,89,syntax,argument_structure,bigram2,-17.279842183227096,-16.9483485618025,FALSE
+Name does go to .,-16.9483485618025,-101.69009137081501,bad,drop_argument,89,syntax,argument_structure,bigram2,-17.279842183227096,-16.9483485618025,FALSE
+Name does climb up .,-17.267567403761372,-103.60540442256823,good,drop_argument,89,syntax,argument_structure,bigram3,-17.267567403761372,-16.884572704437506,FALSE
+Name does go to .,-16.884572704437506,-101.30743622662504,bad,drop_argument,89,syntax,argument_structure,bigram3,-17.267567403761372,-16.884572704437506,FALSE
+Name does climb up .,-17.44198235231253,-104.65189411387517,good,drop_argument,89,syntax,argument_structure,bigram4,-17.44198235231253,-17.006057215553433,FALSE
+Name does go to .,-17.006057215553433,-102.0363432933206,bad,drop_argument,89,syntax,argument_structure,bigram4,-17.44198235231253,-17.006057215553433,FALSE
+Name does climb up .,-17.455095045994266,-104.7305702759656,good,drop_argument,89,syntax,argument_structure,bigram5,-17.455095045994266,-17.036223921473894,FALSE
+Name does go to .,-17.036223921473894,-102.21734352884336,bad,drop_argument,89,syntax,argument_structure,bigram5,-17.455095045994266,-17.036223921473894,FALSE
+Name does climb up .,-17.401963811651015,-104.41178286990609,good,drop_argument,89,syntax,argument_structure,bigram6,-17.401963811651015,-17.044565493428486,FALSE
+Name does go to .,-17.044565493428486,-102.26739296057092,bad,drop_argument,89,syntax,argument_structure,bigram6,-17.401963811651015,-17.044565493428486,FALSE
+Name does climb up .,-17.611676852717817,-105.6700611163069,good,drop_argument,89,syntax,argument_structure,bigram7,-17.611676852717817,-17.07314974755712,FALSE
+Name does go to .,-17.07314974755712,-102.43889848534272,bad,drop_argument,89,syntax,argument_structure,bigram7,-17.611676852717817,-17.07314974755712,FALSE
+Name does climb up .,-17.54246766744527,-105.25480600467162,good,drop_argument,89,syntax,argument_structure,bigram8,-17.54246766744527,-16.998266749966035,FALSE
+Name does go to .,-16.998266749966035,-101.98960049979621,bad,drop_argument,89,syntax,argument_structure,bigram8,-17.54246766744527,-16.998266749966035,FALSE
+Name does climb up .,-17.345625162951762,-104.07375097771057,good,drop_argument,89,syntax,argument_structure,bigram9,-17.345625162951762,-16.98554771758622,FALSE
+Name does go to .,-16.98554771758622,-101.91328630551732,bad,drop_argument,89,syntax,argument_structure,bigram9,-17.345625162951762,-16.98554771758622,FALSE
+Name would n't drop by .,-18.22086886225931,-127.54608203581516,bad,drop_argument,925,syntax,argument_structure,bigram1,-17.364317275976273,-18.22086886225931,TRUE
+Name would n't leave .,-17.364317275976273,-104.18590365585763,good,drop_argument,925,syntax,argument_structure,bigram1,-17.364317275976273,-18.22086886225931,TRUE
+Name would n't drop by .,-18.32188806340688,-128.25321644384815,bad,drop_argument,925,syntax,argument_structure,bigram10,-17.382376175124563,-18.32188806340688,TRUE
+Name would n't leave .,-17.382376175124563,-104.29425705074738,good,drop_argument,925,syntax,argument_structure,bigram10,-17.382376175124563,-18.32188806340688,TRUE
+Name would n't drop by .,-18.16086293627736,-127.1260405539415,bad,drop_argument,925,syntax,argument_structure,bigram2,-17.366314335168955,-18.16086293627736,TRUE
+Name would n't leave .,-17.366314335168955,-104.19788601101372,good,drop_argument,925,syntax,argument_structure,bigram2,-17.366314335168955,-18.16086293627736,TRUE
+Name would n't drop by .,-18.371883183614536,-128.60318228530176,bad,drop_argument,925,syntax,argument_structure,bigram3,-17.388382864072312,-18.371883183614536,TRUE
+Name would n't leave .,-17.388382864072312,-104.33029718443387,good,drop_argument,925,syntax,argument_structure,bigram3,-17.388382864072312,-18.371883183614536,TRUE
+Name would n't drop by .,-18.28267241068922,-127.97870687482452,bad,drop_argument,925,syntax,argument_structure,bigram4,-17.50438160477611,-18.28267241068922,TRUE
+Name would n't leave .,-17.50438160477611,-105.02628962865667,good,drop_argument,925,syntax,argument_structure,bigram4,-17.50438160477611,-18.28267241068922,TRUE
+Name would n't drop by .,-18.22534555102205,-127.57741885715433,bad,drop_argument,925,syntax,argument_structure,bigram5,-17.43778907749684,-18.22534555102205,TRUE
+Name would n't leave .,-17.43778907749684,-104.62673446498106,good,drop_argument,925,syntax,argument_structure,bigram5,-17.43778907749684,-18.22534555102205,TRUE
+Name would n't drop by .,-18.092438734369903,-126.64707114058932,bad,drop_argument,925,syntax,argument_structure,bigram6,-17.67221187444206,-18.092438734369903,TRUE
+Name would n't leave .,-17.67221187444206,-106.03327124665236,good,drop_argument,925,syntax,argument_structure,bigram6,-17.67221187444206,-18.092438734369903,TRUE
+Name would n't drop by .,-18.29947031754441,-128.09629222281092,bad,drop_argument,925,syntax,argument_structure,bigram7,-17.520120420886077,-18.29947031754441,TRUE
+Name would n't leave .,-17.520120420886077,-105.12072252531647,good,drop_argument,925,syntax,argument_structure,bigram7,-17.520120420886077,-18.29947031754441,TRUE
+Name would n't drop by .,-18.18508295813705,-127.29558070695936,bad,drop_argument,925,syntax,argument_structure,bigram8,-17.608760918753106,-18.18508295813705,TRUE
+Name would n't leave .,-17.608760918753106,-105.65256551251863,good,drop_argument,925,syntax,argument_structure,bigram8,-17.608760918753106,-18.18508295813705,TRUE
+Name would n't drop by .,-18.233568103492495,-127.63497672444748,bad,drop_argument,925,syntax,argument_structure,bigram9,-17.77536669524551,-18.233568103492495,TRUE
+Name would n't leave .,-17.77536669524551,-106.65220017147305,good,drop_argument,925,syntax,argument_structure,bigram9,-17.77536669524551,-18.233568103492495,TRUE
+Name can climb up .,-17.30537778354049,-103.83226670124294,good,drop_argument,926,syntax,argument_structure,bigram1,-17.30537778354049,-16.850527204141617,FALSE
+Name can look like .,-16.850527204141617,-101.1031632248497,bad,drop_argument,926,syntax,argument_structure,bigram1,-17.30537778354049,-16.850527204141617,FALSE
+Name can climb up .,-17.288813561723973,-103.73288137034385,good,drop_argument,926,syntax,argument_structure,bigram10,-17.288813561723973,-16.794664195216622,FALSE
+Name can look like .,-16.794664195216622,-100.76798517129974,bad,drop_argument,926,syntax,argument_structure,bigram10,-17.288813561723973,-16.794664195216622,FALSE
+Name can climb up .,-17.24543370364919,-103.47260222189514,good,drop_argument,926,syntax,argument_structure,bigram2,-17.24543370364919,-16.691047059648437,FALSE
+Name can look like .,-16.691047059648437,-100.14628235789061,bad,drop_argument,926,syntax,argument_structure,bigram2,-17.24543370364919,-16.691047059648437,FALSE
+Name can climb up .,-17.304632807317446,-103.82779684390468,good,drop_argument,926,syntax,argument_structure,bigram3,-17.304632807317446,-17.0162727379406,FALSE
+Name can look like .,-17.0162727379406,-102.09763642764361,bad,drop_argument,926,syntax,argument_structure,bigram3,-17.304632807317446,-17.0162727379406,FALSE
+Name can climb up .,-17.32356678851169,-103.94140073107015,good,drop_argument,926,syntax,argument_structure,bigram4,-17.32356678851169,-16.686081239604707,FALSE
+Name can look like .,-16.686081239604707,-100.11648743762824,bad,drop_argument,926,syntax,argument_structure,bigram4,-17.32356678851169,-16.686081239604707,FALSE
+Name can climb up .,-17.22304214219781,-103.33825285318684,good,drop_argument,926,syntax,argument_structure,bigram5,-17.22304214219781,-16.730329038436025,FALSE
+Name can look like .,-16.730329038436025,-100.38197423061615,bad,drop_argument,926,syntax,argument_structure,bigram5,-17.22304214219781,-16.730329038436025,FALSE
+Name can climb up .,-17.235297144984347,-103.41178286990609,good,drop_argument,926,syntax,argument_structure,bigram6,-17.235297144984347,-16.77196739779663,FALSE
+Name can look like .,-16.77196739779663,-100.63180438677978,bad,drop_argument,926,syntax,argument_structure,bigram6,-17.235297144984347,-16.77196739779663,FALSE
+Name can climb up .,-17.480260870250103,-104.88156522150061,good,drop_argument,926,syntax,argument_structure,bigram7,-17.480260870250103,-16.80779996722332,FALSE
+Name can look like .,-16.80779996722332,-100.84679980333993,bad,drop_argument,926,syntax,argument_structure,bigram7,-17.480260870250103,-16.80779996722332,FALSE
+Name can climb up .,-17.46156319625023,-104.76937917750138,good,drop_argument,926,syntax,argument_structure,bigram8,-17.46156319625023,-16.7954403274184,FALSE
+Name can look like .,-16.7954403274184,-100.7726419645104,bad,drop_argument,926,syntax,argument_structure,bigram8,-17.46156319625023,-16.7954403274184,FALSE
+Name can climb up .,-17.385793179535728,-104.31475907721438,good,drop_argument,926,syntax,argument_structure,bigram9,-17.385793179535728,-16.884382916411028,FALSE
+Name can look like .,-16.884382916411028,-101.30629749846617,bad,drop_argument,926,syntax,argument_structure,bigram9,-17.385793179535728,-16.884382916411028,FALSE
+Name ran around .,-17.682137555324253,-88.41068777662126,good,drop_argument,958,syntax,argument_structure,bigram1,-17.682137555324253,-17.97402387905171,TRUE
+Name dropped by .,-17.97402387905171,-89.87011939525856,bad,drop_argument,958,syntax,argument_structure,bigram1,-17.682137555324253,-17.97402387905171,TRUE
+Name ran around .,-17.672835755526748,-88.36417877763374,good,drop_argument,958,syntax,argument_structure,bigram10,-17.672835755526748,-18.090328323776816,TRUE
+Name dropped by .,-18.090328323776816,-90.45164161888408,bad,drop_argument,958,syntax,argument_structure,bigram10,-17.672835755526748,-18.090328323776816,TRUE
+Name ran around .,-17.561778055838797,-87.80889027919399,good,drop_argument,958,syntax,argument_structure,bigram2,-17.561778055838797,-18.044785555694567,TRUE
+Name dropped by .,-18.044785555694567,-90.22392777847283,bad,drop_argument,958,syntax,argument_structure,bigram2,-17.561778055838797,-18.044785555694567,TRUE
+Name ran around .,-17.61276767054508,-88.0638383527254,good,drop_argument,958,syntax,argument_structure,bigram3,-17.61276767054508,-18.1742386549566,TRUE
+Name dropped by .,-18.1742386549566,-90.871193274783,bad,drop_argument,958,syntax,argument_structure,bigram3,-17.61276767054508,-18.1742386549566,TRUE
+Name ran around .,-17.623653300369455,-88.11826650184727,good,drop_argument,958,syntax,argument_structure,bigram4,-17.623653300369455,-18.05763830065792,TRUE
+Name dropped by .,-18.05763830065792,-90.28819150328958,bad,drop_argument,958,syntax,argument_structure,bigram4,-17.623653300369455,-18.05763830065792,TRUE
+Name ran around .,-17.629107071221803,-88.14553535610901,good,drop_argument,958,syntax,argument_structure,bigram5,-17.629107071221803,-18.05220251470579,TRUE
+Name dropped by .,-18.05220251470579,-90.26101257352894,bad,drop_argument,958,syntax,argument_structure,bigram5,-17.629107071221803,-18.05220251470579,TRUE
+Name ran around .,-17.591689529632472,-87.95844764816236,good,drop_argument,958,syntax,argument_structure,bigram6,-17.591689529632472,-18.09218959773831,TRUE
+Name dropped by .,-18.09218959773831,-90.46094798869156,bad,drop_argument,958,syntax,argument_structure,bigram6,-17.591689529632472,-18.09218959773831,TRUE
+Name ran around .,-17.702295008413564,-88.51147504206783,good,drop_argument,958,syntax,argument_structure,bigram7,-17.702295008413564,-18.18530250826933,TRUE
+Name dropped by .,-18.18530250826933,-90.92651254134667,bad,drop_argument,958,syntax,argument_structure,bigram7,-17.702295008413564,-18.18530250826933,TRUE
+Name ran around .,-17.579873480065498,-87.89936740032749,good,drop_argument,958,syntax,argument_structure,bigram8,-17.579873480065498,-18.197366048315565,TRUE
+Name dropped by .,-18.197366048315565,-90.98683024157782,bad,drop_argument,958,syntax,argument_structure,bigram8,-17.579873480065498,-18.197366048315565,TRUE
+Name ran around .,-17.62266844755292,-88.1133422377646,good,drop_argument,958,syntax,argument_structure,bigram9,-17.62266844755292,-18.040161015802987,TRUE
+Name dropped by .,-18.040161015802987,-90.20080507901494,bad,drop_argument,958,syntax,argument_structure,bigram9,-17.62266844755292,-18.040161015802987,TRUE
+Name should know .,-17.43393593542349,-87.16967967711746,good,drop_argument,983,syntax,argument_structure,bigram1,-17.43393593542349,-17.427099140581166,FALSE
+Name should look like .,-17.427099140581166,-104.56259484348699,bad,drop_argument,983,syntax,argument_structure,bigram1,-17.43393593542349,-17.427099140581166,FALSE
+Name should know .,-16.76155708582187,-83.80778542910936,good,drop_argument,983,syntax,argument_structure,bigram10,-16.76155708582187,-17.66127625268935,TRUE
+Name should look like .,-17.66127625268935,-105.96765751613611,bad,drop_argument,983,syntax,argument_structure,bigram10,-16.76155708582187,-17.66127625268935,TRUE
+Name should know .,-16.827292987444498,-84.13646493722248,good,drop_argument,983,syntax,argument_structure,bigram2,-16.827292987444498,-17.5459275624726,TRUE
+Name should look like .,-17.5459275624726,-105.2755653748356,bad,drop_argument,983,syntax,argument_structure,bigram2,-16.827292987444498,-17.5459275624726,TRUE
+Name should know .,-16.844028316720813,-84.22014158360406,good,drop_argument,983,syntax,argument_structure,bigram3,-16.844028316720813,-17.711260238180984,TRUE
+Name should look like .,-17.711260238180984,-106.2675614290859,bad,drop_argument,983,syntax,argument_structure,bigram3,-16.844028316720813,-17.711260238180984,TRUE
+Name should know .,-16.924571117220882,-84.62285558610441,good,drop_argument,983,syntax,argument_structure,bigram4,-16.924571117220882,-17.616908323058233,TRUE
+Name should look like .,-17.616908323058233,-105.7014499383494,bad,drop_argument,983,syntax,argument_structure,bigram4,-16.924571117220882,-17.616908323058233,TRUE
+Name should know .,-17.46448262363862,-87.3224131181931,good,drop_argument,983,syntax,argument_structure,bigram5,-17.46448262363862,-17.585209541260188,TRUE
+Name should look like .,-17.585209541260188,-105.51125724756112,bad,drop_argument,983,syntax,argument_structure,bigram5,-17.46448262363862,-17.585209541260188,TRUE
+Name should know .,-16.8718819924459,-84.35940996222949,good,drop_argument,983,syntax,argument_structure,bigram6,-16.8718819924459,-17.49228874694452,TRUE
+Name should look like .,-17.49228874694452,-104.95373248166713,bad,drop_argument,983,syntax,argument_structure,bigram6,-16.8718819924459,-17.49228874694452,TRUE
+Name should know .,-17.373523770458622,-86.8676188522931,good,drop_argument,983,syntax,argument_structure,bigram7,-17.373523770458622,-17.418294136010392,TRUE
+Name should look like .,-17.418294136010392,-104.50976481606236,bad,drop_argument,983,syntax,argument_structure,bigram7,-17.373523770458622,-17.418294136010392,TRUE
+Name should know .,-16.662880979921265,-83.31440489960633,good,drop_argument,983,syntax,argument_structure,bigram8,-16.662880979921265,-17.483654163575892,TRUE
+Name should look like .,-17.483654163575892,-104.90192498145535,bad,drop_argument,983,syntax,argument_structure,bigram8,-16.662880979921265,-17.483654163575892,TRUE
+Name should know .,-16.702860910366347,-83.51430455183173,good,drop_argument,983,syntax,argument_structure,bigram9,-16.702860910366347,-17.460954852850577,TRUE
+Name should look like .,-17.460954852850577,-104.76572911710346,bad,drop_argument,983,syntax,argument_structure,bigram9,-16.702860910366347,-17.460954852850577,TRUE

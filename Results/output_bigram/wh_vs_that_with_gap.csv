@@ -1,0 +1,421 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+Name had learned that those birds will look like *T* .,-19.059319973986288,-228.71183968783544,bad,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram1,-18.825373730481484,-19.059319973986288,TRUE
+Name had learned what those birds will look like *T* .,-18.825373730481484,-225.9044847657778,good,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram1,-18.825373730481484,-19.059319973986288,TRUE
+Name had learned that those birds will look like *T* .,-19.14126248405592,-229.69514980867106,bad,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram10,-19.009182275662493,-19.14126248405592,TRUE
+Name had learned what those birds will look like *T* .,-19.009182275662493,-228.1101873079499,good,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram10,-19.009182275662493,-19.14126248405592,TRUE
+Name had learned that those birds will look like *T* .,-18.993802449593968,-227.9256293951276,bad,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram2,-18.910469116260632,-18.993802449593968,TRUE
+Name had learned what those birds will look like *T* .,-18.910469116260632,-226.9256293951276,good,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram2,-18.910469116260632,-18.993802449593968,TRUE
+Name had learned that those birds will look like *T* .,-19.05916340826157,-228.70996089913888,bad,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram3,-18.97583007492824,-19.05916340826157,TRUE
+Name had learned what those birds will look like *T* .,-18.97583007492824,-227.70996089913888,good,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram3,-18.97583007492824,-19.05916340826157,TRUE
+Name had learned that those birds will look like *T* .,-19.14397525885195,-229.72770310622337,bad,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram4,-19.01189505045852,-19.14397525885195,TRUE
+Name had learned what those birds will look like *T* .,-19.01189505045852,-228.1427406055022,good,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram4,-19.01189505045852,-19.14397525885195,TRUE
+Name had learned that those birds will look like *T* .,-19.070072287909102,-228.84086745490922,bad,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram5,-18.87657828000182,-19.070072287909102,TRUE
+Name had learned what those birds will look like *T* .,-18.87657828000182,-226.51893936002185,good,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram5,-18.87657828000182,-19.070072287909102,TRUE
+Name had learned that those birds will look like *T* .,-19.093590464062057,-229.1230855687447,bad,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram6,-18.87817692233529,-19.093590464062057,TRUE
+Name had learned what those birds will look like *T* .,-18.87817692233529,-226.5381230680235,good,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram6,-18.87817692233529,-19.093590464062057,TRUE
+Name had learned that those birds will look like *T* .,-19.01221993459281,-228.14663921511374,bad,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram7,-18.861607024421343,-19.01221993459281,TRUE
+Name had learned what those birds will look like *T* .,-18.861607024421343,-226.33928429305612,good,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram7,-18.861607024421343,-19.01221993459281,TRUE
+Name had learned that those birds will look like *T* .,-19.130864583417885,-229.5703750010146,bad,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram8,-18.89691833991309,-19.130864583417885,TRUE
+Name had learned what those birds will look like *T* .,-18.89691833991309,-226.76302007895703,good,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram8,-18.89691833991309,-19.130864583417885,TRUE
+Name had learned that those birds will look like *T* .,-18.95558468562894,-227.46701622754728,bad,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram9,-18.82350447723551,-18.95558468562894,TRUE
+Name had learned what those birds will look like *T* .,-18.82350447723551,-225.88205372682611,good,wh_vs_that_with_gap,207,syntax,filler_gap_dependency,bigram9,-18.82350447723551,-18.95558468562894,TRUE
+Name learned that all boys listen to *T* .,-19.0636818046621,-190.636818046621,bad,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram1,-19.0636818046621,-19.0636818046621,FALSE
+Name learned who all boys listen to *T* .,-19.0636818046621,-190.636818046621,good,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram1,-19.0636818046621,-19.0636818046621,FALSE
+Name learned that all boys listen to *T* .,-19.1797483446496,-191.79748344649596,bad,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram10,-19.1797483446496,-19.1797483446496,FALSE
+Name learned who all boys listen to *T* .,-19.1797483446496,-191.79748344649596,good,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram10,-19.1797483446496,-19.1797483446496,FALSE
+Name learned that all boys listen to *T* .,-19.169102335680822,-191.69102335680827,bad,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram2,-19.169102335680822,-19.169102335680822,FALSE
+Name learned who all boys listen to *T* .,-19.169102335680822,-191.69102335680827,good,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram2,-19.169102335680822,-19.169102335680822,FALSE
+Name learned that all boys listen to *T* .,-19.092873921232528,-190.92873921232527,bad,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram3,-19.092873921232528,-19.092873921232528,FALSE
+Name learned who all boys listen to *T* .,-19.092873921232528,-190.92873921232527,good,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram3,-19.092873921232528,-19.092873921232528,FALSE
+Name learned that all boys listen to *T* .,-19.209899301916188,-192.0989930191619,bad,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram4,-19.209899301916188,-19.209899301916188,FALSE
+Name learned who all boys listen to *T* .,-19.209899301916188,-192.0989930191619,good,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram4,-19.209899301916188,-19.209899301916188,FALSE
+Name learned that all boys listen to *T* .,-19.073947406225468,-190.7394740622547,bad,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram5,-19.073947406225468,-19.073947406225468,FALSE
+Name learned who all boys listen to *T* .,-19.073947406225468,-190.7394740622547,good,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram5,-19.073947406225468,-19.073947406225468,FALSE
+Name learned that all boys listen to *T* .,-19.158563871539155,-191.58563871539155,bad,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram6,-19.158563871539155,-19.158563871539155,FALSE
+Name learned who all boys listen to *T* .,-19.158563871539155,-191.58563871539155,good,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram6,-19.158563871539155,-19.158563871539155,FALSE
+Name learned that all boys listen to *T* .,-19.142606617290703,-191.426066172907,bad,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram7,-19.142606617290703,-19.142606617290703,FALSE
+Name learned who all boys listen to *T* .,-19.142606617290703,-191.426066172907,good,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram7,-19.142606617290703,-19.142606617290703,FALSE
+Name learned that all boys listen to *T* .,-19.1422856660944,-191.422856660944,bad,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram8,-19.1422856660944,-19.1422856660944,FALSE
+Name learned who all boys listen to *T* .,-19.1422856660944,-191.422856660944,good,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram8,-19.1422856660944,-19.1422856660944,FALSE
+Name learned that all boys listen to *T* .,-19.372667055854198,-193.72667055854194,bad,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram9,-19.372667055854198,-19.372667055854198,FALSE
+Name learned who all boys listen to *T* .,-19.372667055854198,-193.72667055854194,good,wh_vs_that_with_gap,210,syntax,filler_gap_dependency,bigram9,-19.372667055854198,-19.372667055854198,FALSE
+Name knows what a man could drop by *T* .,-19.489937622668847,-214.38931384935734,good,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram1,-19.489937622668847,-19.27885325040636,FALSE
+Name knows that a man could drop by *T* .,-19.27885325040636,-212.06738575446997,bad,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram1,-19.489937622668847,-19.27885325040636,FALSE
+Name knows what a man could drop by *T* .,-19.37180605212017,-213.08986657332193,good,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram10,-19.37180605212017,-19.21722062319826,FALSE
+Name knows that a man could drop by *T* .,-19.21722062319826,-211.38942685518083,bad,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram10,-19.37180605212017,-19.21722062319826,FALSE
+Name knows what a man could drop by *T* .,-19.291285490950653,-212.20414040045716,good,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram2,-19.291285490950653,-19.044535898435548,FALSE
+Name knows that a man could drop by *T* .,-19.044535898435548,-209.48989488279102,bad,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram2,-19.291285490950653,-19.044535898435548,FALSE
+Name knows what a man could drop by *T* .,-19.567235651217477,-215.2395921633922,good,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram3,-19.567235651217477,-19.191846286040654,FALSE
+Name knows that a man could drop by *T* .,-19.191846286040654,-211.11030914644724,bad,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram3,-19.567235651217477,-19.191846286040654,FALSE
+Name knows what a man could drop by *T* .,-19.385823213024743,-213.24405534327218,good,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram4,-19.385823213024743,-19.1273053249228,FALSE
+Name knows that a man could drop by *T* .,-19.1273053249228,-210.40035857415083,bad,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram4,-19.385823213024743,-19.1273053249228,FALSE
+Name knows what a man could drop by *T* .,-19.355686443251304,-212.91255087576437,good,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram5,-19.355686443251304,-19.128186412294102,FALSE
+Name knows that a man could drop by *T* .,-19.128186412294102,-210.41005053523517,bad,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram5,-19.355686443251304,-19.128186412294102,FALSE
+Name knows what a man could drop by *T* .,-19.4464008177238,-213.9104089949618,good,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram6,-19.4464008177238,-19.07872862505485,FALSE
+Name knows that a man could drop by *T* .,-19.07872862505485,-209.86601487560335,bad,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram6,-19.4464008177238,-19.07872862505485,FALSE
+Name knows what a man could drop by *T* .,-19.3847009880872,-213.23171086895917,good,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram7,-19.3847009880872,-19.06062965910688,FALSE
+Name knows that a man could drop by *T* .,-19.06062965910688,-209.66692625017564,bad,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram7,-19.3847009880872,-19.06062965910688,FALSE
+Name knows what a man could drop by *T* .,-19.38917134057778,-213.28088474635558,good,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram8,-19.38917134057778,-19.024950770654197,FALSE
+Name knows that a man could drop by *T* .,-19.024950770654197,-209.27445847719613,bad,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram8,-19.38917134057778,-19.024950770654197,FALSE
+Name knows what a man could drop by *T* .,-19.35709885436288,-212.9280873979917,good,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram9,-19.35709885436288,-19.207181323622805,FALSE
+Name knows that a man could drop by *T* .,-19.207181323622805,-211.27899455985084,bad,wh_vs_that_with_gap,242,syntax,filler_gap_dependency,bigram9,-19.35709885436288,-19.207181323622805,FALSE
+Name knew who this lady would talk about *T* .,-19.541860959141214,-214.9604705505534,good,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram1,-19.541860959141214,-19.541860959141214,FALSE
+Name knew that this lady would talk about *T* .,-19.541860959141214,-214.9604705505534,bad,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram1,-19.541860959141214,-19.541860959141214,FALSE
+Name knew who this lady would talk about *T* .,-19.410854876572355,-213.51940364229588,good,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram10,-19.410854876572355,-19.46403328572882,TRUE
+Name knew that this lady would talk about *T* .,-19.46403328572882,-214.10436614301705,bad,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram10,-19.410854876572355,-19.46403328572882,TRUE
+Name knew who this lady would talk about *T* .,-19.55496406608239,-215.1046047269063,good,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram2,-19.55496406608239,-19.410876566016828,FALSE
+Name knew that this lady would talk about *T* .,-19.410876566016828,-213.5196422261851,bad,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram2,-19.55496406608239,-19.410876566016828,FALSE
+Name knew who this lady would talk about *T* .,-19.449710037651304,-213.94681041416433,good,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram3,-19.449710037651304,-19.502888446807773,TRUE
+Name knew that this lady would talk about *T* .,-19.502888446807773,-214.5317729148855,bad,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram3,-19.449710037651304,-19.502888446807773,TRUE
+Name knew who this lady would talk about *T* .,-19.466234375077477,-214.12857812585221,good,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram4,-19.466234375077477,-19.466234375077477,FALSE
+Name knew that this lady would talk about *T* .,-19.466234375077477,-214.12857812585221,bad,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram4,-19.466234375077477,-19.466234375077477,FALSE
+Name knew who this lady would talk about *T* .,-19.582731866839563,-215.4100505352352,good,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram5,-19.582731866839563,-19.49182277593048,FALSE
+Name knew that this lady would talk about *T* .,-19.49182277593048,-214.41005053523523,bad,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram5,-19.582731866839563,-19.49182277593048,FALSE
+Name knew who this lady would talk about *T* .,-19.426183324875037,-213.68801657362536,good,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram6,-19.426183324875037,-19.373004915718564,FALSE
+Name knew that this lady would talk about *T* .,-19.373004915718564,-213.1030540729042,bad,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram6,-19.426183324875037,-19.373004915718564,FALSE
+Name knew who this lady would talk about *T* .,-19.42243166983982,-213.646748368238,good,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram7,-19.42243166983982,-19.475610078996286,TRUE
+Name knew that this lady would talk about *T* .,-19.475610078996286,-214.23171086895914,bad,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram7,-19.42243166983982,-19.475610078996286,TRUE
+Name knew who this lady would talk about *T* .,-19.370028887310536,-213.0703177604159,good,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram8,-19.370028887310536,-19.42320729646701,TRUE
+Name knew that this lady would talk about *T* .,-19.42320729646701,-213.65528026113708,bad,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram8,-19.370028887310536,-19.42320729646701,TRUE
+Name knew who this lady would talk about *T* .,-19.517007208953444,-214.6870792984879,good,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram9,-19.517007208953444,-19.517007208953444,FALSE
+Name knew that this lady would talk about *T* .,-19.517007208953444,-214.6870792984879,bad,wh_vs_that_with_gap,271,syntax,filler_gap_dependency,bigram9,-19.517007208953444,-19.517007208953444,FALSE
+Name did learn that some boys will talk about *T* .,-19.33939345142228,-232.07272141706738,bad,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram1,-19.554806993149043,-19.33939345142228,FALSE
+Name did learn who some boys will talk about *T* .,-19.554806993149043,-234.65768391778852,good,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram1,-19.554806993149043,-19.33939345142228,FALSE
+Name did learn that some boys will talk about *T* .,-19.34636957837577,-232.15643494050929,bad,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram10,-19.51303624504244,-19.34636957837577,FALSE
+Name did learn who some boys will talk about *T* .,-19.51303624504244,-234.15643494050929,good,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram10,-19.51303624504244,-19.34636957837577,FALSE
+Name did learn that some boys will talk about *T* .,-19.349989104639107,-232.19986925566928,bad,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram2,-19.48206931303254,-19.349989104639107,FALSE
+Name did learn who some boys will talk about *T* .,-19.48206931303254,-233.78483175639047,good,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram2,-19.48206931303254,-19.349989104639107,FALSE
+Name did learn that some boys will talk about *T* .,-19.359400409951977,-232.3128049194237,bad,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram3,-19.52606707661864,-19.359400409951977,FALSE
+Name did learn who some boys will talk about *T* .,-19.52606707661864,-234.3128049194237,good,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram3,-19.52606707661864,-19.359400409951977,FALSE
+Name did learn that some boys will talk about *T* .,-19.3851303127819,-232.6215637533828,bad,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram4,-19.551796979448564,-19.3851303127819,FALSE
+Name did learn who some boys will talk about *T* .,-19.551796979448564,-234.6215637533828,good,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram4,-19.551796979448564,-19.3851303127819,FALSE
+Name did learn that some boys will talk about *T* .,-19.371153694316664,-232.45384433179996,bad,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram5,-19.53782036098333,-19.371153694316664,FALSE
+Name did learn who some boys will talk about *T* .,-19.53782036098333,-234.45384433179996,good,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram5,-19.53782036098333,-19.371153694316664,FALSE
+Name did learn that some boys will talk about *T* .,-19.43035941198437,-233.16431294381238,bad,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram6,-19.513692745317694,-19.43035941198437,FALSE
+Name did learn who some boys will talk about *T* .,-19.513692745317694,-234.16431294381238,good,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram6,-19.513692745317694,-19.43035941198437,FALSE
+Name did learn that some boys will talk about *T* .,-19.525032497570425,-234.3003899708451,bad,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram7,-19.525032497570425,-19.525032497570425,FALSE
+Name did learn who some boys will talk about *T* .,-19.525032497570425,-234.3003899708451,good,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram7,-19.525032497570425,-19.525032497570425,FALSE
+Name did learn that some boys will talk about *T* .,-19.301685295872097,-231.62022355046517,bad,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram8,-19.468351962538765,-19.301685295872097,FALSE
+Name did learn who some boys will talk about *T* .,-19.468351962538765,-233.62022355046517,good,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram8,-19.468351962538765,-19.301685295872097,FALSE
+Name did learn that some boys will talk about *T* .,-19.35646153572363,-232.27753842868356,bad,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram9,-19.571875077450397,-19.35646153572363,FALSE
+Name did learn who some boys will talk about *T* .,-19.571875077450397,-234.86250092940472,good,wh_vs_that_with_gap,30,syntax,filler_gap_dependency,bigram9,-19.571875077450397,-19.35646153572363,FALSE
+Name did n't learn who every woman sounds like *T* .,-18.573904572646335,-222.88685487175604,good,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram1,-18.573904572646335,-18.44182436425291,FALSE
+Name did n't learn that every woman sounds like *T* .,-18.44182436425291,-221.3018923710349,bad,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram1,-18.573904572646335,-18.44182436425291,FALSE
+Name did n't learn who every woman sounds like *T* .,-18.674945479025208,-224.09934574830248,good,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram10,-18.674945479025208,-18.591612145691872,FALSE
+Name did n't learn that every woman sounds like *T* .,-18.591612145691872,-223.09934574830248,bad,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram10,-18.674945479025208,-18.591612145691872,FALSE
+Name did n't learn who every woman sounds like *T* .,-18.499689711788463,-221.99627654146155,good,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram2,-18.499689711788463,-18.36760950339503,FALSE
+Name did n't learn that every woman sounds like *T* .,-18.36760950339503,-220.41131404074036,bad,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram2,-18.499689711788463,-18.36760950339503,FALSE
+Name did n't learn who every woman sounds like *T* .,-18.550788858801543,-222.60946630561853,good,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram3,-18.550788858801543,-18.46745552546821,FALSE
+Name did n't learn that every woman sounds like *T* .,-18.46745552546821,-221.60946630561853,bad,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram3,-18.550788858801543,-18.46745552546821,FALSE
+Name did n't learn who every woman sounds like *T* .,-18.637780975225905,-223.65337170271084,good,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram4,-18.637780975225905,-18.55444764189257,FALSE
+Name did n't learn that every woman sounds like *T* .,-18.55444764189257,-222.65337170271084,bad,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram4,-18.637780975225905,-18.55444764189257,FALSE
+Name did n't learn who every woman sounds like *T* .,-18.59446455815707,-223.13357469788485,good,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram5,-18.59446455815707,-18.51113122482374,FALSE
+Name did n't learn that every woman sounds like *T* .,-18.51113122482374,-222.13357469788485,bad,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram5,-18.59446455815707,-18.51113122482374,FALSE
+Name did n't learn who every woman sounds like *T* .,-18.66574619538058,-223.988954344567,good,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram6,-18.66574619538058,-18.58241286204725,FALSE
+Name did n't learn that every woman sounds like *T* .,-18.58241286204725,-222.988954344567,bad,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram6,-18.66574619538058,-18.58241286204725,FALSE
+Name did n't learn who every woman sounds like *T* .,-18.53874679665867,-222.46496155990405,good,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram7,-18.53874679665867,-18.53874679665867,FALSE
+Name did n't learn that every woman sounds like *T* .,-18.53874679665867,-222.46496155990405,bad,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram7,-18.53874679665867,-18.53874679665867,FALSE
+Name did n't learn who every woman sounds like *T* .,-18.621241481966223,-223.45489778359467,good,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram8,-18.621241481966223,-18.53790814863289,FALSE
+Name did n't learn that every woman sounds like *T* .,-18.53790814863289,-222.45489778359467,bad,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram8,-18.621241481966223,-18.53790814863289,FALSE
+Name did n't learn who every woman sounds like *T* .,-18.679285804961143,-224.15142965953373,good,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram9,-18.679285804961143,-18.547205596567714,FALSE
+Name did n't learn that every woman sounds like *T* .,-18.547205596567714,-222.56646715881257,bad,wh_vs_that_with_gap,300,syntax,filler_gap_dependency,bigram9,-18.679285804961143,-18.547205596567714,FALSE
+Name did know that these children drop by *T* .,-19.313591693752368,-212.44950863127605,bad,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram1,-18.928406312179565,-19.313591693752368,TRUE
+Name did know what these children drop by *T* .,-18.928406312179565,-208.21246943397523,good,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram1,-18.928406312179565,-19.313591693752368,TRUE
+Name did know that these children drop by *T* .,-19.397036413531893,-213.36740054885084,bad,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram10,-19.128858293759126,-19.397036413531893,TRUE
+Name did know what these children drop by *T* .,-19.128858293759126,-210.4174412313504,good,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram10,-19.128858293759126,-19.397036413531893,TRUE
+Name did know that these children drop by *T* .,-19.18260730062797,-211.0086803069077,bad,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram2,-18.9098800279007,-19.18260730062797,TRUE
+Name did know what these children drop by *T* .,-18.9098800279007,-208.0086803069077,good,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram2,-18.9098800279007,-19.18260730062797,TRUE
+Name did know that these children drop by *T* .,-19.325840030434517,-212.58424033477965,bad,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram3,-18.934192549037935,-19.325840030434517,TRUE
+Name did know what these children drop by *T* .,-18.934192549037935,-208.27611803941733,good,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram3,-18.934192549037935,-19.325840030434517,TRUE
+Name did know that these children drop by *T* .,-19.34405670223953,-212.78462372463488,bad,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram4,-19.009102322760256,-19.34405670223953,TRUE
+Name did know what these children drop by *T* .,-19.009102322760256,-209.1001255503628,good,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram4,-19.009102322760256,-19.34405670223953,TRUE
+Name did know that these children drop by *T* .,-19.23015719016577,-211.53172909182345,bad,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram5,-18.93909956642307,-19.23015719016577,TRUE
+Name did know what these children drop by *T* .,-18.93909956642307,-208.33009523065377,good,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram5,-18.93909956642307,-19.23015719016577,TRUE
+Name did know that these children drop by *T* .,-19.42485179978736,-213.673369797661,bad,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram6,-19.206676290070217,-19.42485179978736,TRUE
+Name did know what these children drop by *T* .,-19.206676290070217,-211.27343919077236,good,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram6,-19.206676290070217,-19.42485179978736,TRUE
+Name did know that these children drop by *T* .,-19.28607472467024,-212.14682197137265,bad,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram7,-19.19516563376115,-19.28607472467024,TRUE
+Name did know what these children drop by *T* .,-19.19516563376115,-211.14682197137265,good,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram7,-19.19516563376115,-19.28607472467024,TRUE
+Name did know that these children drop by *T* .,-19.353327800658505,-212.88660580724354,bad,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram8,-18.999301386219518,-19.353327800658505,TRUE
+Name did know what these children drop by *T* .,-18.999301386219518,-208.99231524841466,good,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram8,-18.999301386219518,-19.353327800658505,TRUE
+Name did know that these children drop by *T* .,-19.40997952424364,-213.50977476668,bad,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram9,-18.97029759081481,-19.40997952424364,TRUE
+Name did know what these children drop by *T* .,-18.97029759081481,-208.67327349896289,good,wh_vs_that_with_gap,355,syntax,filler_gap_dependency,bigram9,-18.97029759081481,-19.40997952424364,TRUE
+Name had n't learned that most men were n't going to *T* .,-19.294986676178887,-270.1298134665044,bad,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram1,-19.294986676178887,-19.294986676178887,FALSE
+Name had n't learned what most men were n't going to *T* .,-19.294986676178887,-270.1298134665044,good,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram1,-19.294986676178887,-19.294986676178887,FALSE
+Name had n't learned that most men were n't going to *T* .,-19.409261023154624,-271.72965432416476,bad,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram10,-19.409261023154624,-19.409261023154624,FALSE
+Name had n't learned what most men were n't going to *T* .,-19.409261023154624,-271.72965432416476,good,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram10,-19.409261023154624,-19.409261023154624,FALSE
+Name had n't learned that most men were n't going to *T* .,-19.38202564950129,-271.3483590930181,bad,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram2,-19.38202564950129,-19.38202564950129,FALSE
+Name had n't learned what most men were n't going to *T* .,-19.38202564950129,-271.3483590930181,good,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram2,-19.38202564950129,-19.38202564950129,FALSE
+Name had n't learned that most men were n't going to *T* .,-19.399657864090106,-271.5952100972615,bad,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram3,-19.399657864090106,-19.399657864090106,FALSE
+Name had n't learned what most men were n't going to *T* .,-19.399657864090106,-271.5952100972615,good,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram3,-19.399657864090106,-19.399657864090106,FALSE
+Name had n't learned that most men were n't going to *T* .,-19.45870192730502,-272.4218269822703,bad,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram4,-19.45870192730502,-19.45870192730502,FALSE
+Name had n't learned what most men were n't going to *T* .,-19.45870192730502,-272.4218269822703,good,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram4,-19.45870192730502,-19.45870192730502,FALSE
+Name had n't learned that most men were n't going to *T* .,-19.33257711396472,-270.65607959550607,bad,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram5,-19.33257711396472,-19.33257711396472,FALSE
+Name had n't learned what most men were n't going to *T* .,-19.33257711396472,-270.65607959550607,good,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram5,-19.33257711396472,-19.33257711396472,FALSE
+Name had n't learned that most men were n't going to *T* .,-19.312287807668277,-270.37202930735583,bad,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram6,-19.312287807668277,-19.312287807668277,FALSE
+Name had n't learned what most men were n't going to *T* .,-19.312287807668277,-270.37202930735583,good,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram6,-19.312287807668277,-19.312287807668277,FALSE
+Name had n't learned that most men were n't going to *T* .,-19.427392448495844,-271.9834942789418,bad,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram7,-19.427392448495844,-19.427392448495844,FALSE
+Name had n't learned what most men were n't going to *T* .,-19.427392448495844,-271.9834942789418,good,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram7,-19.427392448495844,-19.427392448495844,FALSE
+Name had n't learned that most men were n't going to *T* .,-19.47641152292609,-272.6697613209653,bad,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram8,-19.47641152292609,-19.47641152292609,FALSE
+Name had n't learned what most men were n't going to *T* .,-19.47641152292609,-272.6697613209653,good,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram8,-19.47641152292609,-19.47641152292609,FALSE
+Name had n't learned that most men were n't going to *T* .,-19.48072742650286,-272.73018397104005,bad,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram9,-19.48072742650286,-19.48072742650286,FALSE
+Name had n't learned what most men were n't going to *T* .,-19.48072742650286,-272.73018397104005,good,wh_vs_that_with_gap,396,syntax,filler_gap_dependency,bigram9,-19.48072742650286,-19.48072742650286,FALSE
+Name has learned that most men sound like *T* .,-18.919315785818046,-208.1124736439985,bad,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram1,-18.919315785818046,-18.919315785818046,FALSE
+Name has learned who most men sound like *T* .,-18.919315785818046,-208.1124736439985,good,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram1,-18.919315785818046,-18.919315785818046,FALSE
+Name has learned that most men sound like *T* .,-19.008333733651696,-209.09167107016867,bad,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram10,-19.008333733651696,-19.008333733651696,FALSE
+Name has learned who most men sound like *T* .,-19.008333733651696,-209.09167107016867,good,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram10,-19.008333733651696,-19.008333733651696,FALSE
+Name has learned that most men sound like *T* .,-18.94941265882721,-208.4435392470993,bad,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram2,-18.94941265882721,-18.94941265882721,FALSE
+Name has learned who most men sound like *T* .,-18.94941265882721,-208.4435392470993,good,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram2,-18.94941265882721,-18.94941265882721,FALSE
+Name has learned that most men sound like *T* .,-18.913915017692062,-208.05306519461274,bad,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram3,-18.913915017692062,-18.913915017692062,FALSE
+Name has learned who most men sound like *T* .,-18.913915017692062,-208.05306519461274,good,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram3,-18.913915017692062,-18.913915017692062,FALSE
+Name has learned that most men sound like *T* .,-18.975407470040217,-208.7294821704424,bad,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram4,-18.975407470040217,-18.975407470040217,FALSE
+Name has learned who most men sound like *T* .,-18.975407470040217,-208.7294821704424,good,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram4,-18.975407470040217,-18.975407470040217,FALSE
+Name has learned that most men sound like *T* .,-18.924797296908284,-208.17277026599115,bad,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram5,-18.924797296908284,-18.924797296908284,FALSE
+Name has learned who most men sound like *T* .,-18.924797296908284,-208.17277026599115,good,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram5,-18.924797296908284,-18.924797296908284,FALSE
+Name has learned that most men sound like *T* .,-18.96235517785551,-208.5859069564106,bad,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram6,-18.96235517785551,-18.96235517785551,FALSE
+Name has learned who most men sound like *T* .,-18.96235517785551,-208.5859069564106,good,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram6,-18.96235517785551,-18.96235517785551,FALSE
+Name has learned that most men sound like *T* .,-18.94692563776871,-208.41618201545583,bad,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram7,-18.94692563776871,-18.94692563776871,FALSE
+Name has learned who most men sound like *T* .,-18.94692563776871,-208.41618201545583,good,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram7,-18.94692563776871,-18.94692563776871,FALSE
+Name has learned that most men sound like *T* .,-18.98853823160113,-208.8739205476124,bad,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram8,-18.98853823160113,-18.98853823160113,FALSE
+Name has learned who most men sound like *T* .,-18.98853823160113,-208.8739205476124,good,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram8,-18.98853823160113,-18.98853823160113,FALSE
+Name has learned that most men sound like *T* .,-18.973330190537208,-208.7066320959093,bad,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram9,-18.973330190537208,-18.973330190537208,FALSE
+Name has learned who most men sound like *T* .,-18.973330190537208,-208.7066320959093,good,wh_vs_that_with_gap,4,syntax,filler_gap_dependency,bigram9,-18.973330190537208,-18.973330190537208,FALSE
+Name knows what every child should go to *T* .,-19.18470562224902,-211.0317618447392,good,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram1,-19.18470562224902,-19.18470562224902,FALSE
+Name knows that every child should go to *T* .,-19.18470562224902,-211.0317618447392,bad,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram1,-19.18470562224902,-19.18470562224902,FALSE
+Name knows what every child should go to *T* .,-19.21762479638291,-211.39387276021202,good,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram10,-19.21762479638291,-19.308533887292,TRUE
+Name knows that every child should go to *T* .,-19.308533887292,-212.39387276021202,bad,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram10,-19.21762479638291,-19.308533887292,TRUE
+Name knows what every child should go to *T* .,-19.295449462733664,-212.2499440900703,good,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram2,-19.295449462733664,-19.2422710535772,FALSE
+Name knows that every child should go to *T* .,-19.2422710535772,-211.66498158934917,bad,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram2,-19.295449462733664,-19.2422710535772,FALSE
+Name knows what every child should go to *T* .,-19.221738511538167,-211.43912362691984,good,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram3,-19.221738511538167,-19.077651011472607,FALSE
+Name knows that every child should go to *T* .,-19.077651011472607,-209.85416112619868,bad,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram3,-19.221738511538167,-19.077651011472607,FALSE
+Name knows what every child should go to *T* .,-19.304633686108065,-212.35097054718867,good,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram4,-19.304633686108065,-19.251455276951592,FALSE
+Name knows that every child should go to *T* .,-19.251455276951592,-211.7660080464675,bad,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram4,-19.304633686108065,-19.251455276951592,FALSE
+Name knows what every child should go to *T* .,-19.18233275274144,-211.00566028015587,good,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram5,-19.18233275274144,-19.18233275274144,FALSE
+Name knows that every child should go to *T* .,-19.18233275274144,-211.00566028015587,bad,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram5,-19.18233275274144,-19.18233275274144,FALSE
+Name knows what every child should go to *T* .,-19.258481345373024,-211.84329479910326,good,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram6,-19.258481345373024,-19.11439384530746,FALSE
+Name knows that every child should go to *T* .,-19.11439384530746,-210.25833229838207,bad,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram6,-19.258481345373024,-19.11439384530746,FALSE
+Name knows what every child should go to *T* .,-19.38839571395059,-213.27235285345648,good,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram7,-19.38839571395059,-19.24430821388503,FALSE
+Name knows that every child should go to *T* .,-19.24430821388503,-211.68739035273535,bad,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram7,-19.38839571395059,-19.24430821388503,FALSE
+Name knows what every child should go to *T* .,-19.210673692943697,-211.31741062238066,good,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram8,-19.210673692943697,-19.066586192878137,FALSE
+Name knows that every child should go to *T* .,-19.066586192878137,-209.73244812165953,bad,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram8,-19.210673692943697,-19.066586192878137,FALSE
+Name knows what every child should go to *T* .,-19.307956274239,-212.387519016629,good,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram9,-19.307956274239,-19.39886536514809,TRUE
+Name knows that every child should go to *T* .,-19.39886536514809,-213.387519016629,bad,wh_vs_that_with_gap,455,syntax,filler_gap_dependency,bigram9,-19.307956274239,-19.39886536514809,TRUE
+Name learned that all men had n't gone to *T* .,-19.89579101910957,-238.74949222931485,bad,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram1,-19.70229701120229,-19.89579101910957,TRUE
+Name learned what all men had n't gone to *T* .,-19.70229701120229,-236.42756413442748,good,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram1,-19.70229701120229,-19.89579101910957,TRUE
+Name learned that all men had n't gone to *T* .,-19.960229762896255,-239.5227571547551,bad,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram10,-19.793563096229597,-19.960229762896255,TRUE
+Name learned what all men had n't gone to *T* .,-19.793563096229597,-237.5227571547551,good,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram10,-19.793563096229597,-19.960229762896255,TRUE
+Name learned that all men had n't gone to *T* .,-19.92769124528208,-239.13229494338492,bad,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram2,-19.76102457861541,-19.92769124528208,TRUE
+Name learned what all men had n't gone to *T* .,-19.76102457861541,-237.13229494338492,good,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram2,-19.76102457861541,-19.92769124528208,TRUE
+Name learned that all men had n't gone to *T* .,-19.921087137135235,-239.0530456456228,bad,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram3,-19.754420470468567,-19.921087137135235,TRUE
+Name learned what all men had n't gone to *T* .,-19.754420470468567,-237.0530456456228,good,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram3,-19.754420470468567,-19.921087137135235,TRUE
+Name learned that all men had n't gone to *T* .,-19.965732501018238,-239.58879001221882,bad,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram4,-19.79906583435157,-19.965732501018238,TRUE
+Name learned what all men had n't gone to *T* .,-19.79906583435157,-237.5887900122188,good,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram4,-19.79906583435157,-19.965732501018238,TRUE
+Name learned that all men had n't gone to *T* .,-19.84385580614762,-238.12626967377145,bad,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram5,-19.677189139480955,-19.84385580614762,TRUE
+Name learned what all men had n't gone to *T* .,-19.677189139480955,-236.12626967377147,good,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram5,-19.677189139480955,-19.84385580614762,TRUE
+Name learned that all men had n't gone to *T* .,-19.89825189899397,-238.7790227879276,bad,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram6,-19.766171690600533,-19.89825189899397,TRUE
+Name learned what all men had n't gone to *T* .,-19.766171690600533,-237.1940602872064,good,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram6,-19.766171690600533,-19.89825189899397,TRUE
+Name learned that all men had n't gone to *T* .,-19.982686922264563,-239.79224306717475,bad,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram7,-19.789192914357283,-19.982686922264563,TRUE
+Name learned what all men had n't gone to *T* .,-19.789192914357283,-237.4703149722874,good,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram7,-19.789192914357283,-19.982686922264563,TRUE
+Name learned that all men had n't gone to *T* .,-19.862728603300013,-238.35274323960016,bad,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram8,-19.69606193663335,-19.862728603300013,TRUE
+Name learned what all men had n't gone to *T* .,-19.69606193663335,-236.3527432396002,good,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram8,-19.69606193663335,-19.862728603300013,TRUE
+Name learned that all men had n't gone to *T* .,-19.9743519720409,-239.6922236644908,bad,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram9,-19.78085796413362,-19.9743519720409,TRUE
+Name learned what all men had n't gone to *T* .,-19.78085796413362,-237.37029556960343,good,wh_vs_that_with_gap,468,syntax,filler_gap_dependency,bigram9,-19.78085796413362,-19.9743519720409,TRUE
+Name can remember that some boys find *T* .,-18.85152560667401,-188.5152560667401,bad,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram1,-18.83453310652978,-18.85152560667401,TRUE
+Name can remember what some boys find *T* .,-18.83453310652978,-188.34533106529778,good,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram1,-18.83453310652978,-18.85152560667401,TRUE
+Name can remember that some boys find *T* .,-18.725316293027213,-187.25316293027214,bad,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram10,-18.74051660237172,-18.725316293027213,FALSE
+Name can remember what some boys find *T* .,-18.74051660237172,-187.40516602371721,good,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram10,-18.74051660237172,-18.725316293027213,FALSE
+Name can remember that some boys find *T* .,-18.815408237095006,-188.15408237095005,bad,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram2,-18.68910479651162,-18.815408237095006,TRUE
+Name can remember what some boys find *T* .,-18.68910479651162,-186.89104796511623,good,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram2,-18.68910479651162,-18.815408237095006,TRUE
+Name can remember that some boys find *T* .,-18.921824582952027,-189.21824582952027,bad,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram3,-18.86332833287991,-18.921824582952027,TRUE
+Name can remember what some boys find *T* .,-18.86332833287991,-188.6332833287991,good,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram3,-18.86332833287991,-18.921824582952027,TRUE
+Name can remember that some boys find *T* .,-18.760713992283225,-187.60713992283223,bad,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram4,-18.7870174328666,-18.760713992283225,FALSE
+Name can remember what some boys find *T* .,-18.7870174328666,-187.87017432866602,good,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram4,-18.7870174328666,-18.760713992283225,FALSE
+Name can remember that some boys find *T* .,-18.81545115615335,-188.15451156153352,bad,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram5,-18.715451156153357,-18.81545115615335,TRUE
+Name can remember what some boys find *T* .,-18.715451156153357,-187.15451156153352,good,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram5,-18.715451156153357,-18.81545115615335,TRUE
+Name can remember that some boys find *T* .,-18.85532172376992,-188.5532172376992,bad,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram6,-18.770522033114425,-18.85532172376992,TRUE
+Name can remember what some boys find *T* .,-18.770522033114425,-187.70522033114426,good,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram6,-18.770522033114425,-18.85532172376992,TRUE
+Name can remember that some boys find *T* .,-18.850828726115576,-188.50828726115577,bad,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram7,-18.783021535604316,-18.850828726115576,TRUE
+Name can remember what some boys find *T* .,-18.783021535604316,-187.8302153560431,good,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram7,-18.783021535604316,-18.850828726115576,TRUE
+Name can remember that some boys find *T* .,-18.905290705119366,-189.05290705119367,bad,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram8,-18.80529070511937,-18.905290705119366,TRUE
+Name can remember what some boys find *T* .,-18.80529070511937,-188.05290705119367,good,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram8,-18.80529070511937,-18.905290705119366,TRUE
+Name can remember that some boys find *T* .,-18.91379559229597,-189.13795592295966,bad,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram9,-18.928995901640477,-18.91379559229597,FALSE
+Name can remember what some boys find *T* .,-18.928995901640477,-189.28995901640474,good,wh_vs_that_with_gap,517,syntax,filler_gap_dependency,bigram9,-18.928995901640477,-18.91379559229597,FALSE
+Name has learned what a drawing had looked like *T* .,-18.98688346947553,-227.8426016337063,good,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram1,-18.98688346947553,-18.793389461568243,FALSE
+Name has learned that a drawing had looked like *T* .,-18.793389461568243,-225.52067353881893,bad,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram1,-18.98688346947553,-18.793389461568243,FALSE
+Name has learned what a drawing had looked like *T* .,-19.060725197365173,-228.72870236838207,good,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram10,-19.060725197365173,-18.83568855418675,FALSE
+Name has learned that a drawing had looked like *T* .,-18.83568855418675,-226.028262650241,bad,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram10,-19.060725197365173,-18.83568855418675,FALSE
+Name has learned what a drawing had looked like *T* .,-18.88622734965507,-226.63472819586082,good,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram2,-18.88622734965507,-18.70878709824299,FALSE
+Name has learned that a drawing had looked like *T* .,-18.70878709824299,-224.50544517891586,bad,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram2,-18.88622734965507,-18.70878709824299,FALSE
+Name has learned what a drawing had looked like *T* .,-19.14508231622996,-229.7409877947595,good,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram3,-19.14508231622996,-18.93305560654464,FALSE
+Name has learned that a drawing had looked like *T* .,-18.93305560654464,-227.1966672785357,bad,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram3,-19.14508231622996,-18.93305560654464,FALSE
+Name has learned what a drawing had looked like *T* .,-18.962718033305443,-227.5526163996653,good,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram4,-18.962718033305443,-18.774490177605426,FALSE
+Name has learned that a drawing had looked like *T* .,-18.774490177605426,-225.29388213126512,bad,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram4,-18.962718033305443,-18.774490177605426,FALSE
+Name has learned what a drawing had looked like *T* .,-19.01028788818037,-228.1234546581644,good,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram5,-19.01028788818037,-18.801746193136267,FALSE
+Name has learned that a drawing had looked like *T* .,-18.801746193136267,-225.6209543176352,bad,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram5,-19.01028788818037,-18.801746193136267,FALSE
+Name has learned what a drawing had looked like *T* .,-19.043469578769574,-228.52163494523495,good,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram6,-19.043469578769574,-18.838516943883132,FALSE
+Name has learned that a drawing had looked like *T* .,-18.838516943883132,-226.06220332659763,bad,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram6,-19.043469578769574,-18.838516943883132,FALSE
+Name has learned what a drawing had looked like *T* .,-18.98389910101909,-227.80678921222912,good,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram7,-18.98389910101909,-18.818913924513897,FALSE
+Name has learned that a drawing had looked like *T* .,-18.818913924513897,-225.82696709416675,bad,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram7,-18.98389910101909,-18.818913924513897,FALSE
+Name has learned what a drawing had looked like *T* .,-19.051372617967008,-228.61647141560408,good,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram8,-19.051372617967008,-18.84958397059715,FALSE
+Name has learned that a drawing had looked like *T* .,-18.84958397059715,-226.1950076471658,bad,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram8,-19.051372617967008,-18.84958397059715,FALSE
+Name has learned what a drawing had looked like *T* .,-19.11665850264073,-229.39990203168875,good,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram9,-19.11665850264073,-18.89590076612899,FALSE
+Name has learned that a drawing had looked like *T* .,-18.89590076612899,-226.75080919354787,bad,wh_vs_that_with_gap,59,syntax,filler_gap_dependency,bigram9,-19.11665850264073,-18.89590076612899,FALSE
+Name had learned what that man is n't looking like *T* .,-18.776604985365186,-244.09586480974735,good,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram1,-18.776604985365186,-18.84183551663864,TRUE
+Name had learned that that man is n't looking like *T* .,-18.84183551663864,-244.9438617163023,bad,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram1,-18.776604985365186,-18.84183551663864,TRUE
+Name had learned what that man is n't looking like *T* .,-18.721556402791585,-243.3802332362906,good,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram10,-18.721556402791585,-18.805207390580076,TRUE
+Name had learned that that man is n't looking like *T* .,-18.805207390580076,-244.46769607754095,bad,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram10,-18.721556402791585,-18.805207390580076,TRUE
+Name had learned what that man is n't looking like *T* .,-18.70935688466185,-243.2216395006041,good,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram2,-18.70935688466185,-18.911240797347077,TRUE
+Name had learned that that man is n't looking like *T* .,-18.911240797347077,-245.84613036551195,bad,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram2,-18.70935688466185,-18.911240797347077,TRUE
+Name had learned what that man is n't looking like *T* .,-18.64255821968812,-242.35325685594555,good,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram3,-18.64255821968812,-18.85529166171604,TRUE
+Name had learned that that man is n't looking like *T* .,-18.85529166171604,-245.1187916023085,bad,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram3,-18.64255821968812,-18.85529166171604,TRUE
+Name had learned what that man is n't looking like *T* .,-18.66932148419396,-242.70117929452144,good,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram4,-18.66932148419396,-18.841401422447863,TRUE
+Name had learned that that man is n't looking like *T* .,-18.841401422447863,-244.93821849182228,bad,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram4,-18.66932148419396,-18.841401422447863,TRUE
+Name had learned what that man is n't looking like *T* .,-18.606565770895696,-241.88535502164405,good,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram5,-18.606565770895696,-18.79575281848318,TRUE
+Name had learned that that man is n't looking like *T* .,-18.79575281848318,-244.34478664028134,bad,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram5,-18.606565770895696,-18.79575281848318,TRUE
+Name had learned what that man is n't looking like *T* .,-18.63021233836002,-242.19276039868026,good,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram6,-18.63021233836002,-18.812461092949693,TRUE
+Name had learned that that man is n't looking like *T* .,-18.812461092949693,-244.561994208346,bad,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram6,-18.63021233836002,-18.812461092949693,TRUE
+Name had learned what that man is n't looking like *T* .,-18.85997649286684,-245.17969440726893,good,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram7,-18.85997649286684,-19.030929756046568,TRUE
+Name had learned that that man is n't looking like *T* .,-19.030929756046568,-247.40208682860538,bad,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram7,-18.85997649286684,-19.030929756046568,TRUE
+Name had learned what that man is n't looking like *T* .,-18.75660968467469,-243.83592590077095,good,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram8,-18.75660968467469,-18.994106826309327,TRUE
+Name had learned that that man is n't looking like *T* .,-18.994106826309327,-246.92338874202127,bad,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram8,-18.75660968467469,-18.994106826309327,TRUE
+Name had learned what that man is n't looking like *T* .,-18.78506670751043,-244.20586719763563,good,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram9,-18.78506670751043,-19.028907092236764,TRUE
+Name had learned that that man is n't looking like *T* .,-19.028907092236764,-247.37579219907792,bad,wh_vs_that_with_gap,628,syntax,filler_gap_dependency,bigram9,-18.78506670751043,-19.028907092236764,TRUE
+Name knew that the painting looks like *T* .,-18.19699990395837,-181.96999903958374,bad,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram1,-18.303412937700347,-18.19699990395837,FALSE
+Name knew what the painting looks like *T* .,-18.303412937700347,-183.03412937700347,good,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram1,-18.303412937700347,-18.19699990395837,FALSE
+Name knew that the painting looks like *T* .,-18.269367527918167,-182.69367527918166,bad,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram10,-18.37525689682353,-18.269367527918167,FALSE
+Name knew what the painting looks like *T* .,-18.37525689682353,-183.75256896823527,good,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram10,-18.37525689682353,-18.269367527918167,FALSE
+Name knew that the painting looks like *T* .,-18.185076995423003,-181.85076995423003,bad,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram2,-18.31726980491174,-18.185076995423003,FALSE
+Name knew what the painting looks like *T* .,-18.31726980491174,-183.1726980491174,good,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram2,-18.31726980491174,-18.185076995423003,FALSE
+Name knew that the painting looks like *T* .,-18.266219602071438,-182.66219602071433,bad,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram3,-18.366219602071432,-18.266219602071438,FALSE
+Name knew what the painting looks like *T* .,-18.366219602071432,-183.66219602071433,good,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram3,-18.366219602071432,-18.266219602071438,FALSE
+Name knew that the painting looks like *T* .,-18.212386156224056,-182.12386156224056,bad,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram4,-18.37088240629617,-18.212386156224056,FALSE
+Name knew what the painting looks like *T* .,-18.37088240629617,-183.70882406296172,good,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram4,-18.37088240629617,-18.212386156224056,FALSE
+Name knew that the painting looks like *T* .,-18.1755004740754,-181.755004740754,bad,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram5,-18.370920105114088,-18.1755004740754,FALSE
+Name knew what the painting looks like *T* .,-18.370920105114088,-183.70920105114087,good,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram5,-18.370920105114088,-18.1755004740754,FALSE
+Name knew that the painting looks like *T* .,-18.18807918957277,-181.8807918957277,bad,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram6,-18.30872427731951,-18.18807918957277,FALSE
+Name knew what the painting looks like *T* .,-18.30872427731951,-183.0872427731951,good,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram6,-18.30872427731951,-18.18807918957277,FALSE
+Name knew that the painting looks like *T* .,-18.26888380382811,-182.6888380382811,bad,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram7,-18.347733393308737,-18.26888380382811,FALSE
+Name knew what the painting looks like *T* .,-18.347733393308737,-183.47733393308738,good,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram7,-18.347733393308737,-18.26888380382811,FALSE
+Name knew that the painting looks like *T* .,-18.212364864255672,-182.12364864255673,bad,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram8,-18.360907546972697,-18.212364864255672,FALSE
+Name knew what the painting looks like *T* .,-18.360907546972697,-183.60907546972697,good,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram8,-18.360907546972697,-18.212364864255672,FALSE
+Name knew that the painting looks like *T* .,-18.23768364670847,-182.3768364670847,bad,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram9,-18.396179896780584,-18.23768364670847,FALSE
+Name knew what the painting looks like *T* .,-18.396179896780584,-183.96179896780583,good,wh_vs_that_with_gap,674,syntax,filler_gap_dependency,bigram9,-18.396179896780584,-18.23768364670847,FALSE
+Name knows who the child is n't talking to *T* .,-19.22421654502177,-230.69059854026125,good,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram1,-19.22421654502177,-18.847253048683687,FALSE
+Name knows that the child is n't talking to *T* .,-18.847253048683687,-226.16703658420425,bad,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram1,-19.22421654502177,-18.847253048683687,FALSE
+Name knows who the child is n't talking to *T* .,-19.271330884505016,-231.2559706140602,good,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram10,-19.271330884505016,-18.884342868690457,FALSE
+Name knows that the child is n't talking to *T* .,-18.884342868690457,-226.61211442428547,bad,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram10,-19.271330884505016,-18.884342868690457,FALSE
+Name knows who the child is n't talking to *T* .,-19.29750437659699,-231.57005251916388,good,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram2,-19.29750437659699,-18.778436152389,FALSE
+Name knows that the child is n't talking to *T* .,-18.778436152389,-225.341233828668,bad,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram2,-19.29750437659699,-18.778436152389,FALSE
+Name knows who the child is n't talking to *T* .,-19.260521291048047,-231.12625549257658,good,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram3,-19.260521291048047,-18.74636087426119,FALSE
+Name knows that the child is n't talking to *T* .,-18.74636087426119,-224.95633049113425,bad,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram3,-19.260521291048047,-18.74636087426119,FALSE
+Name knows who the child is n't talking to *T* .,-19.29871412882505,-231.58456954590062,good,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram4,-19.29871412882505,-18.746267743818414,FALSE
+Name knows that the child is n't talking to *T* .,-18.746267743818414,-224.955212925821,bad,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram4,-19.29871412882505,-18.746267743818414,FALSE
+Name knows who the child is n't talking to *T* .,-19.240496278703144,-230.88595534443775,good,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram5,-19.240496278703144,-18.827646586170907,FALSE
+Name knows that the child is n't talking to *T* .,-18.827646586170907,-225.93175903405088,bad,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram5,-19.240496278703144,-18.827646586170907,FALSE
+Name knows who the child is n't talking to *T* .,-19.264925828811705,-231.17910994574044,good,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram6,-19.264925828811705,-18.723938070784232,FALSE
+Name knows that the child is n't talking to *T* .,-18.723938070784232,-224.6872568494108,bad,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram6,-19.264925828811705,-18.723938070784232,FALSE
+Name knows who the child is n't talking to *T* .,-19.286224255213053,-231.43469106255665,good,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram7,-19.286224255213053,-18.800150087366,FALSE
+Name knows that the child is n't talking to *T* .,-18.800150087366,-225.60180104839193,bad,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram7,-19.286224255213053,-18.800150087366,FALSE
+Name knows who the child is n't talking to *T* .,-19.219531801121818,-230.6343816134618,good,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram8,-19.219531801121818,-18.68683868255692,FALSE
+Name knows that the child is n't talking to *T* .,-18.68683868255692,-224.24206419068307,bad,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram8,-19.219531801121818,-18.68683868255692,FALSE
+Name knows who the child is n't talking to *T* .,-19.28085796413362,-231.37029556960343,good,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram9,-19.28085796413362,-18.871950414499576,FALSE
+Name knows that the child is n't talking to *T* .,-18.871950414499576,-226.46340497399493,bad,wh_vs_that_with_gap,677,syntax,filler_gap_dependency,bigram9,-19.28085796413362,-18.871950414499576,FALSE
+most people find out who ladies did care for *T* .,-20.46942948095931,-245.63315377151173,good,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram1,-20.46942948095931,-20.552762814292645,TRUE
+most people find out that ladies did care for *T* .,-20.552762814292645,-246.63315377151173,bad,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram1,-20.46942948095931,-20.552762814292645,TRUE
+most people find out who ladies did care for *T* .,-20.433579987276527,-245.2029598473183,good,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram10,-20.433579987276527,-20.51691332060986,TRUE
+most people find out that ladies did care for *T* .,-20.51691332060986,-246.2029598473183,bad,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram10,-20.433579987276527,-20.51691332060986,TRUE
+most people find out who ladies did care for *T* .,-20.38076091941186,-244.56913103294232,good,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram2,-20.38076091941186,-20.464094252745195,TRUE
+most people find out that ladies did care for *T* .,-20.464094252745195,-245.56913103294232,bad,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram2,-20.38076091941186,-20.464094252745195,TRUE
+most people find out who ladies did care for *T* .,-20.401066575246507,-244.8127989029581,good,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram3,-20.401066575246507,-20.48439990857984,TRUE
+most people find out that ladies did care for *T* .,-20.48439990857984,-245.8127989029581,bad,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram3,-20.401066575246507,-20.48439990857984,TRUE
+most people find out who ladies did care for *T* .,-20.48366457913203,-245.80397494958433,good,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram4,-20.48366457913203,-20.56699791246536,TRUE
+most people find out that ladies did care for *T* .,-20.56699791246536,-246.80397494958433,bad,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram4,-20.48366457913203,-20.56699791246536,TRUE
+most people find out who ladies did care for *T* .,-20.377921192344918,-244.53505430813897,good,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram5,-20.377921192344918,-20.46125452567825,TRUE
+most people find out that ladies did care for *T* .,-20.46125452567825,-245.53505430813897,bad,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram5,-20.377921192344918,-20.46125452567825,TRUE
+most people find out who ladies did care for *T* .,-20.46429358825479,-245.57152305905748,good,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram6,-20.46429358825479,-20.54762692158812,TRUE
+most people find out that ladies did care for *T* .,-20.54762692158812,-246.57152305905748,bad,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram6,-20.46429358825479,-20.54762692158812,TRUE
+most people find out who ladies did care for *T* .,-20.53326932285216,-246.3992318742259,good,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram7,-20.53326932285216,-20.53326932285216,FALSE
+most people find out that ladies did care for *T* .,-20.53326932285216,-246.3992318742259,bad,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram7,-20.53326932285216,-20.53326932285216,FALSE
+most people find out who ladies did care for *T* .,-20.410192042539503,-244.92230451047405,good,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram8,-20.410192042539503,-20.49352537587284,TRUE
+most people find out that ladies did care for *T* .,-20.49352537587284,-245.92230451047405,bad,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram8,-20.410192042539503,-20.49352537587284,TRUE
+most people find out who ladies did care for *T* .,-20.444369668814783,-245.3324360257774,good,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram9,-20.444369668814783,-20.52770300214812,TRUE
+most people find out that ladies did care for *T* .,-20.52770300214812,-246.3324360257774,bad,wh_vs_that_with_gap,702,syntax,filler_gap_dependency,bigram9,-20.444369668814783,-20.52770300214812,TRUE
+Name can n't remember that the people talk to *T* .,-18.089417641426763,-217.07301169712116,bad,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram1,-18.63304780443152,-18.089417641426763,FALSE
+Name can n't remember who the people talk to *T* .,-18.63304780443152,-223.5965736531782,good,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram1,-18.63304780443152,-18.089417641426763,FALSE
+Name can n't remember that the people talk to *T* .,-18.04877829247785,-216.5853395097342,bad,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram10,-18.62926031619969,-18.04877829247785,FALSE
+Name can n't remember who the people talk to *T* .,-18.62926031619969,-223.55112379439632,good,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram10,-18.62926031619969,-18.04877829247785,FALSE
+Name can n't remember that the people talk to *T* .,-17.937278726521516,-215.2473447182582,bad,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram2,-18.51776075024336,-17.937278726521516,FALSE
+Name can n't remember who the people talk to *T* .,-18.51776075024336,-222.2131290029203,good,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram2,-18.51776075024336,-17.937278726521516,FALSE
+Name can n't remember that the people talk to *T* .,-18.082106265681247,-216.98527518817497,bad,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram3,-18.59626668246811,-18.082106265681247,FALSE
+Name can n't remember who the people talk to *T* .,-18.59626668246811,-223.1552001896173,good,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram3,-18.59626668246811,-18.082106265681247,FALSE
+Name can n't remember that the people talk to *T* .,-18.0341775019688,-216.41013002362564,bad,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram4,-18.66995722030877,-18.0341775019688,FALSE
+Name can n't remember who the people talk to *T* .,-18.66995722030877,-224.03948664370523,good,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram4,-18.66995722030877,-18.0341775019688,FALSE
+Name can n't remember that the people talk to *T* .,-17.921327031175874,-215.05592437411048,bad,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram5,-18.417510057041447,-17.921327031175874,FALSE
+Name can n't remember who the people talk to *T* .,-18.417510057041447,-221.01012068449737,good,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram5,-18.417510057041447,-17.921327031175874,FALSE
+Name can n't remember that the people talk to *T* .,-17.971455963734986,-215.65747156481984,bad,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram6,-18.57385752127631,-17.971455963734986,FALSE
+Name can n't remember who the people talk to *T* .,-18.57385752127631,-222.8862902553157,good,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram6,-18.57385752127631,-17.971455963734986,FALSE
+Name can n't remember that the people talk to *T* .,-17.98084954077195,-215.7701944892634,bad,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram7,-18.52833750813286,-17.98084954077195,FALSE
+Name can n't remember who the people talk to *T* .,-18.52833750813286,-222.34005009759434,good,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram7,-18.52833750813286,-17.98084954077195,FALSE
+Name can n't remember that the people talk to *T* .,-17.968604162352925,-215.6232499482351,bad,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram8,-18.452550405857725,-17.968604162352925,FALSE
+Name can n't remember who the people talk to *T* .,-18.452550405857725,-221.4306048702927,good,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram8,-18.452550405857725,-17.968604162352925,FALSE
+Name can n't remember that the people talk to *T* .,-17.973738814961052,-215.68486577953263,bad,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram9,-18.576140372502376,-17.973738814961052,FALSE
+Name can n't remember who the people talk to *T* .,-18.576140372502376,-222.9136844700285,good,wh_vs_that_with_gap,736,syntax,filler_gap_dependency,bigram9,-18.576140372502376,-17.973738814961052,FALSE
+Name did n't learn who this book did n't sound like *T* .,-18.480970249299595,-258.73358349019435,good,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram1,-18.480970249299595,-18.36775864210523,FALSE
+Name did n't learn that this book did n't sound like *T* .,-18.36775864210523,-257.1486209894732,bad,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram1,-18.480970249299595,-18.36775864210523,FALSE
+Name did n't learn who this book did n't sound like *T* .,-18.545310414980538,-259.6343458097275,good,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram10,-18.545310414980538,-18.51566487931776,FALSE
+Name did n't learn that this book did n't sound like *T* .,-18.51566487931776,-259.21930831044864,bad,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram10,-18.545310414980538,-18.51566487931776,FALSE
+Name did n't learn who this book did n't sound like *T* .,-18.4914004172322,-258.8796058412508,good,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram2,-18.4914004172322,-18.26497720284346,FALSE
+Name did n't learn that this book did n't sound like *T* .,-18.26497720284346,-255.70968083980847,bad,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram2,-18.4914004172322,-18.26497720284346,FALSE
+Name did n't learn who this book did n't sound like *T* .,-18.39951874761056,-257.5932624665478,good,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram3,-18.39951874761056,-18.369873211947784,FALSE
+Name did n't learn that this book did n't sound like *T* .,-18.369873211947784,-257.178224967269,bad,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram3,-18.39951874761056,-18.369873211947784,FALSE
+Name did n't learn who this book did n't sound like *T* .,-18.500502286270123,-259.00703200778173,good,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram4,-18.500502286270123,-18.429073714841557,FALSE
+Name did n't learn that this book did n't sound like *T* .,-18.429073714841557,-258.00703200778173,bad,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram4,-18.500502286270123,-18.429073714841557,FALSE
+Name did n't learn who this book did n't sound like *T* .,-18.641349031810527,-260.97888644534737,good,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram5,-18.641349031810527,-18.498491888953385,FALSE
+Name did n't learn that this book did n't sound like *T* .,-18.498491888953385,-258.97888644534737,bad,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram5,-18.641349031810527,-18.498491888953385,FALSE
+Name did n't learn who this book did n't sound like *T* .,-18.55390999017805,-259.75473986249267,good,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram6,-18.55390999017805,-18.44069838298368,FALSE
+Name did n't learn that this book did n't sound like *T* .,-18.44069838298368,-258.1697773617715,bad,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram6,-18.55390999017805,-18.44069838298368,FALSE
+Name did n't learn who this book did n't sound like *T* .,-18.40669866537042,-257.6937813151859,good,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram7,-18.40669866537042,-18.448481701136217,TRUE
+Name did n't learn that this book did n't sound like *T* .,-18.448481701136217,-258.27874381590703,bad,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram7,-18.40669866537042,-18.448481701136217,TRUE
+Name did n't learn who this book did n't sound like *T* .,-18.51338418745617,-259.18737862438644,good,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram8,-18.51338418745617,-18.4837386517934,FALSE
+Name did n't learn that this book did n't sound like *T* .,-18.4837386517934,-258.7723411251076,bad,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram8,-18.51338418745617,-18.4837386517934,FALSE
+Name did n't learn who this book did n't sound like *T* .,-18.489819633636824,-258.85747487091555,good,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram9,-18.489819633636824,-18.37660802644245,FALSE
+Name did n't learn that this book did n't sound like *T* .,-18.37660802644245,-257.27251237019436,bad,wh_vs_that_with_gap,930,syntax,filler_gap_dependency,bigram9,-18.489819633636824,-18.37660802644245,FALSE
+Name had n't found out that a woman walks through *T* .,-19.780793276443827,-257.15031259376974,bad,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram1,-19.805556976050543,-19.780793276443827,FALSE
+Name had n't found out what a woman walks through *T* .,-19.805556976050543,-257.4722406886571,good,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram1,-19.805556976050543,-19.780793276443827,FALSE
+Name had n't found out that a woman walks through *T* .,-19.849562402734502,-258.04431123554855,bad,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram10,-19.85844526561296,-19.849562402734502,FALSE
+Name had n't found out what a woman walks through *T* .,-19.85844526561296,-258.1597884529685,good,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram10,-19.85844526561296,-19.849562402734502,FALSE
+Name had n't found out that a woman walks through *T* .,-19.82604010703272,-257.7385213914253,bad,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram2,-19.83598495449002,-19.82604010703272,FALSE
+Name had n't found out what a woman walks through *T* .,-19.83598495449002,-257.86780440837026,good,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram2,-19.83598495449002,-19.82604010703272,FALSE
+Name had n't found out that a woman walks through *T* .,-19.79493471179197,-257.33415125329566,bad,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram3,-19.774701295958604,-19.79493471179197,TRUE
+Name had n't found out what a woman walks through *T* .,-19.774701295958604,-257.07111684746184,good,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram3,-19.774701295958604,-19.79493471179197,TRUE
+Name had n't found out that a woman walks through *T* .,-19.857937690233964,-258.15318997304155,bad,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram4,-19.877840326264742,-19.857937690233964,FALSE
+Name had n't found out what a woman walks through *T* .,-19.877840326264742,-258.4119242414417,good,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram4,-19.877840326264742,-19.857937690233964,FALSE
+Name had n't found out that a woman walks through *T* .,-19.838183216946376,-257.8963818203029,bad,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram5,-19.85207338968805,-19.838183216946376,FALSE
+Name had n't found out what a woman walks through *T* .,-19.85207338968805,-258.0769540659447,good,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram5,-19.85207338968805,-19.838183216946376,FALSE
+Name had n't found out that a woman walks through *T* .,-19.888063521177667,-258.5448257753097,bad,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram6,-19.89864071531228,-19.888063521177667,FALSE
+Name had n't found out what a woman walks through *T* .,-19.89864071531228,-258.6823292990596,good,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram6,-19.89864071531228,-19.888063521177667,FALSE
+Name had n't found out that a woman walks through *T* .,-19.820189212655613,-257.66245976452296,bad,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram7,-19.756532843117515,-19.820189212655613,TRUE
+Name had n't found out what a woman walks through *T* .,-19.756532843117515,-256.8349269605277,good,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram7,-19.756532843117515,-19.820189212655613,TRUE
+Name had n't found out that a woman walks through *T* .,-19.809713319287667,-257.52627315073966,bad,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram8,-19.842133609167533,-19.809713319287667,FALSE
+Name had n't found out what a woman walks through *T* .,-19.842133609167533,-257.94773691917794,good,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram8,-19.842133609167533,-19.809713319287667,FALSE
+Name had n't found out that a woman walks through *T* .,-19.827624679894573,-257.7591208386294,bad,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram9,-19.83255778277301,-19.827624679894573,FALSE
+Name had n't found out what a woman walks through *T* .,-19.83255778277301,-257.82325117604915,good,wh_vs_that_with_gap,992,syntax,filler_gap_dependency,bigram9,-19.83255778277301,-19.827624679894573,FALSE
+Name discovers what every teacher drives to *T* .,-19.344417296867856,-193.44417296867857,good,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram1,-19.344417296867856,-19.344417296867856,FALSE
+Name discovers that every teacher drives to *T* .,-19.344417296867856,-193.44417296867857,bad,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram1,-19.344417296867856,-19.344417296867856,FALSE
+Name discovers what every teacher drives to *T* .,-19.56048383685536,-195.60483836855357,good,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram10,-19.56048383685536,-19.56048383685536,FALSE
+Name discovers that every teacher drives to *T* .,-19.56048383685536,-195.60483836855357,bad,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram10,-19.56048383685536,-19.56048383685536,FALSE
+Name discovers what every teacher drives to *T* .,-19.42759858575294,-194.2759858575294,good,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram2,-19.42759858575294,-19.42759858575294,FALSE
+Name discovers that every teacher drives to *T* .,-19.42759858575294,-194.2759858575294,bad,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram2,-19.42759858575294,-19.42759858575294,FALSE
+Name discovers what every teacher drives to *T* .,-19.373609413438288,-193.73609413438288,good,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram3,-19.373609413438288,-19.373609413438288,FALSE
+Name discovers that every teacher drives to *T* .,-19.373609413438288,-193.73609413438288,bad,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram3,-19.373609413438288,-19.373609413438288,FALSE
+Name discovers what every teacher drives to *T* .,-19.468395551988305,-194.68395551988306,good,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram4,-19.468395551988305,-19.468395551988305,FALSE
+Name discovers that every teacher drives to *T* .,-19.468395551988305,-194.68395551988306,bad,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram4,-19.468395551988305,-19.468395551988305,FALSE
+Name discovers what every teacher drives to *T* .,-19.35468289843123,-193.5468289843123,good,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram5,-19.35468289843123,-19.35468289843123,FALSE
+Name discovers that every teacher drives to *T* .,-19.35468289843123,-193.5468289843123,bad,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram5,-19.35468289843123,-19.35468289843123,FALSE
+Name discovers what every teacher drives to *T* .,-19.39075668102789,-193.90756681027892,good,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram6,-19.39075668102789,-19.39075668102789,FALSE
+Name discovers that every teacher drives to *T* .,-19.39075668102789,-193.90756681027892,bad,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram6,-19.39075668102789,-19.39075668102789,FALSE
+Name discovers what every teacher drives to *T* .,-19.4426066172907,-194.426066172907,good,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram7,-19.4426066172907,-19.4426066172907,FALSE
+Name discovers that every teacher drives to *T* .,-19.4426066172907,-194.426066172907,bad,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram7,-19.4426066172907,-19.4426066172907,FALSE
+Name discovers what every teacher drives to *T* .,-19.37447847558314,-193.74478475583138,good,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram8,-19.37447847558314,-19.37447847558314,FALSE
+Name discovers that every teacher drives to *T* .,-19.37447847558314,-193.74478475583138,bad,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram8,-19.37447847558314,-19.37447847558314,FALSE
+Name discovers what every teacher drives to *T* .,-19.472667055854195,-194.72667055854194,good,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram9,-19.472667055854195,-19.472667055854195,FALSE
+Name discovers that every teacher drives to *T* .,-19.472667055854195,-194.72667055854194,bad,wh_vs_that_with_gap,995,syntax,filler_gap_dependency,bigram9,-19.472667055854195,-19.472667055854195,FALSE

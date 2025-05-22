@@ -1,0 +1,341 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+some chair was broken by the dishes .,-20.52604100760869,-184.7343690684782,bad,animate_subject_passive,148,syntax,s-selection,bigram1,-20.52604100760869,-20.52604100760869,FALSE
+some chair was broken by the child .,-20.52604100760869,-184.7343690684782,good,animate_subject_passive,148,syntax,s-selection,bigram1,-20.52604100760869,-20.52604100760869,FALSE
+some chair was broken by the dishes .,-20.494055032618057,-184.44649529356252,bad,animate_subject_passive,148,syntax,s-selection,bigram10,-20.382943921506943,-20.494055032618057,TRUE
+some chair was broken by the child .,-20.382943921506943,-183.44649529356252,good,animate_subject_passive,148,syntax,s-selection,bigram10,-20.382943921506943,-20.494055032618057,TRUE
+some chair was broken by the dishes .,-20.47074661027008,-184.23671949243072,bad,animate_subject_passive,148,syntax,s-selection,bigram2,-20.35963549915897,-20.47074661027008,TRUE
+some chair was broken by the child .,-20.35963549915897,-183.23671949243072,good,animate_subject_passive,148,syntax,s-selection,bigram2,-20.35963549915897,-20.47074661027008,TRUE
+some chair was broken by the dishes .,-20.481449695735115,-184.33304726161603,bad,animate_subject_passive,148,syntax,s-selection,bigram3,-20.481449695735115,-20.481449695735115,FALSE
+some chair was broken by the child .,-20.481449695735115,-184.33304726161603,good,animate_subject_passive,148,syntax,s-selection,bigram3,-20.481449695735115,-20.481449695735115,FALSE
+some chair was broken by the dishes .,-20.5941103063611,-185.3469927572499,bad,animate_subject_passive,148,syntax,s-selection,bigram4,-20.482999195249988,-20.5941103063611,TRUE
+some chair was broken by the child .,-20.482999195249988,-184.3469927572499,good,animate_subject_passive,148,syntax,s-selection,bigram4,-20.482999195249988,-20.5941103063611,TRUE
+some chair was broken by the dishes .,-20.61094777612472,-185.49852998512247,bad,animate_subject_passive,148,syntax,s-selection,bigram5,-20.499836665013607,-20.61094777612472,TRUE
+some chair was broken by the child .,-20.499836665013607,-184.49852998512247,good,animate_subject_passive,148,syntax,s-selection,bigram5,-20.499836665013607,-20.61094777612472,TRUE
+some chair was broken by the dishes .,-20.45189212912978,-184.06702916216804,bad,animate_subject_passive,148,syntax,s-selection,bigram6,-20.45189212912978,-20.45189212912978,FALSE
+some chair was broken by the child .,-20.45189212912978,-184.06702916216804,good,animate_subject_passive,148,syntax,s-selection,bigram6,-20.45189212912978,-20.45189212912978,FALSE
+some chair was broken by the dishes .,-20.608932336119544,-185.4803910250759,bad,animate_subject_passive,148,syntax,s-selection,bigram7,-20.497821225008437,-20.608932336119544,TRUE
+some chair was broken by the child .,-20.497821225008437,-184.4803910250759,good,animate_subject_passive,148,syntax,s-selection,bigram7,-20.497821225008437,-20.608932336119544,TRUE
+some chair was broken by the dishes .,-20.60308268762877,-185.42774418865895,bad,animate_subject_passive,148,syntax,s-selection,bigram8,-20.60308268762877,-20.60308268762877,FALSE
+some chair was broken by the child .,-20.60308268762877,-185.42774418865895,good,animate_subject_passive,148,syntax,s-selection,bigram8,-20.60308268762877,-20.60308268762877,FALSE
+some chair was broken by the dishes .,-20.662134356088863,-185.95920920479978,bad,animate_subject_passive,148,syntax,s-selection,bigram9,-20.662134356088863,-20.662134356088863,FALSE
+some chair was broken by the child .,-20.662134356088863,-185.95920920479978,good,animate_subject_passive,148,syntax,s-selection,bigram9,-20.662134356088863,-20.662134356088863,FALSE
+Name was n't sounded like by some boy .,-19.198918725507248,-191.98918725507247,good,animate_subject_passive,162,syntax,s-selection,bigram1,-19.198918725507248,-19.64486188737098,TRUE
+Name was n't sounded like by some dish .,-19.64486188737098,-196.4486188737098,bad,animate_subject_passive,162,syntax,s-selection,bigram1,-19.198918725507248,-19.64486188737098,TRUE
+Name was n't sounded like by some boy .,-19.176463915272212,-191.76463915272217,good,animate_subject_passive,162,syntax,s-selection,bigram10,-19.176463915272212,-19.64650788708633,TRUE
+Name was n't sounded like by some dish .,-19.64650788708633,-196.46507887086327,bad,animate_subject_passive,162,syntax,s-selection,bigram10,-19.176463915272212,-19.64650788708633,TRUE
+Name was n't sounded like by some boy .,-19.05654924747244,-190.56549247472435,good,animate_subject_passive,162,syntax,s-selection,bigram2,-19.05654924747244,-19.437284739678194,TRUE
+Name was n't sounded like by some dish .,-19.437284739678194,-194.37284739678194,bad,animate_subject_passive,162,syntax,s-selection,bigram2,-19.05654924747244,-19.437284739678194,TRUE
+Name was n't sounded like by some boy .,-19.130313472710675,-191.30313472710677,good,animate_subject_passive,162,syntax,s-selection,bigram3,-19.130313472710675,-19.53475288464652,TRUE
+Name was n't sounded like by some dish .,-19.53475288464652,-195.34752884646522,bad,animate_subject_passive,162,syntax,s-selection,bigram3,-19.130313472710675,-19.53475288464652,TRUE
+Name was n't sounded like by some boy .,-19.07915644939697,-190.79156449396967,good,animate_subject_passive,162,syntax,s-selection,bigram4,-19.07915644939697,-19.48359586133281,TRUE
+Name was n't sounded like by some dish .,-19.48359586133281,-194.83595861332813,bad,animate_subject_passive,162,syntax,s-selection,bigram4,-19.07915644939697,-19.48359586133281,TRUE
+Name was n't sounded like by some boy .,-19.07359850761748,-190.73598507617479,good,animate_subject_passive,162,syntax,s-selection,bigram5,-19.07359850761748,-19.525954703223174,TRUE
+Name was n't sounded like by some dish .,-19.525954703223174,-195.25954703223178,bad,animate_subject_passive,162,syntax,s-selection,bigram5,-19.07359850761748,-19.525954703223174,TRUE
+Name was n't sounded like by some boy .,-19.1524878088698,-191.524878088698,good,animate_subject_passive,162,syntax,s-selection,bigram6,-19.1524878088698,-19.5524878088698,TRUE
+Name was n't sounded like by some dish .,-19.5524878088698,-195.524878088698,bad,animate_subject_passive,162,syntax,s-selection,bigram6,-19.1524878088698,-19.5524878088698,TRUE
+Name was n't sounded like by some boy .,-19.215465576334747,-192.15465576334748,good,animate_subject_passive,162,syntax,s-selection,bigram7,-19.215465576334747,-19.724211860459786,TRUE
+Name was n't sounded like by some dish .,-19.724211860459786,-197.24211860459783,bad,animate_subject_passive,162,syntax,s-selection,bigram7,-19.215465576334747,-19.724211860459786,TRUE
+Name was n't sounded like by some boy .,-19.11793750525316,-191.1793750525316,good,animate_subject_passive,162,syntax,s-selection,bigram8,-19.11793750525316,-19.493426255469508,TRUE
+Name was n't sounded like by some dish .,-19.493426255469508,-194.9342625546951,bad,animate_subject_passive,162,syntax,s-selection,bigram8,-19.11793750525316,-19.493426255469508,TRUE
+Name was n't sounded like by some boy .,-19.18292856250248,-191.82928562502482,good,animate_subject_passive,162,syntax,s-selection,bigram9,-19.18292856250248,-19.55297253431659,TRUE
+Name was n't sounded like by some dish .,-19.55297253431659,-195.52972534316592,bad,animate_subject_passive,162,syntax,s-selection,bigram9,-19.18292856250248,-19.55297253431659,TRUE
+Name is n't bought by some children .,-18.532500845266423,-166.79250760739785,good,animate_subject_passive,288,syntax,s-selection,bigram1,-18.532500845266423,-19.060821678840146,TRUE
+Name is n't bought by some mirrors .,-19.060821678840146,-171.5473951095613,bad,animate_subject_passive,288,syntax,s-selection,bigram1,-18.532500845266423,-19.060821678840146,TRUE
+Name is n't bought by some children .,-18.63902577506656,-167.751231975599,good,animate_subject_passive,288,syntax,s-selection,bigram10,-18.63902577506656,-19.10235077522681,TRUE
+Name is n't bought by some mirrors .,-19.10235077522681,-171.92115697704133,bad,animate_subject_passive,288,syntax,s-selection,bigram10,-18.63902577506656,-19.10235077522681,TRUE
+Name is n't bought by some children .,-18.556118857366343,-167.0050697162971,good,animate_subject_passive,288,syntax,s-selection,bigram2,-18.556118857366343,-19.019443857526603,TRUE
+Name is n't bought by some mirrors .,-19.019443857526603,-171.17499471773942,bad,animate_subject_passive,288,syntax,s-selection,bigram2,-18.556118857366343,-19.019443857526603,TRUE
+Name is n't bought by some children .,-18.76921714617823,-168.92295431560407,good,animate_subject_passive,288,syntax,s-selection,bigram3,-18.76921714617823,-19.056435201813915,TRUE
+Name is n't bought by some mirrors .,-19.056435201813915,-171.50791681632523,bad,animate_subject_passive,288,syntax,s-selection,bigram3,-18.76921714617823,-19.056435201813915,TRUE
+Name is n't bought by some children .,-18.69242636839587,-168.23183731556284,good,animate_subject_passive,288,syntax,s-selection,bigram4,-18.69242636839587,-19.090755535142662,TRUE
+Name is n't bought by some mirrors .,-19.090755535142662,-171.816799816284,bad,animate_subject_passive,288,syntax,s-selection,bigram4,-18.69242636839587,-19.090755535142662,TRUE
+Name is n't bought by some children .,-18.58945672279972,-167.30511050519746,good,animate_subject_passive,288,syntax,s-selection,bigram5,-18.58945672279972,-19.05278172295997,TRUE
+Name is n't bought by some mirrors .,-19.05278172295997,-171.47503550663973,bad,animate_subject_passive,288,syntax,s-selection,bigram5,-18.58945672279972,-19.05278172295997,TRUE
+Name is n't bought by some children .,-18.634347704277086,-167.70912933849377,good,animate_subject_passive,288,syntax,s-selection,bigram6,-18.634347704277086,-19.057387140061262,TRUE
+Name is n't bought by some mirrors .,-19.057387140061262,-171.51648426055138,bad,animate_subject_passive,288,syntax,s-selection,bigram6,-18.634347704277086,-19.057387140061262,TRUE
+Name is n't bought by some children .,-18.811257147251563,-169.30131432526406,good,animate_subject_passive,288,syntax,s-selection,bigram7,-18.811257147251563,-19.144590480584892,TRUE
+Name is n't bought by some mirrors .,-19.144590480584892,-172.30131432526406,bad,animate_subject_passive,288,syntax,s-selection,bigram7,-18.811257147251563,-19.144590480584892,TRUE
+Name is n't bought by some children .,-18.651834273309245,-167.8665084597832,good,animate_subject_passive,288,syntax,s-selection,bigram8,-18.651834273309245,-19.074873709093424,TRUE
+Name is n't bought by some mirrors .,-19.074873709093424,-171.67386338184082,bad,animate_subject_passive,288,syntax,s-selection,bigram8,-18.651834273309245,-19.074873709093424,TRUE
+Name is n't bought by some children .,-18.61230835307089,-167.510775177638,good,animate_subject_passive,288,syntax,s-selection,bigram9,-18.61230835307089,-19.10034362226853,TRUE
+Name is n't bought by some mirrors .,-19.10034362226853,-171.90309260041678,bad,animate_subject_passive,288,syntax,s-selection,bigram9,-18.61230835307089,-19.10034362226853,TRUE
+Name was n't watched by some cars .,-19.343160054861364,-174.08844049375227,bad,animate_subject_passive,309,syntax,s-selection,bigram1,-19.142342841299403,-19.343160054861364,TRUE
+Name was n't watched by some people .,-19.142342841299403,-172.28108557169463,good,animate_subject_passive,309,syntax,s-selection,bigram1,-19.142342841299403,-19.343160054861364,TRUE
+Name was n't watched by some cars .,-19.335632516732478,-174.02069265059225,bad,animate_subject_passive,309,syntax,s-selection,bigram10,-19.11924000783182,-19.335632516732478,TRUE
+Name was n't watched by some people .,-19.11924000783182,-172.07316007048638,good,animate_subject_passive,309,syntax,s-selection,bigram10,-19.11924000783182,-19.335632516732478,TRUE
+Name was n't watched by some cars .,-19.217696225187108,-172.95926602668396,bad,animate_subject_passive,309,syntax,s-selection,bigram2,-18.974068994304616,-19.217696225187108,TRUE
+Name was n't watched by some people .,-18.974068994304616,-170.76662094874155,good,animate_subject_passive,309,syntax,s-selection,bigram2,-18.974068994304616,-19.217696225187108,TRUE
+Name was n't watched by some cars .,-19.33128159346732,-173.98153434120584,bad,animate_subject_passive,309,syntax,s-selection,bigram3,-19.008293749510813,-19.33128159346732,TRUE
+Name was n't watched by some people .,-19.008293749510813,-171.0746437455973,good,animate_subject_passive,309,syntax,s-selection,bigram3,-19.008293749510813,-19.33128159346732,TRUE
+Name was n't watched by some cars .,-19.28173534041555,-173.53561806373995,bad,animate_subject_passive,309,syntax,s-selection,bigram4,-18.93734248779878,-19.28173534041555,TRUE
+Name was n't watched by some people .,-18.93734248779878,-170.43608239018903,good,animate_subject_passive,309,syntax,s-selection,bigram4,-18.93734248779878,-19.28173534041555,TRUE
+Name was n't watched by some cars .,-19.25654029333984,-173.30886264005855,bad,animate_subject_passive,309,syntax,s-selection,bigram5,-18.93355244938334,-19.25654029333984,TRUE
+Name was n't watched by some people .,-18.93355244938334,-170.40197204445005,good,animate_subject_passive,309,syntax,s-selection,bigram5,-18.93355244938334,-19.25654029333984,TRUE
+Name was n't watched by some cars .,-19.2876833444304,-173.58915009987362,bad,animate_subject_passive,309,syntax,s-selection,bigram6,-18.989405769511286,-19.2876833444304,TRUE
+Name was n't watched by some people .,-18.989405769511286,-170.90465192560157,good,animate_subject_passive,309,syntax,s-selection,bigram6,-18.989405769511286,-19.2876833444304,TRUE
+Name was n't watched by some cars .,-19.387660147604425,-174.48894132843984,bad,animate_subject_passive,309,syntax,s-selection,bigram7,-19.10044209196874,-19.387660147604425,TRUE
+Name was n't watched by some people .,-19.10044209196874,-171.90397882771867,good,animate_subject_passive,309,syntax,s-selection,bigram7,-19.10044209196874,-19.387660147604425,TRUE
+Name was n't watched by some cars .,-19.26986120933381,-173.4287508840043,bad,animate_subject_passive,309,syntax,s-selection,bigram8,-19.01186919879077,-19.26986120933381,TRUE
+Name was n't watched by some people .,-19.01186919879077,-171.10682278911693,good,animate_subject_passive,309,syntax,s-selection,bigram8,-19.01186919879077,-19.26986120933381,TRUE
+Name was n't watched by some cars .,-19.34799014343474,-174.13191129091265,bad,animate_subject_passive,309,syntax,s-selection,bigram9,-19.193288207570436,-19.34799014343474,TRUE
+Name was n't watched by some people .,-19.193288207570436,-172.73959386813388,good,animate_subject_passive,309,syntax,s-selection,bigram9,-19.193288207570436,-19.34799014343474,TRUE
+some lady is n't seen by the picture .,-19.37137256644948,-193.7137256644948,bad,animate_subject_passive,461,syntax,s-selection,bigram1,-19.057622214074485,-19.37137256644948,TRUE
+some lady is n't seen by the boy .,-19.057622214074485,-190.57622214074485,good,animate_subject_passive,461,syntax,s-selection,bigram1,-19.057622214074485,-19.37137256644948,TRUE
+some lady is n't seen by the picture .,-19.37172043775301,-193.7172043775301,bad,animate_subject_passive,461,syntax,s-selection,bigram10,-19.166062084916373,-19.37172043775301,TRUE
+some lady is n't seen by the boy .,-19.166062084916373,-191.66062084916373,good,animate_subject_passive,461,syntax,s-selection,bigram10,-19.166062084916373,-19.37172043775301,TRUE
+some lady is n't seen by the picture .,-19.28656660169712,-192.8656660169712,bad,animate_subject_passive,461,syntax,s-selection,bigram2,-18.96432735956348,-19.28656660169712,TRUE
+some lady is n't seen by the boy .,-18.96432735956348,-189.6432735956348,good,animate_subject_passive,461,syntax,s-selection,bigram2,-18.96432735956348,-19.28656660169712,TRUE
+some lady is n't seen by the picture .,-19.55092172079954,-195.5092172079954,bad,animate_subject_passive,461,syntax,s-selection,bigram3,-19.165746816657933,-19.55092172079954,TRUE
+some lady is n't seen by the boy .,-19.165746816657933,-191.65746816657932,good,animate_subject_passive,461,syntax,s-selection,bigram3,-19.165746816657933,-19.55092172079954,TRUE
+some lady is n't seen by the picture .,-19.682570425379836,-196.82570425379834,bad,animate_subject_passive,461,syntax,s-selection,bigram4,-19.214388021382454,-19.682570425379836,TRUE
+some lady is n't seen by the boy .,-19.214388021382454,-192.1438802138246,good,animate_subject_passive,461,syntax,s-selection,bigram4,-19.214388021382454,-19.682570425379836,TRUE
+some lady is n't seen by the picture .,-19.57349688596296,-195.73496885962962,bad,animate_subject_passive,461,syntax,s-selection,bigram5,-19.36264444028515,-19.57349688596296,TRUE
+some lady is n't seen by the boy .,-19.36264444028515,-193.6264444028515,good,animate_subject_passive,461,syntax,s-selection,bigram5,-19.36264444028515,-19.57349688596296,TRUE
+some lady is n't seen by the picture .,-19.381788180808407,-193.81788180808408,bad,animate_subject_passive,461,syntax,s-selection,bigram6,-19.023291930736296,-19.381788180808407,TRUE
+some lady is n't seen by the boy .,-19.023291930736296,-190.23291930736295,good,animate_subject_passive,461,syntax,s-selection,bigram6,-19.023291930736296,-19.381788180808407,TRUE
+some lady is n't seen by the picture .,-19.609840871795228,-196.09840871795228,bad,animate_subject_passive,461,syntax,s-selection,bigram7,-19.101094587670197,-19.609840871795228,TRUE
+some lady is n't seen by the boy .,-19.101094587670197,-191.01094587670192,good,animate_subject_passive,461,syntax,s-selection,bigram7,-19.101094587670197,-19.609840871795228,TRUE
+some lady is n't seen by the picture .,-19.48240187846065,-194.8240187846065,bad,animate_subject_passive,461,syntax,s-selection,bigram8,-19.116866695599395,-19.48240187846065,TRUE
+some lady is n't seen by the boy .,-19.116866695599395,-191.16866695599396,good,animate_subject_passive,461,syntax,s-selection,bigram8,-19.116866695599395,-19.48240187846065,TRUE
+some lady is n't seen by the picture .,-19.645013266144453,-196.4501326614445,bad,animate_subject_passive,461,syntax,s-selection,bigram9,-19.252730052196696,-19.645013266144453,TRUE
+some lady is n't seen by the boy .,-19.252730052196696,-192.52730052196696,good,animate_subject_passive,461,syntax,s-selection,bigram9,-19.252730052196696,-19.645013266144453,TRUE
+every window is n't fixed by some men .,-20.75275068557118,-207.5275068557118,good,animate_subject_passive,495,syntax,s-selection,bigram1,-20.75275068557118,-20.52055787608244,FALSE
+every window is n't fixed by some car .,-20.52055787608244,-205.20557876082444,bad,animate_subject_passive,495,syntax,s-selection,bigram1,-20.75275068557118,-20.52055787608244,FALSE
+every window is n't fixed by some men .,-20.724370361666665,-207.24370361666666,good,animate_subject_passive,495,syntax,s-selection,bigram10,-20.724370361666665,-20.469938310044284,FALSE
+every window is n't fixed by some car .,-20.469938310044284,-204.69938310044284,bad,animate_subject_passive,495,syntax,s-selection,bigram10,-20.724370361666665,-20.469938310044284,FALSE
+every window is n't fixed by some men .,-20.85571914581373,-208.55719145813725,good,animate_subject_passive,495,syntax,s-selection,bigram2,-20.85571914581373,-20.430926394469367,FALSE
+every window is n't fixed by some car .,-20.430926394469367,-204.30926394469367,bad,animate_subject_passive,495,syntax,s-selection,bigram2,-20.85571914581373,-20.430926394469367,FALSE
+every window is n't fixed by some men .,-20.762400065524524,-207.62400065524525,good,animate_subject_passive,495,syntax,s-selection,bigram3,-20.762400065524524,-20.458837674551454,FALSE
+every window is n't fixed by some car .,-20.458837674551454,-204.58837674551452,bad,animate_subject_passive,495,syntax,s-selection,bigram3,-20.762400065524524,-20.458837674551454,FALSE
+every window is n't fixed by some men .,-20.797290917874054,-207.9729091787406,good,animate_subject_passive,495,syntax,s-selection,bigram4,-20.797290917874054,-20.49729091787406,FALSE
+every window is n't fixed by some car .,-20.49729091787406,-204.9729091787406,bad,animate_subject_passive,495,syntax,s-selection,bigram4,-20.797290917874054,-20.49729091787406,FALSE
+every window is n't fixed by some men .,-20.703090174598405,-207.03090174598404,good,animate_subject_passive,495,syntax,s-selection,bigram5,-20.703090174598405,-20.488406035765475,FALSE
+every window is n't fixed by some car .,-20.488406035765475,-204.88406035765476,bad,animate_subject_passive,495,syntax,s-selection,bigram5,-20.703090174598405,-20.488406035765475,FALSE
+every window is n't fixed by some men .,-20.68839709985419,-206.88397099854188,good,animate_subject_passive,495,syntax,s-selection,bigram6,-20.68839709985419,-20.425948013363406,FALSE
+every window is n't fixed by some car .,-20.425948013363406,-204.25948013363407,bad,animate_subject_passive,495,syntax,s-selection,bigram6,-20.68839709985419,-20.425948013363406,FALSE
+every window is n't fixed by some men .,-20.787976843147693,-207.87976843147692,good,animate_subject_passive,495,syntax,s-selection,bigram7,-20.787976843147693,-20.52475002159774,FALSE
+every window is n't fixed by some car .,-20.52475002159774,-205.2475002159774,bad,animate_subject_passive,495,syntax,s-selection,bigram7,-20.787976843147693,-20.52475002159774,FALSE
+every window is n't fixed by some men .,-20.74451548978812,-207.44515489788117,good,animate_subject_passive,495,syntax,s-selection,bigram8,-20.74451548978812,-20.498572327924386,FALSE
+every window is n't fixed by some car .,-20.498572327924386,-204.98572327924387,bad,animate_subject_passive,495,syntax,s-selection,bigram8,-20.74451548978812,-20.498572327924386,FALSE
+every window is n't fixed by some men .,-20.790545988174905,-207.90545988174907,good,animate_subject_passive,495,syntax,s-selection,bigram9,-20.790545988174905,-20.52273879766364,FALSE
+every window is n't fixed by some car .,-20.52273879766364,-205.22738797663644,bad,animate_subject_passive,495,syntax,s-selection,bigram9,-20.790545988174905,-20.52273879766364,FALSE
+this bicycle is fixed by the man .,-19.34634280896657,-174.11708528069914,good,animate_subject_passive,522,syntax,s-selection,bigram1,-19.34634280896657,-20.32987048023502,TRUE
+this bicycle is fixed by the bananas .,-20.32987048023502,-182.96883432211519,bad,animate_subject_passive,522,syntax,s-selection,bigram1,-19.34634280896657,-20.32987048023502,TRUE
+this bicycle is fixed by the man .,-19.35080208942863,-174.15721880485768,good,animate_subject_passive,522,syntax,s-selection,bigram10,-19.35080208942863,-20.28751903961369,TRUE
+this bicycle is fixed by the bananas .,-20.28751903961369,-182.58767135652323,bad,animate_subject_passive,522,syntax,s-selection,bigram10,-19.35080208942863,-20.28751903961369,TRUE
+this bicycle is fixed by the man .,-19.333525670521624,-174.00173103469461,good,animate_subject_passive,522,syntax,s-selection,bigram2,-19.333525670521624,-20.26884261662006,TRUE
+this bicycle is fixed by the bananas .,-20.26884261662006,-182.41958354958052,bad,animate_subject_passive,522,syntax,s-selection,bigram2,-19.333525670521624,-20.26884261662006,TRUE
+this bicycle is fixed by the man .,-19.45976031685837,-175.13784285172537,good,animate_subject_passive,522,syntax,s-selection,bigram3,-19.45976031685837,-20.315364729985163,TRUE
+this bicycle is fixed by the bananas .,-20.315364729985163,-182.83828256986646,bad,animate_subject_passive,522,syntax,s-selection,bigram3,-19.45976031685837,-20.315364729985163,TRUE
+this bicycle is fixed by the man .,-19.48206268168659,-175.3385641351793,good,animate_subject_passive,522,syntax,s-selection,bigram4,-19.48206268168659,-20.339201072538383,TRUE
+this bicycle is fixed by the bananas .,-20.339201072538383,-183.05280965284544,bad,animate_subject_passive,522,syntax,s-selection,bigram4,-19.48206268168659,-20.339201072538383,TRUE
+this bicycle is fixed by the man .,-19.53240897917194,-175.79168081254747,good,animate_subject_passive,522,syntax,s-selection,bigram5,-19.53240897917194,-20.474606786286284,TRUE
+this bicycle is fixed by the bananas .,-20.474606786286284,-184.27146107657654,bad,animate_subject_passive,522,syntax,s-selection,bigram5,-19.53240897917194,-20.474606786286284,TRUE
+this bicycle is fixed by the man .,-19.46852507596933,-175.21672568372398,good,animate_subject_passive,522,syntax,s-selection,bigram6,-19.46852507596933,-20.376850151802746,TRUE
+this bicycle is fixed by the bananas .,-20.376850151802746,-183.3916513662247,bad,animate_subject_passive,522,syntax,s-selection,bigram6,-19.46852507596933,-20.376850151802746,TRUE
+this bicycle is fixed by the man .,-19.534769402235398,-175.81292462011854,good,animate_subject_passive,522,syntax,s-selection,bigram7,-19.534769402235398,-20.391142639133268,TRUE
+this bicycle is fixed by the bananas .,-20.391142639133268,-183.52028375219942,bad,animate_subject_passive,522,syntax,s-selection,bigram7,-19.534769402235398,-20.391142639133268,TRUE
+this bicycle is fixed by the man .,-19.48758920691906,-175.38830286227156,good,animate_subject_passive,522,syntax,s-selection,bigram8,-19.48758920691906,-20.352911713518107,TRUE
+this bicycle is fixed by the bananas .,-20.352911713518107,-183.17620542166296,bad,animate_subject_passive,522,syntax,s-selection,bigram8,-19.48758920691906,-20.352911713518107,TRUE
+this bicycle is fixed by the man .,-19.58693759917248,-176.2824383925523,good,animate_subject_passive,522,syntax,s-selection,bigram9,-19.58693759917248,-20.5033739895551,TRUE
+this bicycle is fixed by the bananas .,-20.5033739895551,-184.5303659059959,bad,animate_subject_passive,522,syntax,s-selection,bigram9,-19.58693759917248,-20.5033739895551,TRUE
+Name was hugged by some children .,-19.17071150430125,-153.36569203441002,good,animate_subject_passive,579,syntax,s-selection,bigram1,-19.17071150430125,-19.441952129481542,TRUE
+Name was hugged by some mirror .,-19.441952129481542,-155.53561703585234,bad,animate_subject_passive,579,syntax,s-selection,bigram1,-19.17071150430125,-19.441952129481542,TRUE
+Name was hugged by some children .,-19.26982434959301,-154.15859479674407,good,animate_subject_passive,579,syntax,s-selection,bigram10,-19.26982434959301,-19.5410649747733,TRUE
+Name was hugged by some mirror .,-19.5410649747733,-156.3285197981864,bad,animate_subject_passive,579,syntax,s-selection,bigram10,-19.26982434959301,-19.5410649747733,TRUE
+Name was hugged by some children .,-19.10480830072673,-152.83846640581385,good,animate_subject_passive,579,syntax,s-selection,bigram2,-19.10480830072673,-19.37604892590701,TRUE
+Name was hugged by some mirror .,-19.37604892590701,-155.0083914072561,bad,animate_subject_passive,579,syntax,s-selection,bigram2,-19.10480830072673,-19.37604892590701,TRUE
+Name was hugged by some children .,-19.444267411410287,-155.5541392912823,good,animate_subject_passive,579,syntax,s-selection,bigram3,-19.444267411410287,-19.642387724000432,TRUE
+Name was hugged by some mirror .,-19.642387724000432,-157.13910179200346,bad,animate_subject_passive,579,syntax,s-selection,bigram3,-19.444267411410287,-19.642387724000432,TRUE
+Name was hugged by some children .,-19.298819467453708,-154.39055573962966,good,animate_subject_passive,579,syntax,s-selection,bigram4,-19.298819467453708,-19.45669876818293,TRUE
+Name was hugged by some mirror .,-19.45669876818293,-155.65359014546345,bad,animate_subject_passive,579,syntax,s-selection,bigram4,-19.298819467453708,-19.45669876818293,TRUE
+Name was hugged by some children .,-19.19101290616595,-153.5281032493276,good,animate_subject_passive,579,syntax,s-selection,bigram5,-19.19101290616595,-19.46225353134624,TRUE
+Name was hugged by some mirror .,-19.46225353134624,-155.6980282507699,bad,animate_subject_passive,579,syntax,s-selection,bigram5,-19.19101290616595,-19.46225353134624,TRUE
+Name was hugged by some children .,-19.27979807647131,-154.23838461177047,good,animate_subject_passive,579,syntax,s-selection,bigram6,-19.27979807647131,-19.46547642986759,TRUE
+Name was hugged by some mirror .,-19.46547642986759,-155.72381143894071,bad,animate_subject_passive,579,syntax,s-selection,bigram6,-19.27979807647131,-19.46547642986759,TRUE
+Name was hugged by some children .,-19.40853239163861,-155.26825913310887,good,animate_subject_passive,579,syntax,s-selection,bigram7,-19.40853239163861,-19.460412079048464,TRUE
+Name was hugged by some mirror .,-19.460412079048464,-155.6832966323877,bad,animate_subject_passive,579,syntax,s-selection,bigram7,-19.40853239163861,-19.460412079048464,TRUE
+Name was hugged by some children .,-19.238047523257773,-153.90438018606218,good,animate_subject_passive,579,syntax,s-selection,bigram8,-19.238047523257773,-19.423725876654053,TRUE
+Name was hugged by some mirror .,-19.423725876654053,-155.38980701323243,bad,animate_subject_passive,579,syntax,s-selection,bigram8,-19.238047523257773,-19.423725876654053,TRUE
+Name was hugged by some children .,-19.21960216439493,-153.75681731515945,good,animate_subject_passive,579,syntax,s-selection,bigram9,-19.21960216439493,-19.445521529652133,TRUE
+Name was hugged by some mirror .,-19.445521529652133,-155.56417223721706,bad,animate_subject_passive,579,syntax,s-selection,bigram9,-19.21960216439493,-19.445521529652133,TRUE
+these cars were n't thought about by the boys .,-20.206620744116808,-222.27282818528488,good,animate_subject_passive,708,syntax,s-selection,bigram1,-20.206620744116808,-19.793709043688093,FALSE
+these cars were n't thought about by the door .,-19.793709043688093,-217.73079948056903,bad,animate_subject_passive,708,syntax,s-selection,bigram1,-20.206620744116808,-19.793709043688093,FALSE
+these cars were n't thought about by the boys .,-20.197294684734093,-222.17024153207504,good,animate_subject_passive,708,syntax,s-selection,bigram10,-20.197294684734093,-19.74034266551944,FALSE
+these cars were n't thought about by the door .,-19.74034266551944,-217.14376932071386,bad,animate_subject_passive,708,syntax,s-selection,bigram10,-20.197294684734093,-19.74034266551944,FALSE
+these cars were n't thought about by the boys .,-20.35187601426816,-223.8706361569498,good,animate_subject_passive,708,syntax,s-selection,bigram2,-20.35187601426816,-19.862841617261687,FALSE
+these cars were n't thought about by the door .,-19.862841617261687,-218.49125778987855,bad,animate_subject_passive,708,syntax,s-selection,bigram2,-20.35187601426816,-19.862841617261687,FALSE
+these cars were n't thought about by the boys .,-20.26452345878699,-222.9097580466569,good,animate_subject_passive,708,syntax,s-selection,bigram3,-20.26452345878699,-19.819697568233945,FALSE
+these cars were n't thought about by the door .,-19.819697568233945,-218.0166732505734,bad,animate_subject_passive,708,syntax,s-selection,bigram3,-20.26452345878699,-19.819697568233945,FALSE
+these cars were n't thought about by the boys .,-20.30853147767801,-223.39384625445805,good,animate_subject_passive,708,syntax,s-selection,bigram4,-20.30853147767801,-19.86994707445832,FALSE
+these cars were n't thought about by the door .,-19.86994707445832,-218.5694178190415,bad,animate_subject_passive,708,syntax,s-selection,bigram4,-20.30853147767801,-19.86994707445832,FALSE
+these cars were n't thought about by the boys .,-20.44382276950968,-224.88205046460644,good,animate_subject_passive,708,syntax,s-selection,bigram5,-20.44382276950968,-19.966410154328223,FALSE
+these cars were n't thought about by the door .,-19.966410154328223,-219.63051169761047,bad,animate_subject_passive,708,syntax,s-selection,bigram5,-20.44382276950968,-19.966410154328223,FALSE
+these cars were n't thought about by the boys .,-20.307585292454533,-223.38343821699985,good,animate_subject_passive,708,syntax,s-selection,bigram6,-20.307585292454533,-19.88027259080534,FALSE
+these cars were n't thought about by the door .,-19.88027259080534,-218.68299849885875,bad,animate_subject_passive,708,syntax,s-selection,bigram6,-20.307585292454533,-19.88027259080534,FALSE
+these cars were n't thought about by the boys .,-20.50464654871068,-225.55111203581748,good,animate_subject_passive,708,syntax,s-selection,bigram7,-20.50464654871068,-19.97079033249692,FALSE
+these cars were n't thought about by the door .,-19.97079033249692,-219.6786936574661,bad,animate_subject_passive,708,syntax,s-selection,bigram7,-20.50464654871068,-19.97079033249692,FALSE
+these cars were n't thought about by the boys .,-20.3372416790062,-223.70965846906816,good,animate_subject_passive,708,syntax,s-selection,bigram8,-20.3372416790062,-19.82785856943553,FALSE
+these cars were n't thought about by the door .,-19.82785856943553,-218.10644426379082,bad,animate_subject_passive,708,syntax,s-selection,bigram8,-20.3372416790062,-19.82785856943553,FALSE
+these cars were n't thought about by the boys .,-20.49532848156058,-225.4486132971664,good,animate_subject_passive,708,syntax,s-selection,bigram9,-20.49532848156058,-19.957521265302784,FALSE
+these cars were n't thought about by the door .,-19.957521265302784,-219.53273391833062,bad,animate_subject_passive,708,syntax,s-selection,bigram9,-20.49532848156058,-19.957521265302784,FALSE
+a plate is n't found by some chairs .,-19.87546974455511,-198.75469744555113,bad,animate_subject_passive,710,syntax,s-selection,bigram1,-19.55847724441088,-19.87546974455511,TRUE
+a plate is n't found by some children .,-19.55847724441088,-195.5847724441088,good,animate_subject_passive,710,syntax,s-selection,bigram1,-19.55847724441088,-19.87546974455511,TRUE
+a plate is n't found by some chairs .,-19.904894676224444,-199.04894676224444,bad,animate_subject_passive,710,syntax,s-selection,bigram10,-19.646398426152327,-19.904894676224444,TRUE
+a plate is n't found by some children .,-19.646398426152327,-196.46398426152328,good,animate_subject_passive,710,syntax,s-selection,bigram10,-19.646398426152327,-19.904894676224444,TRUE
+a plate is n't found by some chairs .,-19.84624539530892,-198.46245395308915,bad,animate_subject_passive,710,syntax,s-selection,bigram2,-19.587749145236803,-19.84624539530892,TRUE
+a plate is n't found by some children .,-19.587749145236803,-195.87749145236802,good,animate_subject_passive,710,syntax,s-selection,bigram2,-19.587749145236803,-19.84624539530892,TRUE
+a plate is n't found by some chairs .,-19.837797267471714,-198.37797267471714,bad,animate_subject_passive,710,syntax,s-selection,bigram3,-19.7793010173996,-19.837797267471714,TRUE
+a plate is n't found by some children .,-19.7793010173996,-197.79301017399598,good,animate_subject_passive,710,syntax,s-selection,bigram3,-19.7793010173996,-19.837797267471714,TRUE
+a plate is n't found by some chairs .,-20.00480966751348,-200.0480966751348,bad,animate_subject_passive,710,syntax,s-selection,bigram4,-19.746313417441364,-20.00480966751348,TRUE
+a plate is n't found by some children .,-19.746313417441364,-197.46313417441363,good,animate_subject_passive,710,syntax,s-selection,bigram4,-19.746313417441364,-20.00480966751348,TRUE
+a plate is n't found by some chairs .,-19.87856886172375,-198.7856886172375,bad,animate_subject_passive,710,syntax,s-selection,bigram5,-19.62007261165164,-19.87856886172375,TRUE
+a plate is n't found by some children .,-19.62007261165164,-196.20072611651636,good,animate_subject_passive,710,syntax,s-selection,bigram5,-19.62007261165164,-19.87856886172375,TRUE
+a plate is n't found by some chairs .,-19.80416206551281,-198.04162065512804,bad,animate_subject_passive,710,syntax,s-selection,bigram6,-19.58192282337916,-19.80416206551281,TRUE
+a plate is n't found by some children .,-19.58192282337916,-195.8192282337916,good,animate_subject_passive,710,syntax,s-selection,bigram6,-19.58192282337916,-19.80416206551281,TRUE
+a plate is n't found by some chairs .,-19.90879543603151,-199.0879543603151,bad,animate_subject_passive,710,syntax,s-selection,bigram7,-19.80879543603151,-19.90879543603151,TRUE
+a plate is n't found by some children .,-19.80879543603151,-198.0879543603151,good,animate_subject_passive,710,syntax,s-selection,bigram7,-19.80879543603151,-19.90879543603151,TRUE
+a plate is n't found by some chairs .,-19.83056035454824,-198.30560354548237,bad,animate_subject_passive,710,syntax,s-selection,bigram8,-19.64982486234248,-19.83056035454824,TRUE
+a plate is n't found by some children .,-19.64982486234248,-196.49824862342476,good,animate_subject_passive,710,syntax,s-selection,bigram8,-19.64982486234248,-19.83056035454824,TRUE
+a plate is n't found by some chairs .,-20.043785433166608,-200.43785433166607,bad,animate_subject_passive,710,syntax,s-selection,bigram9,-19.763049940960848,-20.043785433166608,TRUE
+a plate is n't found by some children .,-19.763049940960848,-197.63049940960846,good,animate_subject_passive,710,syntax,s-selection,bigram9,-19.763049940960848,-20.043785433166608,TRUE
+Name is n't thought about by the ladies .,-18.958564539463147,-189.58564539463146,good,animate_subject_passive,75,syntax,s-selection,bigram1,-18.958564539463147,-19.190757348951884,TRUE
+Name is n't thought about by the windows .,-19.190757348951884,-191.90757348951882,bad,animate_subject_passive,75,syntax,s-selection,bigram1,-18.958564539463147,-19.190757348951884,TRUE
+Name is n't thought about by the ladies .,-19.02951538694209,-190.29515386942094,good,animate_subject_passive,75,syntax,s-selection,bigram10,-19.02951538694209,-19.18801163701421,TRUE
+Name is n't thought about by the windows .,-19.18801163701421,-191.8801163701421,bad,animate_subject_passive,75,syntax,s-selection,bigram10,-19.02951538694209,-19.18801163701421,TRUE
+Name is n't thought about by the ladies .,-18.897386624372217,-188.97386624372217,good,animate_subject_passive,75,syntax,s-selection,bigram2,-18.897386624372217,-19.129579433860957,TRUE
+Name is n't thought about by the windows .,-19.129579433860957,-191.29579433860954,bad,animate_subject_passive,75,syntax,s-selection,bigram2,-18.897386624372217,-19.129579433860957,TRUE
+Name is n't thought about by the ladies .,-19.0066556399527,-190.066556399527,good,animate_subject_passive,75,syntax,s-selection,bigram3,-19.0066556399527,-19.165151890024816,TRUE
+Name is n't thought about by the windows .,-19.165151890024816,-191.65151890024816,bad,animate_subject_passive,75,syntax,s-selection,bigram3,-19.0066556399527,-19.165151890024816,TRUE
+Name is n't thought about by the ladies .,-19.059929206100957,-190.59929206100955,good,animate_subject_passive,75,syntax,s-selection,bigram4,-19.059929206100957,-19.218425456173076,TRUE
+Name is n't thought about by the windows .,-19.218425456173076,-192.1842545617307,bad,animate_subject_passive,75,syntax,s-selection,bigram4,-19.059929206100957,-19.218425456173076,TRUE
+Name is n't thought about by the ladies .,-18.97818637090383,-189.7818637090383,good,animate_subject_passive,75,syntax,s-selection,bigram5,-18.97818637090383,-19.210379180392565,TRUE
+Name is n't thought about by the windows .,-19.210379180392565,-192.10379180392565,bad,animate_subject_passive,75,syntax,s-selection,bigram5,-18.97818637090383,-19.210379180392565,TRUE
+Name is n't thought about by the ladies .,-18.986724974865457,-189.86724974865456,good,animate_subject_passive,75,syntax,s-selection,bigram6,-18.986724974865457,-19.14522122493757,TRUE
+Name is n't thought about by the windows .,-19.14522122493757,-191.45221224937572,bad,animate_subject_passive,75,syntax,s-selection,bigram6,-18.986724974865457,-19.14522122493757,TRUE
+Name is n't thought about by the ladies .,-19.063302783298376,-190.63302783298377,good,animate_subject_passive,75,syntax,s-selection,bigram7,-19.063302783298376,-19.295495592787116,TRUE
+Name is n't thought about by the windows .,-19.295495592787116,-192.95495592787114,bad,animate_subject_passive,75,syntax,s-selection,bigram7,-19.063302783298376,-19.295495592787116,TRUE
+Name is n't thought about by the ladies .,-18.97319160755604,-189.73191607556038,good,animate_subject_passive,75,syntax,s-selection,bigram8,-18.97319160755604,-19.205384417044776,TRUE
+Name is n't thought about by the windows .,-19.205384417044776,-192.05384417044775,bad,animate_subject_passive,75,syntax,s-selection,bigram8,-18.97319160755604,-19.205384417044776,TRUE
+Name is n't thought about by the ladies .,-19.256394105850383,-192.56394105850384,good,animate_subject_passive,75,syntax,s-selection,bigram9,-19.256394105850383,-19.256394105850383,FALSE
+Name is n't thought about by the windows .,-19.256394105850383,-192.56394105850384,bad,animate_subject_passive,75,syntax,s-selection,bigram9,-19.256394105850383,-19.256394105850383,FALSE
+Name is n't seen by some mouth .,-18.32261543553184,-164.90353891978657,bad,animate_subject_passive,804,syntax,s-selection,bigram1,-18.58060744607488,-18.32261543553184,FALSE
+Name is n't seen by some ladies .,-18.58060744607488,-167.22546701467394,good,animate_subject_passive,804,syntax,s-selection,bigram1,-18.58060744607488,-18.32261543553184,FALSE
+Name is n't seen by some mouth .,-18.36575559521797,-165.29180035696172,bad,animate_subject_passive,804,syntax,s-selection,bigram10,-18.750136886177668,-18.36575559521797,FALSE
+Name is n't seen by some ladies .,-18.750136886177668,-168.751231975599,good,animate_subject_passive,804,syntax,s-selection,bigram10,-18.750136886177668,-18.36575559521797,FALSE
+Name is n't seen by some mouth .,-18.239180767190103,-164.15262690471093,bad,animate_subject_passive,804,syntax,s-selection,bigram2,-18.50345983644052,-18.239180767190103,FALSE
+Name is n't seen by some ladies .,-18.50345983644052,-166.53113852796469,good,animate_subject_passive,804,syntax,s-selection,bigram2,-18.50345983644052,-18.239180767190103,FALSE
+Name is n't seen by some mouth .,-18.41700325712908,-165.75302931416175,bad,animate_subject_passive,804,syntax,s-selection,bigram3,-18.70422131276477,-18.41700325712908,FALSE
+Name is n't seen by some ladies .,-18.70422131276477,-168.3379918148829,good,animate_subject_passive,804,syntax,s-selection,bigram3,-18.70422131276477,-18.41700325712908,FALSE
+Name is n't seen by some mouth .,-18.352549291834364,-165.17294362650927,bad,animate_subject_passive,804,syntax,s-selection,bigram4,-18.69242636839587,-18.352549291834364,FALSE
+Name is n't seen by some ladies .,-18.69242636839587,-168.23183731556284,good,animate_subject_passive,804,syntax,s-selection,bigram4,-18.69242636839587,-18.352549291834364,FALSE
+Name is n't seen by some mouth .,-18.23923415686137,-164.15310741175236,bad,animate_subject_passive,804,syntax,s-selection,bigram5,-18.53679770187389,-18.23923415686137,FALSE
+Name is n't seen by some ladies .,-18.53679770187389,-166.83117931686502,good,animate_subject_passive,804,syntax,s-selection,bigram5,-18.53679770187389,-18.23923415686137,FALSE
+Name is n't seen by some mouth .,-18.35900911574324,-165.23108204168915,bad,animate_subject_passive,804,syntax,s-selection,bigram6,-18.70517325101212,-18.35900911574324,FALSE
+Name is n't seen by some ladies .,-18.70517325101212,-168.34655925910909,good,animate_subject_passive,804,syntax,s-selection,bigram6,-18.70517325101212,-18.35900911574324,FALSE
+Name is n't seen by some mouth .,-18.37715819218395,-165.39442372965553,bad,animate_subject_passive,804,syntax,s-selection,bigram7,-18.664376247819632,-18.37715819218395,FALSE
+Name is n't seen by some ladies .,-18.664376247819632,-167.9793862303767,good,animate_subject_passive,804,syntax,s-selection,bigram7,-18.664376247819632,-18.37715819218395,FALSE
+Name is n't seen by some mouth .,-18.256393463066114,-164.30754116759502,bad,animate_subject_passive,804,syntax,s-selection,bigram8,-18.558889688007344,-18.256393463066114,FALSE
+Name is n't seen by some ladies .,-18.558889688007344,-167.0300071920661,good,animate_subject_passive,804,syntax,s-selection,bigram8,-18.558889688007344,-18.256393463066114,FALSE
+Name is n't seen by some mouth .,-18.373770421034305,-165.36393378930873,bad,animate_subject_passive,804,syntax,s-selection,bigram9,-18.92423667774396,-18.373770421034305,FALSE
+Name is n't seen by some ladies .,-18.92423667774396,-170.3181300996956,good,animate_subject_passive,804,syntax,s-selection,bigram9,-18.92423667774396,-18.373770421034305,FALSE
+Name is n't watched by some fish .,-18.35056418742028,-165.15507768678253,bad,animate_subject_passive,91,syntax,s-selection,bigram1,-18.532500845266423,-18.35056418742028,FALSE
+Name is n't watched by some children .,-18.532500845266423,-166.79250760739785,good,animate_subject_passive,91,syntax,s-selection,bigram1,-18.532500845266423,-18.35056418742028,FALSE
+Name is n't watched by some fish .,-18.425966015087887,-165.83369413579098,bad,animate_subject_passive,91,syntax,s-selection,bigram10,-18.63902577506656,-18.425966015087887,FALSE
+Name is n't watched by some children .,-18.63902577506656,-167.751231975599,good,animate_subject_passive,91,syntax,s-selection,bigram10,-18.63902577506656,-18.425966015087887,FALSE
+Name is n't watched by some fish .,-18.28778135744647,-164.59003221701823,bad,animate_subject_passive,91,syntax,s-selection,bigram2,-18.556118857366343,-18.28778135744647,FALSE
+Name is n't watched by some children .,-18.556118857366343,-167.0050697162971,good,animate_subject_passive,91,syntax,s-selection,bigram2,-18.556118857366343,-18.28778135744647,FALSE
+Name is n't watched by some fish .,-18.315054608261523,-164.83549147435372,bad,animate_subject_passive,91,syntax,s-selection,bigram3,-18.76921714617823,-18.315054608261523,FALSE
+Name is n't watched by some children .,-18.76921714617823,-168.92295431560407,good,animate_subject_passive,91,syntax,s-selection,bigram3,-18.76921714617823,-18.315054608261523,FALSE
+Name is n't watched by some fish .,-18.41437077500374,-165.72933697503365,bad,animate_subject_passive,91,syntax,s-selection,bigram4,-18.69242636839587,-18.41437077500374,FALSE
+Name is n't watched by some children .,-18.69242636839587,-168.23183731556284,good,animate_subject_passive,91,syntax,s-selection,bigram4,-18.69242636839587,-18.41437077500374,FALSE
+Name is n't watched by some fish .,-18.410408421457237,-165.6936757931151,bad,animate_subject_passive,91,syntax,s-selection,bigram5,-18.58945672279972,-18.410408421457237,FALSE
+Name is n't watched by some children .,-18.58945672279972,-167.30511050519746,good,animate_subject_passive,91,syntax,s-selection,bigram5,-18.58945672279972,-18.410408421457237,FALSE
+Name is n't watched by some fish .,-18.3907204733946,-165.51648426055138,bad,animate_subject_passive,91,syntax,s-selection,bigram6,-18.634347704277086,-18.3907204733946,FALSE
+Name is n't watched by some children .,-18.634347704277086,-167.70912933849377,good,animate_subject_passive,91,syntax,s-selection,bigram6,-18.634347704277086,-18.3907204733946,FALSE
+Name is n't watched by some fish .,-18.409622720127647,-165.68660448114883,bad,animate_subject_passive,91,syntax,s-selection,bigram7,-18.811257147251563,-18.409622720127647,FALSE
+Name is n't watched by some children .,-18.811257147251563,-169.30131432526406,good,animate_subject_passive,91,syntax,s-selection,bigram7,-18.811257147251563,-18.409622720127647,FALSE
+Name is n't watched by some fish .,-18.333493115541035,-165.00143803986933,bad,animate_subject_passive,91,syntax,s-selection,bigram8,-18.651834273309245,-18.333493115541035,FALSE
+Name is n't watched by some children .,-18.651834273309245,-167.8665084597832,good,animate_subject_passive,91,syntax,s-selection,bigram8,-18.651834273309245,-18.333493115541035,FALSE
+Name is n't watched by some fish .,-18.45224473180578,-166.07020258625204,bad,animate_subject_passive,91,syntax,s-selection,bigram9,-18.61230835307089,-18.45224473180578,FALSE
+Name is n't watched by some children .,-18.61230835307089,-167.510775177638,good,animate_subject_passive,91,syntax,s-selection,bigram9,-18.61230835307089,-18.45224473180578,FALSE
+a school is n't run around by the lady .,-19.55959252818236,-215.15551781000596,good,animate_subject_passive,939,syntax,s-selection,bigram1,-19.55959252818236,-19.39528753526804,FALSE
+a school is n't run around by the bird .,-19.39528753526804,-213.34816288794838,bad,animate_subject_passive,939,syntax,s-selection,bigram1,-19.55959252818236,-19.39528753526804,FALSE
+a school is n't run around by the lady .,-19.4057805126474,-213.4635856391214,good,animate_subject_passive,939,syntax,s-selection,bigram10,-19.4057805126474,-19.285605231294003,FALSE
+a school is n't run around by the bird .,-19.285605231294003,-212.14165754423402,bad,animate_subject_passive,939,syntax,s-selection,bigram10,-19.4057805126474,-19.285605231294003,FALSE
+a school is n't run around by the lady .,-19.47830231627927,-214.26132547907196,good,animate_subject_passive,939,syntax,s-selection,bigram2,-19.47830231627927,-19.37194549796633,FALSE
+a school is n't run around by the bird .,-19.37194549796633,-213.09140047762963,bad,animate_subject_passive,939,syntax,s-selection,bigram2,-19.47830231627927,-19.37194549796633,FALSE
+a school is n't run around by the lady .,-19.501961341694557,-214.52157475864007,good,animate_subject_passive,939,syntax,s-selection,bigram3,-19.501961341694557,-19.27065947658329,FALSE
+a school is n't run around by the bird .,-19.27065947658329,-211.97725424241625,bad,animate_subject_passive,939,syntax,s-selection,bigram3,-19.501961341694557,-19.27065947658329,FALSE
+a school is n't run around by the lady .,-19.5624302481896,-215.1867327300856,good,animate_subject_passive,939,syntax,s-selection,bigram4,-19.5624302481896,-19.500787347724813,FALSE
+a school is n't run around by the bird .,-19.500787347724813,-214.50866082497296,bad,animate_subject_passive,939,syntax,s-selection,bigram4,-19.5624302481896,-19.500787347724813,FALSE
+a school is n't run around by the lady .,-19.569312892825305,-215.26244182107837,good,animate_subject_passive,939,syntax,s-selection,bigram5,-19.569312892825305,-19.40500789991098,FALSE
+a school is n't run around by the bird .,-19.40500789991098,-213.45508689902078,bad,animate_subject_passive,939,syntax,s-selection,bigram5,-19.569312892825305,-19.40500789991098,FALSE
+a school is n't run around by the lady .,-19.36527187531361,-213.01799062844972,good,animate_subject_passive,939,syntax,s-selection,bigram6,-19.36527187531361,-19.245096593960213,FALSE
+a school is n't run around by the bird .,-19.245096593960213,-211.69606253356235,bad,animate_subject_passive,939,syntax,s-selection,bigram6,-19.36527187531361,-19.245096593960213,FALSE
+a school is n't run around by the lady .,-19.54794094956873,-215.02735044525605,good,animate_subject_passive,939,syntax,s-selection,bigram7,-19.54794094956873,-19.4809440773718,FALSE
+a school is n't run around by the bird .,-19.4809440773718,-214.29038485108984,bad,animate_subject_passive,939,syntax,s-selection,bigram7,-19.54794094956873,-19.4809440773718,FALSE
+a school is n't run around by the lady .,-19.479140621346406,-214.27054683481046,good,animate_subject_passive,939,syntax,s-selection,bigram8,-19.479140621346406,-19.28556943798777,FALSE
+a school is n't run around by the bird .,-19.28556943798777,-212.14126381786548,bad,animate_subject_passive,939,syntax,s-selection,bigram8,-19.479140621346406,-19.28556943798777,FALSE
+a school is n't run around by the lady .,-19.54267452480074,-214.96941977280815,good,animate_subject_passive,939,syntax,s-selection,bigram9,-19.54267452480074,-19.45176543389165,FALSE
+a school is n't run around by the bird .,-19.45176543389165,-213.96941977280815,bad,animate_subject_passive,939,syntax,s-selection,bigram9,-19.54267452480074,-19.45176543389165,FALSE
+that door was n't seen by the men .,-19.21630712145489,-192.1630712145489,good,animate_subject_passive,946,syntax,s-selection,bigram1,-19.21630712145489,-18.72561806189404,FALSE
+that door was n't seen by the book .,-18.72561806189404,-187.2561806189404,bad,animate_subject_passive,946,syntax,s-selection,bigram1,-19.21630712145489,-18.72561806189404,FALSE
+that door was n't seen by the men .,-19.122241996619085,-191.22241996619084,good,animate_subject_passive,946,syntax,s-selection,bigram10,-19.122241996619085,-18.73979915307743,FALSE
+that door was n't seen by the book .,-18.73979915307743,-187.3979915307743,bad,animate_subject_passive,946,syntax,s-selection,bigram10,-19.122241996619085,-18.73979915307743,FALSE
+that door was n't seen by the men .,-19.158555809777845,-191.58555809777846,good,animate_subject_passive,946,syntax,s-selection,bigram2,-19.158555809777845,-18.60005955970573,FALSE
+that door was n't seen by the book .,-18.60005955970573,-186.00059559705733,bad,animate_subject_passive,946,syntax,s-selection,bigram2,-19.158555809777845,-18.60005955970573,FALSE
+that door was n't seen by the men .,-18.97913828948446,-189.7913828948446,good,animate_subject_passive,946,syntax,s-selection,bigram3,-18.97913828948446,-18.51904788502544,FALSE
+that door was n't seen by the book .,-18.51904788502544,-185.1904788502544,bad,animate_subject_passive,946,syntax,s-selection,bigram3,-18.97913828948446,-18.51904788502544,FALSE
+that door was n't seen by the men .,-19.15930373295229,-191.59303732952293,good,animate_subject_passive,946,syntax,s-selection,bigram4,-19.15930373295229,-18.632625078882803,FALSE
+that door was n't seen by the book .,-18.632625078882803,-186.32625078882802,bad,animate_subject_passive,946,syntax,s-selection,bigram4,-19.15930373295229,-18.632625078882803,FALSE
+that door was n't seen by the men .,-18.946223305260357,-189.46223305260355,good,animate_subject_passive,946,syntax,s-selection,bigram5,-18.946223305260357,-18.562573178488645,FALSE
+that door was n't seen by the book .,-18.562573178488645,-185.62573178488645,bad,animate_subject_passive,946,syntax,s-selection,bigram5,-18.946223305260357,-18.562573178488645,FALSE
+that door was n't seen by the men .,-19.074647803814365,-190.74647803814364,good,animate_subject_passive,946,syntax,s-selection,bigram6,-19.074647803814365,-18.68204786195874,FALSE
+that door was n't seen by the book .,-18.68204786195874,-186.8204786195874,bad,animate_subject_passive,946,syntax,s-selection,bigram6,-19.074647803814365,-18.68204786195874,FALSE
+that door was n't seen by the men .,-19.349753982632173,-193.49753982632174,good,animate_subject_passive,946,syntax,s-selection,bigram7,-19.349753982632173,-18.865204977537736,FALSE
+that door was n't seen by the book .,-18.865204977537736,-188.65204977537735,bad,animate_subject_passive,946,syntax,s-selection,bigram7,-19.349753982632173,-18.865204977537736,FALSE
+that door was n't seen by the men .,-19.079453110087385,-190.79453110087385,good,animate_subject_passive,946,syntax,s-selection,bigram8,-19.079453110087385,-18.6541550359704,FALSE
+that door was n't seen by the book .,-18.6541550359704,-186.541550359704,bad,animate_subject_passive,946,syntax,s-selection,bigram8,-19.079453110087385,-18.6541550359704,FALSE
+that door was n't seen by the men .,-19.22396798534196,-192.23967985341957,good,animate_subject_passive,946,syntax,s-selection,bigram9,-19.22396798534196,-18.80912880135269,FALSE
+that door was n't seen by the book .,-18.80912880135269,-188.0912880135269,bad,animate_subject_passive,946,syntax,s-selection,bigram9,-19.22396798534196,-18.80912880135269,FALSE
+Name was n't left by the tomato .,-19.232048943750247,-173.08844049375222,bad,animate_subject_passive,991,syntax,s-selection,bigram1,-18.679017841139142,-19.232048943750247,TRUE
+Name was n't left by the driver .,-18.679017841139142,-168.1111605702523,good,animate_subject_passive,991,syntax,s-selection,bigram1,-18.679017841139142,-19.232048943750247,TRUE
+Name was n't left by the tomato .,-19.203116396961097,-172.82804757264987,bad,animate_subject_passive,991,syntax,s-selection,bigram10,-18.798243486986124,-19.203116396961097,TRUE
+Name was n't left by the driver .,-18.798243486986124,-169.18419138287513,good,animate_subject_passive,991,syntax,s-selection,bigram10,-18.798243486986124,-19.203116396961097,TRUE
+Name was n't left by the tomato .,-19.217696225187108,-172.95926602668396,bad,animate_subject_passive,991,syntax,s-selection,bigram2,-18.84859310353296,-19.217696225187108,TRUE
+Name was n't left by the driver .,-18.84859310353296,-169.6373379317966,good,animate_subject_passive,991,syntax,s-selection,bigram2,-18.84859310353296,-19.217696225187108,TRUE
+Name was n't left by the tomato .,-19.30657132442993,-173.7591419198694,bad,animate_subject_passive,991,syntax,s-selection,bigram3,-18.843246324269675,-19.30657132442993,TRUE
+Name was n't left by the driver .,-18.843246324269675,-169.58921691842707,good,animate_subject_passive,991,syntax,s-selection,bigram3,-18.843246324269675,-19.30657132442993,TRUE
+Name was n't left by the tomato .,-19.195334498341825,-172.7580104850764,bad,animate_subject_passive,991,syntax,s-selection,bigram4,-18.797005331595027,-19.195334498341825,TRUE
+Name was n't left by the driver .,-18.797005331595027,-169.17304798435524,good,animate_subject_passive,991,syntax,s-selection,bigram4,-18.797005331595027,-19.195334498341825,TRUE
+Name was n't left by the tomato .,-19.174655227321367,-172.5718970458923,bad,animate_subject_passive,991,syntax,s-selection,bigram5,-18.686619958123728,-19.174655227321367,TRUE
+Name was n't left by the driver .,-18.686619958123728,-168.1795796231136,good,animate_subject_passive,991,syntax,s-selection,bigram5,-18.686619958123728,-19.174655227321367,TRUE
+Name was n't left by the tomato .,-19.155167224659024,-172.39650502193123,bad,animate_subject_passive,991,syntax,s-selection,bigram6,-18.64572694680112,-19.155167224659024,TRUE
+Name was n't left by the driver .,-18.64572694680112,-167.81154252121007,good,animate_subject_passive,991,syntax,s-selection,bigram6,-18.64572694680112,-19.155167224659024,TRUE
+Name was n't left by the tomato .,-19.30577508158596,-173.75197573427363,bad,animate_subject_passive,991,syntax,s-selection,bigram7,-18.79633480372805,-19.30577508158596,TRUE
+Name was n't left by the driver .,-18.79633480372805,-169.16701323355247,good,animate_subject_passive,991,syntax,s-selection,bigram7,-18.79633480372805,-19.30577508158596,TRUE
+Name was n't left by the tomato .,-19.20486537592035,-172.84378838328314,bad,animate_subject_passive,991,syntax,s-selection,bigram8,-18.806536209173554,-19.20486537592035,TRUE
+Name was n't left by the driver .,-18.806536209173554,-169.25882588256198,good,animate_subject_passive,991,syntax,s-selection,bigram8,-18.806536209173554,-19.20486537592035,TRUE
+Name was n't left by the tomato .,-19.31222035511392,-173.80998319602529,bad,animate_subject_passive,991,syntax,s-selection,bigram9,-18.913891188367124,-19.31222035511392,TRUE
+Name was n't left by the driver .,-18.913891188367124,-170.22502069530412,good,animate_subject_passive,991,syntax,s-selection,bigram9,-18.913891188367124,-19.31222035511392,TRUE
+Name is sounded like by the man .,-18.140298517874346,-163.26268666086912,good,animate_subject_passive,998,syntax,s-selection,bigram1,-18.140298517874346,-18.77161230009365,TRUE
+Name is sounded like by the bread .,-18.77161230009365,-168.9445107008429,bad,animate_subject_passive,998,syntax,s-selection,bigram1,-18.140298517874346,-18.77161230009365,TRUE
+Name is sounded like by the man .,-18.1809119943473,-163.6282079491257,good,animate_subject_passive,998,syntax,s-selection,bigram10,-18.1809119943473,-18.784295611199028,TRUE
+Name is sounded like by the bread .,-18.784295611199028,-169.05866050079126,bad,animate_subject_passive,998,syntax,s-selection,bigram10,-18.1809119943473,-18.784295611199028,TRUE
+Name is sounded like by the man .,-18.11335295652081,-163.02017660868728,good,animate_subject_passive,998,syntax,s-selection,bigram2,-18.11335295652081,-18.761451846983555,TRUE
+Name is sounded like by the bread .,-18.761451846983555,-168.853066622852,bad,animate_subject_passive,998,syntax,s-selection,bigram2,-18.11335295652081,-18.761451846983555,TRUE
+Name is sounded like by the man .,-18.224446859284917,-164.02002173356422,good,animate_subject_passive,998,syntax,s-selection,bigram3,-18.224446859284917,-18.681722105664907,TRUE
+Name is sounded like by the bread .,-18.681722105664907,-168.13549895098416,bad,animate_subject_passive,998,syntax,s-selection,bigram3,-18.224446859284917,-18.681722105664907,TRUE
+Name is sounded like by the man .,-18.26243788082628,-164.3619409274365,good,animate_subject_passive,998,syntax,s-selection,bigram4,-18.26243788082628,-18.78624293834474,TRUE
+Name is sounded like by the bread .,-18.78624293834474,-169.07618644510265,bad,animate_subject_passive,998,syntax,s-selection,bigram4,-18.26243788082628,-18.78624293834474,TRUE
+Name is sounded like by the man .,-18.16452022997565,-163.4806820697809,good,animate_subject_passive,998,syntax,s-selection,bigram5,-18.16452022997565,-18.708388870343203,TRUE
+Name is sounded like by the bread .,-18.708388870343203,-168.37549983308884,bad,animate_subject_passive,998,syntax,s-selection,bigram5,-18.16452022997565,-18.708388870343203,TRUE
+Name is sounded like by the man .,-18.23712405535336,-164.13411649818022,good,animate_subject_passive,998,syntax,s-selection,bigram6,-18.23712405535336,-18.793235242137623,TRUE
+Name is sounded like by the bread .,-18.793235242137623,-169.1391171792386,bad,animate_subject_passive,998,syntax,s-selection,bigram6,-18.23712405535336,-18.793235242137623,TRUE
+Name is sounded like by the man .,-18.424691575650694,-165.8222241808563,good,animate_subject_passive,998,syntax,s-selection,bigram7,-18.424691575650694,-18.99384675691289,TRUE
+Name is sounded like by the bread .,-18.99384675691289,-170.94462081221602,bad,animate_subject_passive,998,syntax,s-selection,bigram7,-18.424691575650694,-18.99384675691289,TRUE
+Name is sounded like by the man .,-18.242379633997288,-164.18141670597558,good,animate_subject_passive,998,syntax,s-selection,bigram8,-18.242379633997288,-18.755488251547188,TRUE
+Name is sounded like by the bread .,-18.755488251547188,-168.79939426392468,bad,animate_subject_passive,998,syntax,s-selection,bigram8,-18.242379633997288,-18.755488251547188,TRUE
+Name is sounded like by the man .,-18.23002250958356,-164.07020258625204,good,animate_subject_passive,998,syntax,s-selection,bigram9,-18.23002250958356,-18.81312556663285,TRUE
+Name is sounded like by the bread .,-18.81312556663285,-169.31813009969562,bad,animate_subject_passive,998,syntax,s-selection,bigram9,-18.23002250958356,-18.81312556663285,TRUE

@@ -1,0 +1,341 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+some chair was broken by the dishes .,-34.38291041708778,-275.0632833367022,bad,animate_subject_passive,148,syntax,s-selection,trigram1,-34.38291041708778,-34.38291041708778,FALSE
+some chair was broken by the child .,-34.38291041708778,-275.0632833367022,good,animate_subject_passive,148,syntax,s-selection,trigram1,-34.38291041708778,-34.38291041708778,FALSE
+some chair was broken by the dishes .,-34.4028239161479,-275.2225913291832,bad,animate_subject_passive,148,syntax,s-selection,trigram10,-34.2778239161479,-34.4028239161479,TRUE
+some chair was broken by the child .,-34.2778239161479,-274.2225913291832,good,animate_subject_passive,148,syntax,s-selection,trigram10,-34.2778239161479,-34.4028239161479,TRUE
+some chair was broken by the dishes .,-34.35518643674646,-274.84149149397166,bad,animate_subject_passive,148,syntax,s-selection,trigram2,-34.23018643674646,-34.35518643674646,TRUE
+some chair was broken by the child .,-34.23018643674646,-273.84149149397166,good,animate_subject_passive,148,syntax,s-selection,trigram2,-34.23018643674646,-34.35518643674646,TRUE
+some chair was broken by the dishes .,-34.39058045218541,-275.1246436174833,bad,animate_subject_passive,148,syntax,s-selection,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+some chair was broken by the child .,-34.39058045218541,-275.1246436174833,good,animate_subject_passive,148,syntax,s-selection,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+some chair was broken by the dishes .,-34.39364443038301,-275.1491554430641,bad,animate_subject_passive,148,syntax,s-selection,trigram4,-34.26864443038301,-34.39364443038301,TRUE
+some chair was broken by the child .,-34.26864443038301,-274.1491554430641,good,animate_subject_passive,148,syntax,s-selection,trigram4,-34.26864443038301,-34.39364443038301,TRUE
+some chair was broken by the dishes .,-34.390580368524716,-275.12464294819773,bad,animate_subject_passive,148,syntax,s-selection,trigram5,-34.265580368524716,-34.390580368524716,TRUE
+some chair was broken by the child .,-34.265580368524716,-274.12464294819773,good,animate_subject_passive,148,syntax,s-selection,trigram5,-34.265580368524716,-34.390580368524716,TRUE
+some chair was broken by the dishes .,-34.367530145883855,-274.94024116707084,bad,animate_subject_passive,148,syntax,s-selection,trigram6,-34.367530145883855,-34.367530145883855,FALSE
+some chair was broken by the child .,-34.367530145883855,-274.94024116707084,good,animate_subject_passive,148,syntax,s-selection,trigram6,-34.367530145883855,-34.367530145883855,FALSE
+some chair was broken by the dishes .,-34.428726754885524,-275.4298140390842,bad,animate_subject_passive,148,syntax,s-selection,trigram7,-34.303726754885524,-34.428726754885524,TRUE
+some chair was broken by the child .,-34.303726754885524,-274.4298140390842,good,animate_subject_passive,148,syntax,s-selection,trigram7,-34.303726754885524,-34.428726754885524,TRUE
+some chair was broken by the dishes .,-34.41198385244504,-275.2958708195603,bad,animate_subject_passive,148,syntax,s-selection,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+some chair was broken by the child .,-34.41198385244504,-275.2958708195603,good,animate_subject_passive,148,syntax,s-selection,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+some chair was broken by the dishes .,-34.43934783807526,-275.51478270460206,bad,animate_subject_passive,148,syntax,s-selection,trigram9,-34.43934783807526,-34.43934783807526,FALSE
+some chair was broken by the child .,-34.43934783807526,-275.51478270460206,good,animate_subject_passive,148,syntax,s-selection,trigram9,-34.43934783807526,-34.43934783807526,FALSE
+Name was n't sounded like by some boy .,-33.554084681683634,-301.98676213515273,good,animate_subject_passive,162,syntax,s-selection,trigram1,-33.554084681683634,-34.04957708375444,TRUE
+Name was n't sounded like by some dish .,-34.04957708375444,-306.44619375379,bad,animate_subject_passive,162,syntax,s-selection,trigram1,-33.554084681683634,-34.04957708375444,TRUE
+Name was n't sounded like by some boy .,-33.54721950302112,-301.92497552719004,good,animate_subject_passive,162,syntax,s-selection,trigram10,-33.54721950302112,-34.069490582814566,TRUE
+Name was n't sounded like by some dish .,-34.069490582814566,-306.6254152453311,bad,animate_subject_passive,162,syntax,s-selection,trigram10,-33.54721950302112,-34.069490582814566,TRUE
+Name was n't sounded like by some boy .,-33.42270672310437,-300.8043605079393,good,animate_subject_passive,162,syntax,s-selection,trigram2,-33.42270672310437,-33.845746158888545,TRUE
+Name was n't sounded like by some dish .,-33.845746158888545,-304.61171542999693,bad,animate_subject_passive,162,syntax,s-selection,trigram2,-33.42270672310437,-33.845746158888545,TRUE
+Name was n't sounded like by some boy .,-33.572100206158105,-302.14890185542293,good,animate_subject_passive,162,syntax,s-selection,trigram3,-33.572100206158105,-34.02147733053127,TRUE
+Name was n't sounded like by some dish .,-34.02147733053127,-306.1932959747814,bad,animate_subject_passive,162,syntax,s-selection,trigram3,-33.572100206158105,-34.02147733053127,TRUE
+Name was n't sounded like by some boy .,-33.54593813926306,-301.9134432533675,good,animate_subject_passive,162,syntax,s-selection,trigram4,-33.54593813926306,-33.99531526363622,TRUE
+Name was n't sounded like by some dish .,-33.99531526363622,-305.957837372726,bad,animate_subject_passive,162,syntax,s-selection,trigram4,-33.54593813926306,-33.99531526363622,TRUE
+Name was n't sounded like by some boy .,-33.554629040073934,-301.99166136066543,good,animate_subject_passive,162,syntax,s-selection,trigram5,-33.554629040073934,-34.05724703519138,TRUE
+Name was n't sounded like by some dish .,-34.05724703519138,-306.5152233167224,bad,animate_subject_passive,162,syntax,s-selection,trigram5,-33.554629040073934,-34.05724703519138,TRUE
+Name was n't sounded like by some boy .,-33.47864125699496,-301.3077713129547,good,animate_subject_passive,162,syntax,s-selection,trigram6,-33.47864125699496,-33.92308570143941,TRUE
+Name was n't sounded like by some dish .,-33.92308570143941,-305.3077713129547,bad,animate_subject_passive,162,syntax,s-selection,trigram6,-33.47864125699496,-33.92308570143941,TRUE
+Name was n't sounded like by some boy .,-33.53011977252438,-301.7710779527194,good,animate_subject_passive,162,syntax,s-selection,trigram7,-33.53011977252438,-34.09539342155219,TRUE
+Name was n't sounded like by some dish .,-34.09539342155219,-306.8585407939697,bad,animate_subject_passive,162,syntax,s-selection,trigram7,-33.53011977252438,-34.09539342155219,TRUE
+Name was n't sounded like by some boy .,-33.55032968553799,-301.9529671698419,good,animate_subject_passive,162,syntax,s-selection,trigram8,-33.55032968553799,-33.96753940800059,TRUE
+Name was n't sounded like by some dish .,-33.96753940800059,-305.70785467200534,bad,animate_subject_passive,162,syntax,s-selection,trigram8,-33.55032968553799,-33.96753940800059,TRUE
+Name was n't sounded like by some boy .,-33.62985870264611,-302.668728323815,good,animate_subject_passive,162,syntax,s-selection,trigram9,-33.62985870264611,-34.04101867132846,TRUE
+Name was n't sounded like by some dish .,-34.04101867132846,-306.36916804195613,bad,animate_subject_passive,162,syntax,s-selection,trigram9,-33.62985870264611,-34.04101867132846,TRUE
+Name is n't bought by some children .,-33.01814568570881,-264.1451654856705,good,animate_subject_passive,288,syntax,s-selection,trigram1,-33.01814568570881,-33.4143863108891,TRUE
+Name is n't bought by some mirrors .,-33.4143863108891,-267.3150904871128,bad,animate_subject_passive,288,syntax,s-selection,trigram1,-33.01814568570881,-33.4143863108891,TRUE
+Name is n't bought by some children .,-33.100592351787164,-264.8047388142973,good,animate_subject_passive,288,syntax,s-selection,trigram10,-33.100592351787164,-33.496832976967454,TRUE
+Name is n't bought by some mirrors .,-33.496832976967454,-267.97466381573963,bad,animate_subject_passive,288,syntax,s-selection,trigram10,-33.100592351787164,-33.496832976967454,TRUE
+Name is n't bought by some children .,-32.97825955519812,-263.826076441585,good,animate_subject_passive,288,syntax,s-selection,trigram2,-32.97825955519812,-33.37450018037841,TRUE
+Name is n't bought by some mirrors .,-33.37450018037841,-266.9960014430273,bad,animate_subject_passive,288,syntax,s-selection,trigram2,-32.97825955519812,-33.37450018037841,TRUE
+Name is n't bought by some children .,-33.300016220545416,-266.4001297643633,good,animate_subject_passive,288,syntax,s-selection,trigram3,-33.300016220545416,-33.498136533135565,TRUE
+Name is n't bought by some mirrors .,-33.498136533135565,-267.9850922650845,bad,animate_subject_passive,288,syntax,s-selection,trigram3,-33.300016220545416,-33.498136533135565,TRUE
+Name is n't bought by some children .,-33.13809516546321,-265.1047613237057,good,animate_subject_passive,288,syntax,s-selection,trigram4,-33.13809516546321,-33.461215478053354,TRUE
+Name is n't bought by some mirrors .,-33.461215478053354,-267.68972382442684,bad,animate_subject_passive,288,syntax,s-selection,trigram4,-33.13809516546321,-33.461215478053354,TRUE
+Name is n't bought by some children .,-33.14342037808723,-265.1473630246978,good,animate_subject_passive,288,syntax,s-selection,trigram5,-33.14342037808723,-33.46654069067738,TRUE
+Name is n't bought by some mirrors .,-33.46654069067738,-267.732325525419,bad,animate_subject_passive,288,syntax,s-selection,trigram5,-33.14342037808723,-33.46654069067738,TRUE
+Name is n't bought by some children .,-33.07037882958529,-264.5630306366823,good,animate_subject_passive,288,syntax,s-selection,trigram6,-33.07037882958529,-33.421298194842485,TRUE
+Name is n't bought by some mirrors .,-33.421298194842485,-267.3703855587399,bad,animate_subject_passive,288,syntax,s-selection,trigram6,-33.07037882958529,-33.421298194842485,TRUE
+Name is n't bought by some children .,-33.20442477159176,-265.6353981727341,good,animate_subject_passive,288,syntax,s-selection,trigram7,-33.20442477159176,-33.57942477159176,TRUE
+Name is n't bought by some mirrors .,-33.57942477159176,-268.6353981727341,bad,animate_subject_passive,288,syntax,s-selection,trigram7,-33.20442477159176,-33.57942477159176,TRUE
+Name is n't bought by some children .,-33.1370248093405,-265.096198474724,good,animate_subject_passive,288,syntax,s-selection,trigram8,-33.1370248093405,-33.4879441745977,TRUE
+Name is n't bought by some mirrors .,-33.4879441745977,-267.9035533967816,bad,animate_subject_passive,288,syntax,s-selection,trigram8,-33.1370248093405,-33.4879441745977,TRUE
+Name is n't bought by some children .,-33.21626848238056,-265.7301478590445,good,animate_subject_passive,288,syntax,s-selection,trigram9,-33.21626848238056,-33.56718784763777,TRUE
+Name is n't bought by some mirrors .,-33.56718784763777,-268.53750278110215,bad,animate_subject_passive,288,syntax,s-selection,trigram9,-33.21626848238056,-33.56718784763777,TRUE
+Name was n't watched by some cars .,-33.68479010449764,-269.4783208359811,bad,animate_subject_passive,309,syntax,s-selection,trigram1,-33.65699105183058,-33.68479010449764,TRUE
+Name was n't watched by some people .,-33.65699105183058,-269.25592841464464,good,animate_subject_passive,309,syntax,s-selection,trigram1,-33.65699105183058,-33.68479010449764,TRUE
+Name was n't watched by some cars .,-33.6769045508907,-269.4152364071256,bad,animate_subject_passive,309,syntax,s-selection,trigram10,-33.63158329096761,-33.6769045508907,TRUE
+Name was n't watched by some people .,-33.63158329096761,-269.0526663277409,good,animate_subject_passive,309,syntax,s-selection,trigram10,-33.63158329096761,-33.6769045508907,TRUE
+Name was n't watched by some cars .,-33.556146758899104,-268.44917407119283,bad,animate_subject_passive,309,syntax,s-selection,trigram2,-33.53206612415631,-33.556146758899104,TRUE
+Name was n't watched by some people .,-33.53206612415631,-268.25652899325047,good,animate_subject_passive,309,syntax,s-selection,trigram2,-33.53206612415631,-33.556146758899104,TRUE
+Name was n't watched by some cars .,-33.77721912773435,-270.2177530218748,bad,animate_subject_passive,309,syntax,s-selection,trigram3,-33.70409881514421,-33.77721912773435,TRUE
+Name was n't watched by some people .,-33.70409881514421,-269.63279052115365,good,animate_subject_passive,309,syntax,s-selection,trigram3,-33.70409881514421,-33.77721912773435,TRUE
+Name was n't watched by some cars .,-33.71960475253567,-269.7568380202854,bad,animate_subject_passive,309,syntax,s-selection,trigram4,-33.65528310593195,-33.71960475253567,TRUE
+Name was n't watched by some people .,-33.65528310593195,-269.2422648474556,good,animate_subject_passive,309,syntax,s-selection,trigram4,-33.65528310593195,-33.71960475253567,TRUE
+Name was n't watched by some cars .,-33.692460055934575,-269.5396804474766,bad,animate_subject_passive,309,syntax,s-selection,trigram5,-33.61933974334443,-33.692460055934575,TRUE
+Name was n't watched by some people .,-33.61933974334443,-268.95471794675547,good,animate_subject_passive,309,syntax,s-selection,trigram5,-33.61933974334443,-33.692460055934575,TRUE
+Name was n't watched by some cars .,-33.64161078062666,-269.13288624501325,bad,animate_subject_passive,309,syntax,s-selection,trigram6,-33.596289520703564,-33.64161078062666,TRUE
+Name was n't watched by some people .,-33.596289520703564,-268.7703161656285,good,animate_subject_passive,309,syntax,s-selection,trigram6,-33.596289520703564,-33.64161078062666,TRUE
+Name was n't watched by some cars .,-33.73060644229538,-269.84485153836306,bad,animate_subject_passive,309,syntax,s-selection,trigram7,-33.65748612970524,-33.73060644229538,TRUE
+Name was n't watched by some people .,-33.65748612970524,-269.2598890376419,good,animate_subject_passive,309,syntax,s-selection,trigram7,-33.65748612970524,-33.73060644229538,TRUE
+Name was n't watched by some cars .,-33.66198385244504,-269.2958708195603,bad,animate_subject_passive,309,syntax,s-selection,trigram8,-33.66198385244504,-33.66198385244504,FALSE
+Name was n't watched by some people .,-33.66198385244504,-269.2958708195603,good,animate_subject_passive,309,syntax,s-selection,trigram8,-33.66198385244504,-33.66198385244504,FALSE
+Name was n't watched by some cars .,-33.74122752548511,-269.92982020388087,bad,animate_subject_passive,309,syntax,s-selection,trigram9,-33.7653081602279,-33.74122752548511,FALSE
+Name was n't watched by some people .,-33.7653081602279,-270.1224652818232,good,animate_subject_passive,309,syntax,s-selection,trigram9,-33.7653081602279,-33.74122752548511,FALSE
+some lady is n't seen by the picture .,-33.94881146202017,-305.5393031581815,bad,animate_subject_passive,461,syntax,s-selection,trigram1,-33.7113110704924,-33.94881146202017,TRUE
+some lady is n't seen by the boy .,-33.7113110704924,-303.4017996344316,good,animate_subject_passive,461,syntax,s-selection,trigram1,-33.7113110704924,-33.94881146202017,TRUE
+some lady is n't seen by the picture .,-34.033720794493746,-306.30348715044374,bad,animate_subject_passive,461,syntax,s-selection,trigram10,-33.88055283635445,-34.033720794493746,TRUE
+some lady is n't seen by the boy .,-33.88055283635445,-304.92497552719004,good,animate_subject_passive,461,syntax,s-selection,trigram10,-33.88055283635445,-34.033720794493746,TRUE
+some lady is n't seen by the picture .,-33.8918614365862,-305.02675292927574,bad,animate_subject_passive,461,syntax,s-selection,trigram2,-33.70992477874005,-33.8918614365862,TRUE
+some lady is n't seen by the boy .,-33.70992477874005,-303.3893230086605,good,animate_subject_passive,461,syntax,s-selection,trigram2,-33.70992477874005,-33.8918614365862,TRUE
+some lady is n't seen by the picture .,-34.057247118852075,-306.5152240696687,bad,animate_subject_passive,461,syntax,s-selection,trigram3,-33.718981105590025,-34.057247118852075,TRUE
+some lady is n't seen by the boy .,-33.718981105590025,-303.47082995031025,good,animate_subject_passive,461,syntax,s-selection,trigram3,-33.718981105590025,-34.057247118852075,TRUE
+some lady is n't seen by the picture .,-34.10642637474733,-306.957837372726,bad,animate_subject_passive,461,syntax,s-selection,trigram4,-33.65704925037417,-34.10642637474733,TRUE
+some lady is n't seen by the boy .,-33.65704925037417,-302.9134432533675,good,animate_subject_passive,461,syntax,s-selection,trigram4,-33.65704925037417,-34.10642637474733,TRUE
+some lady is n't seen by the picture .,-33.99225120177792,-305.9302608160013,bad,animate_subject_passive,461,syntax,s-selection,trigram5,-33.77685126229616,-33.99225120177792,TRUE
+some lady is n't seen by the boy .,-33.77685126229616,-303.99166136066543,good,animate_subject_passive,461,syntax,s-selection,trigram5,-33.77685126229616,-33.99225120177792,TRUE
+some lady is n't seen by the picture .,-34.03419681255052,-306.3077713129547,bad,animate_subject_passive,461,syntax,s-selection,trigram6,-33.70086347921719,-34.03419681255052,TRUE
+some lady is n't seen by the boy .,-33.70086347921719,-303.3077713129547,good,animate_subject_passive,461,syntax,s-selection,trigram6,-33.70086347921719,-34.03419681255052,TRUE
+some lady is n't seen by the picture .,-34.2065045326633,-307.8585407939697,bad,animate_subject_passive,461,syntax,s-selection,trigram7,-33.68734616133314,-34.2065045326633,TRUE
+some lady is n't seen by the boy .,-33.68734616133314,-303.18611545199826,good,animate_subject_passive,461,syntax,s-selection,trigram7,-33.68734616133314,-34.2065045326633,TRUE
+some lady is n't seen by the picture .,-33.97788489737744,-305.8009640763969,bad,animate_subject_passive,461,syntax,s-selection,trigram8,-33.70755607434675,-33.97788489737744,TRUE
+some lady is n't seen by the boy .,-33.70755607434675,-303.36800466912075,good,animate_subject_passive,461,syntax,s-selection,trigram8,-33.70755607434675,-33.97788489737744,TRUE
+some lady is n't seen by the picture .,-34.10601450474192,-306.9541305426773,bad,animate_subject_passive,461,syntax,s-selection,trigram9,-33.740969813757225,-34.10601450474192,TRUE
+some lady is n't seen by the boy .,-33.740969813757225,-303.668728323815,good,animate_subject_passive,461,syntax,s-selection,trigram9,-33.740969813757225,-34.10601450474192,TRUE
+every window is n't fixed by some men .,-34.12491840654474,-307.12426565890263,good,animate_subject_passive,495,syntax,s-selection,trigram1,-34.12491840654474,-33.866926396001695,FALSE
+every window is n't fixed by some car .,-33.866926396001695,-304.80233756401526,bad,animate_subject_passive,495,syntax,s-selection,trigram1,-34.12491840654474,-33.866926396001695,FALSE
+every window is n't fixed by some men .,-34.11560586051222,-307.04045274461,good,animate_subject_passive,495,syntax,s-selection,trigram10,-34.11560586051222,-33.8329035809318,FALSE
+every window is n't fixed by some car .,-33.8329035809318,-304.49613222838616,bad,animate_subject_passive,495,syntax,s-selection,trigram10,-34.11560586051222,-33.8329035809318,FALSE
+every window is n't fixed by some men .,-34.24407532563535,-308.1966779307181,good,animate_subject_passive,495,syntax,s-selection,trigram2,-34.24407532563535,-33.77208337969717,FALSE
+every window is n't fixed by some car .,-33.77208337969717,-303.94875041727454,bad,animate_subject_passive,495,syntax,s-selection,trigram2,-34.24407532563535,-33.77208337969717,FALSE
+every window is n't fixed by some men .,-34.13258844164237,-307.19329597478134,good,animate_subject_passive,495,syntax,s-selection,trigram3,-34.13258844164237,-33.79529689611674,FALSE
+every window is n't fixed by some car .,-33.79529689611674,-304.15767206505063,bad,animate_subject_passive,495,syntax,s-selection,trigram3,-34.13258844164237,-33.79529689611674,FALSE
+every window is n't fixed by some men .,-34.17142220816079,-307.5427998734471,good,animate_subject_passive,495,syntax,s-selection,trigram4,-34.17142220816079,-33.838088874827456,FALSE
+every window is n't fixed by some car .,-33.838088874827456,-304.5427998734471,bad,animate_subject_passive,495,syntax,s-selection,trigram4,-34.17142220816079,-33.838088874827456,FALSE
+every window is n't fixed by some men .,-34.07865204385165,-306.70786839466484,good,animate_subject_passive,495,syntax,s-selection,trigram5,-34.07865204385165,-33.84011411181506,FALSE
+every window is n't fixed by some car .,-33.84011411181506,-304.56102700633556,bad,animate_subject_passive,495,syntax,s-selection,trigram5,-34.07865204385165,-33.84011411181506,FALSE
+every window is n't fixed by some men .,-34.08031209024817,-306.72280881223355,good,animate_subject_passive,495,syntax,s-selection,trigram6,-34.08031209024817,-33.78870199414731,FALSE
+every window is n't fixed by some car .,-33.78870199414731,-304.09831794732577,bad,animate_subject_passive,495,syntax,s-selection,trigram6,-34.08031209024817,-33.78870199414731,FALSE
+every window is n't fixed by some men .,-34.17073474434248,-307.53661269908235,good,animate_subject_passive,495,syntax,s-selection,trigram7,-34.17073474434248,-33.87826049817588,FALSE
+every window is n't fixed by some car .,-33.87826049817588,-304.90434448358286,bad,animate_subject_passive,495,syntax,s-selection,trigram7,-34.17073474434248,-33.87826049817588,FALSE
+every window is n't fixed by some men .,-34.12476579680936,-307.1228921712842,good,animate_subject_passive,495,syntax,s-selection,trigram8,-34.12476579680936,-33.85149561696076,FALSE
+every window is n't fixed by some car .,-33.85149561696076,-304.6634605526469,bad,animate_subject_passive,495,syntax,s-selection,trigram8,-34.12476579680936,-33.85149561696076,FALSE
+every window is n't fixed by some men .,-34.181355827532215,-307.63220244778995,good,animate_subject_passive,495,syntax,s-selection,trigram9,-34.181355827532215,-33.8837922825197,FALSE
+every window is n't fixed by some car .,-33.8837922825197,-304.9541305426773,bad,animate_subject_passive,495,syntax,s-selection,trigram9,-34.181355827532215,-33.8837922825197,FALSE
+this bicycle is fixed by the man .,-33.83387073924044,-270.6709659139235,good,animate_subject_passive,522,syntax,s-selection,trigram1,-33.83387073924044,-34.38291041708778,TRUE
+this bicycle is fixed by the bananas .,-34.38291041708778,-275.0632833367022,bad,animate_subject_passive,522,syntax,s-selection,trigram1,-33.83387073924044,-34.38291041708778,TRUE
+this bicycle is fixed by the man .,-33.83737867164077,-270.69902937312617,good,animate_subject_passive,522,syntax,s-selection,trigram10,-33.83737867164077,-34.4028239161479,TRUE
+this bicycle is fixed by the bananas .,-34.4028239161479,-275.2225913291832,bad,animate_subject_passive,522,syntax,s-selection,trigram10,-33.83737867164077,-34.4028239161479,TRUE
+this bicycle is fixed by the man .,-33.82419549756601,-270.5935639805281,good,animate_subject_passive,522,syntax,s-selection,trigram2,-33.82419549756601,-34.35518643674646,TRUE
+this bicycle is fixed by the bananas .,-34.35518643674646,-274.84149149397166,bad,animate_subject_passive,522,syntax,s-selection,trigram2,-33.82419549756601,-34.35518643674646,TRUE
+this bicycle is fixed by the man .,-33.89058045218541,-271.1246436174833,good,animate_subject_passive,522,syntax,s-selection,trigram3,-33.89058045218541,-34.39058045218541,TRUE
+this bicycle is fixed by the bananas .,-34.39058045218541,-275.1246436174833,bad,animate_subject_passive,522,syntax,s-selection,trigram3,-33.89058045218541,-34.39058045218541,TRUE
+this bicycle is fixed by the man .,-33.917725065125815,-271.3418005210065,good,animate_subject_passive,522,syntax,s-selection,trigram4,-33.917725065125815,-34.39364443038301,TRUE
+this bicycle is fixed by the bananas .,-34.39364443038301,-275.1491554430641,bad,animate_subject_passive,522,syntax,s-selection,trigram4,-33.917725065125815,-34.39364443038301,TRUE
+this bicycle is fixed by the man .,-33.84154069067738,-270.732325525419,good,animate_subject_passive,522,syntax,s-selection,trigram5,-33.84154069067738,-34.390580368524716,TRUE
+this bicycle is fixed by the bananas .,-34.390580368524716,-275.12464294819773,bad,animate_subject_passive,522,syntax,s-selection,trigram5,-33.84154069067738,-34.390580368524716,TRUE
+this bicycle is fixed by the man .,-33.856597290727564,-270.8527783258205,good,animate_subject_passive,522,syntax,s-selection,trigram6,-33.856597290727564,-34.367530145883855,TRUE
+this bicycle is fixed by the bananas .,-34.367530145883855,-274.94024116707084,bad,animate_subject_passive,522,syntax,s-selection,trigram6,-33.856597290727564,-34.367530145883855,TRUE
+this bicycle is fixed by the man .,-33.89773581570508,-271.1818865256406,good,animate_subject_passive,522,syntax,s-selection,trigram7,-33.89773581570508,-34.428726754885524,TRUE
+this bicycle is fixed by the bananas .,-34.428726754885524,-275.4298140390842,bad,animate_subject_passive,522,syntax,s-selection,trigram7,-33.89773581570508,-34.428726754885524,TRUE
+this bicycle is fixed by the man .,-33.90105099728875,-271.20840797831,good,animate_subject_passive,522,syntax,s-selection,trigram8,-33.90105099728875,-34.41198385244504,TRUE
+this bicycle is fixed by the bananas .,-34.41198385244504,-275.2958708195603,bad,animate_subject_passive,522,syntax,s-selection,trigram8,-33.90105099728875,-34.41198385244504,TRUE
+this bicycle is fixed by the man .,-33.90835689889481,-271.26685519115847,good,animate_subject_passive,522,syntax,s-selection,trigram9,-33.90835689889481,-34.43934783807526,TRUE
+this bicycle is fixed by the bananas .,-34.43934783807526,-275.51478270460206,bad,animate_subject_passive,522,syntax,s-selection,trigram9,-33.90835689889481,-34.43934783807526,TRUE
+Name was hugged by some children .,-33.644349702596024,-235.51044791817216,good,animate_subject_passive,579,syntax,s-selection,trigram1,-33.644349702596024,-33.72791577412762,TRUE
+Name was hugged by some mirror .,-33.72791577412762,-236.09541041889332,bad,animate_subject_passive,579,syntax,s-selection,trigram1,-33.644349702596024,-33.72791577412762,TRUE
+Name was hugged by some children .,-33.66426320165614,-235.649842411593,good,animate_subject_passive,579,syntax,s-selection,trigram10,-33.66426320165614,-33.831395344719326,TRUE
+Name was hugged by some mirror .,-33.831395344719326,-236.8197674130353,bad,animate_subject_passive,579,syntax,s-selection,trigram10,-33.66426320165614,-33.831395344719326,TRUE
+Name was hugged by some children .,-33.5330596507231,-234.73141755506168,good,animate_subject_passive,579,syntax,s-selection,trigram2,-33.5330596507231,-33.70019179378629,TRUE
+Name was hugged by some mirror .,-33.70019179378629,-235.901342556504,bad,animate_subject_passive,579,syntax,s-selection,trigram2,-33.5330596507231,-33.70019179378629,TRUE
+Name was hugged by some children .,-33.83245322424134,-236.8271725696894,good,animate_subject_passive,579,syntax,s-selection,trigram3,-33.83245322424134,-33.916019295772934,TRUE
+Name was hugged by some mirror .,-33.916019295772934,-237.41213507041056,bad,animate_subject_passive,579,syntax,s-selection,trigram3,-33.83245322424134,-33.916019295772934,TRUE
+Name was hugged by some children .,-33.65508371589126,-235.58558601123883,good,animate_subject_passive,579,syntax,s-selection,trigram4,-33.65508371589126,-33.692660059581804,TRUE
+Name was hugged by some mirror .,-33.692660059581804,-235.84862041707262,bad,animate_subject_passive,579,syntax,s-selection,trigram4,-33.65508371589126,-33.692660059581804,TRUE
+Name was hugged by some children .,-33.735585725564555,-236.14910007895188,good,animate_subject_passive,579,syntax,s-selection,trigram5,-33.735585725564555,-33.81915179709615,TRUE
+Name was hugged by some mirror .,-33.81915179709615,-236.73406257967304,bad,animate_subject_passive,579,syntax,s-selection,trigram5,-33.735585725564555,-33.81915179709615,TRUE
+Name was hugged by some children .,-33.680765157018485,-235.7653560991294,good,animate_subject_passive,579,syntax,s-selection,trigram6,-33.680765157018485,-33.75011184661424,TRUE
+Name was hugged by some mirror .,-33.75011184661424,-236.25078292629965,bad,animate_subject_passive,579,syntax,s-selection,trigram6,-33.680765157018485,-33.75011184661424,TRUE
+Name was hugged by some children .,-33.714441040599816,-236.0010872841987,good,animate_subject_passive,579,syntax,s-selection,trigram7,-33.714441040599816,-33.77373211192536,TRUE
+Name was hugged by some mirror .,-33.77373211192536,-236.41612478347753,bad,animate_subject_passive,579,syntax,s-selection,trigram7,-33.714441040599816,-33.77373211192536,TRUE
+Name was hugged by some children .,-33.72521886357967,-236.0765320450577,good,animate_subject_passive,579,syntax,s-selection,trigram8,-33.72521886357967,-33.79456555317542,TRUE
+Name was hugged by some mirror .,-33.79456555317542,-236.56195887222793,bad,animate_subject_passive,579,syntax,s-selection,trigram8,-33.72521886357967,-33.79456555317542,TRUE
+Name was hugged by some children .,-33.66901677767829,-235.683117443748,good,animate_subject_passive,579,syntax,s-selection,trigram9,-33.66901677767829,-33.70078712358349,TRUE
+Name was hugged by some mirror .,-33.70078712358349,-235.90550986508444,bad,animate_subject_passive,579,syntax,s-selection,trigram9,-33.66901677767829,-33.70078712358349,TRUE
+these cars were n't thought about by the boys .,-33.965917916943546,-339.65917916943545,good,animate_subject_passive,708,syntax,s-selection,trigram1,-33.965917916943546,-33.504120161148634,FALSE
+these cars were n't thought about by the door .,-33.504120161148634,-335.0412016114864,bad,animate_subject_passive,708,syntax,s-selection,trigram1,-33.965917916943546,-33.504120161148634,FALSE
+these cars were n't thought about by the boys .,-33.98583141600367,-339.8583141600367,good,animate_subject_passive,708,syntax,s-selection,trigram10,-33.98583141600367,-33.49838450421206,FALSE
+these cars were n't thought about by the door .,-33.49838450421206,-334.9838450421206,bad,animate_subject_passive,708,syntax,s-selection,trigram10,-33.98583141600367,-33.49838450421206,FALSE
+these cars were n't thought about by the boys .,-34.05518643674646,-340.5518643674646,good,animate_subject_passive,708,syntax,s-selection,trigram2,-34.05518643674646,-33.457458444396465,FALSE
+these cars were n't thought about by the door .,-33.457458444396465,-334.5745844439646,bad,animate_subject_passive,708,syntax,s-selection,trigram2,-34.05518643674646,-33.457458444396465,FALSE
+these cars were n't thought about by the boys .,-34.009844959979645,-340.0984495997965,good,animate_subject_passive,708,syntax,s-selection,trigram3,-34.009844959979645,-33.54463729032168,FALSE
+these cars were n't thought about by the door .,-33.54463729032168,-335.4463729032168,bad,animate_subject_passive,708,syntax,s-selection,trigram3,-34.009844959979645,-33.54463729032168,FALSE
+these cars were n't thought about by the boys .,-34.012908938177254,-340.12908938177253,good,animate_subject_passive,708,syntax,s-selection,trigram4,-34.012908938177254,-33.62640189618587,FALSE
+these cars were n't thought about by the door .,-33.62640189618587,-336.26401896185865,bad,animate_subject_passive,708,syntax,s-selection,trigram4,-34.012908938177254,-33.62640189618587,FALSE
+these cars were n't thought about by the boys .,-34.00984487631895,-340.09844876318954,good,animate_subject_passive,708,syntax,s-selection,trigram5,-34.00984487631895,-33.48834358722187,FALSE
+these cars were n't thought about by the door .,-33.48834358722187,-334.8834358722187,bad,animate_subject_passive,708,syntax,s-selection,trigram5,-34.00984487631895,-33.48834358722187,FALSE
+these cars were n't thought about by the boys .,-33.986794653678096,-339.86794653678095,good,animate_subject_passive,708,syntax,s-selection,trigram6,-33.986794653678096,-33.540851491814365,FALSE
+these cars were n't thought about by the door .,-33.540851491814365,-335.4085149181437,bad,animate_subject_passive,708,syntax,s-selection,trigram6,-33.986794653678096,-33.540851491814365,FALSE
+these cars were n't thought about by the boys .,-34.17023050481341,-341.7023050481341,good,animate_subject_passive,708,syntax,s-selection,trigram7,-34.17023050481341,-33.545437753469045,FALSE
+these cars were n't thought about by the door .,-33.545437753469045,-335.4543775346905,bad,animate_subject_passive,708,syntax,s-selection,trigram7,-34.17023050481341,-33.545437753469045,FALSE
+these cars were n't thought about by the boys .,-34.053487602372925,-340.5348760237292,good,animate_subject_passive,708,syntax,s-selection,trigram8,-34.053487602372925,-33.447598233467566,FALSE
+these cars were n't thought about by the door .,-33.447598233467566,-334.4759823346757,bad,animate_subject_passive,708,syntax,s-selection,trigram8,-34.053487602372925,-33.447598233467566,FALSE
+these cars were n't thought about by the boys .,-34.03934783807526,-340.3934783807526,good,animate_subject_passive,708,syntax,s-selection,trigram9,-34.03934783807526,-33.47824535834452,FALSE
+these cars were n't thought about by the door .,-33.47824535834452,-334.7824535834452,bad,animate_subject_passive,708,syntax,s-selection,trigram9,-34.03934783807526,-33.47824535834452,FALSE
+a plate is n't found by some chairs .,-34.20680347256321,-307.86123125306887,bad,animate_subject_passive,710,syntax,s-selection,trigram1,-34.03069652803863,-34.20680347256321,TRUE
+a plate is n't found by some children .,-34.03069652803863,-306.2762687523477,good,animate_subject_passive,710,syntax,s-selection,trigram1,-34.03069652803863,-34.20680347256321,TRUE
+a plate is n't found by some chairs .,-34.22671697162333,-308.04045274461,bad,animate_subject_passive,710,syntax,s-selection,trigram10,-34.05061002709876,-34.22671697162333,TRUE
+a plate is n't found by some children .,-34.05061002709876,-306.4554902438888,good,animate_subject_passive,710,syntax,s-selection,trigram10,-34.05061002709876,-34.22671697162333,TRUE
+a plate is n't found by some chairs .,-34.17907949222188,-307.61171542999693,bad,animate_subject_passive,710,syntax,s-selection,trigram2,-34.00297254769731,-34.17907949222188,TRUE
+a plate is n't found by some children .,-34.00297254769731,-306.0267529292758,good,animate_subject_passive,710,syntax,s-selection,trigram2,-34.00297254769731,-34.17907949222188,TRUE
+a plate is n't found by some chairs .,-34.16835822996319,-307.5152240696687,bad,animate_subject_passive,710,syntax,s-selection,trigram3,-34.214473507660834,-34.16835822996319,FALSE
+a plate is n't found by some children .,-34.214473507660834,-307.9302615689475,good,animate_subject_passive,710,syntax,s-selection,trigram3,-34.214473507660834,-34.16835822996319,FALSE
+a plate is n't found by some chairs .,-34.2825333192719,-308.5427998734471,bad,animate_subject_passive,710,syntax,s-selection,trigram4,-34.10642637474733,-34.2825333192719,TRUE
+a plate is n't found by some children .,-34.10642637474733,-306.957837372726,good,animate_subject_passive,710,syntax,s-selection,trigram4,-34.10642637474733,-34.2825333192719,TRUE
+a plate is n't found by some chairs .,-34.21447342400015,-307.9302608160013,bad,animate_subject_passive,710,syntax,s-selection,trigram5,-34.10336231288903,-34.21447342400015,TRUE
+a plate is n't found by some children .,-34.10336231288903,-306.9302608160013,good,animate_subject_passive,710,syntax,s-selection,trigram5,-34.10336231288903,-34.21447342400015,TRUE
+a plate is n't found by some chairs .,-34.191423201359285,-307.72280881223355,bad,animate_subject_passive,710,syntax,s-selection,trigram6,-34.055601821210786,-34.191423201359285,TRUE
+a plate is n't found by some children .,-34.055601821210786,-306.5004163908971,good,animate_subject_passive,710,syntax,s-selection,trigram6,-34.055601821210786,-34.191423201359285,TRUE
+a plate is n't found by some chairs .,-34.2065045326633,-307.8585407939697,bad,animate_subject_passive,710,syntax,s-selection,trigram7,-34.09539342155219,-34.2065045326633,TRUE
+a plate is n't found by some children .,-34.09539342155219,-306.8585407939697,good,animate_subject_passive,710,syntax,s-selection,trigram7,-34.09539342155219,-34.2065045326633,TRUE
+a plate is n't found by some chairs .,-34.18976163022282,-307.70785467200534,bad,animate_subject_passive,710,syntax,s-selection,trigram8,-34.10005552777197,-34.18976163022282,TRUE
+a plate is n't found by some children .,-34.10005552777197,-306.90049974994776,good,animate_subject_passive,710,syntax,s-selection,trigram8,-34.10005552777197,-34.18976163022282,TRUE
+a plate is n't found by some chairs .,-34.26324089355068,-308.36916804195613,bad,animate_subject_passive,710,syntax,s-selection,trigram9,-34.12741951340219,-34.26324089355068,TRUE
+a plate is n't found by some children .,-34.12741951340219,-307.1467756206197,good,animate_subject_passive,710,syntax,s-selection,trigram9,-34.12741951340219,-34.26324089355068,TRUE
+Name is n't thought about by the ladies .,-33.26400808992369,-299.3760728093132,good,animate_subject_passive,75,syntax,s-selection,trigram1,-33.26400808992369,-33.52200010046673,TRUE
+Name is n't thought about by the windows .,-33.52200010046673,-301.69800090420057,bad,animate_subject_passive,75,syntax,s-selection,trigram1,-33.26400808992369,-33.52200010046673,TRUE
+Name is n't thought about by the ladies .,-33.42139169235182,-300.7925252311664,good,animate_subject_passive,75,syntax,s-selection,trigram10,-33.42139169235182,-33.597498636876395,TRUE
+Name is n't thought about by the windows .,-33.597498636876395,-302.3774877318875,bad,animate_subject_passive,75,syntax,s-selection,trigram10,-33.42139169235182,-33.597498636876395,TRUE
+Name is n't thought about by the ladies .,-33.22547330943182,-299.0292597848864,good,animate_subject_passive,75,syntax,s-selection,trigram2,-33.22547330943182,-33.48346531997486,TRUE
+Name is n't thought about by the windows .,-33.48346531997486,-301.35118787977376,bad,animate_subject_passive,75,syntax,s-selection,trigram2,-33.22547330943182,-33.48346531997486,TRUE
+Name is n't thought about by the ladies .,-33.42119002406097,-300.79071021654875,good,animate_subject_passive,75,syntax,s-selection,trigram3,-33.42119002406097,-33.597296968585546,TRUE
+Name is n't thought about by the windows .,-33.597296968585546,-302.37567271726994,bad,animate_subject_passive,75,syntax,s-selection,trigram3,-33.42119002406097,-33.597296968585546,TRUE
+Name is n't thought about by the ladies .,-33.3887117504543,-300.4984057540887,good,animate_subject_passive,75,syntax,s-selection,trigram4,-33.3887117504543,-33.56481869497887,TRUE
+Name is n't thought about by the windows .,-33.56481869497887,-302.08336825480984,bad,animate_subject_passive,75,syntax,s-selection,trigram4,-33.3887117504543,-33.56481869497887,TRUE
+Name is n't thought about by the ladies .,-33.31121975545071,-299.80097779905634,good,animate_subject_passive,75,syntax,s-selection,trigram5,-33.31121975545071,-33.56921176599374,TRUE
+Name is n't thought about by the windows .,-33.56921176599374,-302.1229058939437,bad,animate_subject_passive,75,syntax,s-selection,trigram5,-33.31121975545071,-33.56921176599374,TRUE
+Name is n't thought about by the ladies .,-33.35032813376696,-300.1529532039026,good,animate_subject_passive,75,syntax,s-selection,trigram6,-33.35032813376696,-33.52643507829153,TRUE
+Name is n't thought about by the windows .,-33.52643507829153,-301.73791570462373,bad,animate_subject_passive,75,syntax,s-selection,trigram6,-33.35032813376696,-33.52643507829153,TRUE
+Name is n't thought about by the ladies .,-33.41579964808136,-300.74219683273225,good,animate_subject_passive,75,syntax,s-selection,trigram7,-33.41579964808136,-33.6737916586244,TRUE
+Name is n't thought about by the windows .,-33.6737916586244,-303.0641249276196,bad,animate_subject_passive,75,syntax,s-selection,trigram7,-33.41579964808136,-33.6737916586244,TRUE
+Name is n't thought about by the ladies .,-33.33262323937103,-299.9936091543393,good,animate_subject_passive,75,syntax,s-selection,trigram8,-33.33262323937103,-33.590615249914066,TRUE
+Name is n't thought about by the windows .,-33.590615249914066,-302.3155372492266,bad,animate_subject_passive,75,syntax,s-selection,trigram8,-33.33262323937103,-33.590615249914066,TRUE
+Name is n't thought about by the ladies .,-33.664094513241935,-302.9768506191774,good,animate_subject_passive,75,syntax,s-selection,trigram9,-33.664094513241935,-33.664094513241935,FALSE
+Name is n't thought about by the windows .,-33.664094513241935,-302.9768506191774,bad,animate_subject_passive,75,syntax,s-selection,trigram9,-33.664094513241935,-33.664094513241935,FALSE
+Name is n't seen by some mouth .,-32.83390428716726,-262.67123429733806,bad,animate_subject_passive,804,syntax,s-selection,trigram1,-33.12414529902818,-32.83390428716726,FALSE
+Name is n't seen by some ladies .,-33.12414529902818,-264.99316239222543,good,animate_subject_passive,804,syntax,s-selection,trigram1,-33.12414529902818,-32.83390428716726,FALSE
+Name is n't seen by some mouth .,-32.86628371204765,-262.9302696963812,bad,animate_subject_passive,804,syntax,s-selection,trigram10,-33.298712664377305,-32.86628371204765,FALSE
+Name is n't seen by some ladies .,-33.298712664377305,-266.38970131501844,good,animate_subject_passive,804,syntax,s-selection,trigram10,-33.298712664377305,-32.86628371204765,FALSE
+Name is n't seen by some mouth .,-32.78694521561077,-262.29556172488617,bad,animate_subject_passive,804,syntax,s-selection,trigram2,-33.08425916851749,-32.78694521561077,FALSE
+Name is n't seen by some ladies .,-33.08425916851749,-264.6740733481399,good,animate_subject_passive,804,syntax,s-selection,trigram2,-33.08425916851749,-32.78694521561077,FALSE
+Name is n't seen by some mouth .,-32.976895907955274,-263.8151672636422,bad,animate_subject_passive,804,syntax,s-selection,trigram3,-33.300016220545416,-32.976895907955274,FALSE
+Name is n't seen by some ladies .,-33.300016220545416,-266.4001297643633,good,animate_subject_passive,804,syntax,s-selection,trigram3,-33.300016220545416,-32.976895907955274,FALSE
+Name is n't seen by some mouth .,-32.88073345433152,-263.04586763465215,bad,animate_subject_passive,804,syntax,s-selection,trigram4,-33.26309516546321,-32.88073345433152,FALSE
+Name is n't seen by some ladies .,-33.26309516546321,-266.1047613237057,good,animate_subject_passive,804,syntax,s-selection,trigram4,-33.26309516546321,-32.88073345433152,FALSE
+Name is n't seen by some mouth .,-32.84154069067738,-262.732325525419,bad,animate_subject_passive,804,syntax,s-selection,trigram5,-33.176299678816456,-32.84154069067738,FALSE
+Name is n't seen by some ladies .,-33.176299678816456,-265.41039743053165,good,animate_subject_passive,804,syntax,s-selection,trigram5,-33.176299678816456,-32.84154069067738,FALSE
+Name is n't seen by some mouth .,-32.83374323007485,-262.6699458405988,bad,animate_subject_passive,804,syntax,s-selection,trigram6,-33.223177882252344,-32.83374323007485,FALSE
+Name is n't seen by some ladies .,-33.223177882252344,-265.78542305801875,good,animate_subject_passive,804,syntax,s-selection,trigram6,-33.223177882252344,-32.83374323007485,FALSE
+Name is n't seen by some mouth .,-32.9660634471407,-263.7285075771256,bad,animate_subject_passive,804,syntax,s-selection,trigram7,-33.28918375973085,-32.9660634471407,FALSE
+Name is n't seen by some ladies .,-33.28918375973085,-266.3134700778468,good,animate_subject_passive,804,syntax,s-selection,trigram7,-33.28918375973085,-32.9660634471407,FALSE
+Name is n't seen by some mouth .,-32.85739490967789,-262.85915927742315,bad,animate_subject_passive,804,syntax,s-selection,trigram8,-33.19770316273678,-32.85739490967789,FALSE
+Name is n't seen by some ladies .,-33.19770316273678,-265.58162530189423,good,animate_subject_passive,804,syntax,s-selection,trigram8,-33.19770316273678,-32.85739490967789,FALSE
+Name is n't seen by some mouth .,-32.947913308839404,-263.58330647071523,bad,animate_subject_passive,804,syntax,s-selection,trigram9,-33.56718784763777,-32.947913308839404,FALSE
+Name is n't seen by some ladies .,-33.56718784763777,-268.53750278110215,good,animate_subject_passive,804,syntax,s-selection,trigram9,-33.56718784763777,-32.947913308839404,FALSE
+Name is n't watched by some fish .,-32.9384669456319,-263.5077355650552,bad,animate_subject_passive,91,syntax,s-selection,trigram1,-33.01814568570881,-32.9384669456319,FALSE
+Name is n't watched by some children .,-33.01814568570881,-264.1451654856705,good,animate_subject_passive,91,syntax,s-selection,trigram1,-33.01814568570881,-32.9384669456319,FALSE
+Name is n't watched by some fish .,-32.98590012181116,-263.88720097448925,bad,animate_subject_passive,91,syntax,s-selection,trigram10,-33.100592351787164,-32.98590012181116,FALSE
+Name is n't watched by some children .,-33.100592351787164,-264.8047388142973,good,animate_subject_passive,91,syntax,s-selection,trigram10,-33.100592351787164,-32.98590012181116,FALSE
+Name is n't watched by some fish .,-32.87450018037841,-262.9960014430273,bad,animate_subject_passive,91,syntax,s-selection,trigram2,-32.97825955519812,-32.87450018037841,FALSE
+Name is n't watched by some children .,-32.97825955519812,-263.826076441585,good,animate_subject_passive,91,syntax,s-selection,trigram2,-32.97825955519812,-32.87450018037841,FALSE
+Name is n't watched by some fish .,-32.987203677979274,-263.8976294238342,bad,animate_subject_passive,91,syntax,s-selection,trigram3,-33.300016220545416,-32.987203677979274,FALSE
+Name is n't watched by some children .,-33.300016220545416,-266.4001297643633,good,animate_subject_passive,91,syntax,s-selection,trigram3,-33.300016220545416,-32.987203677979274,FALSE
+Name is n't watched by some fish .,-32.95028262289706,-263.6022609831765,bad,animate_subject_passive,91,syntax,s-selection,trigram4,-33.13809516546321,-32.95028262289706,FALSE
+Name is n't watched by some children .,-33.13809516546321,-265.1047613237057,good,animate_subject_passive,91,syntax,s-selection,trigram4,-33.13809516546321,-32.95028262289706,FALSE
+Name is n't watched by some fish .,-33.03411173834771,-264.2728939067817,bad,animate_subject_passive,91,syntax,s-selection,trigram5,-33.14342037808723,-33.03411173834771,FALSE
+Name is n't watched by some children .,-33.14342037808723,-265.1473630246978,good,animate_subject_passive,91,syntax,s-selection,trigram5,-33.14342037808723,-33.03411173834771,FALSE
+Name is n't watched by some fish .,-32.921298194842485,-263.3703855587399,bad,animate_subject_passive,91,syntax,s-selection,trigram6,-33.07037882958529,-32.921298194842485,FALSE
+Name is n't watched by some children .,-33.07037882958529,-264.5630306366823,good,animate_subject_passive,91,syntax,s-selection,trigram6,-33.07037882958529,-32.921298194842485,FALSE
+Name is n't watched by some fish .,-33.10350540633456,-264.8280432506765,bad,animate_subject_passive,91,syntax,s-selection,trigram7,-33.20442477159176,-33.10350540633456,FALSE
+Name is n't watched by some children .,-33.20442477159176,-265.6353981727341,good,animate_subject_passive,91,syntax,s-selection,trigram7,-33.20442477159176,-33.10350540633456,FALSE
+Name is n't watched by some fish .,-32.97701131944141,-263.8160905555313,bad,animate_subject_passive,91,syntax,s-selection,trigram8,-33.1370248093405,-32.97701131944141,FALSE
+Name is n't watched by some children .,-33.1370248093405,-265.096198474724,good,animate_subject_passive,91,syntax,s-selection,trigram8,-33.1370248093405,-32.97701131944141,FALSE
+Name is n't watched by some fish .,-33.03619690845732,-264.28957526765856,bad,animate_subject_passive,91,syntax,s-selection,trigram9,-33.21626848238056,-33.03619690845732,FALSE
+Name is n't watched by some children .,-33.21626848238056,-265.7301478590445,good,animate_subject_passive,91,syntax,s-selection,trigram9,-33.21626848238056,-33.03619690845732,FALSE
+a school is n't run around by the lady .,-34.15071760759904,-341.5071760759904,good,animate_subject_passive,939,syntax,s-selection,trigram1,-34.15071760759904,-33.90217492488202,FALSE
+a school is n't run around by the bird .,-33.90217492488202,-339.0217492488202,bad,animate_subject_passive,939,syntax,s-selection,trigram1,-34.15071760759904,-33.90217492488202,FALSE
+a school is n't run around by the lady .,-34.170631106659165,-341.70631106659164,good,animate_subject_passive,939,syntax,s-selection,trigram10,-34.170631106659165,-34.01213485658705,FALSE
+a school is n't run around by the bird .,-34.01213485658705,-340.1213485658705,bad,animate_subject_passive,939,syntax,s-selection,trigram10,-34.170631106659165,-34.01213485658705,FALSE
+a school is n't run around by the lady .,-34.15518643674646,-341.5518643674646,good,animate_subject_passive,939,syntax,s-selection,trigram2,-34.15518643674646,-34.02299362725772,FALSE
+a school is n't run around by the bird .,-34.02299362725772,-340.2299362725772,bad,animate_subject_passive,939,syntax,s-selection,trigram2,-34.15518643674646,-34.02299362725772,FALSE
+a school is n't run around by the lady .,-34.190580452185415,-341.9058045218541,good,animate_subject_passive,939,syntax,s-selection,trigram3,-34.190580452185415,-33.90984495997965,FALSE
+a school is n't run around by the bird .,-33.90984495997965,-339.0984495997965,bad,animate_subject_passive,939,syntax,s-selection,trigram3,-34.190580452185415,-33.90984495997965,FALSE
+a school is n't run around by the lady .,-34.16145162089428,-341.61451620894275,good,animate_subject_passive,939,syntax,s-selection,trigram4,-34.16145162089428,-34.09364443038301,FALSE
+a school is n't run around by the bird .,-34.09364443038301,-340.9364443038301,bad,animate_subject_passive,939,syntax,s-selection,trigram4,-34.16145162089428,-34.09364443038301,FALSE
+a school is n't run around by the lady .,-34.290580368524715,-342.9058036852471,good,animate_subject_passive,939,syntax,s-selection,trigram5,-34.290580368524715,-33.95134862624684,FALSE
+a school is n't run around by the bird .,-33.95134862624684,-339.5134862624684,bad,animate_subject_passive,939,syntax,s-selection,trigram5,-34.290580368524715,-33.95134862624684,FALSE
+a school is n't run around by the lady .,-34.13533733639512,-341.35337336395116,good,animate_subject_passive,939,syntax,s-selection,trigram6,-34.13533733639512,-34.03533733639512,FALSE
+a school is n't run around by the bird .,-34.03533733639512,-340.35337336395116,bad,animate_subject_passive,939,syntax,s-selection,trigram6,-34.13533733639512,-34.03533733639512,FALSE
+a school is n't run around by the lady .,-34.27023050481341,-342.7023050481341,good,animate_subject_passive,939,syntax,s-selection,trigram7,-34.27023050481341,-34.19653394539679,FALSE
+a school is n't run around by the bird .,-34.19653394539679,-341.9653394539679,bad,animate_subject_passive,939,syntax,s-selection,trigram7,-34.27023050481341,-34.19653394539679,FALSE
+a school is n't run around by the lady .,-34.21198385244504,-342.11983852445036,good,animate_subject_passive,939,syntax,s-selection,trigram8,-34.21198385244504,-33.93124836023928,FALSE
+a school is n't run around by the bird .,-33.93124836023928,-339.3124836023928,bad,animate_subject_passive,939,syntax,s-selection,trigram8,-34.21198385244504,-33.93124836023928,FALSE
+a school is n't run around by the lady .,-34.28085158800314,-342.8085158800314,good,animate_subject_passive,939,syntax,s-selection,trigram9,-34.28085158800314,-34.08085158800314,FALSE
+a school is n't run around by the bird .,-34.08085158800314,-340.8085158800314,bad,animate_subject_passive,939,syntax,s-selection,trigram9,-34.28085158800314,-34.08085158800314,FALSE
+that door was n't seen by the men .,-34.01380729543362,-306.12426565890263,good,animate_subject_passive,946,syntax,s-selection,trigram1,-34.01380729543362,-33.46859722925491,FALSE
+that door was n't seen by the book .,-33.46859722925491,-301.2173750632942,bad,animate_subject_passive,946,syntax,s-selection,trigram1,-34.01380729543362,-33.46859722925491,FALSE
+that door was n't seen by the men .,-33.89338363829,-305.04045274461,good,animate_subject_passive,946,syntax,s-selection,trigram10,-33.89338363829,-33.42351489490156,FALSE
+that door was n't seen by the book .,-33.42351489490156,-300.81163405411405,bad,animate_subject_passive,946,syntax,s-selection,trigram10,-33.89338363829,-33.42351489490156,FALSE
+that door was n't seen by the men .,-34.13296421452424,-307.1966779307181,good,animate_subject_passive,946,syntax,s-selection,trigram2,-34.13296421452424,-33.42270672310437,FALSE
+that door was n't seen by the book .,-33.42270672310437,-300.8043605079393,bad,animate_subject_passive,946,syntax,s-selection,trigram2,-34.13296421452424,-33.42270672310437,FALSE
+that door was n't seen by the men .,-33.91036621942015,-305.19329597478134,good,animate_subject_passive,946,syntax,s-selection,trigram3,-33.91036621942015,-33.36093750321931,FALSE
+that door was n't seen by the book .,-33.36093750321931,-300.2484375289738,bad,animate_subject_passive,946,syntax,s-selection,trigram3,-33.91036621942015,-33.36093750321931,FALSE
+that door was n't seen by the men .,-33.94919998593857,-305.5427998734471,good,animate_subject_passive,946,syntax,s-selection,trigram4,-33.94919998593857,-33.39616888332747,FALSE
+that door was n't seen by the book .,-33.39616888332747,-300.5655199499472,bad,animate_subject_passive,946,syntax,s-selection,trigram4,-33.94919998593857,-33.39616888332747,FALSE
+that door was n't seen by the men .,-33.856429821629426,-304.70786839466484,good,animate_subject_passive,946,syntax,s-selection,trigram5,-33.856429821629426,-33.44704113559921,FALSE
+that door was n't seen by the book .,-33.44704113559921,-301.02337022039285,bad,animate_subject_passive,946,syntax,s-selection,trigram5,-33.856429821629426,-33.44704113559921,FALSE
+that door was n't seen by the men .,-33.85808986802595,-304.72280881223355,good,animate_subject_passive,946,syntax,s-selection,trigram6,-33.85808986802595,-33.39476486786569,FALSE
+that door was n't seen by the book .,-33.39476486786569,-300.55288381079123,bad,animate_subject_passive,946,syntax,s-selection,trigram6,-33.85808986802595,-33.39476486786569,FALSE
+that door was n't seen by the men .,-34.059623633231375,-306.53661269908235,good,animate_subject_passive,946,syntax,s-selection,trigram7,-34.059623633231375,-33.51494879108574,FALSE
+that door was n't seen by the book .,-33.51494879108574,-301.63453911977166,bad,animate_subject_passive,946,syntax,s-selection,trigram7,-34.059623633231375,-33.51494879108574,FALSE
+that door was n't seen by the men .,-33.902543574587135,-305.1228921712842,good,animate_subject_passive,946,syntax,s-selection,trigram8,-33.902543574587135,-33.394220370580776,FALSE
+that door was n't seen by the book .,-33.394220370580776,-300.547983335227,bad,animate_subject_passive,946,syntax,s-selection,trigram8,-33.902543574587135,-33.394220370580776,FALSE
+that door was n't seen by the men .,-33.959133605309994,-305.63220244778995,good,animate_subject_passive,946,syntax,s-selection,trigram9,-33.959133605309994,-33.50686812443317,FALSE
+that door was n't seen by the book .,-33.50686812443317,-301.5618131198985,bad,animate_subject_passive,946,syntax,s-selection,trigram9,-33.959133605309994,-33.50686812443317,FALSE
+Name was n't left by the tomato .,-33.88291041708778,-271.0632833367022,bad,animate_subject_passive,991,syntax,s-selection,trigram1,-33.53199105183058,-33.88291041708778,TRUE
+Name was n't left by the driver .,-33.53199105183058,-268.25592841464464,good,animate_subject_passive,991,syntax,s-selection,trigram1,-33.53199105183058,-33.88291041708778,TRUE
+Name was n't left by the tomato .,-33.9028239161479,-271.2225913291832,bad,animate_subject_passive,991,syntax,s-selection,trigram10,-33.61258290428698,-33.9028239161479,TRUE
+Name was n't left by the driver .,-33.61258290428698,-268.90066323429585,good,animate_subject_passive,991,syntax,s-selection,trigram10,-33.61258290428698,-33.9028239161479,TRUE
+Name was n't left by the tomato .,-33.90706612415631,-271.25652899325047,bad,animate_subject_passive,991,syntax,s-selection,trigram2,-33.61682511229539,-33.90706612415631,TRUE
+Name was n't left by the driver .,-33.61682511229539,-268.9346008983631,good,animate_subject_passive,991,syntax,s-selection,trigram2,-33.61682511229539,-33.90706612415631,TRUE
+Name was n't left by the tomato .,-34.1003394403245,-272.802715522596,bad,animate_subject_passive,991,syntax,s-selection,trigram3,-33.65221912773435,-34.1003394403245,TRUE
+Name was n't left by the driver .,-33.65221912773435,-269.2177530218748,good,animate_subject_passive,991,syntax,s-selection,trigram3,-33.65221912773435,-34.1003394403245,TRUE
+Name was n't left by the tomato .,-33.94552411779287,-271.56419294234297,bad,animate_subject_passive,991,syntax,s-selection,trigram4,-33.69552411779287,-33.94552411779287,TRUE
+Name was n't left by the driver .,-33.69552411779287,-269.56419294234297,good,animate_subject_passive,991,syntax,s-selection,trigram4,-33.69552411779287,-33.94552411779287,TRUE
+Name was n't left by the tomato .,-33.890580368524716,-271.12464294819773,bad,animate_subject_passive,991,syntax,s-selection,trigram5,-33.567460055934575,-33.890580368524716,TRUE
+Name was n't left by the driver .,-33.567460055934575,-268.5396804474766,good,animate_subject_passive,991,syntax,s-selection,trigram5,-33.567460055934575,-33.890580368524716,TRUE
+Name was n't left by the tomato .,-33.867530145883855,-270.94024116707084,bad,animate_subject_passive,991,syntax,s-selection,trigram6,-33.54440983329371,-33.867530145883855,TRUE
+Name was n't left by the driver .,-33.54440983329371,-268.3552786663497,good,animate_subject_passive,991,syntax,s-selection,trigram6,-33.54440983329371,-33.867530145883855,TRUE
+Name was n't left by the tomato .,-33.928726754885524,-271.4298140390842,bad,animate_subject_passive,991,syntax,s-selection,trigram7,-33.60560644229538,-33.928726754885524,TRUE
+Name was n't left by the driver .,-33.60560644229538,-268.84485153836306,good,animate_subject_passive,991,syntax,s-selection,trigram7,-33.60560644229538,-33.928726754885524,TRUE
+Name was n't left by the tomato .,-33.91198385244504,-271.2958708195603,bad,animate_subject_passive,991,syntax,s-selection,trigram8,-33.5888635398549,-33.91198385244504,TRUE
+Name was n't left by the driver .,-33.5888635398549,-268.7109083188392,good,animate_subject_passive,991,syntax,s-selection,trigram8,-33.5888635398549,-33.91198385244504,TRUE
+Name was n't left by the tomato .,-33.99122752548511,-271.92982020388087,bad,animate_subject_passive,991,syntax,s-selection,trigram9,-33.74122752548511,-33.99122752548511,TRUE
+Name was n't left by the driver .,-33.74122752548511,-269.92982020388087,good,animate_subject_passive,991,syntax,s-selection,trigram9,-33.74122752548511,-33.99122752548511,TRUE
+Name is sounded like by the man .,-33.15558764490267,-265.24470115922134,good,animate_subject_passive,998,syntax,s-selection,trigram1,-33.15558764490267,-33.38150701015987,TRUE
+Name is sounded like by the bread .,-33.38150701015987,-267.052056081279,bad,animate_subject_passive,998,syntax,s-selection,trigram1,-33.15558764490267,-33.38150701015987,TRUE
+Name is sounded like by the man .,-33.18138773246032,-265.4511018596826,good,animate_subject_passive,998,syntax,s-selection,trigram10,-33.18138773246032,-33.496832976967454,TRUE
+Name is sounded like by the bread .,-33.496832976967454,-267.97466381573963,bad,animate_subject_passive,998,syntax,s-selection,trigram10,-33.18138773246032,-33.496832976967454,TRUE
+Name is sounded like by the man .,-33.133750253058885,-265.0700020244711,good,animate_subject_passive,998,syntax,s-selection,trigram2,-33.133750253058885,-33.53974119223933,TRUE
+Name is sounded like by the bread .,-33.53974119223933,-268.31792953791467,bad,animate_subject_passive,998,syntax,s-selection,trigram2,-33.133750253058885,-33.53974119223933,TRUE
+Name is sounded like by the man .,-33.196256845725706,-265.57005476580565,good,animate_subject_passive,998,syntax,s-selection,trigram3,-33.196256845725706,-33.373136533135565,TRUE
+Name is sounded like by the bread .,-33.373136533135565,-266.9850922650845,bad,animate_subject_passive,998,syntax,s-selection,trigram3,-33.196256845725706,-33.373136533135565,TRUE
+Name is sounded like by the man .,-33.23529611279616,-265.88236890236925,good,animate_subject_passive,998,syntax,s-selection,trigram4,-33.23529611279616,-33.461215478053354,TRUE
+Name is sounded like by the bread .,-33.461215478053354,-267.68972382442684,bad,animate_subject_passive,998,syntax,s-selection,trigram4,-33.23529611279616,-33.461215478053354,TRUE
+Name is sounded like by the man .,-33.16750101283003,-265.34000810264024,good,animate_subject_passive,998,syntax,s-selection,trigram5,-33.16750101283003,-33.39342037808723,TRUE
+Name is sounded like by the bread .,-33.39342037808723,-267.1473630246978,bad,animate_subject_passive,998,syntax,s-selection,trigram5,-33.16750101283003,-33.39342037808723,TRUE
+Name is sounded like by the man .,-33.200606351547115,-265.6048508123769,good,animate_subject_passive,998,syntax,s-selection,trigram6,-33.200606351547115,-33.388418894113265,TRUE
+Name is sounded like by the bread .,-33.388418894113265,-267.1073511529061,bad,animate_subject_passive,998,syntax,s-selection,trigram6,-33.200606351547115,-33.388418894113265,TRUE
+Name is sounded like by the man .,-33.24655414500146,-265.9724331600117,good,animate_subject_passive,998,syntax,s-selection,trigram7,-33.24655414500146,-33.65254508418191,TRUE
+Name is sounded like by the bread .,-33.65254508418191,-269.2203606734553,bad,animate_subject_passive,998,syntax,s-selection,trigram7,-33.24655414500146,-33.65254508418191,TRUE
+Name is sounded like by the man .,-33.22701131944141,-265.8160905555313,good,animate_subject_passive,998,syntax,s-selection,trigram8,-33.22701131944141,-33.41482386200755,TRUE
+Name is sounded like by the bread .,-33.41482386200755,-267.3185908960604,bad,animate_subject_passive,998,syntax,s-selection,trigram8,-33.22701131944141,-33.41482386200755,TRUE
+Name is sounded like by the man .,-33.23431722104746,-265.8745377683797,good,animate_subject_passive,998,syntax,s-selection,trigram9,-33.23431722104746,-33.51530816022791,TRUE
+Name is sounded like by the bread .,-33.51530816022791,-268.1224652818233,bad,animate_subject_passive,998,syntax,s-selection,trigram9,-33.23431722104746,-33.51530816022791,TRUE

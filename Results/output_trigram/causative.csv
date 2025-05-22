@@ -1,0 +1,461 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+Name went fishing Name .,-32.24984323365075,-161.24921616825375,bad,causative,116,syntax,argument_structure,trigram1,-32.44984323365075,-32.24984323365075,FALSE
+Name sits down Name .,-32.44984323365075,-162.24921616825375,good,causative,116,syntax,argument_structure,trigram1,-32.44984323365075,-32.24984323365075,FALSE
+Name went fishing Name .,-32.30525590938329,-161.52627954691647,bad,causative,116,syntax,argument_structure,trigram10,-32.505255909383294,-32.30525590938329,FALSE
+Name sits down Name .,-32.505255909383294,-162.52627954691647,good,causative,116,syntax,argument_structure,trigram10,-32.505255909383294,-32.30525590938329,FALSE
+Name went fishing Name .,-32.11305216798932,-160.56526083994663,bad,causative,116,syntax,argument_structure,trigram2,-32.43004466813356,-32.11305216798932,FALSE
+Name sits down Name .,-32.43004466813356,-162.1502233406678,good,causative,116,syntax,argument_structure,trigram2,-32.43004466813356,-32.11305216798932,FALSE
+Name went fishing Name .,-32.25609538379111,-161.28047691895557,bad,causative,116,syntax,argument_structure,trigram3,-32.45609538379112,-32.25609538379111,FALSE
+Name sits down Name .,-32.45609538379112,-162.28047691895557,good,causative,116,syntax,argument_structure,trigram3,-32.45609538379112,-32.25609538379111,FALSE
+Name went fishing Name .,-32.313042025668025,-161.5652101283401,bad,causative,116,syntax,argument_structure,trigram4,-32.51304202566802,-32.313042025668025,FALSE
+Name sits down Name .,-32.51304202566802,-162.5652101283401,good,causative,116,syntax,argument_structure,trigram4,-32.51304202566802,-32.313042025668025,FALSE
+Name went fishing Name .,-32.24262424657006,-161.2131212328503,bad,causative,116,syntax,argument_structure,trigram5,-32.44262424657006,-32.24262424657006,FALSE
+Name sits down Name .,-32.44262424657006,-162.2131212328503,good,causative,116,syntax,argument_structure,trigram5,-32.44262424657006,-32.24262424657006,FALSE
+Name went fishing Name .,-32.12870189811123,-160.64350949055617,bad,causative,116,syntax,argument_structure,trigram6,-32.44569439825547,-32.12870189811123,FALSE
+Name sits down Name .,-32.44569439825547,-162.22847199127733,good,causative,116,syntax,argument_structure,trigram6,-32.44569439825547,-32.12870189811123,FALSE
+Name went fishing Name .,-32.350692963645486,-161.75346481822743,bad,causative,116,syntax,argument_structure,trigram7,-32.55069296364549,-32.350692963645486,FALSE
+Name sits down Name .,-32.55069296364549,-162.75346481822743,good,causative,116,syntax,argument_structure,trigram7,-32.55069296364549,-32.350692963645486,FALSE
+Name went fishing Name .,-32.27293819414589,-161.36469097072944,bad,causative,116,syntax,argument_structure,trigram8,-32.47293819414589,-32.27293819414589,FALSE
+Name sits down Name .,-32.47293819414589,-162.36469097072944,good,causative,116,syntax,argument_structure,trigram8,-32.47293819414589,-32.27293819414589,FALSE
+Name went fishing Name .,-32.29649873454203,-161.48249367271012,bad,causative,116,syntax,argument_structure,trigram9,-32.49649873454202,-32.29649873454203,FALSE
+Name sits down Name .,-32.49649873454202,-162.48249367271012,good,causative,116,syntax,argument_structure,trigram9,-32.49649873454202,-32.29649873454203,FALSE
+Name rolled the cars .,-33.86591791694356,-169.32958958471778,good,causative,121,syntax,argument_structure,trigram1,-33.86591791694356,-33.54892541679932,FALSE
+Name fell the cars .,-33.54892541679932,-167.74462708399662,bad,causative,121,syntax,argument_structure,trigram1,-33.86591791694356,-33.54892541679932,FALSE
+Name rolled the cars .,-33.84135293173638,-169.20676465868192,good,causative,121,syntax,argument_structure,trigram10,-33.84135293173638,-33.641352931736385,FALSE
+Name fell the cars .,-33.641352931736385,-168.20676465868192,bad,causative,121,syntax,argument_structure,trigram10,-33.84135293173638,-33.641352931736385,FALSE
+Name rolled the cars .,-33.79371545233493,-168.96857726167465,good,causative,121,syntax,argument_structure,trigram2,-33.79371545233493,-33.4767229521907,FALSE
+Name fell the cars .,-33.4767229521907,-167.3836147609535,bad,causative,121,syntax,argument_structure,trigram2,-33.79371545233493,-33.4767229521907,FALSE
+Name rolled the cars .,-33.87358795204118,-169.3679397602059,good,causative,121,syntax,argument_structure,trigram3,-33.87358795204118,-33.556595451896946,FALSE
+Name fell the cars .,-33.556595451896946,-167.78297725948474,bad,causative,121,syntax,argument_structure,trigram3,-33.87358795204118,-33.556595451896946,FALSE
+Name rolled the cars .,-33.8321734459715,-169.1608672298575,good,causative,121,syntax,argument_structure,trigram4,-33.8321734459715,-33.8321734459715,FALSE
+Name fell the cars .,-33.8321734459715,-169.1608672298575,bad,causative,121,syntax,argument_structure,trigram4,-33.8321734459715,-33.8321734459715,FALSE
+Name rolled the cars .,-33.87358786838048,-169.36793934190243,good,causative,121,syntax,argument_structure,trigram5,-33.87358786838048,-33.55659536823626,FALSE
+Name fell the cars .,-33.55659536823626,-167.7829768411813,bad,causative,121,syntax,argument_structure,trigram5,-33.87358786838048,-33.55659536823626,FALSE
+Name rolled the cars .,-33.80605916147234,-169.0302958073617,good,causative,121,syntax,argument_structure,trigram6,-33.80605916147234,-33.48906666132811,FALSE
+Name fell the cars .,-33.48906666132811,-167.44533330664055,bad,causative,121,syntax,argument_structure,trigram6,-33.80605916147234,-33.48906666132811,FALSE
+Name rolled the cars .,-33.91173425474129,-169.55867127370647,good,causative,121,syntax,argument_structure,trigram7,-33.91173425474129,-33.91173425474129,FALSE
+Name fell the cars .,-33.91173425474129,-169.55867127370647,bad,causative,121,syntax,argument_structure,trigram7,-33.91173425474129,-33.91173425474129,FALSE
+Name rolled the cars .,-33.81198385244504,-169.0599192622252,good,causative,121,syntax,argument_structure,trigram8,-33.81198385244504,-33.81198385244504,FALSE
+Name fell the cars .,-33.81198385244504,-169.0599192622252,bad,causative,121,syntax,argument_structure,trigram8,-33.81198385244504,-33.81198385244504,FALSE
+Name rolled the cars .,-33.839347838075255,-169.19673919037626,good,causative,121,syntax,argument_structure,trigram9,-33.839347838075255,-33.63934783807525,FALSE
+Name fell the cars .,-33.63934783807525,-168.19673919037626,bad,causative,121,syntax,argument_structure,trigram9,-33.839347838075255,-33.63934783807525,FALSE
+Name would n't waste away every box .,-33.420355452320145,-267.36284361856116,bad,causative,171,syntax,argument_structure,trigram1,-33.28284760021048,-33.420355452320145,TRUE
+Name would n't open every box .,-33.28284760021048,-232.9799332014734,good,causative,171,syntax,argument_structure,trigram1,-33.28284760021048,-33.420355452320145,TRUE
+Name would n't waste away every box .,-33.63158329096761,-269.0526663277409,bad,causative,171,syntax,argument_structure,trigram10,-33.521406058799,-33.63158329096761,TRUE
+Name would n't open every box .,-33.521406058799,-234.649842411593,good,causative,171,syntax,argument_structure,trigram10,-33.521406058799,-33.63158329096761,TRUE
+Name would n't waste away every box .,-33.352390460117896,-266.81912368094316,bad,causative,171,syntax,argument_structure,trigram2,-33.209133892028106,-33.352390460117896,TRUE
+Name would n't open every box .,-33.209133892028106,-232.46393724419673,good,causative,171,syntax,argument_structure,trigram2,-33.209133892028106,-33.352390460117896,TRUE
+Name would n't waste away every box .,-33.560098428463576,-268.4807874277086,bad,causative,171,syntax,argument_structure,trigram3,-33.441458139360456,-33.560098428463576,TRUE
+Name would n't open every box .,-33.441458139360456,-234.0902069755232,good,causative,171,syntax,argument_structure,trigram3,-33.441458139360456,-33.560098428463576,TRUE
+Name would n't waste away every box .,-33.39084845375446,-267.12678763003566,bad,causative,171,syntax,argument_structure,trigram4,-33.24759188566467,-33.39084845375446,TRUE
+Name would n't open every box .,-33.24759188566467,-232.73314319965266,good,causative,171,syntax,argument_structure,trigram4,-33.24759188566467,-33.39084845375446,TRUE
+Name would n't waste away every box .,-33.60490509116694,-268.83924072933553,bad,causative,171,syntax,argument_structure,trigram5,-33.49266576583012,-33.60490509116694,TRUE
+Name would n't open every box .,-33.49266576583012,-234.4486603608108,good,causative,171,syntax,argument_structure,trigram5,-33.49266576583012,-33.60490509116694,TRUE
+Name would n't waste away every box .,-33.32616553611953,-266.60932428895626,bad,causative,171,syntax,argument_structure,trigram6,-33.17739916329606,-33.32616553611953,TRUE
+Name would n't open every box .,-33.17739916329606,-232.2417941430724,good,causative,171,syntax,argument_structure,trigram6,-33.17739916329606,-33.32616553611953,TRUE
+Name would n't waste away every box .,-33.46444606517726,-267.7155685214181,bad,causative,171,syntax,argument_structure,trigram7,-33.32669168093322,-33.46444606517726,TRUE
+Name would n't open every box .,-33.32669168093322,-233.28684176653258,good,causative,171,syntax,argument_structure,trigram7,-33.32669168093322,-33.46444606517726,TRUE
+Name would n't waste away every box .,-33.4638635398549,-267.7109083188392,bad,causative,171,syntax,argument_structure,trigram8,-33.32841778091345,-33.4638635398549,TRUE
+Name would n't open every box .,-33.32841778091345,-233.29892446639414,good,causative,171,syntax,argument_structure,trigram8,-33.32841778091345,-33.4638635398549,TRUE
+Name would n't waste away every box .,-33.49311588703389,-267.9449270962711,bad,causative,171,syntax,argument_structure,trigram9,-33.35793989402798,-33.49311588703389,TRUE
+Name would n't open every box .,-33.35793989402798,-233.50557925819584,good,causative,171,syntax,argument_structure,trigram9,-33.35793989402798,-33.49311588703389,TRUE
+Name could sneeze Name .,-32.44984323365075,-162.24921616825375,bad,causative,173,syntax,argument_structure,trigram1,-32.60535443089025,-32.44984323365075,FALSE
+Name could stand up Name .,-32.60535443089025,-195.63212658534152,good,causative,173,syntax,argument_structure,trigram1,-32.60535443089025,-32.44984323365075,FALSE
+Name could sneeze Name .,-32.505255909383294,-162.52627954691647,bad,causative,173,syntax,argument_structure,trigram10,-32.82151724384406,-32.505255909383294,FALSE
+Name could stand up Name .,-32.82151724384406,-196.92910346306437,good,causative,173,syntax,argument_structure,trigram10,-32.82151724384406,-32.505255909383294,FALSE
+Name could sneeze Name .,-32.43004466813356,-162.1502233406678,bad,causative,173,syntax,argument_structure,trigram2,-32.58423496290238,-32.43004466813356,FALSE
+Name could stand up Name .,-32.58423496290238,-195.50540977741426,good,causative,173,syntax,argument_structure,trigram2,-32.58423496290238,-32.43004466813356,FALSE
+Name could sneeze Name .,-32.45609538379112,-162.28047691895557,bad,causative,173,syntax,argument_structure,trigram3,-32.611842895190165,-32.45609538379112,FALSE
+Name could stand up Name .,-32.611842895190165,-195.671057371141,good,causative,173,syntax,argument_structure,trigram3,-32.611842895190165,-32.45609538379112,FALSE
+Name could sneeze Name .,-32.51304202566802,-162.5652101283401,bad,causative,173,syntax,argument_structure,trigram4,-32.826475759787186,-32.51304202566802,FALSE
+Name could stand up Name .,-32.826475759787186,-196.95885455872312,good,causative,173,syntax,argument_structure,trigram4,-32.826475759787186,-32.51304202566802,FALSE
+Name could sneeze Name .,-32.44262424657006,-162.2131212328503,bad,causative,173,syntax,argument_structure,trigram5,-32.600616933562506,-32.44262424657006,FALSE
+Name could stand up Name .,-32.600616933562506,-195.60370160137504,good,causative,173,syntax,argument_structure,trigram5,-32.600616933562506,-32.44262424657006,FALSE
+Name could sneeze Name .,-32.44569439825547,-162.22847199127733,bad,causative,173,syntax,argument_structure,trigram6,-32.76600035619353,-32.44569439825547,FALSE
+Name could stand up Name .,-32.76600035619353,-196.59600213716118,good,causative,173,syntax,argument_structure,trigram6,-32.76600035619353,-32.44569439825547,FALSE
+Name could sneeze Name .,-32.55069296364549,-162.75346481822743,bad,causative,173,syntax,argument_structure,trigram7,-32.86369859551883,-32.55069296364549,FALSE
+Name could stand up Name .,-32.86369859551883,-197.18219157311296,good,causative,173,syntax,argument_structure,trigram7,-32.86369859551883,-32.55069296364549,FALSE
+Name could sneeze Name .,-32.47293819414589,-162.36469097072944,bad,causative,173,syntax,argument_structure,trigram8,-32.62944580386242,-32.47293819414589,FALSE
+Name could stand up Name .,-32.62944580386242,-195.7766748231745,good,causative,173,syntax,argument_structure,trigram8,-32.62944580386242,-32.47293819414589,FALSE
+Name could sneeze Name .,-32.49649873454202,-162.48249367271012,bad,causative,173,syntax,argument_structure,trigram9,-32.65364025179756,-32.49649873454202,FALSE
+Name could stand up Name .,-32.65364025179756,-195.92184151078538,good,causative,173,syntax,argument_structure,trigram9,-32.65364025179756,-32.49649873454202,FALSE
+Name moves Name .,-31.96657643779149,-127.86630575116597,good,causative,221,syntax,argument_structure,trigram1,-31.96657643779149,-32.77202109755692,TRUE
+Name got a job Name .,-32.77202109755692,-196.63212658534152,bad,causative,221,syntax,argument_structure,trigram1,-31.96657643779149,-32.77202109755692,TRUE
+Name moves Name .,-32.030863907692144,-128.12345563076858,good,causative,221,syntax,argument_structure,trigram10,-32.030863907692144,-32.82151724384406,TRUE
+Name got a job Name .,-32.82151724384406,-196.92910346306437,bad,causative,221,syntax,argument_structure,trigram10,-32.030863907692144,-32.82151724384406,TRUE
+Name moves Name .,-31.94875922598033,-127.79503690392133,good,causative,221,syntax,argument_structure,trigram2,-31.94875922598033,-32.75090162956904,TRUE
+Name got a job Name .,-32.75090162956904,-196.50540977741426,bad,causative,221,syntax,argument_structure,trigram2,-31.94875922598033,-32.75090162956904,TRUE
+Name moves Name .,-31.97247411669253,-127.88989646677014,good,causative,221,syntax,argument_structure,trigram3,-31.97247411669253,-32.77850956185683,TRUE
+Name got a job Name .,-32.77850956185683,-196.671057371141,bad,causative,221,syntax,argument_structure,trigram3,-31.97247411669253,-32.77850956185683,TRUE
+Name moves Name .,-32.04289142448927,-128.17156569795708,good,causative,221,syntax,argument_structure,trigram4,-32.04289142448927,-32.826475759787186,TRUE
+Name got a job Name .,-32.826475759787186,-196.95885455872312,bad,causative,221,syntax,argument_structure,trigram4,-32.04289142448927,-32.826475759787186,TRUE
+Name moves Name .,-31.9556352160814,-127.8225408643256,good,causative,221,syntax,argument_structure,trigram5,-31.9556352160814,-32.76728360022917,TRUE
+Name got a job Name .,-32.76728360022917,-196.60370160137504,bad,causative,221,syntax,argument_structure,trigram5,-31.9556352160814,-32.76728360022917,TRUE
+Name moves Name .,-31.965235461348367,-127.86094184539347,good,causative,221,syntax,argument_structure,trigram6,-31.965235461348367,-32.76600035619353,TRUE
+Name got a job Name .,-32.76600035619353,-196.59600213716118,bad,causative,221,syntax,argument_structure,trigram6,-31.965235461348367,-32.76600035619353,TRUE
+Name moves Name .,-32.081184515835474,-128.3247380633419,good,causative,221,syntax,argument_structure,trigram7,-32.081184515835474,-32.86369859551883,TRUE
+Name got a job Name .,-32.86369859551883,-197.18219157311296,bad,causative,221,syntax,argument_structure,trigram7,-32.081184515835474,-32.86369859551883,TRUE
+Name moves Name .,-31.9881767795711,-127.9527071182844,good,causative,221,syntax,argument_structure,trigram8,-31.9881767795711,-32.79611247052908,TRUE
+Name got a job Name .,-32.79611247052908,-196.7766748231745,bad,causative,221,syntax,argument_structure,trigram8,-31.9881767795711,-32.79611247052908,TRUE
+Name moves Name .,-32.01078645865872,-128.04314583463488,good,causative,221,syntax,argument_structure,trigram9,-32.01078645865872,-32.82030691846423,TRUE
+Name got a job Name .,-32.82030691846423,-196.92184151078538,bad,causative,221,syntax,argument_structure,trigram9,-32.01078645865872,-32.82030691846423,TRUE
+Name tipped over this carriage .,-34.04957708375445,-204.29746250252668,good,causative,305,syntax,argument_structure,trigram1,-34.04957708375445,-33.98291041708778,FALSE
+Name falls this carriage .,-33.98291041708778,-169.9145520854389,bad,causative,305,syntax,argument_structure,trigram1,-34.04957708375445,-33.98291041708778,FALSE
+Name tipped over this carriage .,-34.13866349936104,-204.83198099616624,good,causative,305,syntax,argument_structure,trigram10,-34.13866349936104,-34.08583141600367,FALSE
+Name falls this carriage .,-34.08583141600367,-170.42915708001834,bad,causative,305,syntax,argument_structure,trigram10,-34.13866349936104,-34.08583141600367,FALSE
+Name tipped over this carriage .,-34.188519770079786,-205.13111862047873,good,causative,305,syntax,argument_structure,trigram2,-34.188519770079786,-34.155186436746455,FALSE
+Name falls this carriage .,-34.155186436746455,-170.77593218373227,bad,causative,305,syntax,argument_structure,trigram2,-34.188519770079786,-34.155186436746455,FALSE
+Name tipped over this carriage .,-34.12642003539855,-204.75852021239132,good,causative,305,syntax,argument_structure,trigram3,-34.12642003539855,-34.07358795204118,FALSE
+Name falls this carriage .,-34.07358795204118,-170.3679397602059,bad,causative,305,syntax,argument_structure,trigram3,-34.12642003539855,-34.07358795204118,FALSE
+Name tipped over this carriage .,-34.060311097049684,-204.3618665822981,good,causative,305,syntax,argument_structure,trigram4,-34.060311097049684,-33.993644430383014,FALSE
+Name falls this carriage .,-33.993644430383014,-169.96822215191509,bad,causative,305,syntax,argument_structure,trigram4,-34.060311097049684,-33.993644430383014,FALSE
+Name tipped over this carriage .,-34.12641995173786,-204.75851971042715,good,causative,305,syntax,argument_structure,trigram5,-34.12641995173786,-34.073587868380486,FALSE
+Name falls this carriage .,-34.073587868380486,-170.36793934190243,bad,causative,305,syntax,argument_structure,trigram5,-34.12641995173786,-34.073587868380486,FALSE
+Name tipped over this carriage .,-34.034196812550526,-204.20518087530314,good,causative,305,syntax,argument_structure,trigram6,-34.034196812550526,-33.967530145883856,FALSE
+Name falls this carriage .,-33.967530145883856,-169.8376507294193,bad,causative,305,syntax,argument_structure,trigram6,-34.034196812550526,-33.967530145883856,FALSE
+Name tipped over this carriage .,-34.164566338098666,-204.987398028592,good,causative,305,syntax,argument_structure,trigram7,-34.164566338098666,-34.11173425474129,FALSE
+Name falls this carriage .,-34.11173425474129,-170.55867127370647,bad,causative,305,syntax,argument_structure,trigram7,-34.164566338098666,-34.11173425474129,FALSE
+Name tipped over this carriage .,-34.14782343565818,-204.8869406139491,good,causative,305,syntax,argument_structure,trigram8,-34.14782343565818,-34.09499135230081,FALSE
+Name falls this carriage .,-34.09499135230081,-170.47495676150405,bad,causative,305,syntax,argument_structure,trigram8,-34.14782343565818,-34.09499135230081,FALSE
+Name tipped over this carriage .,-34.10601450474192,-204.63608702845153,good,causative,305,syntax,argument_structure,trigram9,-34.10601450474192,-34.03934783807525,FALSE
+Name falls this carriage .,-34.03934783807525,-170.19673919037626,bad,causative,305,syntax,argument_structure,trigram9,-34.10601450474192,-34.03934783807525,FALSE
+Name was rolling that bicycle .,-33.88291041708778,-203.29746250252668,good,causative,378,syntax,argument_structure,trigram1,-33.88291041708778,-33.88291041708778,FALSE
+Name was falling that bicycle .,-33.88291041708778,-203.29746250252668,bad,causative,378,syntax,argument_structure,trigram1,-33.88291041708778,-33.88291041708778,FALSE
+Name was rolling that bicycle .,-33.80533016602771,-202.83198099616624,good,causative,378,syntax,argument_structure,trigram10,-33.80533016602771,-33.80533016602771,FALSE
+Name was falling that bicycle .,-33.80533016602771,-202.83198099616624,bad,causative,378,syntax,argument_structure,trigram10,-33.80533016602771,-33.80533016602771,FALSE
+Name was rolling that bicycle .,-33.59102601995959,-201.54615611975754,good,causative,378,syntax,argument_structure,trigram2,-33.59102601995959,-33.59102601995959,FALSE
+Name was falling that bicycle .,-33.59102601995959,-201.54615611975754,bad,causative,378,syntax,argument_structure,trigram2,-33.59102601995959,-33.59102601995959,FALSE
+Name was rolling that bicycle .,-33.739432019583994,-202.43659211750398,good,causative,378,syntax,argument_structure,trigram3,-33.739432019583994,-33.739432019583994,FALSE
+Name was falling that bicycle .,-33.739432019583994,-202.43659211750398,bad,causative,378,syntax,argument_structure,trigram3,-33.739432019583994,-33.739432019583994,FALSE
+Name was rolling that bicycle .,-33.69865693014264,-202.19194158085583,good,causative,378,syntax,argument_structure,trigram4,-33.69865693014264,-33.69865693014264,FALSE
+Name was falling that bicycle .,-33.69865693014264,-202.19194158085583,bad,causative,378,syntax,argument_structure,trigram4,-33.69865693014264,-33.69865693014264,FALSE
+Name was rolling that bicycle .,-33.79308661840452,-202.75851971042715,good,causative,378,syntax,argument_structure,trigram5,-33.79308661840452,-33.79308661840452,FALSE
+Name was falling that bicycle .,-33.79308661840452,-202.75851971042715,bad,causative,378,syntax,argument_structure,trigram5,-33.79308661840452,-33.79308661840452,FALSE
+Name was rolling that bicycle .,-33.70086347921719,-202.20518087530314,good,causative,378,syntax,argument_structure,trigram6,-33.70086347921719,-33.70086347921719,FALSE
+Name was falling that bicycle .,-33.70086347921719,-202.20518087530314,bad,causative,378,syntax,argument_structure,trigram6,-33.70086347921719,-33.70086347921719,FALSE
+Name was rolling that bicycle .,-33.928726754885524,-203.57236052931316,good,causative,378,syntax,argument_structure,trigram7,-33.928726754885524,-33.928726754885524,FALSE
+Name was falling that bicycle .,-33.928726754885524,-203.57236052931316,bad,causative,378,syntax,argument_structure,trigram7,-33.928726754885524,-33.928726754885524,FALSE
+Name was rolling that bicycle .,-33.81449010232485,-202.8869406139491,good,causative,378,syntax,argument_structure,trigram8,-33.81449010232485,-33.81449010232485,FALSE
+Name was falling that bicycle .,-33.81449010232485,-202.8869406139491,bad,causative,378,syntax,argument_structure,trigram8,-33.81449010232485,-33.81449010232485,FALSE
+Name was rolling that bicycle .,-33.74436033783486,-202.46616202700918,good,causative,378,syntax,argument_structure,trigram9,-33.74436033783486,-33.74436033783486,FALSE
+Name was falling that bicycle .,-33.74436033783486,-202.46616202700918,bad,causative,378,syntax,argument_structure,trigram9,-33.74436033783486,-33.74436033783486,FALSE
+Name was falling a car .,-33.10893438545866,-198.65360631275198,bad,causative,440,syntax,argument_structure,trigram1,-33.10893438545866,-33.10893438545866,FALSE
+Name was rolling a car .,-33.10893438545866,-198.65360631275198,good,causative,440,syntax,argument_structure,trigram1,-33.10893438545866,-33.10893438545866,FALSE
+Name was falling a car .,-32.82762206417585,-196.9657323850551,bad,causative,440,syntax,argument_structure,trigram10,-32.82762206417585,-32.82762206417585,FALSE
+Name was rolling a car .,-32.82762206417585,-196.9657323850551,good,causative,440,syntax,argument_structure,trigram10,-32.82762206417585,-32.82762206417585,FALSE
+Name was falling a car .,-32.66271675190443,-195.9763005114266,bad,causative,440,syntax,argument_structure,trigram2,-32.66271675190443,-32.66271675190443,FALSE
+Name was rolling a car .,-32.66271675190443,-195.9763005114266,good,causative,440,syntax,argument_structure,trigram2,-32.66271675190443,-32.66271675190443,FALSE
+Name was falling a car .,-32.67984001881431,-196.07904011288588,bad,causative,440,syntax,argument_structure,trigram3,-32.67984001881431,-32.67984001881431,FALSE
+Name was rolling a car .,-32.67984001881431,-196.07904011288588,good,causative,440,syntax,argument_structure,trigram3,-32.67984001881431,-32.67984001881431,FALSE
+Name was falling a car .,-32.7424959977816,-196.4549759866896,bad,causative,440,syntax,argument_structure,trigram4,-32.7424959977816,-32.7424959977816,FALSE
+Name was rolling a car .,-32.7424959977816,-196.4549759866896,good,causative,440,syntax,argument_structure,trigram4,-32.7424959977816,-32.7424959977816,FALSE
+Name was falling a car .,-32.89821431679357,-197.38928590076142,bad,causative,440,syntax,argument_structure,trigram5,-32.89821431679357,-32.89821431679357,FALSE
+Name was rolling a car .,-32.89821431679357,-197.38928590076142,good,causative,440,syntax,argument_structure,trigram5,-32.89821431679357,-32.89821431679357,FALSE
+Name was falling a car .,-32.77896656913114,-196.67379941478686,bad,causative,440,syntax,argument_structure,trigram6,-32.77896656913114,-32.77896656913114,FALSE
+Name was rolling a car .,-32.77896656913114,-196.67379941478686,good,causative,440,syntax,argument_structure,trigram6,-32.77896656913114,-32.77896656913114,FALSE
+Name was falling a car .,-32.93636070315438,-197.61816421892627,bad,causative,440,syntax,argument_structure,trigram7,-32.93636070315438,-32.93636070315438,FALSE
+Name was rolling a car .,-32.93636070315438,-197.61816421892627,good,causative,440,syntax,argument_structure,trigram7,-32.93636070315438,-32.93636070315438,FALSE
+Name was falling a car .,-32.807091082431775,-196.84254649459064,bad,causative,440,syntax,argument_structure,trigram8,-32.807091082431775,-32.807091082431775,FALSE
+Name was rolling a car .,-32.807091082431775,-196.84254649459064,good,causative,440,syntax,argument_structure,trigram8,-32.807091082431775,-32.807091082431775,FALSE
+Name was falling a car .,-32.841854087955056,-197.05112452773034,bad,causative,440,syntax,argument_structure,trigram9,-32.841854087955056,-32.841854087955056,FALSE
+Name was rolling a car .,-32.841854087955056,-197.05112452773034,good,causative,440,syntax,argument_structure,trigram9,-32.841854087955056,-32.841854087955056,FALSE
+Name can n't fall apart these forks .,-33.88291041708778,-271.0632833367022,bad,causative,459,syntax,argument_structure,trigram1,-33.95433898851635,-33.88291041708778,FALSE
+Name can n't break these forks .,-33.95433898851635,-237.68037291961446,good,causative,459,syntax,argument_structure,trigram1,-33.95433898851635,-33.88291041708778,FALSE
+Name can n't fall apart these forks .,-33.75658329096761,-270.0526663277409,bad,causative,459,syntax,argument_structure,trigram10,-33.66426320165614,-33.75658329096761,TRUE
+Name can n't break these forks .,-33.66426320165614,-235.64984241159297,good,causative,459,syntax,argument_structure,trigram10,-33.66426320165614,-33.75658329096761,TRUE
+Name can n't fall apart these forks .,-33.689945424885536,-269.5195633990843,bad,causative,459,syntax,argument_structure,trigram2,-33.737768137476834,-33.689945424885536,FALSE
+Name can n't break these forks .,-33.737768137476834,-236.16437696233783,good,causative,459,syntax,argument_structure,trigram2,-33.737768137476834,-33.689945424885536,FALSE
+Name can n't fall apart these forks .,-33.56746013959527,-268.53968111676215,bad,causative,459,syntax,argument_structure,trigram3,-33.5927286663681,-33.56746013959527,FALSE
+Name can n't break these forks .,-33.5927286663681,-235.14910066457674,good,causative,459,syntax,argument_structure,trigram3,-33.5927286663681,-33.56746013959527,FALSE
+Name can n't fall apart these forks .,-33.542725065125815,-268.3418005210065,bad,causative,459,syntax,argument_structure,trigram4,-33.564022298660504,-33.542725065125815,FALSE
+Name can n't break these forks .,-33.564022298660504,-234.9481560906235,good,causative,459,syntax,argument_structure,trigram4,-33.564022298660504,-33.542725065125815,FALSE
+Name can n't fall apart these forks .,-33.49433974334443,-267.95471794675547,bad,causative,459,syntax,argument_structure,trigram5,-33.50916251117582,-33.49433974334443,FALSE
+Name can n't break these forks .,-33.50916251117582,-234.56413757823074,good,causative,459,syntax,argument_structure,trigram5,-33.50916251117582,-33.49433974334443,FALSE
+Name can n't fall apart these forks .,-33.62916882143279,-269.03335057146234,bad,causative,459,syntax,argument_structure,trigram6,-33.5236886322255,-33.62916882143279,TRUE
+Name can n't break these forks .,-33.5236886322255,-234.6658204255785,good,causative,459,syntax,argument_structure,trigram6,-33.5236886322255,-33.62916882143279,TRUE
+Name can n't fall apart these forks .,-33.928726754885524,-271.4298140390842,bad,causative,459,syntax,argument_structure,trigram7,-33.857298183456955,-33.928726754885524,TRUE
+Name can n't break these forks .,-33.857298183456955,-237.0010872841987,good,causative,459,syntax,argument_structure,trigram7,-33.857298183456955,-33.928726754885524,TRUE
+Name can n't fall apart these forks .,-33.746742840584126,-269.973942724673,bad,causative,459,syntax,argument_structure,trigram8,-33.65170841031828,-33.746742840584126,TRUE
+Name can n't break these forks .,-33.65170841031828,-235.56195887222796,good,causative,459,syntax,argument_structure,trigram8,-33.65170841031828,-33.746742840584126,TRUE
+Name can n't fall apart these forks .,-33.81434783807526,-270.51478270460206,bad,causative,459,syntax,argument_structure,trigram9,-33.86791926664669,-33.81434783807526,FALSE
+Name can n't break these forks .,-33.86791926664669,-237.0754348665268,good,causative,459,syntax,argument_structure,trigram9,-33.86791926664669,-33.81434783807526,FALSE
+Name falls some wheelbarrow .,-34.065917916943555,-170.32958958471778,bad,causative,461,syntax,argument_structure,trigram1,-34.065917916943555,-34.065917916943555,FALSE
+Name broke some wheelbarrow .,-34.065917916943555,-170.32958958471778,good,causative,461,syntax,argument_structure,trigram1,-34.065917916943555,-34.065917916943555,FALSE
+Name falls some wheelbarrow .,-34.08583141600367,-170.42915708001834,bad,causative,461,syntax,argument_structure,trigram10,-34.08583141600367,-34.08583141600367,FALSE
+Name broke some wheelbarrow .,-34.08583141600367,-170.42915708001834,good,causative,461,syntax,argument_structure,trigram10,-34.08583141600367,-34.08583141600367,FALSE
+Name falls some wheelbarrow .,-34.35518643674645,-171.77593218373227,bad,causative,461,syntax,argument_structure,trigram2,-34.35518643674645,-34.35518643674645,FALSE
+Name broke some wheelbarrow .,-34.35518643674645,-171.77593218373227,good,causative,461,syntax,argument_structure,trigram2,-34.35518643674645,-34.35518643674645,FALSE
+Name falls some wheelbarrow .,-34.07358795204118,-170.3679397602059,bad,causative,461,syntax,argument_structure,trigram3,-34.07358795204118,-34.07358795204118,FALSE
+Name broke some wheelbarrow .,-34.07358795204118,-170.3679397602059,good,causative,461,syntax,argument_structure,trigram3,-34.07358795204118,-34.07358795204118,FALSE
+Name falls some wheelbarrow .,-34.07665193023879,-170.38325965119395,bad,causative,461,syntax,argument_structure,trigram4,-34.07665193023879,-34.07665193023879,FALSE
+Name broke some wheelbarrow .,-34.07665193023879,-170.38325965119395,good,causative,461,syntax,argument_structure,trigram4,-34.07665193023879,-34.07665193023879,FALSE
+Name falls some wheelbarrow .,-34.073587868380486,-170.36793934190243,bad,causative,461,syntax,argument_structure,trigram5,-34.073587868380486,-34.073587868380486,FALSE
+Name broke some wheelbarrow .,-34.073587868380486,-170.36793934190243,good,causative,461,syntax,argument_structure,trigram5,-34.073587868380486,-34.073587868380486,FALSE
+Name falls some wheelbarrow .,-34.36753014588386,-171.8376507294193,bad,causative,461,syntax,argument_structure,trigram6,-34.36753014588386,-34.36753014588386,FALSE
+Name broke some wheelbarrow .,-34.36753014588386,-171.8376507294193,good,causative,461,syntax,argument_structure,trigram6,-34.36753014588386,-34.36753014588386,FALSE
+Name falls some wheelbarrow .,-34.428726754885524,-172.14363377442763,bad,causative,461,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+Name broke some wheelbarrow .,-34.428726754885524,-172.14363377442763,good,causative,461,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+Name falls some wheelbarrow .,-34.41198385244504,-172.0599192622252,bad,causative,461,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+Name broke some wheelbarrow .,-34.41198385244504,-172.0599192622252,good,causative,461,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+Name falls some wheelbarrow .,-34.12235533793102,-170.6117766896551,bad,causative,461,syntax,argument_structure,trigram9,-34.12235533793102,-34.12235533793102,FALSE
+Name broke some wheelbarrow .,-34.12235533793102,-170.6117766896551,good,causative,461,syntax,argument_structure,trigram9,-34.12235533793102,-34.12235533793102,FALSE
+Name might wash Name .,-32.44984323365075,-162.24921616825375,good,causative,493,syntax,argument_structure,trigram1,-32.44984323365075,-32.44984323365075,FALSE
+Name might sing Name .,-32.44984323365075,-162.24921616825375,bad,causative,493,syntax,argument_structure,trigram1,-32.44984323365075,-32.44984323365075,FALSE
+Name might wash Name .,-32.505255909383294,-162.52627954691647,good,causative,493,syntax,argument_structure,trigram10,-32.505255909383294,-32.505255909383294,FALSE
+Name might sing Name .,-32.505255909383294,-162.52627954691647,bad,causative,493,syntax,argument_structure,trigram10,-32.505255909383294,-32.505255909383294,FALSE
+Name might wash Name .,-32.43004466813356,-162.1502233406678,good,causative,493,syntax,argument_structure,trigram2,-32.43004466813356,-32.43004466813356,FALSE
+Name might sing Name .,-32.43004466813356,-162.1502233406678,bad,causative,493,syntax,argument_structure,trigram2,-32.43004466813356,-32.43004466813356,FALSE
+Name might wash Name .,-32.45609538379112,-162.28047691895557,good,causative,493,syntax,argument_structure,trigram3,-32.45609538379112,-32.45609538379112,FALSE
+Name might sing Name .,-32.45609538379112,-162.28047691895557,bad,causative,493,syntax,argument_structure,trigram3,-32.45609538379112,-32.45609538379112,FALSE
+Name might wash Name .,-32.51304202566802,-162.5652101283401,good,causative,493,syntax,argument_structure,trigram4,-32.51304202566802,-32.51304202566802,FALSE
+Name might sing Name .,-32.51304202566802,-162.5652101283401,bad,causative,493,syntax,argument_structure,trigram4,-32.51304202566802,-32.51304202566802,FALSE
+Name might wash Name .,-32.44262424657006,-162.2131212328503,good,causative,493,syntax,argument_structure,trigram5,-32.44262424657006,-32.44262424657006,FALSE
+Name might sing Name .,-32.44262424657006,-162.2131212328503,bad,causative,493,syntax,argument_structure,trigram5,-32.44262424657006,-32.44262424657006,FALSE
+Name might wash Name .,-32.44569439825547,-162.22847199127733,good,causative,493,syntax,argument_structure,trigram6,-32.44569439825547,-32.44569439825547,FALSE
+Name might sing Name .,-32.44569439825547,-162.22847199127733,bad,causative,493,syntax,argument_structure,trigram6,-32.44569439825547,-32.44569439825547,FALSE
+Name might wash Name .,-32.55069296364549,-162.75346481822743,good,causative,493,syntax,argument_structure,trigram7,-32.55069296364549,-32.55069296364549,FALSE
+Name might sing Name .,-32.55069296364549,-162.75346481822743,bad,causative,493,syntax,argument_structure,trigram7,-32.55069296364549,-32.55069296364549,FALSE
+Name might wash Name .,-32.47293819414589,-162.36469097072944,good,causative,493,syntax,argument_structure,trigram8,-32.47293819414589,-32.47293819414589,FALSE
+Name might sing Name .,-32.47293819414589,-162.36469097072944,bad,causative,493,syntax,argument_structure,trigram8,-32.47293819414589,-32.47293819414589,FALSE
+Name might wash Name .,-32.49649873454202,-162.48249367271012,good,causative,493,syntax,argument_structure,trigram9,-32.49649873454202,-32.49649873454202,FALSE
+Name might sing Name .,-32.49649873454202,-162.48249367271012,bad,causative,493,syntax,argument_structure,trigram9,-32.49649873454202,-32.49649873454202,FALSE
+Name can n't bake these cakes .,-33.81148184565921,-236.68037291961446,good,causative,504,syntax,argument_structure,trigram1,-33.81148184565921,-33.66862470280206,FALSE
+Name can n't fall these cakes .,-33.66862470280206,-235.68037291961446,bad,causative,504,syntax,argument_structure,trigram1,-33.81148184565921,-33.66862470280206,FALSE
+Name can n't bake these cakes .,-33.66426320165614,-235.64984241159297,good,causative,504,syntax,argument_structure,trigram10,-33.66426320165614,-33.66426320165614,FALSE
+Name can n't fall these cakes .,-33.66426320165614,-235.64984241159297,bad,causative,504,syntax,argument_structure,trigram10,-33.66426320165614,-33.66426320165614,FALSE
+Name can n't bake these cakes .,-33.737768137476834,-236.16437696233783,good,causative,504,syntax,argument_structure,trigram2,-33.737768137476834,-33.59491099461969,FALSE
+Name can n't fall these cakes .,-33.59491099461969,-235.16437696233783,bad,causative,504,syntax,argument_structure,trigram2,-33.737768137476834,-33.59491099461969,FALSE
+Name can n't bake these cakes .,-33.73558580922525,-236.14910066457674,good,causative,504,syntax,argument_structure,trigram3,-33.73558580922525,-33.5927286663681,FALSE
+Name can n't fall these cakes .,-33.5927286663681,-235.14910066457674,bad,causative,504,syntax,argument_structure,trigram3,-33.73558580922525,-33.5927286663681,FALSE
+Name can n't bake these cakes .,-33.70687944151764,-235.9481560906235,good,causative,504,syntax,argument_structure,trigram4,-33.70687944151764,-33.564022298660504,FALSE
+Name can n't fall these cakes .,-33.564022298660504,-234.9481560906235,bad,causative,504,syntax,argument_structure,trigram4,-33.70687944151764,-33.564022298660504,FALSE
+Name can n't bake these cakes .,-33.65201965403296,-235.56413757823074,good,causative,504,syntax,argument_structure,trigram5,-33.65201965403296,-33.50916251117582,FALSE
+Name can n't fall these cakes .,-33.50916251117582,-234.56413757823074,bad,causative,504,syntax,argument_structure,trigram5,-33.65201965403296,-33.50916251117582,FALSE
+Name can n't bake these cakes .,-33.5236886322255,-234.6658204255785,good,causative,504,syntax,argument_structure,trigram6,-33.5236886322255,-33.5236886322255,FALSE
+Name can n't fall these cakes .,-33.5236886322255,-234.6658204255785,bad,causative,504,syntax,argument_structure,trigram6,-33.5236886322255,-33.5236886322255,FALSE
+Name can n't bake these cakes .,-33.714441040599816,-236.0010872841987,good,causative,504,syntax,argument_structure,trigram7,-33.714441040599816,-33.714441040599816,FALSE
+Name can n't fall these cakes .,-33.714441040599816,-236.0010872841987,bad,causative,504,syntax,argument_structure,trigram7,-33.714441040599816,-33.714441040599816,FALSE
+Name can n't bake these cakes .,-33.794565553175424,-236.56195887222796,good,causative,504,syntax,argument_structure,trigram8,-33.794565553175424,-33.794565553175424,FALSE
+Name can n't fall these cakes .,-33.794565553175424,-236.56195887222796,bad,causative,504,syntax,argument_structure,trigram8,-33.794565553175424,-33.794565553175424,FALSE
+Name can n't bake these cakes .,-34.010776409503826,-238.0754348665268,good,causative,504,syntax,argument_structure,trigram9,-34.010776409503826,-33.86791926664669,FALSE
+Name can n't fall these cakes .,-33.86791926664669,-237.0754348665268,bad,causative,504,syntax,argument_structure,trigram9,-34.010776409503826,-33.86791926664669,FALSE
+Name could fall apart a wheelbarrow .,-34.15648720269905,-239.09541041889332,bad,causative,538,syntax,argument_structure,trigram1,-34.15648720269905,-34.15648720269905,FALSE
+Name could tip over a wheelbarrow .,-34.15648720269905,-239.09541041889332,good,causative,538,syntax,argument_structure,trigram1,-34.15648720269905,-34.15648720269905,FALSE
+Name could fall apart a wheelbarrow .,-34.176400701759164,-239.23480491231413,bad,causative,538,syntax,argument_structure,trigram10,-34.176400701759164,-34.176400701759164,FALSE
+Name could tip over a wheelbarrow .,-34.176400701759164,-239.23480491231413,good,causative,538,syntax,argument_structure,trigram10,-34.176400701759164,-34.176400701759164,FALSE
+Name could fall apart a wheelbarrow .,-34.35518643674646,-240.4863050572252,bad,causative,538,syntax,argument_structure,trigram2,-34.35518643674646,-34.35518643674646,FALSE
+Name could tip over a wheelbarrow .,-34.35518643674646,-240.4863050572252,good,causative,538,syntax,argument_structure,trigram2,-34.35518643674646,-34.35518643674646,FALSE
+Name could fall apart a wheelbarrow .,-34.16415723779668,-239.14910066457674,bad,causative,538,syntax,argument_structure,trigram3,-34.16415723779668,-34.16415723779668,FALSE
+Name could tip over a wheelbarrow .,-34.16415723779668,-239.14910066457674,good,causative,538,syntax,argument_structure,trigram3,-34.16415723779668,-34.16415723779668,FALSE
+Name could fall apart a wheelbarrow .,-34.16722121599428,-239.17054851195996,bad,causative,538,syntax,argument_structure,trigram4,-34.16722121599428,-34.16722121599428,FALSE
+Name could tip over a wheelbarrow .,-34.16722121599428,-239.17054851195996,good,causative,538,syntax,argument_structure,trigram4,-34.16722121599428,-34.16722121599428,FALSE
+Name could fall apart a wheelbarrow .,-34.164157154135985,-239.14910007895188,bad,causative,538,syntax,argument_structure,trigram5,-34.164157154135985,-34.164157154135985,FALSE
+Name could tip over a wheelbarrow .,-34.164157154135985,-239.14910007895188,good,causative,538,syntax,argument_structure,trigram5,-34.164157154135985,-34.164157154135985,FALSE
+Name could fall apart a wheelbarrow .,-34.367530145883855,-240.572711021187,bad,causative,538,syntax,argument_structure,trigram6,-34.367530145883855,-34.367530145883855,FALSE
+Name could tip over a wheelbarrow .,-34.367530145883855,-240.572711021187,good,causative,538,syntax,argument_structure,trigram6,-34.367530145883855,-34.367530145883855,FALSE
+Name could fall apart a wheelbarrow .,-34.428726754885524,-241.0010872841987,bad,causative,538,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+Name could tip over a wheelbarrow .,-34.428726754885524,-241.0010872841987,good,causative,538,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+Name could fall apart a wheelbarrow .,-34.41198385244504,-240.8838869671153,bad,causative,538,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+Name could tip over a wheelbarrow .,-34.41198385244504,-240.8838869671153,good,causative,538,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+Name could fall apart a wheelbarrow .,-34.21292462368652,-239.49047236580563,bad,causative,538,syntax,argument_structure,trigram9,-34.21292462368652,-34.21292462368652,FALSE
+Name could tip over a wheelbarrow .,-34.21292462368652,-239.49047236580563,good,causative,538,syntax,argument_structure,trigram9,-34.21292462368652,-34.21292462368652,FALSE
+Name had n't disappeared a lot of forks .,-33.87347013922987,-304.86123125306887,bad,causative,591,syntax,argument_structure,trigram1,-33.87347013922987,-33.87347013922987,FALSE
+Name had n't cracked a lot of forks .,-33.87347013922987,-304.86123125306887,good,causative,591,syntax,argument_structure,trigram1,-33.87347013922987,-33.87347013922987,FALSE
+Name had n't disappeared a lot of forks .,-33.89338363828999,-305.0404527446099,bad,causative,591,syntax,argument_structure,trigram10,-33.89338363828999,-33.89338363828999,FALSE
+Name had n't cracked a lot of forks .,-33.89338363828999,-305.0404527446099,good,causative,591,syntax,argument_structure,trigram10,-33.89338363828999,-33.89338363828999,FALSE
+Name had n't disappeared a lot of forks .,-33.874972203981194,-304.87474983583076,bad,causative,591,syntax,argument_structure,trigram2,-33.874972203981194,-33.874972203981194,FALSE
+Name had n't cracked a lot of forks .,-33.874972203981194,-304.87474983583076,good,causative,591,syntax,argument_structure,trigram2,-33.874972203981194,-33.874972203981194,FALSE
+Name had n't disappeared a lot of forks .,-33.94613600774097,-305.5152240696687,bad,causative,591,syntax,argument_structure,trigram3,-33.94613600774097,-33.94613600774097,FALSE
+Name had n't cracked a lot of forks .,-33.94613600774097,-305.5152240696687,good,causative,591,syntax,argument_structure,trigram3,-33.94613600774097,-33.94613600774097,FALSE
+Name had n't disappeared a lot of forks .,-33.848434364204294,-304.63590927783866,bad,causative,591,syntax,argument_structure,trigram4,-33.848434364204294,-33.848434364204294,FALSE
+Name had n't cracked a lot of forks .,-33.848434364204294,-304.63590927783866,good,causative,591,syntax,argument_structure,trigram4,-33.848434364204294,-33.848434364204294,FALSE
+Name had n't disappeared a lot of forks .,-33.94613592408027,-305.5152233167224,bad,causative,591,syntax,argument_structure,trigram5,-33.94613592408027,-33.94613592408027,FALSE
+Name had n't cracked a lot of forks .,-33.94613592408027,-305.5152233167224,good,causative,591,syntax,argument_structure,trigram5,-33.94613592408027,-33.94613592408027,FALSE
+Name had n't disappeared a lot of forks .,-33.793094034612494,-304.1378463115124,bad,causative,591,syntax,argument_structure,trigram6,-33.793094034612494,-33.793094034612494,FALSE
+Name had n't cracked a lot of forks .,-33.793094034612494,-304.1378463115124,good,causative,591,syntax,argument_structure,trigram6,-33.793094034612494,-33.793094034612494,FALSE
+Name had n't disappeared a lot of forks .,-33.85429064361416,-304.6886157925274,bad,causative,591,syntax,argument_structure,trigram7,-33.85429064361416,-33.85429064361416,FALSE
+Name had n't cracked a lot of forks .,-33.85429064361416,-304.6886157925274,good,causative,591,syntax,argument_structure,trigram7,-33.85429064361416,-33.85429064361416,FALSE
+Name had n't disappeared a lot of forks .,-33.87783330554975,-304.90049974994776,bad,causative,591,syntax,argument_structure,trigram8,-33.87783330554975,-33.87783330554975,FALSE
+Name had n't cracked a lot of forks .,-33.87783330554975,-304.90049974994776,good,causative,591,syntax,argument_structure,trigram8,-33.87783330554975,-33.87783330554975,FALSE
+Name had n't disappeared a lot of forks .,-33.77268117140859,-303.9541305426773,bad,causative,591,syntax,argument_structure,trigram9,-33.77268117140859,-33.77268117140859,FALSE
+Name had n't cracked a lot of forks .,-33.77268117140859,-303.9541305426773,good,causative,591,syntax,argument_structure,trigram9,-33.77268117140859,-33.77268117140859,FALSE
+those people fell most bananas .,-34.38291041708778,-206.29746250252668,bad,causative,600,syntax,argument_structure,trigram1,-34.38291041708778,-34.38291041708778,FALSE
+those people grow most bananas .,-34.38291041708778,-206.29746250252668,good,causative,600,syntax,argument_structure,trigram1,-34.38291041708778,-34.38291041708778,FALSE
+those people fell most bananas .,-34.4028239161479,-206.4169434968874,bad,causative,600,syntax,argument_structure,trigram10,-34.4028239161479,-34.4028239161479,FALSE
+those people grow most bananas .,-34.4028239161479,-206.4169434968874,good,causative,600,syntax,argument_structure,trigram10,-34.4028239161479,-34.4028239161479,FALSE
+those people fell most bananas .,-34.35518643674646,-206.13111862047873,bad,causative,600,syntax,argument_structure,trigram2,-34.35518643674646,-34.35518643674646,FALSE
+those people grow most bananas .,-34.35518643674646,-206.13111862047873,good,causative,600,syntax,argument_structure,trigram2,-34.35518643674646,-34.35518643674646,FALSE
+those people fell most bananas .,-34.39058045218541,-206.34348271311248,bad,causative,600,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+those people grow most bananas .,-34.39058045218541,-206.34348271311248,good,causative,600,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+those people fell most bananas .,-34.39364443038301,-206.3618665822981,bad,causative,600,syntax,argument_structure,trigram4,-34.39364443038301,-34.39364443038301,FALSE
+those people grow most bananas .,-34.39364443038301,-206.3618665822981,good,causative,600,syntax,argument_structure,trigram4,-34.39364443038301,-34.39364443038301,FALSE
+those people fell most bananas .,-34.390580368524716,-206.3434822111483,bad,causative,600,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+those people grow most bananas .,-34.390580368524716,-206.3434822111483,good,causative,600,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+those people fell most bananas .,-34.367530145883855,-206.20518087530314,bad,causative,600,syntax,argument_structure,trigram6,-34.367530145883855,-34.367530145883855,FALSE
+those people grow most bananas .,-34.367530145883855,-206.20518087530314,good,causative,600,syntax,argument_structure,trigram6,-34.367530145883855,-34.367530145883855,FALSE
+those people fell most bananas .,-34.428726754885524,-206.57236052931316,bad,causative,600,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+those people grow most bananas .,-34.428726754885524,-206.57236052931316,good,causative,600,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+those people fell most bananas .,-34.41198385244504,-206.47190311467025,bad,causative,600,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+those people grow most bananas .,-34.41198385244504,-206.47190311467025,good,causative,600,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+those people fell most bananas .,-34.43934783807526,-206.63608702845153,bad,causative,600,syntax,argument_structure,trigram9,-34.43934783807526,-34.43934783807526,FALSE
+those people grow most bananas .,-34.43934783807526,-206.63608702845153,good,causative,600,syntax,argument_structure,trigram9,-34.43934783807526,-34.43934783807526,FALSE
+most ladies fall these glasses .,-33.915017930078186,-203.4901075804691,bad,causative,612,syntax,argument_structure,trigram1,-33.98185971393669,-33.915017930078186,FALSE
+most ladies tip over these glasses .,-33.98185971393669,-237.87301799755687,good,causative,612,syntax,argument_structure,trigram1,-33.98185971393669,-33.915017930078186,FALSE
+most ladies fall these glasses .,-33.84916923366668,-203.09501540200006,bad,causative,612,syntax,argument_structure,trigram10,-33.928262759735425,-33.84916923366668,FALSE
+most ladies tip over these glasses .,-33.928262759735425,-237.49783931814795,good,causative,612,syntax,argument_structure,trigram10,-33.928262759735425,-33.84916923366668,FALSE
+most ladies fall these glasses .,-33.826865603172735,-202.9611936190364,bad,causative,612,syntax,argument_structure,trigram2,-33.90234000796898,-33.826865603172735,FALSE
+most ladies tip over these glasses .,-33.90234000796898,-237.31638005578287,good,causative,612,syntax,argument_structure,trigram2,-33.90234000796898,-33.826865603172735,FALSE
+most ladies fall these glasses .,-33.92268796517581,-203.53612779105487,bad,causative,612,syntax,argument_structure,trigram3,-33.989529749034325,-33.92268796517581,FALSE
+most ladies tip over these glasses .,-33.989529749034325,-237.92670824324028,good,causative,612,syntax,argument_structure,trigram3,-33.989529749034325,-33.92268796517581,FALSE
+most ladies fall these glasses .,-33.89364443038301,-203.3618665822981,bad,causative,612,syntax,argument_structure,trigram4,-33.96507300181158,-33.89364443038301,FALSE
+most ladies tip over these glasses .,-33.96507300181158,-237.7555110126811,good,causative,612,syntax,argument_structure,trigram4,-33.96507300181158,-33.89364443038301,FALSE
+most ladies fall these glasses .,-33.862259534951,-203.173557209706,bad,causative,612,syntax,argument_structure,trigram5,-33.93773393974725,-33.862259534951,FALSE
+most ladies tip over these glasses .,-33.93773393974725,-237.5641375782307,good,causative,612,syntax,argument_structure,trigram5,-33.93773393974725,-33.862259534951,FALSE
+most ladies fall these glasses .,-33.867530145883855,-203.20518087530314,bad,causative,612,syntax,argument_structure,trigram6,-33.938958717312424,-33.867530145883855,FALSE
+most ladies tip over these glasses .,-33.938958717312424,-237.572711021187,good,causative,612,syntax,argument_structure,trigram6,-33.938958717312424,-33.867530145883855,FALSE
+most ladies fall these glasses .,-33.90040592131181,-203.40243552787084,bad,causative,612,syntax,argument_structure,trigram7,-33.975880326108054,-33.90040592131181,FALSE
+most ladies tip over these glasses .,-33.975880326108054,-237.83116228275637,good,causative,612,syntax,argument_structure,trigram7,-33.975880326108054,-33.90040592131181,FALSE
+most ladies fall these glasses .,-33.91198385244504,-203.47190311467025,bad,causative,612,syntax,argument_structure,trigram8,-33.98341242387362,-33.91198385244504,FALSE
+most ladies tip over these glasses .,-33.98341242387362,-237.8838869671153,good,causative,612,syntax,argument_structure,trigram8,-33.98341242387362,-33.91198385244504,FALSE
+most ladies fall these glasses .,-33.97145535106565,-203.82873210639391,bad,causative,612,syntax,argument_structure,trigram9,-34.03829713492417,-33.97145535106565,FALSE
+most ladies tip over these glasses .,-34.03829713492417,-238.26807994446918,good,causative,612,syntax,argument_structure,trigram9,-34.03829713492417,-33.97145535106565,FALSE
+Name fell apart the mirrors .,-34.11875000030093,-204.71250000180555,bad,causative,705,syntax,argument_structure,trigram1,-34.38291041708778,-34.11875000030093,FALSE
+Name tipped over the mirrors .,-34.38291041708778,-206.29746250252668,good,causative,705,syntax,argument_structure,trigram1,-34.38291041708778,-34.11875000030093,FALSE
+Name fell apart the mirrors .,-34.23615724948123,-205.4169434968874,bad,causative,705,syntax,argument_structure,trigram10,-34.4028239161479,-34.23615724948123,FALSE
+Name tipped over the mirrors .,-34.4028239161479,-206.4169434968874,good,causative,705,syntax,argument_structure,trigram10,-34.4028239161479,-34.23615724948123,FALSE
+Name fell apart the mirrors .,-34.09102601995959,-204.54615611975754,bad,causative,705,syntax,argument_structure,trigram2,-34.35518643674646,-34.09102601995959,FALSE
+Name tipped over the mirrors .,-34.35518643674646,-206.13111862047873,good,causative,705,syntax,argument_structure,trigram2,-34.35518643674646,-34.09102601995959,FALSE
+Name fell apart the mirrors .,-34.12642003539855,-204.75852021239132,bad,causative,705,syntax,argument_structure,trigram3,-34.39058045218541,-34.12642003539855,FALSE
+Name tipped over the mirrors .,-34.39058045218541,-206.34348271311248,good,causative,705,syntax,argument_structure,trigram3,-34.39058045218541,-34.12642003539855,FALSE
+Name fell apart the mirrors .,-34.39364443038301,-206.3618665822981,bad,causative,705,syntax,argument_structure,trigram4,-34.39364443038301,-34.39364443038301,FALSE
+Name tipped over the mirrors .,-34.39364443038301,-206.3618665822981,good,causative,705,syntax,argument_structure,trigram4,-34.39364443038301,-34.39364443038301,FALSE
+Name fell apart the mirrors .,-34.126419951737866,-204.75851971042718,bad,causative,705,syntax,argument_structure,trigram5,-34.390580368524716,-34.126419951737866,FALSE
+Name tipped over the mirrors .,-34.390580368524716,-206.3434822111483,good,causative,705,syntax,argument_structure,trigram5,-34.390580368524716,-34.126419951737866,FALSE
+Name fell apart the mirrors .,-34.103369729097004,-204.620218374582,bad,causative,705,syntax,argument_structure,trigram6,-34.367530145883855,-34.103369729097004,FALSE
+Name tipped over the mirrors .,-34.367530145883855,-206.20518087530314,good,causative,705,syntax,argument_structure,trigram6,-34.367530145883855,-34.103369729097004,FALSE
+Name fell apart the mirrors .,-34.428726754885524,-206.57236052931316,bad,causative,705,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+Name tipped over the mirrors .,-34.428726754885524,-206.57236052931316,good,causative,705,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+Name fell apart the mirrors .,-34.41198385244504,-206.47190311467025,bad,causative,705,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+Name tipped over the mirrors .,-34.41198385244504,-206.47190311467025,good,causative,705,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+Name fell apart the mirrors .,-34.272681171408585,-205.63608702845153,bad,causative,705,syntax,argument_structure,trigram9,-34.43934783807526,-34.272681171408585,FALSE
+Name tipped over the mirrors .,-34.43934783807526,-206.63608702845153,good,causative,705,syntax,argument_structure,trigram9,-34.43934783807526,-34.272681171408585,FALSE
+Name might grow bananas .,-34.382910417087786,-171.9145520854389,good,causative,746,syntax,argument_structure,trigram1,-34.382910417087786,-34.382910417087786,FALSE
+Name might fall bananas .,-34.382910417087786,-171.9145520854389,bad,causative,746,syntax,argument_structure,trigram1,-34.382910417087786,-34.382910417087786,FALSE
+Name might grow bananas .,-34.4028239161479,-172.0141195807395,good,causative,746,syntax,argument_structure,trigram10,-34.4028239161479,-34.4028239161479,FALSE
+Name might fall bananas .,-34.4028239161479,-172.0141195807395,bad,causative,746,syntax,argument_structure,trigram10,-34.4028239161479,-34.4028239161479,FALSE
+Name might grow bananas .,-34.35518643674645,-171.77593218373227,good,causative,746,syntax,argument_structure,trigram2,-34.35518643674645,-34.35518643674645,FALSE
+Name might fall bananas .,-34.35518643674645,-171.77593218373227,bad,causative,746,syntax,argument_structure,trigram2,-34.35518643674645,-34.35518643674645,FALSE
+Name might grow bananas .,-34.39058045218541,-171.95290226092706,good,causative,746,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+Name might fall bananas .,-34.39058045218541,-171.95290226092706,bad,causative,746,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+Name might grow bananas .,-34.39364443038302,-171.96822215191509,good,causative,746,syntax,argument_structure,trigram4,-34.39364443038302,-34.39364443038302,FALSE
+Name might fall bananas .,-34.39364443038302,-171.96822215191509,bad,causative,746,syntax,argument_structure,trigram4,-34.39364443038302,-34.39364443038302,FALSE
+Name might grow bananas .,-34.390580368524716,-171.9529018426236,good,causative,746,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+Name might fall bananas .,-34.390580368524716,-171.9529018426236,bad,causative,746,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+Name might grow bananas .,-34.36753014588386,-171.8376507294193,good,causative,746,syntax,argument_structure,trigram6,-34.36753014588386,-34.36753014588386,FALSE
+Name might fall bananas .,-34.36753014588386,-171.8376507294193,bad,causative,746,syntax,argument_structure,trigram6,-34.36753014588386,-34.36753014588386,FALSE
+Name might grow bananas .,-34.428726754885524,-172.14363377442763,good,causative,746,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+Name might fall bananas .,-34.428726754885524,-172.14363377442763,bad,causative,746,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+Name might grow bananas .,-34.41198385244504,-172.0599192622252,good,causative,746,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+Name might fall bananas .,-34.41198385244504,-172.0599192622252,bad,causative,746,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+Name might grow bananas .,-34.43934783807525,-172.19673919037626,good,causative,746,syntax,argument_structure,trigram9,-34.43934783807525,-34.43934783807525,FALSE
+Name might fall bananas .,-34.43934783807525,-172.19673919037626,bad,causative,746,syntax,argument_structure,trigram9,-34.43934783807525,-34.43934783807525,FALSE
+Name should paint Name .,-32.44984323365075,-162.24921616825375,bad,causative,817,syntax,argument_structure,trigram1,-32.44984323365075,-32.44984323365075,FALSE
+Name should move Name .,-32.44984323365075,-162.24921616825375,good,causative,817,syntax,argument_structure,trigram1,-32.44984323365075,-32.44984323365075,FALSE
+Name should paint Name .,-32.505255909383294,-162.52627954691647,bad,causative,817,syntax,argument_structure,trigram10,-32.505255909383294,-32.505255909383294,FALSE
+Name should move Name .,-32.505255909383294,-162.52627954691647,good,causative,817,syntax,argument_structure,trigram10,-32.505255909383294,-32.505255909383294,FALSE
+Name should paint Name .,-32.43004466813356,-162.1502233406678,bad,causative,817,syntax,argument_structure,trigram2,-32.43004466813356,-32.43004466813356,FALSE
+Name should move Name .,-32.43004466813356,-162.1502233406678,good,causative,817,syntax,argument_structure,trigram2,-32.43004466813356,-32.43004466813356,FALSE
+Name should paint Name .,-32.45609538379112,-162.28047691895557,bad,causative,817,syntax,argument_structure,trigram3,-32.45609538379112,-32.45609538379112,FALSE
+Name should move Name .,-32.45609538379112,-162.28047691895557,good,causative,817,syntax,argument_structure,trigram3,-32.45609538379112,-32.45609538379112,FALSE
+Name should paint Name .,-32.51304202566802,-162.5652101283401,bad,causative,817,syntax,argument_structure,trigram4,-32.51304202566802,-32.51304202566802,FALSE
+Name should move Name .,-32.51304202566802,-162.5652101283401,good,causative,817,syntax,argument_structure,trigram4,-32.51304202566802,-32.51304202566802,FALSE
+Name should paint Name .,-32.44262424657006,-162.2131212328503,bad,causative,817,syntax,argument_structure,trigram5,-32.44262424657006,-32.44262424657006,FALSE
+Name should move Name .,-32.44262424657006,-162.2131212328503,good,causative,817,syntax,argument_structure,trigram5,-32.44262424657006,-32.44262424657006,FALSE
+Name should paint Name .,-32.44569439825547,-162.22847199127733,bad,causative,817,syntax,argument_structure,trigram6,-32.44569439825547,-32.44569439825547,FALSE
+Name should move Name .,-32.44569439825547,-162.22847199127733,good,causative,817,syntax,argument_structure,trigram6,-32.44569439825547,-32.44569439825547,FALSE
+Name should paint Name .,-32.55069296364549,-162.75346481822743,bad,causative,817,syntax,argument_structure,trigram7,-32.55069296364549,-32.55069296364549,FALSE
+Name should move Name .,-32.55069296364549,-162.75346481822743,good,causative,817,syntax,argument_structure,trigram7,-32.55069296364549,-32.55069296364549,FALSE
+Name should paint Name .,-32.47293819414589,-162.36469097072944,bad,causative,817,syntax,argument_structure,trigram8,-32.47293819414589,-32.47293819414589,FALSE
+Name should move Name .,-32.47293819414589,-162.36469097072944,good,causative,817,syntax,argument_structure,trigram8,-32.47293819414589,-32.47293819414589,FALSE
+Name should paint Name .,-32.49649873454202,-162.48249367271012,bad,causative,817,syntax,argument_structure,trigram9,-32.49649873454202,-32.49649873454202,FALSE
+Name should move Name .,-32.49649873454202,-162.48249367271012,good,causative,817,syntax,argument_structure,trigram9,-32.49649873454202,-32.49649873454202,FALSE
+Name has n't broken every car .,-33.102084090707486,-231.71458863495238,good,causative,845,syntax,argument_structure,trigram1,-33.102084090707486,-33.102084090707486,FALSE
+Name has n't disappeared every car .,-33.102084090707486,-231.71458863495238,bad,causative,845,syntax,argument_structure,trigram1,-33.102084090707486,-33.102084090707486,FALSE
+Name has n't broken every car .,-33.12616135343325,-231.88312947403273,good,causative,845,syntax,argument_structure,trigram10,-33.12616135343325,-33.12616135343325,FALSE
+Name has n't disappeared every car .,-33.12616135343325,-231.88312947403273,bad,causative,845,syntax,argument_structure,trigram10,-33.12616135343325,-33.12616135343325,FALSE
+Name has n't broken every car .,-33.009778934619895,-231.0684525423393,good,causative,845,syntax,argument_structure,trigram2,-33.009778934619895,-33.009778934619895,FALSE
+Name has n't disappeared every car .,-33.009778934619895,-231.0684525423393,bad,causative,845,syntax,argument_structure,trigram2,-33.009778934619895,-33.009778934619895,FALSE
+Name has n't broken every car .,-33.018369092462315,-231.1285836472362,good,causative,845,syntax,argument_structure,trigram3,-33.018369092462315,-33.018369092462315,FALSE
+Name has n't disappeared every car .,-33.018369092462315,-231.1285836472362,bad,causative,845,syntax,argument_structure,trigram3,-33.018369092462315,-33.018369092462315,FALSE
+Name has n't broken every car .,-33.09543545306154,-231.66804817143077,good,causative,845,syntax,argument_structure,trigram4,-33.09543545306154,-33.09543545306154,FALSE
+Name has n't disappeared every car .,-33.09543545306154,-231.66804817143077,bad,causative,845,syntax,argument_structure,trigram4,-33.09543545306154,-33.09543545306154,FALSE
+Name has n't broken every car .,-33.09891477543369,-231.69240342803582,good,causative,845,syntax,argument_structure,trigram5,-33.09891477543369,-33.09891477543369,FALSE
+Name has n't disappeared every car .,-33.09891477543369,-231.69240342803582,bad,causative,845,syntax,argument_structure,trigram5,-33.09891477543369,-33.09891477543369,FALSE
+Name has n't broken every car .,-33.039399259186816,-231.27579481430772,good,causative,845,syntax,argument_structure,trigram6,-33.039399259186816,-33.039399259186816,FALSE
+Name has n't disappeared every car .,-33.039399259186816,-231.27579481430772,bad,causative,845,syntax,argument_structure,trigram6,-33.039399259186816,-33.039399259186816,FALSE
+Name has n't broken every car .,-33.1370611617945,-231.95942813256147,good,causative,845,syntax,argument_structure,trigram7,-33.1370611617945,-33.1370611617945,FALSE
+Name has n't disappeared every car .,-33.1370611617945,-231.95942813256147,bad,causative,845,syntax,argument_structure,trigram7,-33.1370611617945,-33.1370611617945,FALSE
+Name has n't broken every car .,-33.10743285807236,-231.75203000650652,good,causative,845,syntax,argument_structure,trigram8,-33.10743285807236,-33.10743285807236,FALSE
+Name has n't disappeared every car .,-33.10743285807236,-231.75203000650652,bad,causative,845,syntax,argument_structure,trigram8,-33.10743285807236,-33.10743285807236,FALSE
+Name has n't broken every car .,-33.196427878340806,-232.37499514838566,good,causative,845,syntax,argument_structure,trigram9,-33.196427878340806,-33.196427878340806,FALSE
+Name has n't disappeared every car .,-33.196427878340806,-232.37499514838566,bad,causative,845,syntax,argument_structure,trigram9,-33.196427878340806,-33.196427878340806,FALSE
+this teacher was n't falling apart every bicycle .,-34.271799305976664,-308.44619375379,bad,causative,853,syntax,argument_structure,trigram1,-34.25791041708778,-34.271799305976664,TRUE
+this teacher was n't rolling every bicycle .,-34.25791041708778,-274.0632833367022,good,causative,853,syntax,argument_structure,trigram1,-34.25791041708778,-34.271799305976664,TRUE
+this teacher was n't falling apart every bicycle .,-34.22671697162333,-308.04045274461,bad,causative,853,syntax,argument_structure,trigram10,-34.20470360355775,-34.22671697162333,TRUE
+this teacher was n't rolling every bicycle .,-34.20470360355775,-273.637628828462,good,causative,853,syntax,argument_structure,trigram10,-34.20470360355775,-34.22671697162333,TRUE
+this teacher was n't falling apart every bicycle .,-34.13296421452424,-307.1966779307181,bad,causative,853,syntax,argument_structure,trigram2,-34.10518643674646,-34.13296421452424,TRUE
+this teacher was n't rolling every bicycle .,-34.10518643674646,-272.84149149397166,good,causative,853,syntax,argument_structure,trigram2,-34.10518643674646,-34.13296421452424,TRUE
+this teacher was n't falling apart every bicycle .,-34.214473507660834,-307.9302615689475,bad,causative,853,syntax,argument_structure,trigram3,-34.19246013959527,-34.214473507660834,TRUE
+this teacher was n't rolling every bicycle .,-34.19246013959527,-273.53968111676215,good,causative,853,syntax,argument_structure,trigram3,-34.19246013959527,-34.214473507660834,TRUE
+this teacher was n't falling apart every bicycle .,-34.21753748585844,-307.957837372726,bad,causative,853,syntax,argument_structure,trigram4,-34.19552411779287,-34.21753748585844,TRUE
+this teacher was n't rolling every bicycle .,-34.19552411779287,-273.56419294234297,good,causative,853,syntax,argument_structure,trigram4,-34.19552411779287,-34.21753748585844,TRUE
+this teacher was n't falling apart every bicycle .,-34.21447342400015,-307.9302608160013,bad,causative,853,syntax,argument_structure,trigram5,-34.192460055934575,-34.21447342400015,TRUE
+this teacher was n't rolling every bicycle .,-34.192460055934575,-273.5396804474766,good,causative,853,syntax,argument_structure,trigram5,-34.192460055934575,-34.21447342400015,TRUE
+this teacher was n't falling apart every bicycle .,-34.14530792366163,-307.3077713129547,bad,causative,853,syntax,argument_structure,trigram6,-34.117530145883855,-34.14530792366163,TRUE
+this teacher was n't rolling every bicycle .,-34.117530145883855,-272.94024116707084,good,causative,853,syntax,argument_structure,trigram6,-34.117530145883855,-34.14530792366163,TRUE
+this teacher was n't falling apart every bicycle .,-34.31761564377442,-308.8585407939697,bad,causative,853,syntax,argument_structure,trigram7,-34.303726754885524,-34.31761564377442,TRUE
+this teacher was n't rolling every bicycle .,-34.303726754885524,-274.4298140390842,good,causative,853,syntax,argument_structure,trigram7,-34.303726754885524,-34.31761564377442,TRUE
+this teacher was n't falling apart every bicycle .,-34.23587690792047,-308.1228921712842,bad,causative,853,syntax,argument_structure,trigram8,-34.2138635398549,-34.23587690792047,TRUE
+this teacher was n't rolling every bicycle .,-34.2138635398549,-273.7109083188392,good,causative,853,syntax,argument_structure,trigram8,-34.2138635398549,-34.23587690792047,TRUE
+this teacher was n't falling apart every bicycle .,-34.26324089355068,-308.36916804195613,bad,causative,853,syntax,argument_structure,trigram9,-34.24122752548511,-34.26324089355068,TRUE
+this teacher was n't rolling every bicycle .,-34.24122752548511,-273.92982020388087,good,causative,853,syntax,argument_structure,trigram9,-34.24122752548511,-34.26324089355068,TRUE
+Name is n't opening this mouth .,-32.612617697178614,-228.28832388025032,good,causative,903,syntax,argument_structure,trigram1,-32.612617697178614,-32.612617697178614,FALSE
+Name is n't falling this mouth .,-32.612617697178614,-228.28832388025032,bad,causative,903,syntax,argument_structure,trigram1,-32.612617697178614,-32.612617697178614,FALSE
+Name is n't opening this mouth .,-32.64677796860475,-228.52744578023328,good,causative,903,syntax,argument_structure,trigram10,-32.64677796860475,-32.64677796860475,FALSE
+Name is n't falling this mouth .,-32.64677796860475,-228.52744578023328,bad,causative,903,syntax,argument_structure,trigram10,-32.64677796860475,-32.64677796860475,FALSE
+Name is n't opening this mouth .,-32.562910755448534,-227.94037528813973,good,causative,903,syntax,argument_structure,trigram2,-32.562910755448534,-32.562910755448534,FALSE
+Name is n't falling this mouth .,-32.562910755448534,-227.94037528813973,bad,causative,903,syntax,argument_structure,trigram2,-32.562910755448534,-32.562910755448534,FALSE
+Name is n't opening this mouth .,-32.774940973065256,-229.42458681145678,good,causative,903,syntax,argument_structure,trigram3,-32.774940973065256,-32.774940973065256,FALSE
+Name is n't falling this mouth .,-32.774940973065256,-229.42458681145678,bad,causative,903,syntax,argument_structure,trigram3,-32.774940973065256,-32.774940973065256,FALSE
+Name is n't opening this mouth .,-32.66460331489559,-228.65222320426912,good,causative,903,syntax,argument_structure,trigram4,-32.66460331489559,-32.66460331489559,FALSE
+Name is n't falling this mouth .,-32.66460331489559,-228.65222320426912,bad,causative,903,syntax,argument_structure,trigram4,-32.66460331489559,-32.66460331489559,FALSE
+Name is n't opening this mouth .,-32.620249308127754,-228.3417451568943,good,causative,903,syntax,argument_structure,trigram5,-32.620249308127754,-32.620249308127754,FALSE
+Name is n't falling this mouth .,-32.620249308127754,-228.3417451568943,bad,causative,903,syntax,argument_structure,trigram5,-32.620249308127754,-32.620249308127754,FALSE
+Name is n't opening this mouth .,-32.61463081353071,-228.30241569471497,good,causative,903,syntax,argument_structure,trigram6,-32.61463081353071,-32.61463081353071,FALSE
+Name is n't falling this mouth .,-32.61463081353071,-228.30241569471497,bad,causative,903,syntax,argument_structure,trigram6,-32.61463081353071,-32.61463081353071,FALSE
+Name is n't opening this mouth .,-32.757111546034295,-229.29978082224005,good,causative,903,syntax,argument_structure,trigram7,-32.757111546034295,-32.757111546034295,FALSE
+Name is n't falling this mouth .,-32.757111546034295,-229.29978082224005,bad,causative,903,syntax,argument_structure,trigram7,-32.757111546034295,-32.757111546034295,FALSE
+Name is n't opening this mouth .,-32.635310774996874,-228.4471754249781,good,causative,903,syntax,argument_structure,trigram8,-32.635310774996874,-32.635310774996874,FALSE
+Name is n't falling this mouth .,-32.635310774996874,-228.4471754249781,bad,causative,903,syntax,argument_structure,trigram8,-32.635310774996874,-32.635310774996874,FALSE
+Name is n't opening this mouth .,-32.73485123323429,-229.14395863264,good,causative,903,syntax,argument_structure,trigram9,-32.73485123323429,-32.73485123323429,FALSE
+Name is n't falling this mouth .,-32.73485123323429,-229.14395863264,bad,causative,903,syntax,argument_structure,trigram9,-32.73485123323429,-32.73485123323429,FALSE
+Name had disappeared this carriage .,-33.78541666696759,-202.71250000180555,bad,causative,96,syntax,argument_structure,trigram1,-33.78541666696759,-33.78541666696759,FALSE
+Name had turned this carriage .,-33.78541666696759,-202.71250000180555,good,causative,96,syntax,argument_structure,trigram1,-33.78541666696759,-33.78541666696759,FALSE
+Name had disappeared this carriage .,-33.97199683269437,-203.83198099616624,bad,causative,96,syntax,argument_structure,trigram10,-33.97199683269437,-33.97199683269437,FALSE
+Name had turned this carriage .,-33.97199683269437,-203.83198099616624,good,causative,96,syntax,argument_structure,trigram10,-33.97199683269437,-33.97199683269437,FALSE
+Name had disappeared this carriage .,-33.85518643674646,-203.13111862047873,bad,causative,96,syntax,argument_structure,trigram2,-33.85518643674646,-33.85518643674646,FALSE
+Name had turned this carriage .,-33.85518643674646,-203.13111862047873,good,causative,96,syntax,argument_structure,trigram2,-33.85518643674646,-33.85518643674646,FALSE
+Name had disappeared this carriage .,-33.95975336873189,-203.75852021239132,bad,causative,96,syntax,argument_structure,trigram3,-33.95975336873189,-33.95975336873189,FALSE
+Name had turned this carriage .,-33.95975336873189,-203.75852021239132,good,causative,96,syntax,argument_structure,trigram3,-33.95975336873189,-33.95975336873189,FALSE
+Name had disappeared this carriage .,-33.796150680262826,-202.77690408157696,bad,causative,96,syntax,argument_structure,trigram4,-33.796150680262826,-33.796150680262826,FALSE
+Name had turned this carriage .,-33.796150680262826,-202.77690408157696,good,causative,96,syntax,argument_structure,trigram4,-33.796150680262826,-33.796150680262826,FALSE
+Name had disappeared this carriage .,-33.959753285071194,-203.75851971042715,bad,causative,96,syntax,argument_structure,trigram5,-33.959753285071194,-33.959753285071194,FALSE
+Name had turned this carriage .,-33.959753285071194,-203.75851971042715,good,causative,96,syntax,argument_structure,trigram5,-33.959753285071194,-33.959753285071194,FALSE
+Name had disappeared this carriage .,-33.77003639576367,-202.620218374582,bad,causative,96,syntax,argument_structure,trigram6,-33.77003639576367,-33.77003639576367,FALSE
+Name had turned this carriage .,-33.77003639576367,-202.620218374582,good,causative,96,syntax,argument_structure,trigram6,-33.77003639576367,-33.77003639576367,FALSE
+Name had disappeared this carriage .,-33.83123300476533,-202.987398028592,bad,causative,96,syntax,argument_structure,trigram7,-33.83123300476533,-33.83123300476533,FALSE
+Name had turned this carriage .,-33.83123300476533,-202.987398028592,good,causative,96,syntax,argument_structure,trigram7,-33.83123300476533,-33.83123300476533,FALSE
+Name had disappeared this carriage .,-33.98115676899152,-203.8869406139491,bad,causative,96,syntax,argument_structure,trigram8,-33.98115676899152,-33.98115676899152,FALSE
+Name had turned this carriage .,-33.98115676899152,-203.8869406139491,good,causative,96,syntax,argument_structure,trigram8,-33.98115676899152,-33.98115676899152,FALSE
+Name had disappeared this carriage .,-33.772681171408585,-202.63608702845153,bad,causative,96,syntax,argument_structure,trigram9,-33.772681171408585,-33.772681171408585,FALSE
+Name had turned this carriage .,-33.772681171408585,-202.63608702845153,good,causative,96,syntax,argument_structure,trigram9,-33.772681171408585,-33.772681171408585,FALSE

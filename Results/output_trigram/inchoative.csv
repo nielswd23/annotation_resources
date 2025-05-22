@@ -1,0 +1,961 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+the cars roll .,-34.382910417087786,-137.53164166835114,good,inchoative,146,syntax,argument_structure,trigram1,-34.382910417087786,-33.91852479811031,FALSE
+the cars looked like .,-33.91852479811031,-169.59262399055157,bad,inchoative,146,syntax,argument_structure,trigram1,-34.382910417087786,-33.91852479811031,FALSE
+the cars roll .,-34.4028239161479,-137.6112956645916,good,inchoative,146,syntax,argument_structure,trigram10,-34.4028239161479,-34.08583141600367,FALSE
+the cars looked like .,-34.08583141600367,-170.42915708001834,bad,inchoative,146,syntax,argument_structure,trigram10,-34.4028239161479,-34.08583141600367,FALSE
+the cars roll .,-34.35518643674645,-137.4207457469858,good,inchoative,146,syntax,argument_structure,trigram2,-34.35518643674645,-33.89080081776898,FALSE
+the cars looked like .,-33.89080081776898,-169.4540040888449,bad,inchoative,146,syntax,argument_structure,trigram2,-34.35518643674645,-33.89080081776898,FALSE
+the cars roll .,-34.39058045218541,-137.56232180874164,good,inchoative,146,syntax,argument_structure,trigram3,-34.39058045218541,-33.99058045218541,FALSE
+the cars looked like .,-33.99058045218541,-169.95290226092706,bad,inchoative,146,syntax,argument_structure,trigram3,-34.39058045218541,-33.99058045218541,FALSE
+the cars roll .,-34.39364443038302,-137.57457772153208,good,inchoative,146,syntax,argument_structure,trigram4,-34.39364443038302,-33.993644430383014,FALSE
+the cars looked like .,-33.993644430383014,-169.96822215191509,bad,inchoative,146,syntax,argument_structure,trigram4,-34.39364443038302,-33.993644430383014,FALSE
+the cars roll .,-34.390580368524716,-137.56232147409887,good,inchoative,146,syntax,argument_structure,trigram5,-34.390580368524716,-33.99058036852472,FALSE
+the cars looked like .,-33.99058036852472,-169.9529018426236,bad,inchoative,146,syntax,argument_structure,trigram5,-34.390580368524716,-33.99058036852472,FALSE
+the cars roll .,-34.36753014588386,-137.47012058353545,good,inchoative,146,syntax,argument_structure,trigram6,-34.36753014588386,-33.850537645739635,FALSE
+the cars looked like .,-33.850537645739635,-169.25268822869816,bad,inchoative,146,syntax,argument_structure,trigram6,-34.36753014588386,-33.850537645739635,FALSE
+the cars roll .,-34.428726754885524,-137.7149070195421,good,inchoative,146,syntax,argument_structure,trigram7,-34.428726754885524,-33.91173425474129,FALSE
+the cars looked like .,-33.91173425474129,-169.55867127370647,bad,inchoative,146,syntax,argument_structure,trigram7,-34.428726754885524,-33.91173425474129,FALSE
+the cars roll .,-34.41198385244504,-137.64793540978016,good,inchoative,146,syntax,argument_structure,trigram8,-34.41198385244504,-33.947598233467566,FALSE
+the cars looked like .,-33.947598233467566,-169.73799116733784,bad,inchoative,146,syntax,argument_structure,trigram8,-34.41198385244504,-33.947598233467566,FALSE
+the cars roll .,-34.43934783807525,-137.757391352301,good,inchoative,146,syntax,argument_structure,trigram9,-34.43934783807525,-34.03934783807525,FALSE
+the cars looked like .,-34.03934783807525,-170.19673919037626,bad,inchoative,146,syntax,argument_structure,trigram9,-34.43934783807525,-34.03934783807525,FALSE
+Name had scared .,-33.986669791907495,-135.94667916762998,bad,inchoative,156,syntax,argument_structure,trigram1,-33.486669791907495,-33.986669791907495,TRUE
+Name had hurt .,-33.486669791907495,-133.94667916762998,good,inchoative,156,syntax,argument_structure,trigram1,-33.486669791907495,-33.986669791907495,TRUE
+Name had scared .,-34.1528239161479,-136.6112956645916,bad,inchoative,156,syntax,argument_structure,trigram10,-33.25658329096761,-34.1528239161479,TRUE
+Name had hurt .,-33.25658329096761,-133.02633316387045,good,inchoative,156,syntax,argument_structure,trigram10,-33.25658329096761,-34.1528239161479,TRUE
+Name had scared .,-33.85518643674645,-135.4207457469858,bad,inchoative,156,syntax,argument_structure,trigram2,-33.02470441302461,-33.85518643674645,TRUE
+Name had hurt .,-33.02470441302461,-132.09881765209843,good,inchoative,156,syntax,argument_structure,trigram2,-33.02470441302461,-33.85518643674645,TRUE
+Name had scared .,-34.14058045218541,-136.56232180874164,bad,inchoative,156,syntax,argument_structure,trigram3,-33.49433982700512,-34.14058045218541,TRUE
+Name had hurt .,-33.49433982700512,-133.97735930802048,good,inchoative,156,syntax,argument_structure,trigram3,-33.49433982700512,-34.14058045218541,TRUE
+Name had scared .,-33.99740380520273,-135.98961522081092,bad,inchoative,156,syntax,argument_structure,trigram4,-33.16692178148089,-33.99740380520273,TRUE
+Name had hurt .,-33.16692178148089,-132.66768712592355,good,inchoative,156,syntax,argument_structure,trigram4,-33.16692178148089,-33.99740380520273,TRUE
+Name had scared .,-34.140580368524716,-136.56232147409887,bad,inchoative,156,syntax,argument_structure,trigram5,-33.21547043898944,-34.140580368524716,TRUE
+Name had hurt .,-33.21547043898944,-132.86188175595777,good,inchoative,156,syntax,argument_structure,trigram5,-33.21547043898944,-34.140580368524716,TRUE
+Name had scared .,-33.97128952070357,-135.88515808281429,bad,inchoative,156,syntax,argument_structure,trigram6,-33.22128952070357,-33.97128952070357,TRUE
+Name had hurt .,-33.22128952070357,-132.88515808281429,good,inchoative,156,syntax,argument_structure,trigram6,-33.22128952070357,-33.97128952070357,TRUE
+Name had scared .,-33.928726754885524,-135.7149070195421,bad,inchoative,156,syntax,argument_structure,trigram7,-33.178726754885524,-33.928726754885524,TRUE
+Name had hurt .,-33.178726754885524,-132.7149070195421,good,inchoative,156,syntax,argument_structure,trigram7,-33.178726754885524,-33.928726754885524,TRUE
+Name had scared .,-34.16198385244504,-136.64793540978016,bad,inchoative,156,syntax,argument_structure,trigram8,-33.36950260208446,-34.16198385244504,TRUE
+Name had hurt .,-33.36950260208446,-133.47801040833784,good,inchoative,156,syntax,argument_structure,trigram8,-33.36950260208446,-34.16198385244504,TRUE
+Name had scared .,-33.93934783807525,-135.757391352301,bad,inchoative,156,syntax,argument_structure,trigram9,-33.014237908539975,-33.93934783807525,TRUE
+Name had hurt .,-33.014237908539975,-132.0569516341599,good,inchoative,156,syntax,argument_structure,trigram9,-33.014237908539975,-33.93934783807525,TRUE
+some banana was growing .,-34.382910417087786,-171.9145520854389,good,inchoative,174,syntax,argument_structure,trigram1,-34.382910417087786,-34.382910417087786,FALSE
+some banana was buying .,-34.382910417087786,-171.9145520854389,bad,inchoative,174,syntax,argument_structure,trigram1,-34.382910417087786,-34.382910417087786,FALSE
+some banana was growing .,-34.4028239161479,-172.0141195807395,good,inchoative,174,syntax,argument_structure,trigram10,-34.4028239161479,-34.4028239161479,FALSE
+some banana was buying .,-34.4028239161479,-172.0141195807395,bad,inchoative,174,syntax,argument_structure,trigram10,-34.4028239161479,-34.4028239161479,FALSE
+some banana was growing .,-34.155186436746455,-170.77593218373227,good,inchoative,174,syntax,argument_structure,trigram2,-34.155186436746455,-34.35518643674645,TRUE
+some banana was buying .,-34.35518643674645,-171.77593218373227,bad,inchoative,174,syntax,argument_structure,trigram2,-34.155186436746455,-34.35518643674645,TRUE
+some banana was growing .,-34.190580452185415,-170.95290226092706,good,inchoative,174,syntax,argument_structure,trigram3,-34.190580452185415,-34.39058045218541,TRUE
+some banana was buying .,-34.39058045218541,-171.95290226092706,bad,inchoative,174,syntax,argument_structure,trigram3,-34.190580452185415,-34.39058045218541,TRUE
+some banana was growing .,-34.19364443038302,-170.96822215191509,good,inchoative,174,syntax,argument_structure,trigram4,-34.19364443038302,-34.39364443038302,TRUE
+some banana was buying .,-34.39364443038302,-171.96822215191509,bad,inchoative,174,syntax,argument_structure,trigram4,-34.19364443038302,-34.39364443038302,TRUE
+some banana was growing .,-34.390580368524716,-171.9529018426236,good,inchoative,174,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+some banana was buying .,-34.390580368524716,-171.9529018426236,bad,inchoative,174,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+some banana was growing .,-34.36753014588386,-171.8376507294193,good,inchoative,174,syntax,argument_structure,trigram6,-34.36753014588386,-34.36753014588386,FALSE
+some banana was buying .,-34.36753014588386,-171.8376507294193,bad,inchoative,174,syntax,argument_structure,trigram6,-34.36753014588386,-34.36753014588386,FALSE
+some banana was growing .,-34.22872675488553,-171.14363377442763,good,inchoative,174,syntax,argument_structure,trigram7,-34.22872675488553,-34.428726754885524,TRUE
+some banana was buying .,-34.428726754885524,-172.14363377442763,bad,inchoative,174,syntax,argument_structure,trigram7,-34.22872675488553,-34.428726754885524,TRUE
+some banana was growing .,-34.211983852445044,-171.0599192622252,good,inchoative,174,syntax,argument_structure,trigram8,-34.211983852445044,-34.41198385244504,TRUE
+some banana was buying .,-34.41198385244504,-172.0599192622252,bad,inchoative,174,syntax,argument_structure,trigram8,-34.211983852445044,-34.41198385244504,TRUE
+some banana was growing .,-34.239347838075254,-171.19673919037626,good,inchoative,174,syntax,argument_structure,trigram9,-34.239347838075254,-34.43934783807525,TRUE
+some banana was buying .,-34.43934783807525,-172.19673919037626,bad,inchoative,174,syntax,argument_structure,trigram9,-34.239347838075254,-34.43934783807525,TRUE
+Name will n't sound like .,-33.467601567699504,-200.80560940619702,bad,inchoative,182,syntax,argument_structure,trigram1,-32.43399592417123,-33.467601567699504,TRUE
+Name will n't wake up .,-32.43399592417123,-194.60397554502737,good,inchoative,182,syntax,argument_structure,trigram1,-32.43399592417123,-33.467601567699504,TRUE
+Name will n't sound like .,-33.874503082574186,-203.2470184954451,bad,inchoative,182,syntax,argument_structure,trigram10,-32.75776312955067,-33.874503082574186,TRUE
+Name will n't wake up .,-32.75776312955067,-196.546578777304,good,inchoative,182,syntax,argument_structure,trigram10,-32.75776312955067,-33.874503082574186,TRUE
+Name will n't sound like .,-33.3707046708117,-200.22422802487017,bad,inchoative,182,syntax,argument_structure,trigram2,-32.26727360240305,-33.3707046708117,TRUE
+Name will n't wake up .,-32.26727360240305,-193.6036416144183,good,inchoative,182,syntax,argument_structure,trigram2,-32.26727360240305,-33.3707046708117,TRUE
+Name will n't sound like .,-33.406098686250665,-200.43659211750398,bad,inchoative,182,syntax,argument_structure,trigram3,-32.40703978010752,-33.406098686250665,TRUE
+Name will n't wake up .,-32.40703978010752,-194.44223868064512,good,inchoative,182,syntax,argument_structure,trigram3,-32.40703978010752,-33.406098686250665,TRUE
+Name will n't sound like .,-33.40916266444827,-200.4549759866896,bad,inchoative,182,syntax,argument_structure,trigram4,-32.456788411503915,-33.40916266444827,TRUE
+Name will n't wake up .,-32.456788411503915,-194.7407304690235,good,inchoative,182,syntax,argument_structure,trigram4,-32.456788411503915,-33.40916266444827,TRUE
+Name will n't sound like .,-33.52892620161767,-201.17355720970602,bad,inchoative,182,syntax,argument_structure,trigram5,-32.42041758642118,-33.52892620161767,TRUE
+Name will n't wake up .,-32.42041758642118,-194.52250551852708,good,inchoative,182,syntax,argument_structure,trigram5,-32.42041758642118,-33.52892620161767,TRUE
+Name will n't sound like .,-33.40838222885662,-200.4502933731397,bad,inchoative,182,syntax,argument_structure,trigram6,-32.36706097661602,-33.40838222885662,TRUE
+Name will n't wake up .,-32.36706097661602,-194.2023658596961,good,inchoative,182,syntax,argument_structure,trigram6,-32.36706097661602,-33.40838222885662,TRUE
+Name will n't sound like .,-33.497899671432,-200.987398028592,bad,inchoative,182,syntax,argument_structure,trigram7,-32.43830767066232,-33.497899671432,TRUE
+Name will n't wake up .,-32.43830767066232,-194.6298460239739,good,inchoative,182,syntax,argument_structure,trigram7,-32.43830767066232,-33.497899671432,TRUE
+Name will n't sound like .,-33.59416875317696,-201.56501251906175,bad,inchoative,182,syntax,argument_structure,trigram8,-32.48782311364684,-33.59416875317696,TRUE
+Name will n't wake up .,-32.48782311364684,-194.92693868188104,good,inchoative,182,syntax,argument_structure,trigram8,-32.48782311364684,-33.59416875317696,TRUE
+Name will n't sound like .,-33.5776936711682,-201.4661620270092,bad,inchoative,182,syntax,argument_structure,trigram9,-32.50946184847858,-33.5776936711682,TRUE
+Name will n't wake up .,-32.50946184847858,-195.05677109087148,good,inchoative,182,syntax,argument_structure,trigram9,-32.50946184847858,-33.5776936711682,TRUE
+these gloves like .,-33.80242839336594,-135.20971357346377,bad,inchoative,184,syntax,argument_structure,trigram1,-34.382910417087786,-33.80242839336594,FALSE
+these gloves twist .,-34.382910417087786,-137.53164166835114,good,inchoative,184,syntax,argument_structure,trigram1,-34.382910417087786,-33.80242839336594,FALSE
+these gloves like .,-34.00658329096761,-136.02633316387045,bad,inchoative,184,syntax,argument_structure,trigram10,-34.4028239161479,-34.00658329096761,FALSE
+these gloves twist .,-34.4028239161479,-137.6112956645916,good,inchoative,184,syntax,argument_structure,trigram10,-34.4028239161479,-34.00658329096761,FALSE
+these gloves like .,-33.77470441302461,-135.09881765209843,bad,inchoative,184,syntax,argument_structure,trigram2,-34.35518643674645,-33.77470441302461,FALSE
+these gloves twist .,-34.35518643674645,-137.4207457469858,good,inchoative,184,syntax,argument_structure,trigram2,-34.35518643674645,-33.77470441302461,FALSE
+these gloves like .,-33.89058045218541,-135.56232180874164,bad,inchoative,184,syntax,argument_structure,trigram3,-34.39058045218541,-33.89058045218541,FALSE
+these gloves twist .,-34.39058045218541,-137.56232180874164,good,inchoative,184,syntax,argument_structure,trigram3,-34.39058045218541,-33.89058045218541,FALSE
+these gloves like .,-33.89364443038302,-135.57457772153208,bad,inchoative,184,syntax,argument_structure,trigram4,-34.39364443038302,-33.89364443038302,FALSE
+these gloves twist .,-34.39364443038302,-137.57457772153208,good,inchoative,184,syntax,argument_structure,trigram4,-34.39364443038302,-33.89364443038302,FALSE
+these gloves like .,-33.890580368524716,-135.56232147409887,bad,inchoative,184,syntax,argument_structure,trigram5,-34.390580368524716,-33.890580368524716,FALSE
+these gloves twist .,-34.390580368524716,-137.56232147409887,good,inchoative,184,syntax,argument_structure,trigram5,-34.390580368524716,-33.890580368524716,FALSE
+these gloves like .,-33.72128952070357,-134.88515808281429,bad,inchoative,184,syntax,argument_structure,trigram6,-34.36753014588386,-33.72128952070357,FALSE
+these gloves twist .,-34.36753014588386,-137.47012058353545,good,inchoative,184,syntax,argument_structure,trigram6,-34.36753014588386,-33.72128952070357,FALSE
+these gloves like .,-33.782486129705234,-135.12994451882093,bad,inchoative,184,syntax,argument_structure,trigram7,-34.428726754885524,-33.782486129705234,FALSE
+these gloves twist .,-34.428726754885524,-137.7149070195421,good,inchoative,184,syntax,argument_structure,trigram7,-34.428726754885524,-33.782486129705234,FALSE
+these gloves like .,-33.8315018287232,-135.3260073148928,bad,inchoative,184,syntax,argument_structure,trigram8,-34.41198385244504,-33.8315018287232,FALSE
+these gloves twist .,-34.41198385244504,-137.64793540978016,good,inchoative,184,syntax,argument_structure,trigram8,-34.41198385244504,-33.8315018287232,FALSE
+these gloves like .,-33.93934783807525,-135.757391352301,bad,inchoative,184,syntax,argument_structure,trigram9,-34.43934783807525,-33.93934783807525,FALSE
+these gloves twist .,-34.43934783807525,-137.757391352301,good,inchoative,184,syntax,argument_structure,trigram9,-34.43934783807525,-33.93934783807525,FALSE
+Name sits down .,-32.88859043621281,-131.55436174485124,good,inchoative,185,syntax,argument_structure,trigram1,-32.88859043621281,-33.68107168657338,TRUE
+Name works with .,-33.68107168657338,-134.72428674629353,bad,inchoative,185,syntax,argument_structure,trigram1,-32.88859043621281,-33.68107168657338,TRUE
+Name sits down .,-32.91427483855119,-131.65709935420475,good,inchoative,185,syntax,argument_structure,trigram10,-32.91427483855119,-33.6528239161479,TRUE
+Name works with .,-33.6528239161479,-134.6112956645916,bad,inchoative,185,syntax,argument_structure,trigram10,-32.91427483855119,-33.6528239161479,TRUE
+Name sits down .,-32.90334770623205,-131.6133908249282,good,inchoative,185,syntax,argument_structure,trigram2,-32.90334770623205,-33.70894581156616,TRUE
+Name works with .,-33.70894581156616,-134.83578324626464,bad,inchoative,185,syntax,argument_structure,trigram2,-32.90334770623205,-33.70894581156616,TRUE
+Name sits down .,-32.91385780328328,-131.6554312131331,good,inchoative,185,syntax,argument_structure,trigram3,-32.91385780328328,-33.81009842846357,TRUE
+Name works with .,-33.81009842846357,-135.24039371385427,bad,inchoative,185,syntax,argument_structure,trigram3,-32.91385780328328,-33.81009842846357,TRUE
+Name sits down .,-32.95492255484216,-131.81969021936862,good,inchoative,185,syntax,argument_structure,trigram4,-32.95492255484216,-33.64364443038302,TRUE
+Name works with .,-33.64364443038302,-134.57457772153208,bad,inchoative,185,syntax,argument_structure,trigram4,-32.95492255484216,-33.64364443038302,TRUE
+Name sits down .,-32.90789603413399,-131.63158413653596,good,inchoative,185,syntax,argument_structure,trigram5,-32.90789603413399,-33.994339743344426,TRUE
+Name works with .,-33.994339743344426,-135.9773589733777,bad,inchoative,185,syntax,argument_structure,trigram5,-32.90789603413399,-33.994339743344426,TRUE
+Name sits down .,-32.96385268485506,-131.85541073942025,good,inchoative,185,syntax,argument_structure,trigram6,-32.96385268485506,-33.57504889552328,TRUE
+Name works with .,-33.57504889552328,-134.30019558209312,bad,inchoative,185,syntax,argument_structure,trigram6,-32.96385268485506,-33.57504889552328,TRUE
+Name sits down .,-33.032486129705234,-132.12994451882093,good,inchoative,185,syntax,argument_structure,trigram7,-33.032486129705234,-33.782486129705234,TRUE
+Name works with .,-33.782486129705234,-135.12994451882093,bad,inchoative,185,syntax,argument_structure,trigram7,-33.032486129705234,-33.782486129705234,TRUE
+Name sits down .,-32.90639189918792,-131.6255675967517,good,inchoative,185,syntax,argument_structure,trigram8,-32.90639189918792,-33.8315018287232,TRUE
+Name works with .,-33.8315018287232,-135.3260073148928,bad,inchoative,185,syntax,argument_structure,trigram8,-32.90639189918792,-33.8315018287232,TRUE
+Name sits down .,-32.93934783807525,-131.757391352301,good,inchoative,185,syntax,argument_structure,trigram9,-32.93934783807525,-33.68934783807525,TRUE
+Name works with .,-33.68934783807525,-134.757391352301,bad,inchoative,185,syntax,argument_structure,trigram9,-32.93934783807525,-33.68934783807525,TRUE
+this window had opened .,-34.18291041708778,-170.9145520854389,good,inchoative,189,syntax,argument_structure,trigram1,-34.18291041708778,-34.382910417087786,TRUE
+this window had found .,-34.382910417087786,-171.9145520854389,bad,inchoative,189,syntax,argument_structure,trigram1,-34.18291041708778,-34.382910417087786,TRUE
+this window had opened .,-34.2028239161479,-171.0141195807395,good,inchoative,189,syntax,argument_structure,trigram10,-34.2028239161479,-34.4028239161479,TRUE
+this window had found .,-34.4028239161479,-172.0141195807395,bad,inchoative,189,syntax,argument_structure,trigram10,-34.2028239161479,-34.4028239161479,TRUE
+this window had opened .,-34.155186436746455,-170.77593218373227,good,inchoative,189,syntax,argument_structure,trigram2,-34.155186436746455,-34.35518643674645,TRUE
+this window had found .,-34.35518643674645,-171.77593218373227,bad,inchoative,189,syntax,argument_structure,trigram2,-34.155186436746455,-34.35518643674645,TRUE
+this window had opened .,-34.190580452185415,-170.95290226092706,good,inchoative,189,syntax,argument_structure,trigram3,-34.190580452185415,-34.39058045218541,TRUE
+this window had found .,-34.39058045218541,-171.95290226092706,bad,inchoative,189,syntax,argument_structure,trigram3,-34.190580452185415,-34.39058045218541,TRUE
+this window had opened .,-34.19364443038302,-170.96822215191509,good,inchoative,189,syntax,argument_structure,trigram4,-34.19364443038302,-34.39364443038302,TRUE
+this window had found .,-34.39364443038302,-171.96822215191509,bad,inchoative,189,syntax,argument_structure,trigram4,-34.19364443038302,-34.39364443038302,TRUE
+this window had opened .,-34.19058036852472,-170.9529018426236,good,inchoative,189,syntax,argument_structure,trigram5,-34.19058036852472,-34.390580368524716,TRUE
+this window had found .,-34.390580368524716,-171.9529018426236,bad,inchoative,189,syntax,argument_structure,trigram5,-34.19058036852472,-34.390580368524716,TRUE
+this window had opened .,-34.16753014588386,-170.8376507294193,good,inchoative,189,syntax,argument_structure,trigram6,-34.16753014588386,-34.36753014588386,TRUE
+this window had found .,-34.36753014588386,-171.8376507294193,bad,inchoative,189,syntax,argument_structure,trigram6,-34.16753014588386,-34.36753014588386,TRUE
+this window had opened .,-34.22872675488553,-171.14363377442763,good,inchoative,189,syntax,argument_structure,trigram7,-34.22872675488553,-34.428726754885524,TRUE
+this window had found .,-34.428726754885524,-172.14363377442763,bad,inchoative,189,syntax,argument_structure,trigram7,-34.22872675488553,-34.428726754885524,TRUE
+this window had opened .,-34.41198385244504,-172.0599192622252,good,inchoative,189,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+this window had found .,-34.41198385244504,-172.0599192622252,bad,inchoative,189,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+this window had opened .,-34.239347838075254,-171.19673919037626,good,inchoative,189,syntax,argument_structure,trigram9,-34.239347838075254,-34.43934783807525,TRUE
+this window had found .,-34.43934783807525,-172.19673919037626,bad,inchoative,189,syntax,argument_structure,trigram9,-34.239347838075254,-34.43934783807525,TRUE
+these feet have bought .,-34.382910417087786,-171.9145520854389,bad,inchoative,209,syntax,argument_structure,trigram1,-34.18291041708778,-34.382910417087786,TRUE
+these feet have cracked .,-34.18291041708778,-170.9145520854389,good,inchoative,209,syntax,argument_structure,trigram1,-34.18291041708778,-34.382910417087786,TRUE
+these feet have bought .,-34.4028239161479,-172.0141195807395,bad,inchoative,209,syntax,argument_structure,trigram10,-34.2028239161479,-34.4028239161479,TRUE
+these feet have cracked .,-34.2028239161479,-171.0141195807395,good,inchoative,209,syntax,argument_structure,trigram10,-34.2028239161479,-34.4028239161479,TRUE
+these feet have bought .,-34.35518643674645,-171.77593218373227,bad,inchoative,209,syntax,argument_structure,trigram2,-34.155186436746455,-34.35518643674645,TRUE
+these feet have cracked .,-34.155186436746455,-170.77593218373227,good,inchoative,209,syntax,argument_structure,trigram2,-34.155186436746455,-34.35518643674645,TRUE
+these feet have bought .,-34.39058045218541,-171.95290226092706,bad,inchoative,209,syntax,argument_structure,trigram3,-34.190580452185415,-34.39058045218541,TRUE
+these feet have cracked .,-34.190580452185415,-170.95290226092706,good,inchoative,209,syntax,argument_structure,trigram3,-34.190580452185415,-34.39058045218541,TRUE
+these feet have bought .,-34.39364443038302,-171.96822215191509,bad,inchoative,209,syntax,argument_structure,trigram4,-34.19364443038302,-34.39364443038302,TRUE
+these feet have cracked .,-34.19364443038302,-170.96822215191509,good,inchoative,209,syntax,argument_structure,trigram4,-34.19364443038302,-34.39364443038302,TRUE
+these feet have bought .,-34.390580368524716,-171.9529018426236,bad,inchoative,209,syntax,argument_structure,trigram5,-34.19058036852472,-34.390580368524716,TRUE
+these feet have cracked .,-34.19058036852472,-170.9529018426236,good,inchoative,209,syntax,argument_structure,trigram5,-34.19058036852472,-34.390580368524716,TRUE
+these feet have bought .,-34.36753014588386,-171.8376507294193,bad,inchoative,209,syntax,argument_structure,trigram6,-34.36753014588386,-34.36753014588386,FALSE
+these feet have cracked .,-34.36753014588386,-171.8376507294193,good,inchoative,209,syntax,argument_structure,trigram6,-34.36753014588386,-34.36753014588386,FALSE
+these feet have bought .,-34.428726754885524,-172.14363377442763,bad,inchoative,209,syntax,argument_structure,trigram7,-34.22872675488553,-34.428726754885524,TRUE
+these feet have cracked .,-34.22872675488553,-171.14363377442763,good,inchoative,209,syntax,argument_structure,trigram7,-34.22872675488553,-34.428726754885524,TRUE
+these feet have bought .,-34.41198385244504,-172.0599192622252,bad,inchoative,209,syntax,argument_structure,trigram8,-34.211983852445044,-34.41198385244504,TRUE
+these feet have cracked .,-34.211983852445044,-171.0599192622252,good,inchoative,209,syntax,argument_structure,trigram8,-34.211983852445044,-34.41198385244504,TRUE
+these feet have bought .,-34.43934783807525,-172.19673919037626,bad,inchoative,209,syntax,argument_structure,trigram9,-34.239347838075254,-34.43934783807525,TRUE
+these feet have cracked .,-34.239347838075254,-171.19673919037626,good,inchoative,209,syntax,argument_structure,trigram9,-34.239347838075254,-34.43934783807525,TRUE
+Name did n't kiss .,-33.065917916943555,-165.32958958471778,bad,inchoative,23,syntax,argument_structure,trigram1,-31.95587001305094,-33.065917916943555,TRUE
+Name did n't sit down .,-31.95587001305094,-191.73522007830564,good,inchoative,23,syntax,argument_structure,trigram1,-31.95587001305094,-33.065917916943555,TRUE
+Name did n't kiss .,-33.10445329688197,-165.52226648440984,bad,inchoative,23,syntax,argument_structure,trigram10,-31.94149433254725,-33.10445329688197,TRUE
+Name did n't sit down .,-31.94149433254725,-191.6489659952835,good,inchoative,23,syntax,argument_structure,trigram10,-31.94149433254725,-33.10445329688197,TRUE
+Name did n't kiss .,-33.06330011301899,-165.31650056509494,bad,inchoative,23,syntax,argument_structure,trigram2,-31.97738867996397,-33.06330011301899,TRUE
+Name did n't sit down .,-31.97738867996397,-191.8643320797838,good,inchoative,23,syntax,argument_structure,trigram2,-31.97738867996397,-33.06330011301899,TRUE
+Name did n't kiss .,-33.03430850948048,-165.1715425474024,bad,inchoative,23,syntax,argument_structure,trigram3,-31.74755123375616,-33.03430850948048,TRUE
+Name did n't sit down .,-31.74755123375616,-190.48530740253696,good,inchoative,23,syntax,argument_structure,trigram3,-31.74755123375616,-33.03430850948048,TRUE
+Name did n't kiss .,-33.612266311261315,-168.06133155630658,bad,inchoative,23,syntax,argument_structure,trigram4,-32.185854330634164,-33.612266311261315,TRUE
+Name did n't sit down .,-32.185854330634164,-193.115125983805,good,inchoative,23,syntax,argument_structure,trigram4,-32.185854330634164,-33.612266311261315,TRUE
+Name did n't kiss .,-33.47358786838049,-167.36793934190246,bad,inchoative,23,syntax,argument_structure,trigram5,-31.942976228570327,-33.47358786838049,TRUE
+Name did n't sit down .,-31.942976228570327,-191.65785737142195,good,inchoative,23,syntax,argument_structure,trigram5,-31.942976228570327,-33.47358786838049,TRUE
+Name did n't kiss .,-33.606059161472345,-168.0302958073617,bad,inchoative,23,syntax,argument_structure,trigram6,-32.36635893473487,-33.606059161472345,TRUE
+Name did n't sit down .,-32.36635893473487,-194.1981536084092,good,inchoative,23,syntax,argument_structure,trigram6,-32.36635893473487,-33.606059161472345,TRUE
+Name did n't kiss .,-33.364341135908056,-166.8217056795403,bad,inchoative,23,syntax,argument_structure,trigram7,-32.346751238830585,-33.364341135908056,TRUE
+Name did n't sit down .,-32.346751238830585,-194.0805074329835,good,inchoative,23,syntax,argument_structure,trigram7,-32.346751238830585,-33.364341135908056,TRUE
+Name did n't kiss .,-33.250512868033525,-166.25256434016762,bad,inchoative,23,syntax,argument_structure,trigram8,-31.94036339659737,-33.250512868033525,TRUE
+Name did n't sit down .,-31.94036339659737,-191.6421803795842,good,inchoative,23,syntax,argument_structure,trigram8,-31.94036339659737,-33.250512868033525,TRUE
+Name did n't kiss .,-33.110576600120304,-165.55288300060153,bad,inchoative,23,syntax,argument_structure,trigram9,-31.94505045729824,-33.110576600120304,TRUE
+Name did n't sit down .,-31.94505045729824,-191.67030274378942,good,inchoative,23,syntax,argument_structure,trigram9,-31.94505045729824,-33.110576600120304,TRUE
+Name does care for .,-33.60153229796608,-168.0076614898304,bad,inchoative,256,syntax,argument_structure,trigram1,-33.30242839336594,-33.60153229796608,TRUE
+Name does hurt .,-33.30242839336594,-133.20971357346377,good,inchoative,256,syntax,argument_structure,trigram1,-33.30242839336594,-33.60153229796608,TRUE
+Name does care for .,-33.88583141600367,-169.42915708001834,bad,inchoative,256,syntax,argument_structure,trigram10,-33.25658329096761,-33.88583141600367,TRUE
+Name does hurt .,-33.25658329096761,-133.02633316387045,good,inchoative,256,syntax,argument_structure,trigram10,-33.25658329096761,-33.88583141600367,TRUE
+Name does care for .,-33.43819393660222,-167.1909696830111,bad,inchoative,256,syntax,argument_structure,trigram2,-32.77470441302461,-33.43819393660222,TRUE
+Name does hurt .,-32.77470441302461,-131.09881765209843,good,inchoative,256,syntax,argument_structure,trigram2,-32.77470441302461,-33.43819393660222,TRUE
+Name does care for .,-33.79058045218541,-168.95290226092706,bad,inchoative,256,syntax,argument_structure,trigram3,-32.99433982700512,-33.79058045218541,TRUE
+Name does hurt .,-32.99433982700512,-131.97735930802048,good,inchoative,256,syntax,argument_structure,trigram3,-32.99433982700512,-33.79058045218541,TRUE
+Name does care for .,-33.8321734459715,-169.1608672298575,bad,inchoative,256,syntax,argument_structure,trigram4,-32.86132367614678,-33.8321734459715,TRUE
+Name does hurt .,-32.86132367614678,-131.44529470458713,good,inchoative,256,syntax,argument_structure,trigram4,-32.86132367614678,-33.8321734459715,TRUE
+Name does care for .,-33.99058036852472,-169.9529018426236,bad,inchoative,256,syntax,argument_structure,trigram5,-32.96547043898944,-33.99058036852472,TRUE
+Name does hurt .,-32.96547043898944,-131.86188175595777,good,inchoative,256,syntax,argument_structure,trigram5,-32.96547043898944,-33.99058036852472,TRUE
+Name does care for .,-33.58615202676216,-167.9307601338108,bad,inchoative,256,syntax,argument_structure,trigram6,-33.03704812216202,-33.58615202676216,TRUE
+Name does hurt .,-33.03704812216202,-132.14819248864808,good,inchoative,256,syntax,argument_structure,trigram6,-33.03704812216202,-33.58615202676216,TRUE
+Name does care for .,-33.55026327032978,-167.75131635164888,bad,inchoative,256,syntax,argument_structure,trigram7,-32.97688802437113,-33.55026327032978,TRUE
+Name does hurt .,-32.97688802437113,-131.9075520974845,good,inchoative,256,syntax,argument_structure,trigram7,-32.97688802437113,-33.55026327032978,TRUE
+Name does care for .,-33.894991352300806,-169.47495676150405,bad,inchoative,256,syntax,argument_structure,trigram8,-32.97326197690417,-33.894991352300806,TRUE
+Name does hurt .,-32.97326197690417,-131.89304790761668,good,inchoative,256,syntax,argument_structure,trigram8,-32.97326197690417,-33.894991352300806,TRUE
+Name does care for .,-33.52235533793102,-167.6117766896551,bad,inchoative,256,syntax,argument_structure,trigram9,-32.764237908539975,-33.52235533793102,TRUE
+Name does hurt .,-32.764237908539975,-131.0569516341599,good,inchoative,256,syntax,argument_structure,trigram9,-32.764237908539975,-33.52235533793102,TRUE
+most children looked like .,-33.91852479811031,-169.59262399055157,bad,inchoative,26,syntax,argument_structure,trigram1,-33.80242839336594,-33.91852479811031,TRUE
+most children move .,-33.80242839336594,-135.20971357346377,good,inchoative,26,syntax,argument_structure,trigram1,-33.80242839336594,-33.91852479811031,TRUE
+most children looked like .,-34.08583141600367,-170.42915708001834,bad,inchoative,26,syntax,argument_structure,trigram10,-33.82234189242607,-34.08583141600367,TRUE
+most children move .,-33.82234189242607,-135.28936756970427,good,inchoative,26,syntax,argument_structure,trigram10,-33.82234189242607,-34.08583141600367,TRUE
+most children looked like .,-33.89080081776898,-169.4540040888449,bad,inchoative,26,syntax,argument_structure,trigram2,-33.95894581156616,-33.89080081776898,FALSE
+most children move .,-33.95894581156616,-135.83578324626464,good,inchoative,26,syntax,argument_structure,trigram2,-33.95894581156616,-33.89080081776898,FALSE
+most children looked like .,-33.99058045218541,-169.95290226092706,bad,inchoative,26,syntax,argument_structure,trigram3,-33.99433982700512,-33.99058045218541,FALSE
+most children move .,-33.99433982700512,-135.97735930802048,good,inchoative,26,syntax,argument_structure,trigram3,-33.99433982700512,-33.99058045218541,FALSE
+most children looked like .,-33.993644430383014,-169.96822215191509,bad,inchoative,26,syntax,argument_structure,trigram4,-33.99740380520273,-33.993644430383014,FALSE
+most children move .,-33.99740380520273,-135.98961522081092,good,inchoative,26,syntax,argument_structure,trigram4,-33.99740380520273,-33.993644430383014,FALSE
+most children looked like .,-33.99058036852472,-169.9529018426236,bad,inchoative,26,syntax,argument_structure,trigram5,-33.994339743344426,-33.99058036852472,FALSE
+most children move .,-33.994339743344426,-135.9773589733777,good,inchoative,26,syntax,argument_structure,trigram5,-33.994339743344426,-33.99058036852472,FALSE
+most children looked like .,-33.850537645739635,-169.25268822869816,bad,inchoative,26,syntax,argument_structure,trigram6,-33.78704812216202,-33.850537645739635,TRUE
+most children move .,-33.78704812216202,-135.14819248864808,good,inchoative,26,syntax,argument_structure,trigram6,-33.78704812216202,-33.850537645739635,TRUE
+most children looked like .,-33.91173425474129,-169.55867127370647,bad,inchoative,26,syntax,argument_structure,trigram7,-33.84824473116368,-33.91173425474129,TRUE
+most children move .,-33.84824473116368,-135.39297892465473,good,inchoative,26,syntax,argument_structure,trigram7,-33.84824473116368,-33.91173425474129,TRUE
+most children looked like .,-33.947598233467566,-169.73799116733784,bad,inchoative,26,syntax,argument_structure,trigram8,-33.91198385244504,-33.947598233467566,TRUE
+most children move .,-33.91198385244504,-135.64793540978016,good,inchoative,26,syntax,argument_structure,trigram8,-33.91198385244504,-33.947598233467566,TRUE
+most children looked like .,-34.03934783807525,-170.19673919037626,bad,inchoative,26,syntax,argument_structure,trigram9,-34.43934783807525,-34.03934783807525,FALSE
+most children move .,-34.43934783807525,-137.757391352301,good,inchoative,26,syntax,argument_structure,trigram9,-34.43934783807525,-34.03934783807525,FALSE
+a door is n't opening .,-34.38291041708778,-206.29746250252668,good,inchoative,297,syntax,argument_structure,trigram1,-34.38291041708778,-34.38291041708778,FALSE
+a door is n't taking .,-34.38291041708778,-206.29746250252668,bad,inchoative,297,syntax,argument_structure,trigram1,-34.38291041708778,-34.38291041708778,FALSE
+a door is n't opening .,-34.23615724948123,-205.4169434968874,good,inchoative,297,syntax,argument_structure,trigram10,-34.23615724948123,-34.23615724948123,FALSE
+a door is n't taking .,-34.23615724948123,-205.4169434968874,bad,inchoative,297,syntax,argument_structure,trigram10,-34.23615724948123,-34.23615724948123,FALSE
+a door is n't opening .,-34.35518643674646,-206.13111862047873,good,inchoative,297,syntax,argument_structure,trigram2,-34.35518643674646,-34.35518643674646,FALSE
+a door is n't taking .,-34.35518643674646,-206.13111862047873,bad,inchoative,297,syntax,argument_structure,trigram2,-34.35518643674646,-34.35518643674646,FALSE
+a door is n't opening .,-34.22391378551875,-205.34348271311248,good,inchoative,297,syntax,argument_structure,trigram3,-34.22391378551875,-34.22391378551875,FALSE
+a door is n't taking .,-34.22391378551875,-205.34348271311248,bad,inchoative,297,syntax,argument_structure,trigram3,-34.22391378551875,-34.22391378551875,FALSE
+a door is n't opening .,-34.22697776371635,-205.3618665822981,good,inchoative,297,syntax,argument_structure,trigram4,-34.22697776371635,-34.060311097049684,FALSE
+a door is n't taking .,-34.060311097049684,-204.3618665822981,bad,inchoative,297,syntax,argument_structure,trigram4,-34.22697776371635,-34.060311097049684,FALSE
+a door is n't opening .,-34.22391370185805,-205.3434822111483,good,inchoative,297,syntax,argument_structure,trigram5,-34.22391370185805,-34.05724703519139,FALSE
+a door is n't taking .,-34.05724703519139,-204.3434822111483,bad,inchoative,297,syntax,argument_structure,trigram5,-34.22391370185805,-34.05724703519139,FALSE
+a door is n't opening .,-34.367530145883855,-206.20518087530314,good,inchoative,297,syntax,argument_structure,trigram6,-34.367530145883855,-34.20086347921719,FALSE
+a door is n't taking .,-34.20086347921719,-205.20518087530314,bad,inchoative,297,syntax,argument_structure,trigram6,-34.367530145883855,-34.20086347921719,FALSE
+a door is n't opening .,-34.26206008821886,-205.57236052931316,good,inchoative,297,syntax,argument_structure,trigram7,-34.26206008821886,-34.095393421552195,FALSE
+a door is n't taking .,-34.095393421552195,-204.57236052931316,bad,inchoative,297,syntax,argument_structure,trigram7,-34.26206008821886,-34.095393421552195,FALSE
+a door is n't opening .,-34.41198385244504,-206.47190311467025,good,inchoative,297,syntax,argument_structure,trigram8,-34.41198385244504,-34.245317185778376,FALSE
+a door is n't taking .,-34.245317185778376,-205.47190311467025,bad,inchoative,297,syntax,argument_structure,trigram8,-34.41198385244504,-34.245317185778376,FALSE
+a door is n't opening .,-34.43934783807526,-206.63608702845153,good,inchoative,297,syntax,argument_structure,trigram9,-34.43934783807526,-34.43934783807526,FALSE
+a door is n't taking .,-34.43934783807526,-206.63608702845153,bad,inchoative,297,syntax,argument_structure,trigram9,-34.43934783807526,-34.43934783807526,FALSE
+most chairs did n't tip over .,-33.71950238997711,-236.03651672983975,good,inchoative,298,syntax,argument_structure,trigram1,-33.71950238997711,-34.216243750421114,TRUE
+most chairs did n't find .,-34.216243750421114,-205.29746250252668,bad,inchoative,298,syntax,argument_structure,trigram1,-33.71950238997711,-34.216243750421114,TRUE
+most chairs did n't tip over .,-33.723554272981694,-236.06487991087184,good,inchoative,298,syntax,argument_structure,trigram10,-33.723554272981694,-34.4028239161479,TRUE
+most chairs did n't find .,-34.4028239161479,-206.4169434968874,bad,inchoative,298,syntax,argument_structure,trigram10,-33.723554272981694,-34.4028239161479,TRUE
+most chairs did n't tip over .,-33.406064123921496,-233.84244886745046,good,inchoative,298,syntax,argument_structure,trigram2,-33.406064123921496,-34.188519770079786,TRUE
+most chairs did n't find .,-34.188519770079786,-205.13111862047873,bad,inchoative,298,syntax,argument_structure,trigram2,-33.406064123921496,-34.188519770079786,TRUE
+most chairs did n't tip over .,-33.42559652330492,-233.9791756631344,good,inchoative,298,syntax,argument_structure,trigram3,-33.42559652330492,-34.39058045218541,TRUE
+most chairs did n't find .,-34.39058045218541,-206.34348271311248,bad,inchoative,298,syntax,argument_structure,trigram3,-33.42559652330492,-34.39058045218541,TRUE
+most chairs did n't tip over .,-33.40694577386751,-233.8486204170726,good,inchoative,298,syntax,argument_structure,trigram4,-33.40694577386751,-34.22697776371635,TRUE
+most chairs did n't find .,-34.22697776371635,-205.3618665822981,bad,inchoative,298,syntax,argument_structure,trigram4,-33.40694577386751,-34.22697776371635,TRUE
+most chairs did n't tip over .,-33.71131072535851,-235.97917507750955,good,inchoative,298,syntax,argument_structure,trigram5,-33.71131072535851,-34.390580368524716,TRUE
+most chairs did n't find .,-34.390580368524716,-206.3434822111483,bad,inchoative,298,syntax,argument_structure,trigram5,-33.71131072535851,-34.390580368524716,TRUE
+most chairs did n't tip over .,-33.40254621700336,-233.81782351902353,good,inchoative,298,syntax,argument_structure,trigram6,-33.40254621700336,-34.20086347921719,TRUE
+most chairs did n't find .,-34.20086347921719,-205.20518087530314,bad,inchoative,298,syntax,argument_structure,trigram6,-33.40254621700336,-34.20086347921719,TRUE
+most chairs did n't tip over .,-33.8113084556159,-236.67915918931132,good,inchoative,298,syntax,argument_structure,trigram7,-33.8113084556159,-34.26206008821886,TRUE
+most chairs did n't find .,-34.26206008821886,-205.57236052931316,bad,inchoative,298,syntax,argument_structure,trigram7,-33.8113084556159,-34.26206008821886,TRUE
+most chairs did n't tip over .,-33.41852723667549,-233.9296906567284,good,inchoative,298,syntax,argument_structure,trigram8,-33.41852723667549,-34.245317185778376,TRUE
+most chairs did n't find .,-34.245317185778376,-205.47190311467025,bad,inchoative,298,syntax,argument_structure,trigram8,-33.41852723667549,-34.245317185778376,TRUE
+most chairs did n't tip over .,-33.45264918155975,-234.16854427091826,good,inchoative,298,syntax,argument_structure,trigram9,-33.45264918155975,-34.272681171408585,TRUE
+most chairs did n't find .,-34.272681171408585,-205.63608702845153,bad,inchoative,298,syntax,argument_structure,trigram9,-33.45264918155975,-34.272681171408585,TRUE
+Name hurt .,-33.382910417087786,-100.14873125126336,good,inchoative,314,syntax,argument_structure,trigram1,-33.382910417087786,-33.55242839336594,TRUE
+Name sounds like .,-33.55242839336594,-134.20971357346377,bad,inchoative,314,syntax,argument_structure,trigram1,-33.382910417087786,-33.55242839336594,TRUE
+Name hurt .,-32.874503082574186,-98.62350924772255,good,inchoative,314,syntax,argument_structure,trigram10,-32.874503082574186,-34.00658329096761,TRUE
+Name sounds like .,-34.00658329096761,-136.02633316387045,bad,inchoative,314,syntax,argument_structure,trigram10,-32.874503082574186,-34.00658329096761,TRUE
+Name hurt .,-33.247877071784,-99.743631215352,good,inchoative,314,syntax,argument_structure,trigram2,-33.247877071784,-33.77470441302461,TRUE
+Name sounds like .,-33.77470441302461,-135.09881765209843,bad,inchoative,314,syntax,argument_structure,trigram2,-33.247877071784,-33.77470441302461,TRUE
+Name hurt .,-33.52892628527836,-100.58677885583508,good,inchoative,314,syntax,argument_structure,trigram3,-33.52892628527836,-33.64058045218541,TRUE
+Name sounds like .,-33.64058045218541,-134.56232180874164,bad,inchoative,314,syntax,argument_structure,trigram3,-33.52892628527836,-33.64058045218541,TRUE
+Name hurt .,-32.95300173208724,-98.8590051962617,good,inchoative,314,syntax,argument_structure,trigram4,-32.95300173208724,-33.64364443038302,TRUE
+Name sounds like .,-33.64364443038302,-134.57457772153208,bad,inchoative,314,syntax,argument_structure,trigram4,-32.95300173208724,-33.64364443038302,TRUE
+Name hurt .,-32.82376712914435,-98.47130138743306,good,inchoative,314,syntax,argument_structure,trigram5,-32.82376712914435,-33.890580368524716,TRUE
+Name sounds like .,-33.890580368524716,-135.56232147409887,bad,inchoative,314,syntax,argument_structure,trigram5,-32.82376712914435,-33.890580368524716,TRUE
+Name hurt .,-33.034196812550526,-99.10259043765159,good,inchoative,314,syntax,argument_structure,trigram6,-33.034196812550526,-33.47128952070357,TRUE
+Name sounds like .,-33.47128952070357,-133.88515808281429,bad,inchoative,314,syntax,argument_structure,trigram6,-33.034196812550526,-33.47128952070357,TRUE
+Name hurt .,-33.095393421552195,-99.28618026465658,good,inchoative,314,syntax,argument_structure,trigram7,-33.095393421552195,-33.532486129705234,TRUE
+Name sounds like .,-33.532486129705234,-134.12994451882093,bad,inchoative,314,syntax,argument_structure,trigram7,-33.095393421552195,-33.532486129705234,TRUE
+Name hurt .,-33.022008851964266,-99.0660265558928,good,inchoative,314,syntax,argument_structure,trigram8,-33.022008851964266,-33.8315018287232,TRUE
+Name sounds like .,-33.8315018287232,-135.3260073148928,bad,inchoative,314,syntax,argument_structure,trigram8,-33.022008851964266,-33.8315018287232,TRUE
+Name hurt .,-32.87253459869489,-98.61760379608467,good,inchoative,314,syntax,argument_structure,trigram9,-32.87253459869489,-33.68934783807525,TRUE
+Name sounds like .,-33.68934783807525,-134.757391352301,bad,inchoative,314,syntax,argument_structure,trigram9,-32.87253459869489,-33.68934783807525,TRUE
+every dish dropped .,-34.132910417087786,-136.53164166835114,good,inchoative,339,syntax,argument_structure,trigram1,-34.132910417087786,-34.132910417087786,FALSE
+every dish had .,-34.132910417087786,-136.53164166835114,bad,inchoative,339,syntax,argument_structure,trigram1,-34.132910417087786,-34.132910417087786,FALSE
+every dish dropped .,-34.1528239161479,-136.6112956645916,good,inchoative,339,syntax,argument_structure,trigram10,-34.1528239161479,-34.1528239161479,FALSE
+every dish had .,-34.1528239161479,-136.6112956645916,bad,inchoative,339,syntax,argument_structure,trigram10,-34.1528239161479,-34.1528239161479,FALSE
+every dish dropped .,-34.35518643674645,-137.4207457469858,good,inchoative,339,syntax,argument_structure,trigram2,-34.35518643674645,-34.10518643674645,FALSE
+every dish had .,-34.10518643674645,-136.4207457469858,bad,inchoative,339,syntax,argument_structure,trigram2,-34.35518643674645,-34.10518643674645,FALSE
+every dish dropped .,-34.14058045218541,-136.56232180874164,good,inchoative,339,syntax,argument_structure,trigram3,-34.14058045218541,-34.39058045218541,TRUE
+every dish had .,-34.39058045218541,-137.56232180874164,bad,inchoative,339,syntax,argument_structure,trigram3,-34.14058045218541,-34.39058045218541,TRUE
+every dish dropped .,-34.14364443038302,-136.57457772153208,good,inchoative,339,syntax,argument_structure,trigram4,-34.14364443038302,-34.14364443038302,FALSE
+every dish had .,-34.14364443038302,-136.57457772153208,bad,inchoative,339,syntax,argument_structure,trigram4,-34.14364443038302,-34.14364443038302,FALSE
+every dish dropped .,-34.140580368524716,-136.56232147409887,good,inchoative,339,syntax,argument_structure,trigram5,-34.140580368524716,-34.140580368524716,FALSE
+every dish had .,-34.140580368524716,-136.56232147409887,bad,inchoative,339,syntax,argument_structure,trigram5,-34.140580368524716,-34.140580368524716,FALSE
+every dish dropped .,-34.11753014588386,-136.47012058353545,good,inchoative,339,syntax,argument_structure,trigram6,-34.11753014588386,-34.11753014588386,FALSE
+every dish had .,-34.11753014588386,-136.47012058353545,bad,inchoative,339,syntax,argument_structure,trigram6,-34.11753014588386,-34.11753014588386,FALSE
+every dish dropped .,-34.428726754885524,-137.7149070195421,good,inchoative,339,syntax,argument_structure,trigram7,-34.428726754885524,-34.178726754885524,FALSE
+every dish had .,-34.178726754885524,-136.7149070195421,bad,inchoative,339,syntax,argument_structure,trigram7,-34.428726754885524,-34.178726754885524,FALSE
+every dish dropped .,-34.16198385244504,-136.64793540978016,good,inchoative,339,syntax,argument_structure,trigram8,-34.16198385244504,-34.16198385244504,FALSE
+every dish had .,-34.16198385244504,-136.64793540978016,bad,inchoative,339,syntax,argument_structure,trigram8,-34.16198385244504,-34.16198385244504,FALSE
+every dish dropped .,-34.43934783807525,-137.757391352301,good,inchoative,339,syntax,argument_structure,trigram9,-34.43934783807525,-34.43934783807525,FALSE
+every dish had .,-34.43934783807525,-137.757391352301,bad,inchoative,339,syntax,argument_structure,trigram9,-34.43934783807525,-34.43934783807525,FALSE
+this truck has n't turned .,-34.216243750421114,-205.29746250252668,good,inchoative,346,syntax,argument_structure,trigram1,-34.216243750421114,-34.216243750421114,FALSE
+this truck has n't bought .,-34.216243750421114,-205.29746250252668,bad,inchoative,346,syntax,argument_structure,trigram1,-34.216243750421114,-34.216243750421114,FALSE
+this truck has n't turned .,-34.069490582814566,-204.4169434968874,good,inchoative,346,syntax,argument_structure,trigram10,-34.069490582814566,-34.23615724948123,TRUE
+this truck has n't bought .,-34.23615724948123,-205.4169434968874,bad,inchoative,346,syntax,argument_structure,trigram10,-34.069490582814566,-34.23615724948123,TRUE
+this truck has n't turned .,-34.02185310341312,-204.13111862047873,good,inchoative,346,syntax,argument_structure,trigram2,-34.02185310341312,-34.188519770079786,TRUE
+this truck has n't bought .,-34.188519770079786,-205.13111862047873,bad,inchoative,346,syntax,argument_structure,trigram2,-34.02185310341312,-34.188519770079786,TRUE
+this truck has n't turned .,-34.05724711885208,-204.34348271311248,good,inchoative,346,syntax,argument_structure,trigram3,-34.05724711885208,-34.22391378551875,TRUE
+this truck has n't bought .,-34.22391378551875,-205.34348271311248,bad,inchoative,346,syntax,argument_structure,trigram3,-34.05724711885208,-34.22391378551875,TRUE
+this truck has n't turned .,-34.39364443038301,-206.3618665822981,good,inchoative,346,syntax,argument_structure,trigram4,-34.39364443038301,-34.39364443038301,FALSE
+this truck has n't bought .,-34.39364443038301,-206.3618665822981,bad,inchoative,346,syntax,argument_structure,trigram4,-34.39364443038301,-34.39364443038301,FALSE
+this truck has n't turned .,-34.05724703519139,-204.3434822111483,good,inchoative,346,syntax,argument_structure,trigram5,-34.05724703519139,-34.22391370185805,TRUE
+this truck has n't bought .,-34.22391370185805,-205.3434822111483,bad,inchoative,346,syntax,argument_structure,trigram5,-34.05724703519139,-34.22391370185805,TRUE
+this truck has n't turned .,-34.20086347921719,-205.20518087530314,good,inchoative,346,syntax,argument_structure,trigram6,-34.20086347921719,-34.20086347921719,FALSE
+this truck has n't bought .,-34.20086347921719,-205.20518087530314,bad,inchoative,346,syntax,argument_structure,trigram6,-34.20086347921719,-34.20086347921719,FALSE
+this truck has n't turned .,-34.095393421552195,-204.57236052931316,good,inchoative,346,syntax,argument_structure,trigram7,-34.095393421552195,-34.26206008821886,TRUE
+this truck has n't bought .,-34.26206008821886,-205.57236052931316,bad,inchoative,346,syntax,argument_structure,trigram7,-34.095393421552195,-34.26206008821886,TRUE
+this truck has n't turned .,-34.07865051911171,-204.47190311467025,good,inchoative,346,syntax,argument_structure,trigram8,-34.07865051911171,-34.245317185778376,TRUE
+this truck has n't bought .,-34.245317185778376,-205.47190311467025,bad,inchoative,346,syntax,argument_structure,trigram8,-34.07865051911171,-34.245317185778376,TRUE
+this truck has n't turned .,-34.272681171408585,-205.63608702845153,good,inchoative,346,syntax,argument_structure,trigram9,-34.272681171408585,-34.43934783807526,TRUE
+this truck has n't bought .,-34.43934783807526,-206.63608702845153,bad,inchoative,346,syntax,argument_structure,trigram9,-34.272681171408585,-34.43934783807526,TRUE
+this carriage has stopped .,-34.065917916943555,-170.32958958471778,good,inchoative,353,syntax,argument_structure,trigram1,-34.065917916943555,-34.382910417087786,TRUE
+this carriage has found .,-34.382910417087786,-171.9145520854389,bad,inchoative,353,syntax,argument_structure,trigram1,-34.065917916943555,-34.382910417087786,TRUE
+this carriage has stopped .,-34.08583141600367,-170.42915708001834,good,inchoative,353,syntax,argument_structure,trigram10,-34.08583141600367,-34.4028239161479,TRUE
+this carriage has found .,-34.4028239161479,-172.0141195807395,bad,inchoative,353,syntax,argument_structure,trigram10,-34.08583141600367,-34.4028239161479,TRUE
+this carriage has stopped .,-34.03819393660222,-170.1909696830111,good,inchoative,353,syntax,argument_structure,trigram2,-34.03819393660222,-34.35518643674645,TRUE
+this carriage has found .,-34.35518643674645,-171.77593218373227,bad,inchoative,353,syntax,argument_structure,trigram2,-34.03819393660222,-34.35518643674645,TRUE
+this carriage has stopped .,-34.39058045218541,-171.95290226092706,good,inchoative,353,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+this carriage has found .,-34.39058045218541,-171.95290226092706,bad,inchoative,353,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+this carriage has stopped .,-34.07665193023879,-170.38325965119395,good,inchoative,353,syntax,argument_structure,trigram4,-34.07665193023879,-34.39364443038302,TRUE
+this carriage has found .,-34.39364443038302,-171.96822215191509,bad,inchoative,353,syntax,argument_structure,trigram4,-34.07665193023879,-34.39364443038302,TRUE
+this carriage has stopped .,-34.390580368524716,-171.9529018426236,good,inchoative,353,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+this carriage has found .,-34.390580368524716,-171.9529018426236,bad,inchoative,353,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+this carriage has stopped .,-34.16753014588386,-170.8376507294193,good,inchoative,353,syntax,argument_structure,trigram6,-34.16753014588386,-34.36753014588386,TRUE
+this carriage has found .,-34.36753014588386,-171.8376507294193,bad,inchoative,353,syntax,argument_structure,trigram6,-34.16753014588386,-34.36753014588386,TRUE
+this carriage has stopped .,-34.11173425474129,-170.55867127370647,good,inchoative,353,syntax,argument_structure,trigram7,-34.11173425474129,-34.428726754885524,TRUE
+this carriage has found .,-34.428726754885524,-172.14363377442763,bad,inchoative,353,syntax,argument_structure,trigram7,-34.11173425474129,-34.428726754885524,TRUE
+this carriage has stopped .,-34.211983852445044,-171.0599192622252,good,inchoative,353,syntax,argument_structure,trigram8,-34.211983852445044,-34.41198385244504,TRUE
+this carriage has found .,-34.41198385244504,-172.0599192622252,bad,inchoative,353,syntax,argument_structure,trigram8,-34.211983852445044,-34.41198385244504,TRUE
+this carriage has stopped .,-34.239347838075254,-171.19673919037626,good,inchoative,353,syntax,argument_structure,trigram9,-34.239347838075254,-34.43934783807525,TRUE
+this carriage has found .,-34.43934783807525,-172.19673919037626,bad,inchoative,353,syntax,argument_structure,trigram9,-34.239347838075254,-34.43934783807525,TRUE
+every wheelbarrow had n't bought .,-34.38291041708778,-206.29746250252668,bad,inchoative,363,syntax,argument_structure,trigram1,-33.35458958351406,-34.38291041708778,TRUE
+every wheelbarrow had n't broken .,-33.35458958351406,-200.1275375010844,good,inchoative,363,syntax,argument_structure,trigram1,-33.35458958351406,-34.38291041708778,TRUE
+every wheelbarrow had n't bought .,-34.4028239161479,-206.4169434968874,bad,inchoative,363,syntax,argument_structure,trigram10,-33.52816933057397,-34.4028239161479,TRUE
+every wheelbarrow had n't broken .,-33.52816933057397,-201.1690159834438,good,inchoative,363,syntax,argument_structure,trigram10,-33.52816933057397,-34.4028239161479,TRUE
+every wheelbarrow had n't bought .,-34.35518643674646,-206.13111862047873,bad,inchoative,363,syntax,argument_structure,trigram2,-33.26792611073695,-34.35518643674646,TRUE
+every wheelbarrow had n't broken .,-33.26792611073695,-199.6075566644217,good,inchoative,363,syntax,argument_structure,trigram2,-33.26792611073695,-34.35518643674646,TRUE
+every wheelbarrow had n't bought .,-34.39058045218541,-206.34348271311248,bad,inchoative,363,syntax,argument_structure,trigram3,-33.45975336873189,-34.39058045218541,TRUE
+every wheelbarrow had n't broken .,-33.45975336873189,-200.75852021239132,good,inchoative,363,syntax,argument_structure,trigram3,-33.45975336873189,-34.39058045218541,TRUE
+every wheelbarrow had n't bought .,-34.39364443038301,-206.3618665822981,bad,inchoative,363,syntax,argument_structure,trigram4,-33.560311097049684,-34.39364443038301,TRUE
+every wheelbarrow had n't broken .,-33.560311097049684,-201.3618665822981,good,inchoative,363,syntax,argument_structure,trigram4,-33.560311097049684,-34.39364443038301,TRUE
+every wheelbarrow had n't bought .,-34.390580368524716,-206.3434822111483,bad,inchoative,363,syntax,argument_structure,trigram5,-33.459753285071194,-34.390580368524716,TRUE
+every wheelbarrow had n't broken .,-33.459753285071194,-200.75851971042715,good,inchoative,363,syntax,argument_structure,trigram5,-33.459753285071194,-34.390580368524716,TRUE
+every wheelbarrow had n't bought .,-34.367530145883855,-206.20518087530314,bad,inchoative,363,syntax,argument_structure,trigram6,-33.26022078092141,-34.367530145883855,TRUE
+every wheelbarrow had n't broken .,-33.26022078092141,-199.56132468552843,good,inchoative,363,syntax,argument_structure,trigram6,-33.26022078092141,-34.367530145883855,TRUE
+every wheelbarrow had n't bought .,-34.428726754885524,-206.57236052931316,bad,inchoative,363,syntax,argument_structure,trigram7,-33.428726754885524,-34.428726754885524,TRUE
+every wheelbarrow had n't broken .,-33.428726754885524,-200.57236052931316,good,inchoative,363,syntax,argument_structure,trigram7,-33.428726754885524,-34.428726754885524,TRUE
+every wheelbarrow had n't bought .,-34.41198385244504,-206.47190311467025,bad,inchoative,363,syntax,argument_structure,trigram8,-33.43983551675092,-34.41198385244504,TRUE
+every wheelbarrow had n't broken .,-33.43983551675092,-200.6390131005055,good,inchoative,363,syntax,argument_structure,trigram8,-33.43983551675092,-34.41198385244504,TRUE
+every wheelbarrow had n't bought .,-34.43934783807526,-206.63608702845153,bad,inchoative,363,syntax,argument_structure,trigram9,-33.50852075462173,-34.43934783807526,TRUE
+every wheelbarrow had n't broken .,-33.50852075462173,-201.05112452773037,good,inchoative,363,syntax,argument_structure,trigram9,-33.50852075462173,-34.43934783807526,TRUE
+every pie can n't find .,-34.216243750421114,-205.29746250252668,bad,inchoative,370,syntax,argument_structure,trigram1,-34.38291041708778,-34.216243750421114,FALSE
+every pie can n't burn .,-34.38291041708778,-206.29746250252668,good,inchoative,370,syntax,argument_structure,trigram1,-34.38291041708778,-34.216243750421114,FALSE
+every pie can n't find .,-34.13866349936104,-204.83198099616624,bad,inchoative,370,syntax,argument_structure,trigram10,-34.069490582814566,-34.13866349936104,TRUE
+every pie can n't burn .,-34.069490582814566,-204.4169434968874,good,inchoative,370,syntax,argument_structure,trigram10,-34.069490582814566,-34.13866349936104,TRUE
+every pie can n't find .,-34.02185310341312,-204.13111862047873,bad,inchoative,370,syntax,argument_structure,trigram2,-34.02185310341312,-34.02185310341312,FALSE
+every pie can n't burn .,-34.02185310341312,-204.13111862047873,good,inchoative,370,syntax,argument_structure,trigram2,-34.02185310341312,-34.02185310341312,FALSE
+every pie can n't find .,-34.00359243637085,-204.0215546182251,bad,inchoative,370,syntax,argument_structure,trigram3,-34.05724711885208,-34.00359243637085,FALSE
+every pie can n't burn .,-34.05724711885208,-204.34348271311248,good,inchoative,370,syntax,argument_structure,trigram3,-34.05724711885208,-34.00359243637085,FALSE
+every pie can n't find .,-33.96281734692949,-203.77690408157696,bad,inchoative,370,syntax,argument_structure,trigram4,-34.39364443038301,-33.96281734692949,FALSE
+every pie can n't burn .,-34.39364443038301,-206.3618665822981,good,inchoative,370,syntax,argument_structure,trigram4,-34.39364443038301,-33.96281734692949,FALSE
+every pie can n't find .,-34.00359235271016,-204.02155411626094,bad,inchoative,370,syntax,argument_structure,trigram5,-34.05724703519139,-34.00359235271016,FALSE
+every pie can n't burn .,-34.05724703519139,-204.3434822111483,good,inchoative,370,syntax,argument_structure,trigram5,-34.05724703519139,-34.00359235271016,FALSE
+every pie can n't find .,-34.034196812550526,-204.20518087530314,bad,inchoative,370,syntax,argument_structure,trigram6,-34.034196812550526,-34.034196812550526,FALSE
+every pie can n't burn .,-34.034196812550526,-204.20518087530314,good,inchoative,370,syntax,argument_structure,trigram6,-34.034196812550526,-34.034196812550526,FALSE
+every pie can n't find .,-34.095393421552195,-204.57236052931316,bad,inchoative,370,syntax,argument_structure,trigram7,-34.428726754885524,-34.095393421552195,FALSE
+every pie can n't burn .,-34.428726754885524,-206.57236052931316,good,inchoative,370,syntax,argument_structure,trigram7,-34.428726754885524,-34.095393421552195,FALSE
+every pie can n't find .,-34.02499583663048,-204.1499750197829,bad,inchoative,370,syntax,argument_structure,trigram8,-34.07865051911171,-34.02499583663048,FALSE
+every pie can n't burn .,-34.07865051911171,-204.47190311467025,good,inchoative,370,syntax,argument_structure,trigram8,-34.07865051911171,-34.02499583663048,FALSE
+every pie can n't find .,-34.10601450474192,-204.63608702845153,bad,inchoative,370,syntax,argument_structure,trigram9,-34.10601450474192,-34.10601450474192,FALSE
+every pie can n't burn .,-34.10601450474192,-204.63608702845153,good,inchoative,370,syntax,argument_structure,trigram9,-34.10601450474192,-34.10601450474192,FALSE
+this carriage has n't bought .,-34.38291041708778,-206.29746250252668,bad,inchoative,382,syntax,argument_structure,trigram1,-34.38291041708778,-34.38291041708778,FALSE
+this carriage has n't rolled .,-34.38291041708778,-206.29746250252668,good,inchoative,382,syntax,argument_structure,trigram1,-34.38291041708778,-34.38291041708778,FALSE
+this carriage has n't bought .,-34.4028239161479,-206.4169434968874,bad,inchoative,382,syntax,argument_structure,trigram10,-34.4028239161479,-34.4028239161479,FALSE
+this carriage has n't rolled .,-34.4028239161479,-206.4169434968874,good,inchoative,382,syntax,argument_structure,trigram10,-34.4028239161479,-34.4028239161479,FALSE
+this carriage has n't bought .,-34.35518643674646,-206.13111862047873,bad,inchoative,382,syntax,argument_structure,trigram2,-34.35518643674646,-34.35518643674646,FALSE
+this carriage has n't rolled .,-34.35518643674646,-206.13111862047873,good,inchoative,382,syntax,argument_structure,trigram2,-34.35518643674646,-34.35518643674646,FALSE
+this carriage has n't bought .,-34.39058045218541,-206.34348271311248,bad,inchoative,382,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+this carriage has n't rolled .,-34.39058045218541,-206.34348271311248,good,inchoative,382,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+this carriage has n't bought .,-34.39364443038301,-206.3618665822981,bad,inchoative,382,syntax,argument_structure,trigram4,-34.39364443038301,-34.39364443038301,FALSE
+this carriage has n't rolled .,-34.39364443038301,-206.3618665822981,good,inchoative,382,syntax,argument_structure,trigram4,-34.39364443038301,-34.39364443038301,FALSE
+this carriage has n't bought .,-34.390580368524716,-206.3434822111483,bad,inchoative,382,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+this carriage has n't rolled .,-34.390580368524716,-206.3434822111483,good,inchoative,382,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+this carriage has n't bought .,-34.367530145883855,-206.20518087530314,bad,inchoative,382,syntax,argument_structure,trigram6,-34.367530145883855,-34.367530145883855,FALSE
+this carriage has n't rolled .,-34.367530145883855,-206.20518087530314,good,inchoative,382,syntax,argument_structure,trigram6,-34.367530145883855,-34.367530145883855,FALSE
+this carriage has n't bought .,-34.428726754885524,-206.57236052931316,bad,inchoative,382,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+this carriage has n't rolled .,-34.428726754885524,-206.57236052931316,good,inchoative,382,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+this carriage has n't bought .,-34.41198385244504,-206.47190311467025,bad,inchoative,382,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+this carriage has n't rolled .,-34.41198385244504,-206.47190311467025,good,inchoative,382,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+this carriage has n't bought .,-34.43934783807526,-206.63608702845153,bad,inchoative,382,syntax,argument_structure,trigram9,-34.43934783807526,-34.43934783807526,FALSE
+this carriage has n't rolled .,-34.43934783807526,-206.63608702845153,good,inchoative,382,syntax,argument_structure,trigram9,-34.43934783807526,-34.43934783807526,FALSE
+many glasses fix .,-34.382910417087786,-137.53164166835114,bad,inchoative,414,syntax,argument_structure,trigram1,-33.45413917913284,-34.382910417087786,TRUE
+many glasses tip over .,-33.45413917913284,-167.2706958956642,good,inchoative,414,syntax,argument_structure,trigram1,-33.45413917913284,-34.382910417087786,TRUE
+many glasses fix .,-34.4028239161479,-137.6112956645916,bad,inchoative,414,syntax,argument_structure,trigram10,-33.45184641571521,-34.4028239161479,TRUE
+many glasses tip over .,-33.45184641571521,-167.25923207857605,good,inchoative,414,syntax,argument_structure,trigram10,-33.45184641571521,-34.4028239161479,TRUE
+many glasses fix .,-34.10518643674645,-136.4207457469858,bad,inchoative,414,syntax,argument_structure,trigram2,-33.22641519879151,-34.10518643674645,TRUE
+many glasses tip over .,-33.22641519879151,-166.13207599395753,good,inchoative,414,syntax,argument_structure,trigram2,-33.22641519879151,-34.10518643674645,TRUE
+many glasses fix .,-34.14058045218541,-136.56232180874164,bad,inchoative,414,syntax,argument_structure,trigram3,-33.239602951752715,-34.14058045218541,TRUE
+many glasses tip over .,-33.239602951752715,-166.19801475876358,good,inchoative,414,syntax,argument_structure,trigram3,-33.239602951752715,-34.14058045218541,TRUE
+many glasses fix .,-34.39364443038302,-137.57457772153208,bad,inchoative,414,syntax,argument_structure,trigram4,-33.21226631126132,-34.39364443038302,TRUE
+many glasses tip over .,-33.21226631126132,-166.06133155630658,good,inchoative,414,syntax,argument_structure,trigram4,-33.21226631126132,-34.39364443038302,TRUE
+many glasses fix .,-34.140580368524716,-136.56232147409887,bad,inchoative,414,syntax,argument_structure,trigram5,-33.439602868092024,-34.140580368524716,TRUE
+many glasses tip over .,-33.439602868092024,-167.1980143404601,good,inchoative,414,syntax,argument_structure,trigram5,-33.439602868092024,-34.140580368524716,TRUE
+many glasses fix .,-34.11753014588386,-136.47012058353545,bad,inchoative,414,syntax,argument_structure,trigram6,-33.216552645451166,-34.11753014588386,TRUE
+many glasses tip over .,-33.216552645451166,-166.08276322725584,good,inchoative,414,syntax,argument_structure,trigram6,-33.216552645451166,-34.11753014588386,TRUE
+many glasses fix .,-34.178726754885524,-136.7149070195421,bad,inchoative,414,syntax,argument_structure,trigram7,-33.56434113590805,-34.178726754885524,TRUE
+many glasses tip over .,-33.56434113590805,-167.82170567954026,good,inchoative,414,syntax,argument_structure,trigram7,-33.56434113590805,-34.178726754885524,TRUE
+many glasses fix .,-34.16198385244504,-136.64793540978016,bad,inchoative,414,syntax,argument_structure,trigram8,-33.221144590367665,-34.16198385244504,TRUE
+many glasses tip over .,-33.221144590367665,-166.10572295183832,good,inchoative,414,syntax,argument_structure,trigram8,-33.221144590367665,-34.16198385244504,TRUE
+many glasses fix .,-34.43934783807525,-137.757391352301,bad,inchoative,414,syntax,argument_structure,trigram9,-33.25796971895355,-34.43934783807525,TRUE
+many glasses tip over .,-33.25796971895355,-166.28984859476773,good,inchoative,414,syntax,argument_structure,trigram9,-33.25796971895355,-34.43934783807525,TRUE
+this box was n't taking .,-34.38291041708778,-206.29746250252668,bad,inchoative,431,syntax,argument_structure,trigram1,-34.38291041708778,-34.38291041708778,FALSE
+this box was n't opening .,-34.38291041708778,-206.29746250252668,good,inchoative,431,syntax,argument_structure,trigram1,-34.38291041708778,-34.38291041708778,FALSE
+this box was n't taking .,-34.4028239161479,-206.4169434968874,bad,inchoative,431,syntax,argument_structure,trigram10,-34.4028239161479,-34.4028239161479,FALSE
+this box was n't opening .,-34.4028239161479,-206.4169434968874,good,inchoative,431,syntax,argument_structure,trigram10,-34.4028239161479,-34.4028239161479,FALSE
+this box was n't taking .,-34.35518643674646,-206.13111862047873,bad,inchoative,431,syntax,argument_structure,trigram2,-34.35518643674646,-34.35518643674646,FALSE
+this box was n't opening .,-34.35518643674646,-206.13111862047873,good,inchoative,431,syntax,argument_structure,trigram2,-34.35518643674646,-34.35518643674646,FALSE
+this box was n't taking .,-34.39058045218541,-206.34348271311248,bad,inchoative,431,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+this box was n't opening .,-34.39058045218541,-206.34348271311248,good,inchoative,431,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+this box was n't taking .,-34.39364443038301,-206.3618665822981,bad,inchoative,431,syntax,argument_structure,trigram4,-34.39364443038301,-34.39364443038301,FALSE
+this box was n't opening .,-34.39364443038301,-206.3618665822981,good,inchoative,431,syntax,argument_structure,trigram4,-34.39364443038301,-34.39364443038301,FALSE
+this box was n't taking .,-34.390580368524716,-206.3434822111483,bad,inchoative,431,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+this box was n't opening .,-34.390580368524716,-206.3434822111483,good,inchoative,431,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+this box was n't taking .,-34.367530145883855,-206.20518087530314,bad,inchoative,431,syntax,argument_structure,trigram6,-34.367530145883855,-34.367530145883855,FALSE
+this box was n't opening .,-34.367530145883855,-206.20518087530314,good,inchoative,431,syntax,argument_structure,trigram6,-34.367530145883855,-34.367530145883855,FALSE
+this box was n't taking .,-34.428726754885524,-206.57236052931316,bad,inchoative,431,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+this box was n't opening .,-34.428726754885524,-206.57236052931316,good,inchoative,431,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+this box was n't taking .,-34.41198385244504,-206.47190311467025,bad,inchoative,431,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+this box was n't opening .,-34.41198385244504,-206.47190311467025,good,inchoative,431,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+this box was n't taking .,-34.43934783807526,-206.63608702845153,bad,inchoative,431,syntax,argument_structure,trigram9,-34.43934783807526,-34.43934783807526,FALSE
+this box was n't opening .,-34.43934783807526,-206.63608702845153,good,inchoative,431,syntax,argument_structure,trigram9,-34.43934783807526,-34.43934783807526,FALSE
+feet find .,-34.382910417087786,-103.14873125126336,bad,inchoative,447,syntax,argument_structure,trigram1,-33.85458958351407,-34.382910417087786,TRUE
+feet drop .,-33.85458958351407,-101.56376875054221,good,inchoative,447,syntax,argument_structure,trigram1,-33.85458958351407,-34.382910417087786,TRUE
+feet find .,-34.4028239161479,-103.20847174844371,bad,inchoative,447,syntax,argument_structure,trigram10,-34.069490582814574,-34.4028239161479,TRUE
+feet drop .,-34.069490582814574,-102.20847174844371,good,inchoative,447,syntax,argument_structure,trigram10,-34.069490582814574,-34.4028239161479,TRUE
+feet find .,-34.35518643674645,-103.06555931023935,bad,inchoative,447,syntax,argument_structure,trigram2,-33.826865603172735,-34.35518643674645,TRUE
+feet drop .,-33.826865603172735,-101.4805968095182,good,inchoative,447,syntax,argument_structure,trigram2,-33.826865603172735,-34.35518643674645,TRUE
+feet find .,-34.39058045218541,-103.17174135655623,bad,inchoative,447,syntax,argument_structure,trigram3,-34.057247118852075,-34.39058045218541,TRUE
+feet drop .,-34.057247118852075,-102.17174135655623,good,inchoative,447,syntax,argument_structure,trigram3,-34.057247118852075,-34.39058045218541,TRUE
+feet find .,-34.39364443038302,-103.18093329114906,bad,inchoative,447,syntax,argument_structure,trigram4,-34.060311097049684,-34.39364443038302,TRUE
+feet drop .,-34.060311097049684,-102.18093329114906,good,inchoative,447,syntax,argument_structure,trigram4,-34.060311097049684,-34.39364443038302,TRUE
+feet find .,-34.390580368524716,-103.17174110557414,bad,inchoative,447,syntax,argument_structure,trigram5,-34.05724703519138,-34.390580368524716,TRUE
+feet drop .,-34.05724703519138,-102.17174110557414,good,inchoative,447,syntax,argument_structure,trigram5,-34.05724703519138,-34.390580368524716,TRUE
+feet find .,-34.36753014588386,-103.10259043765159,bad,inchoative,447,syntax,argument_structure,trigram6,-34.034196812550526,-34.36753014588386,TRUE
+feet drop .,-34.034196812550526,-102.10259043765159,good,inchoative,447,syntax,argument_structure,trigram6,-34.034196812550526,-34.36753014588386,TRUE
+feet find .,-34.428726754885524,-103.28618026465656,bad,inchoative,447,syntax,argument_structure,trigram7,-34.09539342155219,-34.428726754885524,TRUE
+feet drop .,-34.09539342155219,-102.28618026465656,good,inchoative,447,syntax,argument_structure,trigram7,-34.09539342155219,-34.428726754885524,TRUE
+feet find .,-34.41198385244504,-103.23595155733511,bad,inchoative,447,syntax,argument_structure,trigram8,-33.883663018871324,-34.41198385244504,TRUE
+feet drop .,-33.883663018871324,-101.65098905661397,good,inchoative,447,syntax,argument_structure,trigram8,-33.883663018871324,-34.41198385244504,TRUE
+feet find .,-34.43934783807525,-103.31804351422575,bad,inchoative,447,syntax,argument_structure,trigram9,-34.106014504741914,-34.43934783807525,TRUE
+feet drop .,-34.106014504741914,-102.31804351422575,good,inchoative,447,syntax,argument_structure,trigram9,-34.106014504741914,-34.43934783807525,TRUE
+that truck might slow .,-34.065917916943555,-170.32958958471778,good,inchoative,451,syntax,argument_structure,trigram1,-34.065917916943555,-34.382910417087786,TRUE
+that truck might take .,-34.382910417087786,-171.9145520854389,bad,inchoative,451,syntax,argument_structure,trigram1,-34.065917916943555,-34.382910417087786,TRUE
+that truck might slow .,-34.2028239161479,-171.0141195807395,good,inchoative,451,syntax,argument_structure,trigram10,-34.2028239161479,-34.4028239161479,TRUE
+that truck might take .,-34.4028239161479,-172.0141195807395,bad,inchoative,451,syntax,argument_structure,trigram10,-34.2028239161479,-34.4028239161479,TRUE
+that truck might slow .,-33.95518643674645,-169.77593218373227,good,inchoative,451,syntax,argument_structure,trigram2,-33.95518643674645,-34.155186436746455,TRUE
+that truck might take .,-34.155186436746455,-170.77593218373227,bad,inchoative,451,syntax,argument_structure,trigram2,-33.95518643674645,-34.155186436746455,TRUE
+that truck might slow .,-34.07358795204118,-170.3679397602059,good,inchoative,451,syntax,argument_structure,trigram3,-34.07358795204118,-34.39058045218541,TRUE
+that truck might take .,-34.39058045218541,-171.95290226092706,bad,inchoative,451,syntax,argument_structure,trigram3,-34.07358795204118,-34.39058045218541,TRUE
+that truck might slow .,-33.993644430383014,-169.96822215191509,good,inchoative,451,syntax,argument_structure,trigram4,-33.993644430383014,-34.19364443038302,TRUE
+that truck might take .,-34.19364443038302,-170.96822215191509,bad,inchoative,451,syntax,argument_structure,trigram4,-33.993644430383014,-34.19364443038302,TRUE
+that truck might slow .,-33.99058036852472,-169.9529018426236,good,inchoative,451,syntax,argument_structure,trigram5,-33.99058036852472,-34.19058036852472,TRUE
+that truck might take .,-34.19058036852472,-170.9529018426236,bad,inchoative,451,syntax,argument_structure,trigram5,-33.99058036852472,-34.19058036852472,TRUE
+that truck might slow .,-34.16753014588386,-170.8376507294193,good,inchoative,451,syntax,argument_structure,trigram6,-34.16753014588386,-34.36753014588386,TRUE
+that truck might take .,-34.36753014588386,-171.8376507294193,bad,inchoative,451,syntax,argument_structure,trigram6,-34.16753014588386,-34.36753014588386,TRUE
+that truck might slow .,-34.22872675488553,-171.14363377442763,good,inchoative,451,syntax,argument_structure,trigram7,-34.22872675488553,-34.428726754885524,TRUE
+that truck might take .,-34.428726754885524,-172.14363377442763,bad,inchoative,451,syntax,argument_structure,trigram7,-34.22872675488553,-34.428726754885524,TRUE
+that truck might slow .,-34.211983852445044,-171.0599192622252,good,inchoative,451,syntax,argument_structure,trigram8,-34.211983852445044,-34.211983852445044,FALSE
+that truck might take .,-34.211983852445044,-171.0599192622252,bad,inchoative,451,syntax,argument_structure,trigram8,-34.211983852445044,-34.211983852445044,FALSE
+that truck might slow .,-34.239347838075254,-171.19673919037626,good,inchoative,451,syntax,argument_structure,trigram9,-34.239347838075254,-34.43934783807525,TRUE
+that truck might take .,-34.43934783807525,-172.19673919037626,bad,inchoative,451,syntax,argument_structure,trigram9,-34.239347838075254,-34.43934783807525,TRUE
+many windows had tipped over .,-33.60893438545866,-201.65360631275198,good,inchoative,462,syntax,argument_structure,trigram1,-33.60893438545866,-34.382910417087786,TRUE
+many windows had seen .,-34.382910417087786,-171.9145520854389,bad,inchoative,462,syntax,argument_structure,trigram1,-33.60893438545866,-34.382910417087786,TRUE
+many windows had tipped over .,-33.44367599912066,-200.66205599472394,good,inchoative,462,syntax,argument_structure,trigram10,-33.44367599912066,-34.4028239161479,TRUE
+many windows had seen .,-34.4028239161479,-172.0141195807395,bad,inchoative,462,syntax,argument_structure,trigram10,-33.44367599912066,-34.4028239161479,TRUE
+many windows had tipped over .,-33.41454373845067,-200.487262430704,good,inchoative,462,syntax,argument_structure,trigram2,-33.41454373845067,-34.35518643674645,TRUE
+many windows had seen .,-34.35518643674645,-171.77593218373227,bad,inchoative,462,syntax,argument_structure,trigram2,-33.41454373845067,-34.35518643674645,TRUE
+many windows had tipped over .,-33.431432535158166,-200.588595210949,good,inchoative,462,syntax,argument_structure,trigram3,-33.431432535158166,-34.39058045218541,TRUE
+many windows had seen .,-34.39058045218541,-171.95290226092706,bad,inchoative,462,syntax,argument_structure,trigram3,-33.431432535158166,-34.39058045218541,TRUE
+many windows had tipped over .,-33.40916266444827,-200.4549759866896,good,inchoative,462,syntax,argument_structure,trigram4,-33.40916266444827,-34.39364443038302,TRUE
+many windows had seen .,-34.39364443038302,-171.96822215191509,bad,inchoative,462,syntax,argument_structure,trigram4,-33.40916266444827,-34.39364443038302,TRUE
+many windows had tipped over .,-33.43143245149747,-200.58859470898483,good,inchoative,462,syntax,argument_structure,trigram5,-33.43143245149747,-34.390580368524716,TRUE
+many windows had seen .,-34.390580368524716,-171.9529018426236,bad,inchoative,462,syntax,argument_structure,trigram5,-33.43143245149747,-34.390580368524716,TRUE
+many windows had tipped over .,-33.40838222885662,-200.4502933731397,good,inchoative,462,syntax,argument_structure,trigram6,-33.40838222885662,-34.36753014588386,TRUE
+many windows had seen .,-34.36753014588386,-171.8376507294193,bad,inchoative,462,syntax,argument_structure,trigram6,-33.40838222885662,-34.36753014588386,TRUE
+many windows had tipped over .,-33.541738739070965,-201.2504324344258,good,inchoative,462,syntax,argument_structure,trigram7,-33.541738739070965,-34.428726754885524,TRUE
+many windows had seen .,-34.428726754885524,-172.14363377442763,bad,inchoative,462,syntax,argument_structure,trigram7,-33.541738739070965,-34.428726754885524,TRUE
+many windows had tipped over .,-33.419617800713894,-200.51770680428336,good,inchoative,462,syntax,argument_structure,trigram8,-33.419617800713894,-34.41198385244504,TRUE
+many windows had seen .,-34.41198385244504,-172.0599192622252,bad,inchoative,462,syntax,argument_structure,trigram8,-33.419617800713894,-34.41198385244504,TRUE
+many windows had tipped over .,-33.4548660721405,-200.729196432843,good,inchoative,462,syntax,argument_structure,trigram9,-33.4548660721405,-34.43934783807525,TRUE
+many windows had seen .,-34.43934783807525,-172.19673919037626,bad,inchoative,462,syntax,argument_structure,trigram9,-33.4548660721405,-34.43934783807525,TRUE
+the glasses will n't twist .,-34.38291041708778,-206.29746250252668,good,inchoative,499,syntax,argument_structure,trigram1,-34.38291041708778,-34.38291041708778,FALSE
+the glasses will n't wear .,-34.38291041708778,-206.29746250252668,bad,inchoative,499,syntax,argument_structure,trigram1,-34.38291041708778,-34.38291041708778,FALSE
+the glasses will n't twist .,-34.4028239161479,-206.4169434968874,good,inchoative,499,syntax,argument_structure,trigram10,-34.4028239161479,-34.4028239161479,FALSE
+the glasses will n't wear .,-34.4028239161479,-206.4169434968874,bad,inchoative,499,syntax,argument_structure,trigram10,-34.4028239161479,-34.4028239161479,FALSE
+the glasses will n't twist .,-34.35518643674646,-206.13111862047873,good,inchoative,499,syntax,argument_structure,trigram2,-34.35518643674646,-34.35518643674646,FALSE
+the glasses will n't wear .,-34.35518643674646,-206.13111862047873,bad,inchoative,499,syntax,argument_structure,trigram2,-34.35518643674646,-34.35518643674646,FALSE
+the glasses will n't twist .,-34.39058045218541,-206.34348271311248,good,inchoative,499,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+the glasses will n't wear .,-34.39058045218541,-206.34348271311248,bad,inchoative,499,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+the glasses will n't twist .,-34.39364443038301,-206.3618665822981,good,inchoative,499,syntax,argument_structure,trigram4,-34.39364443038301,-34.39364443038301,FALSE
+the glasses will n't wear .,-34.39364443038301,-206.3618665822981,bad,inchoative,499,syntax,argument_structure,trigram4,-34.39364443038301,-34.39364443038301,FALSE
+the glasses will n't twist .,-34.390580368524716,-206.3434822111483,good,inchoative,499,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+the glasses will n't wear .,-34.390580368524716,-206.3434822111483,bad,inchoative,499,syntax,argument_structure,trigram5,-34.390580368524716,-34.390580368524716,FALSE
+the glasses will n't twist .,-34.367530145883855,-206.20518087530314,good,inchoative,499,syntax,argument_structure,trigram6,-34.367530145883855,-34.367530145883855,FALSE
+the glasses will n't wear .,-34.367530145883855,-206.20518087530314,bad,inchoative,499,syntax,argument_structure,trigram6,-34.367530145883855,-34.367530145883855,FALSE
+the glasses will n't twist .,-34.428726754885524,-206.57236052931316,good,inchoative,499,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+the glasses will n't wear .,-34.428726754885524,-206.57236052931316,bad,inchoative,499,syntax,argument_structure,trigram7,-34.428726754885524,-34.428726754885524,FALSE
+the glasses will n't twist .,-34.41198385244504,-206.47190311467025,good,inchoative,499,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+the glasses will n't wear .,-34.41198385244504,-206.47190311467025,bad,inchoative,499,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+the glasses will n't twist .,-34.43934783807526,-206.63608702845153,good,inchoative,499,syntax,argument_structure,trigram9,-34.43934783807526,-34.43934783807526,FALSE
+the glasses will n't wear .,-34.43934783807526,-206.63608702845153,bad,inchoative,499,syntax,argument_structure,trigram9,-34.43934783807526,-34.43934783807526,FALSE
+that apple was growing .,-34.382910417087786,-171.9145520854389,good,inchoative,503,syntax,argument_structure,trigram1,-34.382910417087786,-33.995922401273226,FALSE
+that apple was looking like .,-33.995922401273226,-203.97553440763934,bad,inchoative,503,syntax,argument_structure,trigram1,-34.382910417087786,-33.995922401273226,FALSE
+that apple was growing .,-34.4028239161479,-172.0141195807395,good,inchoative,503,syntax,argument_structure,trigram10,-34.4028239161479,-34.13866349936104,FALSE
+that apple was looking like .,-34.13866349936104,-204.83198099616624,bad,inchoative,503,syntax,argument_structure,trigram10,-34.4028239161479,-34.13866349936104,FALSE
+that apple was growing .,-34.155186436746455,-170.77593218373227,good,inchoative,503,syntax,argument_structure,trigram2,-34.155186436746455,-33.96819842093189,FALSE
+that apple was looking like .,-33.96819842093189,-203.80919052559136,bad,inchoative,503,syntax,argument_structure,trigram2,-34.155186436746455,-33.96819842093189,FALSE
+that apple was growing .,-34.190580452185415,-170.95290226092706,good,inchoative,503,syntax,argument_structure,trigram3,-34.190580452185415,-34.05724711885208,FALSE
+that apple was looking like .,-34.05724711885208,-204.34348271311248,bad,inchoative,503,syntax,argument_structure,trigram3,-34.190580452185415,-34.05724711885208,FALSE
+that apple was growing .,-34.19364443038302,-170.96822215191509,good,inchoative,503,syntax,argument_structure,trigram4,-34.19364443038302,-34.060311097049684,FALSE
+that apple was looking like .,-34.060311097049684,-204.3618665822981,bad,inchoative,503,syntax,argument_structure,trigram4,-34.19364443038302,-34.060311097049684,FALSE
+that apple was growing .,-34.390580368524716,-171.9529018426236,good,inchoative,503,syntax,argument_structure,trigram5,-34.390580368524716,-34.05724703519139,FALSE
+that apple was looking like .,-34.05724703519139,-204.3434822111483,bad,inchoative,503,syntax,argument_structure,trigram5,-34.390580368524716,-34.05724703519139,FALSE
+that apple was growing .,-34.36753014588386,-171.8376507294193,good,inchoative,503,syntax,argument_structure,trigram6,-34.36753014588386,-33.93670306243033,FALSE
+that apple was looking like .,-33.93670306243033,-203.620218374582,bad,inchoative,503,syntax,argument_structure,trigram6,-34.36753014588386,-33.93670306243033,FALSE
+that apple was growing .,-34.22872675488553,-171.14363377442763,good,inchoative,503,syntax,argument_structure,trigram7,-34.22872675488553,-33.997899671432,FALSE
+that apple was looking like .,-33.997899671432,-203.987398028592,bad,inchoative,503,syntax,argument_structure,trigram7,-34.22872675488553,-33.997899671432,FALSE
+that apple was growing .,-34.211983852445044,-171.0599192622252,good,inchoative,503,syntax,argument_structure,trigram8,-34.211983852445044,-34.02499583663048,FALSE
+that apple was looking like .,-34.02499583663048,-204.1499750197829,bad,inchoative,503,syntax,argument_structure,trigram8,-34.211983852445044,-34.02499583663048,FALSE
+that apple was growing .,-34.239347838075254,-171.19673919037626,good,inchoative,503,syntax,argument_structure,trigram9,-34.239347838075254,-34.10601450474192,FALSE
+that apple was looking like .,-34.10601450474192,-204.63608702845153,bad,inchoative,503,syntax,argument_structure,trigram9,-34.239347838075254,-34.10601450474192,FALSE
+that bicycle turned .,-34.382910417087786,-137.53164166835114,good,inchoative,52,syntax,argument_structure,trigram1,-34.382910417087786,-34.382910417087786,FALSE
+that bicycle brought .,-34.382910417087786,-137.53164166835114,bad,inchoative,52,syntax,argument_structure,trigram1,-34.382910417087786,-34.382910417087786,FALSE
+that bicycle turned .,-34.1528239161479,-136.6112956645916,good,inchoative,52,syntax,argument_structure,trigram10,-34.1528239161479,-34.4028239161479,TRUE
+that bicycle brought .,-34.4028239161479,-137.6112956645916,bad,inchoative,52,syntax,argument_structure,trigram10,-34.1528239161479,-34.4028239161479,TRUE
+that bicycle turned .,-34.10518643674645,-136.4207457469858,good,inchoative,52,syntax,argument_structure,trigram2,-34.10518643674645,-34.35518643674645,TRUE
+that bicycle brought .,-34.35518643674645,-137.4207457469858,bad,inchoative,52,syntax,argument_structure,trigram2,-34.10518643674645,-34.35518643674645,TRUE
+that bicycle turned .,-34.14058045218541,-136.56232180874164,good,inchoative,52,syntax,argument_structure,trigram3,-34.14058045218541,-34.39058045218541,TRUE
+that bicycle brought .,-34.39058045218541,-137.56232180874164,bad,inchoative,52,syntax,argument_structure,trigram3,-34.14058045218541,-34.39058045218541,TRUE
+that bicycle turned .,-34.39364443038302,-137.57457772153208,good,inchoative,52,syntax,argument_structure,trigram4,-34.39364443038302,-34.39364443038302,FALSE
+that bicycle brought .,-34.39364443038302,-137.57457772153208,bad,inchoative,52,syntax,argument_structure,trigram4,-34.39364443038302,-34.39364443038302,FALSE
+that bicycle turned .,-34.140580368524716,-136.56232147409887,good,inchoative,52,syntax,argument_structure,trigram5,-34.140580368524716,-34.390580368524716,TRUE
+that bicycle brought .,-34.390580368524716,-137.56232147409887,bad,inchoative,52,syntax,argument_structure,trigram5,-34.140580368524716,-34.390580368524716,TRUE
+that bicycle turned .,-34.36753014588386,-137.47012058353545,good,inchoative,52,syntax,argument_structure,trigram6,-34.36753014588386,-34.36753014588386,FALSE
+that bicycle brought .,-34.36753014588386,-137.47012058353545,bad,inchoative,52,syntax,argument_structure,trigram6,-34.36753014588386,-34.36753014588386,FALSE
+that bicycle turned .,-34.178726754885524,-136.7149070195421,good,inchoative,52,syntax,argument_structure,trigram7,-34.178726754885524,-34.428726754885524,TRUE
+that bicycle brought .,-34.428726754885524,-137.7149070195421,bad,inchoative,52,syntax,argument_structure,trigram7,-34.178726754885524,-34.428726754885524,TRUE
+that bicycle turned .,-34.16198385244504,-136.64793540978016,good,inchoative,52,syntax,argument_structure,trigram8,-34.16198385244504,-34.41198385244504,TRUE
+that bicycle brought .,-34.41198385244504,-137.64793540978016,bad,inchoative,52,syntax,argument_structure,trigram8,-34.16198385244504,-34.41198385244504,TRUE
+that bicycle turned .,-34.18934783807525,-136.757391352301,good,inchoative,52,syntax,argument_structure,trigram9,-34.18934783807525,-34.43934783807525,TRUE
+that bicycle brought .,-34.43934783807525,-137.757391352301,bad,inchoative,52,syntax,argument_structure,trigram9,-34.18934783807525,-34.43934783807525,TRUE
+some mirror has n't cracked .,-34.216243750421114,-205.29746250252668,good,inchoative,523,syntax,argument_structure,trigram1,-34.216243750421114,-34.216243750421114,FALSE
+some mirror has n't fixed .,-34.216243750421114,-205.29746250252668,bad,inchoative,523,syntax,argument_structure,trigram1,-34.216243750421114,-34.216243750421114,FALSE
+some mirror has n't cracked .,-34.23615724948123,-205.4169434968874,good,inchoative,523,syntax,argument_structure,trigram10,-34.23615724948123,-34.069490582814566,FALSE
+some mirror has n't fixed .,-34.069490582814566,-204.4169434968874,bad,inchoative,523,syntax,argument_structure,trigram10,-34.23615724948123,-34.069490582814566,FALSE
+some mirror has n't cracked .,-34.188519770079786,-205.13111862047873,good,inchoative,523,syntax,argument_structure,trigram2,-34.188519770079786,-34.188519770079786,FALSE
+some mirror has n't fixed .,-34.188519770079786,-205.13111862047873,bad,inchoative,523,syntax,argument_structure,trigram2,-34.188519770079786,-34.188519770079786,FALSE
+some mirror has n't cracked .,-34.22391378551875,-205.34348271311248,good,inchoative,523,syntax,argument_structure,trigram3,-34.22391378551875,-34.22391378551875,FALSE
+some mirror has n't fixed .,-34.22391378551875,-205.34348271311248,bad,inchoative,523,syntax,argument_structure,trigram3,-34.22391378551875,-34.22391378551875,FALSE
+some mirror has n't cracked .,-34.22697776371635,-205.3618665822981,good,inchoative,523,syntax,argument_structure,trigram4,-34.22697776371635,-34.060311097049684,FALSE
+some mirror has n't fixed .,-34.060311097049684,-204.3618665822981,bad,inchoative,523,syntax,argument_structure,trigram4,-34.22697776371635,-34.060311097049684,FALSE
+some mirror has n't cracked .,-34.22391370185805,-205.3434822111483,good,inchoative,523,syntax,argument_structure,trigram5,-34.22391370185805,-34.12641995173786,FALSE
+some mirror has n't fixed .,-34.12641995173786,-204.75851971042715,bad,inchoative,523,syntax,argument_structure,trigram5,-34.22391370185805,-34.12641995173786,FALSE
+some mirror has n't cracked .,-34.367530145883855,-206.20518087530314,good,inchoative,523,syntax,argument_structure,trigram6,-34.367530145883855,-34.103369729097004,FALSE
+some mirror has n't fixed .,-34.103369729097004,-204.620218374582,bad,inchoative,523,syntax,argument_structure,trigram6,-34.367530145883855,-34.103369729097004,FALSE
+some mirror has n't cracked .,-34.26206008821886,-205.57236052931316,good,inchoative,523,syntax,argument_structure,trigram7,-34.26206008821886,-34.095393421552195,FALSE
+some mirror has n't fixed .,-34.095393421552195,-204.57236052931316,bad,inchoative,523,syntax,argument_structure,trigram7,-34.26206008821886,-34.095393421552195,FALSE
+some mirror has n't cracked .,-34.245317185778376,-205.47190311467025,good,inchoative,523,syntax,argument_structure,trigram8,-34.245317185778376,-34.07865051911171,FALSE
+some mirror has n't fixed .,-34.07865051911171,-204.47190311467025,bad,inchoative,523,syntax,argument_structure,trigram8,-34.245317185778376,-34.07865051911171,FALSE
+some mirror has n't cracked .,-34.272681171408585,-205.63608702845153,good,inchoative,523,syntax,argument_structure,trigram9,-34.272681171408585,-34.43934783807526,TRUE
+some mirror has n't fixed .,-34.43934783807526,-206.63608702845153,bad,inchoative,523,syntax,argument_structure,trigram9,-34.272681171408585,-34.43934783807526,TRUE
+that truck broke .,-34.132910417087786,-136.53164166835114,good,inchoative,533,syntax,argument_structure,trigram1,-34.132910417087786,-34.382910417087786,TRUE
+that truck likes .,-34.382910417087786,-137.53164166835114,bad,inchoative,533,syntax,argument_structure,trigram1,-34.132910417087786,-34.382910417087786,TRUE
+that truck broke .,-34.1528239161479,-136.6112956645916,good,inchoative,533,syntax,argument_structure,trigram10,-34.1528239161479,-34.4028239161479,TRUE
+that truck likes .,-34.4028239161479,-137.6112956645916,bad,inchoative,533,syntax,argument_structure,trigram10,-34.1528239161479,-34.4028239161479,TRUE
+that truck broke .,-33.85518643674645,-135.4207457469858,good,inchoative,533,syntax,argument_structure,trigram2,-33.85518643674645,-34.10518643674645,TRUE
+that truck likes .,-34.10518643674645,-136.4207457469858,bad,inchoative,533,syntax,argument_structure,trigram2,-33.85518643674645,-34.10518643674645,TRUE
+that truck broke .,-34.39058045218541,-137.56232180874164,good,inchoative,533,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+that truck likes .,-34.39058045218541,-137.56232180874164,bad,inchoative,533,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+that truck broke .,-33.89364443038302,-135.57457772153208,good,inchoative,533,syntax,argument_structure,trigram4,-33.89364443038302,-34.14364443038302,TRUE
+that truck likes .,-34.14364443038302,-136.57457772153208,bad,inchoative,533,syntax,argument_structure,trigram4,-33.89364443038302,-34.14364443038302,TRUE
+that truck broke .,-34.140580368524716,-136.56232147409887,good,inchoative,533,syntax,argument_structure,trigram5,-34.140580368524716,-34.140580368524716,FALSE
+that truck likes .,-34.140580368524716,-136.56232147409887,bad,inchoative,533,syntax,argument_structure,trigram5,-34.140580368524716,-34.140580368524716,FALSE
+that truck broke .,-34.11753014588386,-136.47012058353545,good,inchoative,533,syntax,argument_structure,trigram6,-34.11753014588386,-34.36753014588386,TRUE
+that truck likes .,-34.36753014588386,-137.47012058353545,bad,inchoative,533,syntax,argument_structure,trigram6,-34.11753014588386,-34.36753014588386,TRUE
+that truck broke .,-34.178726754885524,-136.7149070195421,good,inchoative,533,syntax,argument_structure,trigram7,-34.178726754885524,-34.428726754885524,TRUE
+that truck likes .,-34.428726754885524,-137.7149070195421,bad,inchoative,533,syntax,argument_structure,trigram7,-34.178726754885524,-34.428726754885524,TRUE
+that truck broke .,-33.91198385244504,-135.64793540978016,good,inchoative,533,syntax,argument_structure,trigram8,-33.91198385244504,-34.16198385244504,TRUE
+that truck likes .,-34.16198385244504,-136.64793540978016,bad,inchoative,533,syntax,argument_structure,trigram8,-33.91198385244504,-34.16198385244504,TRUE
+that truck broke .,-34.18934783807525,-136.757391352301,good,inchoative,533,syntax,argument_structure,trigram9,-34.18934783807525,-34.43934783807525,TRUE
+that truck likes .,-34.43934783807525,-137.757391352301,bad,inchoative,533,syntax,argument_structure,trigram9,-34.18934783807525,-34.43934783807525,TRUE
+all windows saw .,-33.986669791907495,-135.94667916762998,bad,inchoative,55,syntax,argument_structure,trigram1,-34.132910417087786,-33.986669791907495,FALSE
+all windows closed .,-34.132910417087786,-136.53164166835114,good,inchoative,55,syntax,argument_structure,trigram1,-34.132910417087786,-33.986669791907495,FALSE
+all windows saw .,-34.00658329096761,-136.02633316387045,bad,inchoative,55,syntax,argument_structure,trigram10,-34.1528239161479,-34.00658329096761,FALSE
+all windows closed .,-34.1528239161479,-136.6112956645916,good,inchoative,55,syntax,argument_structure,trigram10,-34.1528239161479,-34.00658329096761,FALSE
+all windows saw .,-34.35518643674645,-137.4207457469858,bad,inchoative,55,syntax,argument_structure,trigram2,-34.35518643674645,-34.35518643674645,FALSE
+all windows closed .,-34.35518643674645,-137.4207457469858,good,inchoative,55,syntax,argument_structure,trigram2,-34.35518643674645,-34.35518643674645,FALSE
+all windows saw .,-34.39058045218541,-137.56232180874164,bad,inchoative,55,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+all windows closed .,-34.39058045218541,-137.56232180874164,good,inchoative,55,syntax,argument_structure,trigram3,-34.39058045218541,-34.39058045218541,FALSE
+all windows saw .,-34.14364443038302,-136.57457772153208,bad,inchoative,55,syntax,argument_structure,trigram4,-34.14364443038302,-34.14364443038302,FALSE
+all windows closed .,-34.14364443038302,-136.57457772153208,good,inchoative,55,syntax,argument_structure,trigram4,-34.14364443038302,-34.14364443038302,FALSE
+all windows saw .,-34.140580368524716,-136.56232147409887,bad,inchoative,55,syntax,argument_structure,trigram5,-34.140580368524716,-34.140580368524716,FALSE
+all windows closed .,-34.140580368524716,-136.56232147409887,good,inchoative,55,syntax,argument_structure,trigram5,-34.140580368524716,-34.140580368524716,FALSE
+all windows saw .,-34.11753014588386,-136.47012058353545,bad,inchoative,55,syntax,argument_structure,trigram6,-34.11753014588386,-34.11753014588386,FALSE
+all windows closed .,-34.11753014588386,-136.47012058353545,good,inchoative,55,syntax,argument_structure,trigram6,-34.11753014588386,-34.11753014588386,FALSE
+all windows saw .,-34.032486129705234,-136.12994451882093,bad,inchoative,55,syntax,argument_structure,trigram7,-34.428726754885524,-34.032486129705234,FALSE
+all windows closed .,-34.428726754885524,-137.7149070195421,good,inchoative,55,syntax,argument_structure,trigram7,-34.428726754885524,-34.032486129705234,FALSE
+all windows saw .,-34.01574322726475,-136.062972909059,bad,inchoative,55,syntax,argument_structure,trigram8,-34.16198385244504,-34.01574322726475,FALSE
+all windows closed .,-34.16198385244504,-136.64793540978016,good,inchoative,55,syntax,argument_structure,trigram8,-34.16198385244504,-34.01574322726475,FALSE
+all windows saw .,-34.18934783807525,-136.757391352301,bad,inchoative,55,syntax,argument_structure,trigram9,-34.18934783807525,-34.18934783807525,FALSE
+all windows closed .,-34.18934783807525,-136.757391352301,good,inchoative,55,syntax,argument_structure,trigram9,-34.18934783807525,-34.18934783807525,FALSE
+the glasses are breaking .,-34.382910417087786,-171.9145520854389,good,inchoative,58,syntax,argument_structure,trigram1,-34.382910417087786,-34.382910417087786,FALSE
+the glasses are taking .,-34.382910417087786,-171.9145520854389,bad,inchoative,58,syntax,argument_structure,trigram1,-34.382910417087786,-34.382910417087786,FALSE
+the glasses are breaking .,-34.2028239161479,-171.0141195807395,good,inchoative,58,syntax,argument_structure,trigram10,-34.2028239161479,-34.2028239161479,FALSE
+the glasses are taking .,-34.2028239161479,-171.0141195807395,bad,inchoative,58,syntax,argument_structure,trigram10,-34.2028239161479,-34.2028239161479,FALSE
+the glasses are breaking .,-34.155186436746455,-170.77593218373227,good,inchoative,58,syntax,argument_structure,trigram2,-34.155186436746455,-34.35518643674645,TRUE
+the glasses are taking .,-34.35518643674645,-171.77593218373227,bad,inchoative,58,syntax,argument_structure,trigram2,-34.155186436746455,-34.35518643674645,TRUE
+the glasses are breaking .,-34.190580452185415,-170.95290226092706,good,inchoative,58,syntax,argument_structure,trigram3,-34.190580452185415,-34.190580452185415,FALSE
+the glasses are taking .,-34.190580452185415,-170.95290226092706,bad,inchoative,58,syntax,argument_structure,trigram3,-34.190580452185415,-34.190580452185415,FALSE
+the glasses are breaking .,-34.39364443038302,-171.96822215191509,good,inchoative,58,syntax,argument_structure,trigram4,-34.39364443038302,-34.39364443038302,FALSE
+the glasses are taking .,-34.39364443038302,-171.96822215191509,bad,inchoative,58,syntax,argument_structure,trigram4,-34.39364443038302,-34.39364443038302,FALSE
+the glasses are breaking .,-34.19058036852472,-170.9529018426236,good,inchoative,58,syntax,argument_structure,trigram5,-34.19058036852472,-34.390580368524716,TRUE
+the glasses are taking .,-34.390580368524716,-171.9529018426236,bad,inchoative,58,syntax,argument_structure,trigram5,-34.19058036852472,-34.390580368524716,TRUE
+the glasses are breaking .,-34.36753014588386,-171.8376507294193,good,inchoative,58,syntax,argument_structure,trigram6,-34.36753014588386,-34.36753014588386,FALSE
+the glasses are taking .,-34.36753014588386,-171.8376507294193,bad,inchoative,58,syntax,argument_structure,trigram6,-34.36753014588386,-34.36753014588386,FALSE
+the glasses are breaking .,-34.028726754885525,-170.14363377442763,good,inchoative,58,syntax,argument_structure,trigram7,-34.028726754885525,-34.22872675488553,TRUE
+the glasses are taking .,-34.22872675488553,-171.14363377442763,bad,inchoative,58,syntax,argument_structure,trigram7,-34.028726754885525,-34.22872675488553,TRUE
+the glasses are breaking .,-34.41198385244504,-172.0599192622252,good,inchoative,58,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+the glasses are taking .,-34.41198385244504,-172.0599192622252,bad,inchoative,58,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+the glasses are breaking .,-34.239347838075254,-171.19673919037626,good,inchoative,58,syntax,argument_structure,trigram9,-34.239347838075254,-34.239347838075254,FALSE
+the glasses are taking .,-34.239347838075254,-171.19673919037626,bad,inchoative,58,syntax,argument_structure,trigram9,-34.239347838075254,-34.239347838075254,FALSE
+some carriage had n't found .,-34.38291041708778,-206.29746250252668,bad,inchoative,594,syntax,argument_structure,trigram1,-33.35458958351406,-34.38291041708778,TRUE
+some carriage had n't broken .,-33.35458958351406,-200.1275375010844,good,inchoative,594,syntax,argument_structure,trigram1,-33.35458958351406,-34.38291041708778,TRUE
+some carriage had n't found .,-34.4028239161479,-206.4169434968874,bad,inchoative,594,syntax,argument_structure,trigram10,-33.52816933057397,-34.4028239161479,TRUE
+some carriage had n't broken .,-33.52816933057397,-201.1690159834438,good,inchoative,594,syntax,argument_structure,trigram10,-33.52816933057397,-34.4028239161479,TRUE
+some carriage had n't found .,-34.35518643674646,-206.13111862047873,bad,inchoative,594,syntax,argument_structure,trigram2,-33.26792611073695,-34.35518643674646,TRUE
+some carriage had n't broken .,-33.26792611073695,-199.6075566644217,good,inchoative,594,syntax,argument_structure,trigram2,-33.26792611073695,-34.35518643674646,TRUE
+some carriage had n't found .,-34.39058045218541,-206.34348271311248,bad,inchoative,594,syntax,argument_structure,trigram3,-33.45975336873189,-34.39058045218541,TRUE
+some carriage had n't broken .,-33.45975336873189,-200.75852021239132,good,inchoative,594,syntax,argument_structure,trigram3,-33.45975336873189,-34.39058045218541,TRUE
+some carriage had n't found .,-34.39364443038301,-206.3618665822981,bad,inchoative,594,syntax,argument_structure,trigram4,-33.560311097049684,-34.39364443038301,TRUE
+some carriage had n't broken .,-33.560311097049684,-201.3618665822981,good,inchoative,594,syntax,argument_structure,trigram4,-33.560311097049684,-34.39364443038301,TRUE
+some carriage had n't found .,-34.390580368524716,-206.3434822111483,bad,inchoative,594,syntax,argument_structure,trigram5,-33.459753285071194,-34.390580368524716,TRUE
+some carriage had n't broken .,-33.459753285071194,-200.75851971042715,good,inchoative,594,syntax,argument_structure,trigram5,-33.459753285071194,-34.390580368524716,TRUE
+some carriage had n't found .,-34.367530145883855,-206.20518087530314,bad,inchoative,594,syntax,argument_structure,trigram6,-33.26022078092141,-34.367530145883855,TRUE
+some carriage had n't broken .,-33.26022078092141,-199.56132468552843,good,inchoative,594,syntax,argument_structure,trigram6,-33.26022078092141,-34.367530145883855,TRUE
+some carriage had n't found .,-34.428726754885524,-206.57236052931316,bad,inchoative,594,syntax,argument_structure,trigram7,-33.428726754885524,-34.428726754885524,TRUE
+some carriage had n't broken .,-33.428726754885524,-200.57236052931316,good,inchoative,594,syntax,argument_structure,trigram7,-33.428726754885524,-34.428726754885524,TRUE
+some carriage had n't found .,-34.41198385244504,-206.47190311467025,bad,inchoative,594,syntax,argument_structure,trigram8,-33.43983551675092,-34.41198385244504,TRUE
+some carriage had n't broken .,-33.43983551675092,-200.6390131005055,good,inchoative,594,syntax,argument_structure,trigram8,-33.43983551675092,-34.41198385244504,TRUE
+some carriage had n't found .,-34.43934783807526,-206.63608702845153,bad,inchoative,594,syntax,argument_structure,trigram9,-33.50852075462173,-34.43934783807526,TRUE
+some carriage had n't broken .,-33.50852075462173,-201.05112452773037,good,inchoative,594,syntax,argument_structure,trigram9,-33.50852075462173,-34.43934783807526,TRUE
+Name could n't like .,-33.71852479811032,-168.59262399055157,bad,inchoative,618,syntax,argument_structure,trigram1,-33.782910417087784,-33.71852479811032,FALSE
+Name could n't hurt .,-33.782910417087784,-168.9145520854389,good,inchoative,618,syntax,argument_structure,trigram1,-33.782910417087784,-33.71852479811032,FALSE
+Name could n't like .,-33.88583141600367,-169.42915708001834,bad,inchoative,618,syntax,argument_structure,trigram10,-33.48583141600367,-33.88583141600367,TRUE
+Name could n't hurt .,-33.48583141600367,-167.42915708001834,good,inchoative,618,syntax,argument_structure,trigram10,-33.48583141600367,-33.88583141600367,TRUE
+Name could n't like .,-33.89080081776898,-169.4540040888449,bad,inchoative,618,syntax,argument_structure,trigram2,-33.69080081776898,-33.89080081776898,TRUE
+Name could n't hurt .,-33.69080081776898,-168.4540040888449,good,inchoative,618,syntax,argument_structure,trigram2,-33.69080081776898,-33.89080081776898,TRUE
+Name could n't like .,-33.99058045218541,-169.95290226092706,bad,inchoative,618,syntax,argument_structure,trigram3,-33.87358795204118,-33.99058045218541,TRUE
+Name could n't hurt .,-33.87358795204118,-169.3679397602059,good,inchoative,618,syntax,argument_structure,trigram3,-33.87358795204118,-33.99058045218541,TRUE
+Name could n't like .,-33.993644430383014,-169.96822215191509,bad,inchoative,618,syntax,argument_structure,trigram4,-33.72925881140555,-33.993644430383014,TRUE
+Name could n't hurt .,-33.72925881140555,-168.64629405702775,good,inchoative,618,syntax,argument_structure,trigram4,-33.72925881140555,-33.993644430383014,TRUE
+Name could n't like .,-33.790580368524715,-168.9529018426236,bad,inchoative,618,syntax,argument_structure,trigram5,-33.450492424896495,-33.790580368524715,TRUE
+Name could n't hurt .,-33.450492424896495,-167.2524621244825,good,inchoative,618,syntax,argument_structure,trigram5,-33.450492424896495,-33.790580368524715,TRUE
+Name could n't like .,-33.850537645739635,-169.25268822869816,bad,inchoative,618,syntax,argument_structure,trigram6,-33.76753014588386,-33.850537645739635,TRUE
+Name could n't hurt .,-33.76753014588386,-168.8376507294193,good,inchoative,618,syntax,argument_structure,trigram6,-33.76753014588386,-33.850537645739635,TRUE
+Name could n't like .,-33.711734254741295,-168.55867127370647,bad,inchoative,618,syntax,argument_structure,trigram7,-33.62872675488553,-33.711734254741295,TRUE
+Name could n't hurt .,-33.62872675488553,-168.14363377442763,good,inchoative,618,syntax,argument_structure,trigram7,-33.62872675488553,-33.711734254741295,TRUE
+Name could n't like .,-33.947598233467566,-169.73799116733784,bad,inchoative,618,syntax,argument_structure,trigram8,-33.77799885215658,-33.947598233467566,TRUE
+Name could n't hurt .,-33.77799885215658,-168.88999426078288,good,inchoative,618,syntax,argument_structure,trigram8,-33.77799885215658,-33.947598233467566,TRUE
+Name could n't like .,-33.839347838075255,-169.19673919037626,bad,inchoative,618,syntax,argument_structure,trigram9,-33.49925989444704,-33.839347838075255,TRUE
+Name could n't hurt .,-33.49925989444704,-167.49629947223517,good,inchoative,618,syntax,argument_structure,trigram9,-33.49925989444704,-33.839347838075255,TRUE
+Name would move .,-33.30242839336594,-133.20971357346377,good,inchoative,640,syntax,argument_structure,trigram1,-33.30242839336594,-33.486669791907495,TRUE
+Name would forget .,-33.486669791907495,-133.94667916762998,bad,inchoative,640,syntax,argument_structure,trigram1,-33.30242839336594,-33.486669791907495,TRUE
+Name would move .,-33.42610126724577,-133.70440506898308,good,inchoative,640,syntax,argument_structure,trigram10,-33.42610126724577,-34.00658329096761,TRUE
+Name would forget .,-34.00658329096761,-136.02633316387045,bad,inchoative,640,syntax,argument_structure,trigram10,-33.42610126724577,-34.00658329096761,TRUE
+Name would move .,-33.37846378784432,-133.51385515137727,good,inchoative,640,syntax,argument_structure,trigram2,-33.37846378784432,-33.52470441302461,TRUE
+Name would forget .,-33.52470441302461,-134.09881765209843,bad,inchoative,640,syntax,argument_structure,trigram2,-33.37846378784432,-33.52470441302461,TRUE
+Name would move .,-33.413857803283285,-133.65543121313314,good,inchoative,640,syntax,argument_structure,trigram3,-33.413857803283285,-33.560098428463576,TRUE
+Name would forget .,-33.560098428463576,-134.2403937138543,bad,inchoative,640,syntax,argument_structure,trigram3,-33.413857803283285,-33.560098428463576,TRUE
+Name would move .,-33.41692178148089,-133.66768712592355,good,inchoative,640,syntax,argument_structure,trigram4,-33.41692178148089,-33.56316240666118,TRUE
+Name would forget .,-33.56316240666118,-134.2526496266447,bad,inchoative,640,syntax,argument_structure,trigram4,-33.41692178148089,-33.56316240666118,TRUE
+Name would move .,-33.59809911816414,-134.39239647265657,good,inchoative,640,syntax,argument_structure,trigram5,-33.59809911816414,-33.74433974334443,TRUE
+Name would forget .,-33.74433974334443,-134.97735897337773,bad,inchoative,640,syntax,argument_structure,trigram5,-33.59809911816414,-33.74433974334443,TRUE
+Name would move .,-33.085209391647616,-132.34083756659047,good,inchoative,640,syntax,argument_structure,trigram6,-33.085209391647616,-33.66569141536946,TRUE
+Name would forget .,-33.66569141536946,-134.66276566147783,bad,inchoative,640,syntax,argument_structure,trigram6,-33.085209391647616,-33.66569141536946,TRUE
+Name would move .,-33.26776270744185,-133.0710508297674,good,inchoative,640,syntax,argument_structure,trigram7,-33.26776270744185,-33.59824473116369,TRUE
+Name would forget .,-33.59824473116369,-134.39297892465476,bad,inchoative,640,syntax,argument_structure,trigram7,-33.26776270744185,-33.59824473116369,TRUE
+Name would move .,-33.41198385244504,-133.64793540978016,good,inchoative,640,syntax,argument_structure,trigram8,-33.41198385244504,-33.51574322726475,TRUE
+Name would forget .,-33.51574322726475,-134.062972909059,bad,inchoative,640,syntax,argument_structure,trigram8,-33.41198385244504,-33.51574322726475,TRUE
+Name would move .,-33.85886581435341,-135.43546325741363,good,inchoative,640,syntax,argument_structure,trigram9,-33.85886581435341,-33.85886581435341,FALSE
+Name would forget .,-33.85886581435341,-135.43546325741363,bad,inchoative,640,syntax,argument_structure,trigram9,-33.85886581435341,-33.85886581435341,FALSE
+a mouth does open .,-34.18291041708778,-170.9145520854389,good,inchoative,680,syntax,argument_structure,trigram1,-34.18291041708778,-34.382910417087786,TRUE
+a mouth does take .,-34.382910417087786,-171.9145520854389,bad,inchoative,680,syntax,argument_structure,trigram1,-34.18291041708778,-34.382910417087786,TRUE
+a mouth does open .,-33.938438297170435,-169.69219148585216,good,inchoative,680,syntax,argument_structure,trigram10,-33.938438297170435,-34.4028239161479,TRUE
+a mouth does take .,-34.4028239161479,-172.0141195807395,bad,inchoative,680,syntax,argument_structure,trigram10,-33.938438297170435,-34.4028239161479,TRUE
+a mouth does open .,-33.89080081776898,-169.4540040888449,good,inchoative,680,syntax,argument_structure,trigram2,-33.89080081776898,-34.35518643674645,TRUE
+a mouth does take .,-34.35518643674645,-171.77593218373227,bad,inchoative,680,syntax,argument_structure,trigram2,-33.89080081776898,-34.35518643674645,TRUE
+a mouth does open .,-34.190580452185415,-170.95290226092706,good,inchoative,680,syntax,argument_structure,trigram3,-34.190580452185415,-34.39058045218541,TRUE
+a mouth does take .,-34.39058045218541,-171.95290226092706,bad,inchoative,680,syntax,argument_structure,trigram3,-34.190580452185415,-34.39058045218541,TRUE
+a mouth does open .,-33.929258811405546,-169.64629405702775,good,inchoative,680,syntax,argument_structure,trigram4,-33.929258811405546,-34.39364443038302,TRUE
+a mouth does take .,-34.39364443038302,-171.96822215191509,bad,inchoative,680,syntax,argument_structure,trigram4,-33.929258811405546,-34.39364443038302,TRUE
+a mouth does open .,-33.87358786838048,-169.36793934190243,good,inchoative,680,syntax,argument_structure,trigram5,-33.87358786838048,-34.390580368524716,TRUE
+a mouth does take .,-34.390580368524716,-171.9529018426236,bad,inchoative,680,syntax,argument_structure,trigram5,-33.87358786838048,-34.390580368524716,TRUE
+a mouth does open .,-34.05053764573963,-170.25268822869816,good,inchoative,680,syntax,argument_structure,trigram6,-34.05053764573963,-34.36753014588386,TRUE
+a mouth does take .,-34.36753014588386,-171.8376507294193,bad,inchoative,680,syntax,argument_structure,trigram6,-34.05053764573963,-34.36753014588386,TRUE
+a mouth does open .,-33.96434113590805,-169.82170567954026,good,inchoative,680,syntax,argument_structure,trigram7,-33.96434113590805,-34.428726754885524,TRUE
+a mouth does take .,-34.428726754885524,-172.14363377442763,bad,inchoative,680,syntax,argument_structure,trigram7,-33.96434113590805,-34.428726754885524,TRUE
+a mouth does open .,-33.947598233467566,-169.73799116733784,good,inchoative,680,syntax,argument_structure,trigram8,-33.947598233467566,-34.41198385244504,TRUE
+a mouth does take .,-34.41198385244504,-172.0599192622252,bad,inchoative,680,syntax,argument_structure,trigram8,-33.947598233467566,-34.41198385244504,TRUE
+a mouth does open .,-34.12235533793102,-170.6117766896551,good,inchoative,680,syntax,argument_structure,trigram9,-34.12235533793102,-34.43934783807525,TRUE
+a mouth does take .,-34.43934783807525,-172.19673919037626,bad,inchoative,680,syntax,argument_structure,trigram9,-34.12235533793102,-34.43934783807525,TRUE
+every plate has n't tipped over .,-33.71950238997711,-236.03651672983975,good,inchoative,712,syntax,argument_structure,trigram1,-33.71950238997711,-34.05120640353245,TRUE
+every plate has n't looked like .,-34.05120640353245,-238.35844482472712,bad,inchoative,712,syntax,argument_structure,trigram1,-33.71950238997711,-34.05120640353245,TRUE
+every plate has n't tipped over .,-33.58069713012455,-235.06487991087184,good,inchoative,712,syntax,argument_structure,trigram10,-33.58069713012455,-34.176400701759164,TRUE
+every plate has n't looked like .,-34.176400701759164,-239.23480491231413,bad,inchoative,712,syntax,argument_structure,trigram10,-33.58069713012455,-34.176400701759164,TRUE
+every plate has n't tipped over .,-33.548921266778635,-234.84244886745046,good,inchoative,712,syntax,argument_structure,trigram2,-33.548921266778635,-34.02348242319112,TRUE
+every plate has n't looked like .,-34.02348242319112,-238.16437696233783,bad,inchoative,712,syntax,argument_structure,trigram2,-33.548921266778635,-34.02348242319112,TRUE
+every plate has n't tipped over .,-33.56845366616206,-234.9791756631344,good,inchoative,712,syntax,argument_structure,trigram3,-33.56845366616206,-34.104866166471126,TRUE
+every plate has n't looked like .,-34.104866166471126,-238.7340631652979,bad,inchoative,712,syntax,argument_structure,trigram3,-33.56845366616206,-34.104866166471126,TRUE
+every plate has n't tipped over .,-33.54980291672466,-234.8486204170726,good,inchoative,712,syntax,argument_structure,trigram4,-33.54980291672466,-34.10793014466873,TRUE
+every plate has n't looked like .,-34.10793014466873,-238.7555110126811,bad,inchoative,712,syntax,argument_structure,trigram4,-33.54980291672466,-34.10793014466873,TRUE
+every plate has n't tipped over .,-33.56845358250136,-234.97917507750955,good,inchoative,712,syntax,argument_structure,trigram5,-33.56845358250136,-34.10486608281043,TRUE
+every plate has n't looked like .,-34.10486608281043,-238.73406257967304,bad,inchoative,712,syntax,argument_structure,trigram5,-33.56845358250136,-34.10486608281043,TRUE
+every plate has n't tipped over .,-33.54540335986051,-234.81782351902353,good,inchoative,712,syntax,argument_structure,trigram6,-33.54540335986051,-33.99824978863798,TRUE
+every plate has n't looked like .,-33.99824978863798,-237.98774852046586,bad,inchoative,712,syntax,argument_structure,trigram6,-33.54540335986051,-33.99824978863798,TRUE
+every plate has n't tipped over .,-33.66845131275876,-235.67915918931132,good,inchoative,712,syntax,argument_structure,trigram7,-33.66845131275876,-34.05944639763965,TRUE
+every plate has n't looked like .,-34.05944639763965,-238.41612478347753,bad,inchoative,712,syntax,argument_structure,trigram7,-33.66845131275876,-34.05944639763965,TRUE
+every plate has n't tipped over .,-33.56138437953263,-234.9296906567284,good,inchoative,712,syntax,argument_structure,trigram8,-33.56138437953263,-34.0802798388897,TRUE
+every plate has n't looked like .,-34.0802798388897,-238.56195887222793,bad,inchoative,712,syntax,argument_structure,trigram8,-33.56138437953263,-34.0802798388897,TRUE
+every plate has n't tipped over .,-33.595506324416895,-235.16854427091826,good,inchoative,712,syntax,argument_structure,trigram9,-33.595506324416895,-34.15363355236097,TRUE
+every plate has n't looked like .,-34.15363355236097,-239.0754348665268,bad,inchoative,712,syntax,argument_structure,trigram9,-33.595506324416895,-34.15363355236097,TRUE
+Name will love .,-33.986669791907495,-135.94667916762998,bad,inchoative,752,syntax,argument_structure,trigram1,-33.736669791907495,-33.986669791907495,TRUE
+Name will wash .,-33.736669791907495,-134.94667916762998,good,inchoative,752,syntax,argument_structure,trigram1,-33.736669791907495,-33.986669791907495,TRUE
+Name will love .,-34.00658329096761,-136.02633316387045,bad,inchoative,752,syntax,argument_structure,trigram10,-34.00658329096761,-34.00658329096761,FALSE
+Name will wash .,-34.00658329096761,-136.02633316387045,good,inchoative,752,syntax,argument_structure,trigram10,-34.00658329096761,-34.00658329096761,FALSE
+Name will love .,-33.85518643674645,-135.4207457469858,bad,inchoative,752,syntax,argument_structure,trigram2,-33.60518643674645,-33.85518643674645,TRUE
+Name will wash .,-33.60518643674645,-134.4207457469858,good,inchoative,752,syntax,argument_structure,trigram2,-33.60518643674645,-33.85518643674645,TRUE
+Name will love .,-33.810098428463576,-135.2403937138543,bad,inchoative,752,syntax,argument_structure,trigram3,-33.810098428463576,-33.810098428463576,FALSE
+Name will wash .,-33.810098428463576,-135.2403937138543,good,inchoative,752,syntax,argument_structure,trigram3,-33.810098428463576,-33.810098428463576,FALSE
+Name will love .,-33.81316240666118,-135.2526496266447,bad,inchoative,752,syntax,argument_structure,trigram4,-33.41692178148089,-33.81316240666118,TRUE
+Name will wash .,-33.41692178148089,-133.66768712592355,good,inchoative,752,syntax,argument_structure,trigram4,-33.41692178148089,-33.81316240666118,TRUE
+Name will love .,-33.99433974334443,-135.97735897337773,bad,inchoative,752,syntax,argument_structure,trigram5,-33.59809911816414,-33.99433974334443,TRUE
+Name will wash .,-33.59809911816414,-134.39239647265657,good,inchoative,752,syntax,argument_structure,trigram5,-33.59809911816414,-33.99433974334443,TRUE
+Name will love .,-33.97128952070357,-135.88515808281429,bad,inchoative,752,syntax,argument_structure,trigram6,-33.72128952070357,-33.97128952070357,TRUE
+Name will wash .,-33.72128952070357,-134.88515808281429,good,inchoative,752,syntax,argument_structure,trigram6,-33.72128952070357,-33.97128952070357,TRUE
+Name will love .,-33.928726754885524,-135.7149070195421,bad,inchoative,752,syntax,argument_structure,trigram7,-33.928726754885524,-33.928726754885524,FALSE
+Name will wash .,-33.928726754885524,-135.7149070195421,good,inchoative,752,syntax,argument_structure,trigram7,-33.928726754885524,-33.928726754885524,FALSE
+Name will love .,-34.16198385244504,-136.64793540978016,bad,inchoative,752,syntax,argument_structure,trigram8,-33.91198385244504,-34.16198385244504,TRUE
+Name will wash .,-33.91198385244504,-135.64793540978016,good,inchoative,752,syntax,argument_structure,trigram8,-33.91198385244504,-34.16198385244504,TRUE
+Name will love .,-34.04310721289496,-136.17242885157984,bad,inchoative,752,syntax,argument_structure,trigram9,-33.79310721289496,-34.04310721289496,TRUE
+Name will wash .,-33.79310721289496,-135.17242885157984,good,inchoative,752,syntax,argument_structure,trigram9,-33.79310721289496,-34.04310721289496,TRUE
+every door did n't like .,-33.829255734606555,-202.97553440763934,bad,inchoative,757,syntax,argument_structure,trigram1,-34.04957708375445,-33.829255734606555,FALSE
+every door did n't open .,-34.04957708375445,-204.29746250252668,good,inchoative,757,syntax,argument_structure,trigram1,-34.04957708375445,-33.829255734606555,FALSE
+every door did n't like .,-34.13866349936104,-204.83198099616624,bad,inchoative,757,syntax,argument_structure,trigram10,-34.01583590033334,-34.13866349936104,TRUE
+every door did n't open .,-34.01583590033334,-204.09501540200006,good,inchoative,757,syntax,argument_structure,trigram10,-34.01583590033334,-34.13866349936104,TRUE
+every door did n't like .,-33.80153175426523,-202.80919052559136,bad,inchoative,757,syntax,argument_structure,trigram2,-33.80153175426523,-33.80153175426523,FALSE
+every door did n't open .,-33.80153175426523,-202.80919052559136,good,inchoative,757,syntax,argument_structure,trigram2,-33.80153175426523,-33.80153175426523,FALSE
+every door did n't like .,-33.89058045218541,-203.34348271311248,bad,inchoative,757,syntax,argument_structure,trigram3,-34.22391378551875,-33.89058045218541,FALSE
+every door did n't open .,-34.22391378551875,-205.34348271311248,good,inchoative,757,syntax,argument_structure,trigram3,-34.22391378551875,-33.89058045218541,FALSE
+every door did n't like .,-33.89364443038301,-203.3618665822981,bad,inchoative,757,syntax,argument_structure,trigram4,-33.83998974790179,-33.89364443038301,TRUE
+every door did n't open .,-33.83998974790179,-203.03993848741075,good,inchoative,757,syntax,argument_structure,trigram4,-33.83998974790179,-33.89364443038301,TRUE
+every door did n't like .,-33.890580368524716,-203.3434822111483,bad,inchoative,757,syntax,argument_structure,trigram5,-33.79308661840452,-33.890580368524716,TRUE
+every door did n't open .,-33.79308661840452,-202.75851971042715,good,inchoative,757,syntax,argument_structure,trigram5,-33.79308661840452,-33.890580368524716,TRUE
+every door did n't like .,-33.77003639576367,-202.620218374582,bad,inchoative,757,syntax,argument_structure,trigram6,-34.103369729097004,-33.77003639576367,FALSE
+every door did n't open .,-34.103369729097004,-204.620218374582,good,inchoative,757,syntax,argument_structure,trigram6,-34.103369729097004,-33.77003639576367,FALSE
+every door did n't like .,-33.83123300476533,-202.987398028592,bad,inchoative,757,syntax,argument_structure,trigram7,-34.041738739070965,-33.83123300476533,FALSE
+every door did n't open .,-34.041738739070965,-204.2504324344258,good,inchoative,757,syntax,argument_structure,trigram7,-34.041738739070965,-33.83123300476533,FALSE
+every door did n't like .,-34.02499583663048,-204.1499750197829,bad,inchoative,757,syntax,argument_structure,trigram8,-33.85832916996382,-34.02499583663048,TRUE
+every door did n't open .,-33.85832916996382,-203.1499750197829,good,inchoative,757,syntax,argument_structure,trigram8,-33.85832916996382,-34.02499583663048,TRUE
+every door did n't like .,-34.10601450474192,-204.63608702845153,bad,inchoative,757,syntax,argument_structure,trigram9,-34.00852075462173,-34.10601450474192,TRUE
+every door did n't open .,-34.00852075462173,-204.05112452773037,good,inchoative,757,syntax,argument_structure,trigram9,-34.00852075462173,-34.10601450474192,TRUE
+most mirrors had n't broken .,-33.35458958351406,-200.1275375010844,good,inchoative,762,syntax,argument_structure,trigram1,-33.35458958351406,-34.38291041708778,TRUE
+most mirrors had n't seen .,-34.38291041708778,-206.29746250252668,bad,inchoative,762,syntax,argument_structure,trigram1,-33.35458958351406,-34.38291041708778,TRUE
+most mirrors had n't broken .,-33.52816933057397,-201.1690159834438,good,inchoative,762,syntax,argument_structure,trigram10,-33.52816933057397,-34.4028239161479,TRUE
+most mirrors had n't seen .,-34.4028239161479,-206.4169434968874,bad,inchoative,762,syntax,argument_structure,trigram10,-33.52816933057397,-34.4028239161479,TRUE
+most mirrors had n't broken .,-33.26792611073695,-199.6075566644217,good,inchoative,762,syntax,argument_structure,trigram2,-33.26792611073695,-34.35518643674646,TRUE
+most mirrors had n't seen .,-34.35518643674646,-206.13111862047873,bad,inchoative,762,syntax,argument_structure,trigram2,-33.26792611073695,-34.35518643674646,TRUE
+most mirrors had n't broken .,-33.45975336873189,-200.75852021239132,good,inchoative,762,syntax,argument_structure,trigram3,-33.45975336873189,-34.39058045218541,TRUE
+most mirrors had n't seen .,-34.39058045218541,-206.34348271311248,bad,inchoative,762,syntax,argument_structure,trigram3,-33.45975336873189,-34.39058045218541,TRUE
+most mirrors had n't broken .,-33.560311097049684,-201.3618665822981,good,inchoative,762,syntax,argument_structure,trigram4,-33.560311097049684,-34.39364443038301,TRUE
+most mirrors had n't seen .,-34.39364443038301,-206.3618665822981,bad,inchoative,762,syntax,argument_structure,trigram4,-33.560311097049684,-34.39364443038301,TRUE
+most mirrors had n't broken .,-33.459753285071194,-200.75851971042715,good,inchoative,762,syntax,argument_structure,trigram5,-33.459753285071194,-34.390580368524716,TRUE
+most mirrors had n't seen .,-34.390580368524716,-206.3434822111483,bad,inchoative,762,syntax,argument_structure,trigram5,-33.459753285071194,-34.390580368524716,TRUE
+most mirrors had n't broken .,-33.26022078092141,-199.56132468552843,good,inchoative,762,syntax,argument_structure,trigram6,-33.26022078092141,-34.367530145883855,TRUE
+most mirrors had n't seen .,-34.367530145883855,-206.20518087530314,bad,inchoative,762,syntax,argument_structure,trigram6,-33.26022078092141,-34.367530145883855,TRUE
+most mirrors had n't broken .,-33.428726754885524,-200.57236052931316,good,inchoative,762,syntax,argument_structure,trigram7,-33.428726754885524,-34.428726754885524,TRUE
+most mirrors had n't seen .,-34.428726754885524,-206.57236052931316,bad,inchoative,762,syntax,argument_structure,trigram7,-33.428726754885524,-34.428726754885524,TRUE
+most mirrors had n't broken .,-33.43983551675092,-200.6390131005055,good,inchoative,762,syntax,argument_structure,trigram8,-33.43983551675092,-34.41198385244504,TRUE
+most mirrors had n't seen .,-34.41198385244504,-206.47190311467025,bad,inchoative,762,syntax,argument_structure,trigram8,-33.43983551675092,-34.41198385244504,TRUE
+most mirrors had n't broken .,-33.50852075462173,-201.05112452773037,good,inchoative,762,syntax,argument_structure,trigram9,-33.50852075462173,-34.43934783807526,TRUE
+most mirrors had n't seen .,-34.43934783807526,-206.63608702845153,bad,inchoative,762,syntax,argument_structure,trigram9,-33.50852075462173,-34.43934783807526,TRUE
+Name would fire .,-33.236669791907495,-132.94667916762998,bad,inchoative,77,syntax,argument_structure,trigram1,-33.632910417087786,-33.236669791907495,FALSE
+Name would wash .,-33.632910417087786,-134.53164166835114,good,inchoative,77,syntax,argument_structure,trigram1,-33.632910417087786,-33.236669791907495,FALSE
+Name would fire .,-33.36034266578733,-133.4413706631493,bad,inchoative,77,syntax,argument_structure,trigram10,-34.00658329096761,-33.36034266578733,FALSE
+Name would wash .,-34.00658329096761,-136.02633316387045,good,inchoative,77,syntax,argument_structure,trigram10,-34.00658329096761,-33.36034266578733,FALSE
+Name would fire .,-33.02470441302461,-132.09881765209843,bad,inchoative,77,syntax,argument_structure,trigram2,-33.52470441302461,-33.02470441302461,FALSE
+Name would wash .,-33.52470441302461,-134.09881765209843,good,inchoative,77,syntax,argument_structure,trigram2,-33.52470441302461,-33.02470441302461,FALSE
+Name would fire .,-33.060098428463576,-132.2403937138543,bad,inchoative,77,syntax,argument_structure,trigram3,-33.810098428463576,-33.060098428463576,FALSE
+Name would wash .,-33.810098428463576,-135.2403937138543,good,inchoative,77,syntax,argument_structure,trigram3,-33.810098428463576,-33.060098428463576,FALSE
+Name would fire .,-33.111323676146775,-132.4452947045871,bad,inchoative,77,syntax,argument_structure,trigram4,-33.41692178148089,-33.111323676146775,FALSE
+Name would wash .,-33.41692178148089,-133.66768712592355,good,inchoative,77,syntax,argument_structure,trigram4,-33.41692178148089,-33.111323676146775,FALSE
+Name would fire .,-33.49433974334443,-133.97735897337773,bad,inchoative,77,syntax,argument_structure,trigram5,-33.59809911816414,-33.49433974334443,FALSE
+Name would wash .,-33.59809911816414,-134.39239647265657,good,inchoative,77,syntax,argument_structure,trigram5,-33.59809911816414,-33.49433974334443,FALSE
+Name would fire .,-32.87321016500888,-131.4928406600355,bad,inchoative,77,syntax,argument_structure,trigram6,-33.41569141536946,-32.87321016500888,FALSE
+Name would wash .,-33.41569141536946,-133.66276566147783,good,inchoative,77,syntax,argument_structure,trigram6,-33.41569141536946,-32.87321016500888,FALSE
+Name would fire .,-33.05576348080311,-132.22305392321243,bad,inchoative,77,syntax,argument_structure,trigram7,-33.84824473116369,-33.05576348080311,FALSE
+Name would wash .,-33.84824473116369,-135.39297892465476,good,inchoative,77,syntax,argument_structure,trigram7,-33.84824473116369,-33.05576348080311,FALSE
+Name would fire .,-33.3315018287232,-133.3260073148928,bad,inchoative,77,syntax,argument_structure,trigram8,-33.66198385244504,-33.3315018287232,FALSE
+Name would wash .,-33.66198385244504,-134.64793540978016,good,inchoative,77,syntax,argument_structure,trigram8,-33.66198385244504,-33.3315018287232,FALSE
+Name would fire .,-33.21262518917312,-132.85050075669247,bad,inchoative,77,syntax,argument_structure,trigram9,-33.60886581435341,-33.21262518917312,FALSE
+Name would wash .,-33.60886581435341,-134.43546325741363,good,inchoative,77,syntax,argument_structure,trigram9,-33.60886581435341,-33.21262518917312,FALSE
+Name could hide away .,-33.58291041708778,-167.9145520854389,good,inchoative,809,syntax,argument_structure,trigram1,-33.58291041708778,-32.90618776818565,FALSE
+Name could see .,-32.90618776818565,-131.6247510727426,bad,inchoative,809,syntax,argument_structure,trigram1,-33.58291041708778,-32.90618776818565,FALSE
+Name could hide away .,-33.6028239161479,-168.0141195807395,good,inchoative,809,syntax,argument_structure,trigram10,-33.6028239161479,-32.97771398661263,FALSE
+Name could see .,-32.97771398661263,-131.9108559464505,bad,inchoative,809,syntax,argument_structure,trigram10,-33.6028239161479,-32.97771398661263,FALSE
+Name could hide away .,-33.49080081776898,-167.4540040888449,good,inchoative,809,syntax,argument_structure,trigram2,-33.49080081776898,-32.84959448348934,FALSE
+Name could see .,-32.84959448348934,-131.39837793395736,bad,inchoative,809,syntax,argument_structure,trigram2,-33.49080081776898,-32.84959448348934,FALSE
+Name could hide away .,-33.54099494949669,-167.70497474748348,good,inchoative,809,syntax,argument_structure,trigram3,-33.54099494949669,-32.828598573824515,FALSE
+Name could see .,-32.828598573824515,-131.31439429529806,bad,inchoative,809,syntax,argument_structure,trigram3,-33.54099494949669,-32.828598573824515,FALSE
+Name could hide away .,-33.559659430094555,-167.7982971504728,good,inchoative,809,syntax,argument_structure,trigram4,-33.559659430094555,-32.916921781480895,FALSE
+Name could see .,-32.916921781480895,-131.66768712592358,bad,inchoative,809,syntax,argument_structure,trigram4,-33.559659430094555,-32.916921781480895,FALSE
+Name could hide away .,-33.55659536823625,-167.78297684118127,good,inchoative,809,syntax,argument_structure,trigram5,-33.55659536823625,-32.86871465821213,FALSE
+Name could see .,-32.86871465821213,-131.4748586328485,bad,inchoative,809,syntax,argument_structure,trigram5,-33.55659536823625,-32.86871465821213,FALSE
+Name could hide away .,-33.50314452690639,-167.51572263453195,good,inchoative,809,syntax,argument_structure,trigram6,-33.50314452690639,-32.91569141536946,FALSE
+Name could see .,-32.91569141536946,-131.66276566147783,bad,inchoative,809,syntax,argument_structure,trigram6,-33.50314452690639,-32.91569141536946,FALSE
+Name could hide away .,-33.579141252196806,-167.89570626098404,good,inchoative,809,syntax,argument_structure,trigram7,-33.579141252196806,-32.95806599254506,FALSE
+Name could see .,-32.95806599254506,-131.83226397018024,bad,inchoative,809,syntax,argument_structure,trigram7,-33.579141252196806,-32.95806599254506,FALSE
+Name could hide away .,-33.520097528717585,-167.6004876435879,good,inchoative,809,syntax,argument_structure,trigram8,-33.520097528717585,-32.91198385244504,FALSE
+Name could see .,-32.91198385244504,-131.64793540978016,bad,inchoative,809,syntax,argument_structure,trigram8,-33.520097528717585,-32.91198385244504,FALSE
+Name could hide away .,-33.58976233538654,-167.94881167693268,good,inchoative,809,syntax,argument_structure,trigram9,-33.58976233538654,-32.96262518917312,FALSE
+Name could see .,-32.96262518917312,-131.85050075669247,bad,inchoative,809,syntax,argument_structure,trigram9,-33.58976233538654,-32.96262518917312,FALSE
+a bike did break .,-33.782910417087784,-168.9145520854389,good,inchoative,814,syntax,argument_structure,trigram1,-33.782910417087784,-33.91852479811031,TRUE
+a bike did like .,-33.91852479811031,-169.59262399055157,bad,inchoative,814,syntax,argument_structure,trigram1,-33.782910417087784,-33.91852479811031,TRUE
+a bike did break .,-33.84135293173638,-169.20676465868192,good,inchoative,814,syntax,argument_structure,trigram10,-33.84135293173638,-34.08583141600367,TRUE
+a bike did like .,-34.08583141600367,-170.42915708001834,bad,inchoative,814,syntax,argument_structure,trigram10,-33.84135293173638,-34.08583141600367,TRUE
+a bike did break .,-33.521201436457986,-167.60600718228994,good,inchoative,814,syntax,argument_structure,trigram2,-33.521201436457986,-33.69080081776898,TRUE
+a bike did like .,-33.69080081776898,-168.4540040888449,bad,inchoative,814,syntax,argument_structure,trigram2,-33.521201436457986,-33.69080081776898,TRUE
+a bike did break .,-33.590580452185414,-167.95290226092706,good,inchoative,814,syntax,argument_structure,trigram3,-33.590580452185414,-33.79058045218541,TRUE
+a bike did like .,-33.79058045218541,-168.95290226092706,bad,inchoative,814,syntax,argument_structure,trigram3,-33.590580452185414,-33.79058045218541,TRUE
+a bike did break .,-33.559659430094555,-167.7982971504728,good,inchoative,814,syntax,argument_structure,trigram4,-33.559659430094555,-33.79364443038302,TRUE
+a bike did like .,-33.79364443038302,-168.96822215191509,bad,inchoative,814,syntax,argument_structure,trigram4,-33.559659430094555,-33.79364443038302,TRUE
+a bike did break .,-33.59058036852472,-167.9529018426236,good,inchoative,814,syntax,argument_structure,trigram5,-33.59058036852472,-33.790580368524715,TRUE
+a bike did like .,-33.790580368524715,-168.9529018426236,bad,inchoative,814,syntax,argument_structure,trigram5,-33.59058036852472,-33.790580368524715,TRUE
+a bike did break .,-33.56753014588386,-167.8376507294193,good,inchoative,814,syntax,argument_structure,trigram6,-33.56753014588386,-33.65053764573963,TRUE
+a bike did like .,-33.65053764573963,-168.25268822869816,bad,inchoative,814,syntax,argument_structure,trigram6,-33.56753014588386,-33.65053764573963,TRUE
+a bike did break .,-33.867255770474,-169.33627885237001,good,inchoative,814,syntax,argument_structure,trigram7,-33.867255770474,-33.91173425474129,TRUE
+a bike did like .,-33.91173425474129,-169.55867127370647,bad,inchoative,814,syntax,argument_structure,trigram7,-33.867255770474,-33.91173425474129,TRUE
+a bike did break .,-33.577998852156576,-167.88999426078288,good,inchoative,814,syntax,argument_structure,trigram8,-33.577998852156576,-33.74759823346757,TRUE
+a bike did like .,-33.74759823346757,-168.73799116733784,bad,inchoative,814,syntax,argument_structure,trigram8,-33.577998852156576,-33.74759823346757,TRUE
+a bike did break .,-33.63934783807525,-168.19673919037626,good,inchoative,814,syntax,argument_structure,trigram9,-33.63934783807525,-33.839347838075255,TRUE
+a bike did like .,-33.839347838075255,-169.19673919037626,bad,inchoative,814,syntax,argument_structure,trigram9,-33.63934783807525,-33.839347838075255,TRUE
+windows break .,-33.382910417087786,-100.14873125126336,good,inchoative,818,syntax,argument_structure,trigram1,-33.382910417087786,-34.382910417087786,TRUE
+windows buy .,-34.382910417087786,-103.14873125126336,bad,inchoative,818,syntax,argument_structure,trigram1,-33.382910417087786,-34.382910417087786,TRUE
+windows break .,-33.4670389421287,-100.4011168263861,good,inchoative,818,syntax,argument_structure,trigram10,-33.4670389421287,-34.4028239161479,TRUE
+windows buy .,-34.4028239161479,-103.20847174844371,bad,inchoative,818,syntax,argument_structure,trigram10,-33.4670389421287,-34.4028239161479,TRUE
+windows break .,-33.29854476959901,-99.89563430879704,good,inchoative,818,syntax,argument_structure,trigram2,-33.29854476959901,-34.35518643674645,TRUE
+windows buy .,-34.35518643674645,-103.06555931023935,bad,inchoative,818,syntax,argument_structure,trigram2,-33.29854476959901,-34.35518643674645,TRUE
+windows break .,-33.39058045218541,-100.17174135655623,good,inchoative,818,syntax,argument_structure,trigram3,-33.39058045218541,-34.39058045218541,TRUE
+windows buy .,-34.39058045218541,-103.17174135655623,bad,inchoative,818,syntax,argument_structure,trigram3,-33.39058045218541,-34.39058045218541,TRUE
+windows break .,-33.33700276323558,-100.01100828970675,good,inchoative,818,syntax,argument_structure,trigram4,-33.33700276323558,-34.39364443038302,TRUE
+windows buy .,-34.39364443038302,-103.18093329114906,bad,inchoative,818,syntax,argument_structure,trigram4,-33.33700276323558,-34.39364443038302,TRUE
+windows break .,-33.390580368524716,-100.17174110557414,good,inchoative,818,syntax,argument_structure,trigram5,-33.390580368524716,-34.390580368524716,TRUE
+windows buy .,-34.390580368524716,-103.17174110557414,bad,inchoative,818,syntax,argument_structure,trigram5,-33.390580368524716,-34.390580368524716,TRUE
+windows break .,-33.36753014588386,-100.10259043765159,good,inchoative,818,syntax,argument_structure,trigram6,-33.36753014588386,-34.36753014588386,TRUE
+windows buy .,-34.36753014588386,-103.10259043765159,bad,inchoative,818,syntax,argument_structure,trigram6,-33.36753014588386,-34.36753014588386,TRUE
+windows break .,-33.492941780866325,-100.47882534259897,good,inchoative,818,syntax,argument_structure,trigram7,-33.492941780866325,-34.428726754885524,TRUE
+windows buy .,-34.428726754885524,-103.28618026465656,bad,inchoative,818,syntax,argument_structure,trigram7,-33.492941780866325,-34.428726754885524,TRUE
+windows break .,-33.3553421852976,-100.0660265558928,good,inchoative,818,syntax,argument_structure,trigram8,-33.3553421852976,-34.41198385244504,TRUE
+windows buy .,-34.41198385244504,-103.23595155733511,bad,inchoative,818,syntax,argument_structure,trigram8,-33.3553421852976,-34.41198385244504,TRUE
+windows break .,-33.43934783807525,-100.31804351422575,good,inchoative,818,syntax,argument_structure,trigram9,-33.43934783807525,-34.43934783807525,TRUE
+windows buy .,-34.43934783807525,-103.31804351422575,bad,inchoative,818,syntax,argument_structure,trigram9,-33.43934783807525,-34.43934783807525,TRUE
+that cart could slow .,-34.065917916943555,-170.32958958471778,good,inchoative,848,syntax,argument_structure,trigram1,-34.065917916943555,-34.382910417087786,TRUE
+that cart could find .,-34.382910417087786,-171.9145520854389,bad,inchoative,848,syntax,argument_structure,trigram1,-34.065917916943555,-34.382910417087786,TRUE
+that cart could slow .,-34.2028239161479,-171.0141195807395,good,inchoative,848,syntax,argument_structure,trigram10,-34.2028239161479,-34.4028239161479,TRUE
+that cart could find .,-34.4028239161479,-172.0141195807395,bad,inchoative,848,syntax,argument_structure,trigram10,-34.2028239161479,-34.4028239161479,TRUE
+that cart could slow .,-34.155186436746455,-170.77593218373227,good,inchoative,848,syntax,argument_structure,trigram2,-34.155186436746455,-34.35518643674645,TRUE
+that cart could find .,-34.35518643674645,-171.77593218373227,bad,inchoative,848,syntax,argument_structure,trigram2,-34.155186436746455,-34.35518643674645,TRUE
+that cart could slow .,-34.07358795204118,-170.3679397602059,good,inchoative,848,syntax,argument_structure,trigram3,-34.07358795204118,-34.39058045218541,TRUE
+that cart could find .,-34.39058045218541,-171.95290226092706,bad,inchoative,848,syntax,argument_structure,trigram3,-34.07358795204118,-34.39058045218541,TRUE
+that cart could slow .,-34.19364443038302,-170.96822215191509,good,inchoative,848,syntax,argument_structure,trigram4,-34.19364443038302,-34.39364443038302,TRUE
+that cart could find .,-34.39364443038302,-171.96822215191509,bad,inchoative,848,syntax,argument_structure,trigram4,-34.19364443038302,-34.39364443038302,TRUE
+that cart could slow .,-34.19058036852472,-170.9529018426236,good,inchoative,848,syntax,argument_structure,trigram5,-34.19058036852472,-34.390580368524716,TRUE
+that cart could find .,-34.390580368524716,-171.9529018426236,bad,inchoative,848,syntax,argument_structure,trigram5,-34.19058036852472,-34.390580368524716,TRUE
+that cart could slow .,-34.16753014588386,-170.8376507294193,good,inchoative,848,syntax,argument_structure,trigram6,-34.16753014588386,-34.36753014588386,TRUE
+that cart could find .,-34.36753014588386,-171.8376507294193,bad,inchoative,848,syntax,argument_structure,trigram6,-34.16753014588386,-34.36753014588386,TRUE
+that cart could slow .,-34.22872675488553,-171.14363377442763,good,inchoative,848,syntax,argument_structure,trigram7,-34.22872675488553,-34.428726754885524,TRUE
+that cart could find .,-34.428726754885524,-172.14363377442763,bad,inchoative,848,syntax,argument_structure,trigram7,-34.22872675488553,-34.428726754885524,TRUE
+that cart could slow .,-34.41198385244504,-172.0599192622252,good,inchoative,848,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+that cart could find .,-34.41198385244504,-172.0599192622252,bad,inchoative,848,syntax,argument_structure,trigram8,-34.41198385244504,-34.41198385244504,FALSE
+that cart could slow .,-34.239347838075254,-171.19673919037626,good,inchoative,848,syntax,argument_structure,trigram9,-34.239347838075254,-34.43934783807525,TRUE
+that cart could find .,-34.43934783807525,-172.19673919037626,bad,inchoative,848,syntax,argument_structure,trigram9,-34.239347838075254,-34.43934783807525,TRUE
+Name sounds like .,-33.55242839336594,-134.20971357346377,bad,inchoative,864,syntax,argument_structure,trigram1,-33.71624375042112,-33.55242839336594,FALSE
+Name hurts .,-33.71624375042112,-101.14873125126336,good,inchoative,864,syntax,argument_structure,trigram1,-33.71624375042112,-33.55242839336594,FALSE
+Name sounds like .,-34.00658329096761,-136.02633316387045,bad,inchoative,864,syntax,argument_structure,trigram10,-33.54116974924085,-34.00658329096761,TRUE
+Name hurts .,-33.54116974924085,-100.62350924772255,good,inchoative,864,syntax,argument_structure,trigram10,-33.54116974924085,-34.00658329096761,TRUE
+Name sounds like .,-33.77470441302461,-135.09881765209843,bad,inchoative,864,syntax,argument_structure,trigram2,-33.4935322698394,-33.77470441302461,TRUE
+Name hurts .,-33.4935322698394,-100.4805968095182,good,inchoative,864,syntax,argument_structure,trigram2,-33.4935322698394,-33.77470441302461,TRUE
+Name sounds like .,-33.64058045218541,-134.56232180874164,bad,inchoative,864,syntax,argument_structure,trigram3,-33.61660442055629,-33.64058045218541,TRUE
+Name hurts .,-33.61660442055629,-100.84981326166887,good,inchoative,864,syntax,argument_structure,trigram3,-33.61660442055629,-33.64058045218541,TRUE
+Name sounds like .,-33.64364443038302,-134.57457772153208,bad,inchoative,864,syntax,argument_structure,trigram4,-33.865323596809304,-33.64364443038302,FALSE
+Name hurts .,-33.865323596809304,-101.59597079042791,good,inchoative,864,syntax,argument_structure,trigram4,-33.865323596809304,-33.64364443038302,FALSE
+Name sounds like .,-33.890580368524716,-135.56232147409887,bad,inchoative,864,syntax,argument_structure,trigram5,-33.723913701858045,-33.890580368524716,TRUE
+Name hurts .,-33.723913701858045,-101.17174110557414,good,inchoative,864,syntax,argument_structure,trigram5,-33.723913701858045,-33.890580368524716,TRUE
+Name sounds like .,-33.47128952070357,-133.88515808281429,bad,inchoative,864,syntax,argument_structure,trigram6,-33.7008634792172,-33.47128952070357,FALSE
+Name hurts .,-33.7008634792172,-101.10259043765159,good,inchoative,864,syntax,argument_structure,trigram6,-33.7008634792172,-33.47128952070357,FALSE
+Name sounds like .,-33.532486129705234,-134.12994451882093,bad,inchoative,864,syntax,argument_structure,trigram7,-33.90040592131181,-33.532486129705234,FALSE
+Name hurts .,-33.90040592131181,-101.70121776393542,good,inchoative,864,syntax,argument_structure,trigram7,-33.90040592131181,-33.532486129705234,FALSE
+Name sounds like .,-33.8315018287232,-135.3260073148928,bad,inchoative,864,syntax,argument_structure,trigram8,-33.55032968553799,-33.8315018287232,TRUE
+Name hurts .,-33.55032968553799,-100.65098905661397,good,inchoative,864,syntax,argument_structure,trigram8,-33.55032968553799,-33.8315018287232,TRUE
+Name sounds like .,-33.68934783807525,-134.757391352301,bad,inchoative,864,syntax,argument_structure,trigram9,-33.66537180644613,-33.68934783807525,TRUE
+Name hurts .,-33.66537180644613,-100.9961154193384,good,inchoative,864,syntax,argument_structure,trigram9,-33.66537180644613,-33.68934783807525,TRUE
+this shirt was stretching .,-34.18291041708778,-170.9145520854389,good,inchoative,93,syntax,argument_structure,trigram1,-34.18291041708778,-33.995922401273226,FALSE
+this shirt was looking like .,-33.995922401273226,-203.97553440763934,bad,inchoative,93,syntax,argument_structure,trigram1,-34.18291041708778,-33.995922401273226,FALSE
+this shirt was stretching .,-34.08583141600367,-170.42915708001834,good,inchoative,93,syntax,argument_structure,trigram10,-34.08583141600367,-34.13866349936104,TRUE
+this shirt was looking like .,-34.13866349936104,-204.83198099616624,bad,inchoative,93,syntax,argument_structure,trigram10,-34.08583141600367,-34.13866349936104,TRUE
+this shirt was stretching .,-34.03819393660222,-170.1909696830111,good,inchoative,93,syntax,argument_structure,trigram2,-34.03819393660222,-33.96819842093189,FALSE
+this shirt was looking like .,-33.96819842093189,-203.80919052559136,bad,inchoative,93,syntax,argument_structure,trigram2,-34.03819393660222,-33.96819842093189,FALSE
+this shirt was stretching .,-34.07358795204118,-170.3679397602059,good,inchoative,93,syntax,argument_structure,trigram3,-34.07358795204118,-34.05724711885208,FALSE
+this shirt was looking like .,-34.05724711885208,-204.34348271311248,bad,inchoative,93,syntax,argument_structure,trigram3,-34.07358795204118,-34.05724711885208,FALSE
+this shirt was stretching .,-34.07665193023879,-170.38325965119395,good,inchoative,93,syntax,argument_structure,trigram4,-34.07665193023879,-34.060311097049684,FALSE
+this shirt was looking like .,-34.060311097049684,-204.3618665822981,bad,inchoative,93,syntax,argument_structure,trigram4,-34.07665193023879,-34.060311097049684,FALSE
+this shirt was stretching .,-34.19058036852472,-170.9529018426236,good,inchoative,93,syntax,argument_structure,trigram5,-34.19058036852472,-34.05724703519139,FALSE
+this shirt was looking like .,-34.05724703519139,-204.3434822111483,bad,inchoative,93,syntax,argument_structure,trigram5,-34.19058036852472,-34.05724703519139,FALSE
+this shirt was stretching .,-34.05053764573963,-170.25268822869816,good,inchoative,93,syntax,argument_structure,trigram6,-34.05053764573963,-33.93670306243033,FALSE
+this shirt was looking like .,-33.93670306243033,-203.620218374582,bad,inchoative,93,syntax,argument_structure,trigram6,-34.05053764573963,-33.93670306243033,FALSE
+this shirt was stretching .,-34.22872675488553,-171.14363377442763,good,inchoative,93,syntax,argument_structure,trigram7,-34.22872675488553,-33.997899671432,FALSE
+this shirt was looking like .,-33.997899671432,-203.987398028592,bad,inchoative,93,syntax,argument_structure,trigram7,-34.22872675488553,-33.997899671432,FALSE
+this shirt was stretching .,-34.09499135230081,-170.47495676150405,good,inchoative,93,syntax,argument_structure,trigram8,-34.09499135230081,-34.02499583663048,FALSE
+this shirt was looking like .,-34.02499583663048,-204.1499750197829,bad,inchoative,93,syntax,argument_structure,trigram8,-34.09499135230081,-34.02499583663048,FALSE
+this shirt was stretching .,-34.239347838075254,-171.19673919037626,good,inchoative,93,syntax,argument_structure,trigram9,-34.239347838075254,-34.10601450474192,FALSE
+this shirt was looking like .,-34.10601450474192,-204.63608702845153,bad,inchoative,93,syntax,argument_structure,trigram9,-34.239347838075254,-34.10601450474192,FALSE
+most glasses would break .,-33.782910417087784,-168.9145520854389,good,inchoative,975,syntax,argument_structure,trigram1,-33.782910417087784,-33.20153229796608,FALSE
+most glasses would see .,-33.20153229796608,-166.0076614898304,bad,inchoative,975,syntax,argument_structure,trigram1,-33.782910417087784,-33.20153229796608,FALSE
+most glasses would break .,-33.84135293173638,-169.20676465868192,good,inchoative,975,syntax,argument_structure,trigram10,-33.84135293173638,-33.26273597251968,FALSE
+most glasses would see .,-33.26273597251968,-166.3136798625984,bad,inchoative,975,syntax,argument_structure,trigram10,-33.84135293173638,-33.26273597251968,FALSE
+most glasses would break .,-33.72120143645799,-168.60600718228994,good,inchoative,975,syntax,argument_structure,trigram2,-33.72120143645799,-33.15071287414076,FALSE
+most glasses would see .,-33.15071287414076,-165.7535643707038,bad,inchoative,975,syntax,argument_structure,trigram2,-33.72120143645799,-33.15071287414076,FALSE
+most glasses would break .,-33.79058045218541,-168.95290226092706,good,inchoative,975,syntax,argument_structure,trigram3,-33.79058045218541,-33.140994949496694,FALSE
+most glasses would see .,-33.140994949496694,-165.70497474748348,bad,inchoative,975,syntax,argument_structure,trigram3,-33.79058045218541,-33.140994949496694,FALSE
+most glasses would break .,-33.75965943009456,-168.7982971504728,good,inchoative,975,syntax,argument_structure,trigram4,-33.75965943009456,-33.21226631126132,FALSE
+most glasses would see .,-33.21226631126132,-166.06133155630658,bad,inchoative,975,syntax,argument_structure,trigram4,-33.75965943009456,-33.21226631126132,FALSE
+most glasses would break .,-33.790580368524715,-168.9529018426236,good,inchoative,975,syntax,argument_structure,trigram5,-33.790580368524715,-33.173087800274644,FALSE
+most glasses would see .,-33.173087800274644,-165.86543900137323,bad,inchoative,975,syntax,argument_structure,trigram5,-33.790580368524715,-33.173087800274644,FALSE
+most glasses would break .,-33.76753014588386,-168.8376507294193,good,inchoative,975,syntax,argument_structure,trigram6,-33.76753014588386,-33.20605916147234,FALSE
+most glasses would see .,-33.20605916147234,-166.0302958073617,bad,inchoative,975,syntax,argument_structure,trigram6,-33.76753014588386,-33.20605916147234,FALSE
+most glasses would break .,-33.867255770474,-169.33627885237001,good,inchoative,975,syntax,argument_structure,trigram7,-33.867255770474,-33.25219814501315,FALSE
+most glasses would see .,-33.25219814501315,-166.26099072506577,bad,inchoative,975,syntax,argument_structure,trigram7,-33.867255770474,-33.25219814501315,FALSE
+most glasses would break .,-33.77799885215658,-168.88999426078288,good,inchoative,975,syntax,argument_structure,trigram8,-33.77799885215658,-33.211983852445044,FALSE
+most glasses would see .,-33.211983852445044,-166.0599192622252,bad,inchoative,975,syntax,argument_structure,trigram8,-33.77799885215658,-33.211983852445044,FALSE
+most glasses would break .,-33.839347838075255,-169.19673919037626,good,inchoative,975,syntax,argument_structure,trigram9,-33.839347838075255,-33.25796971895355,FALSE
+most glasses would see .,-33.25796971895355,-166.28984859476773,bad,inchoative,975,syntax,argument_structure,trigram9,-33.839347838075255,-33.25796971895355,FALSE

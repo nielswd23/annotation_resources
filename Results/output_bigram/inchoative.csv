@@ -1,0 +1,961 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+the cars roll .,-18.39888950605215,-91.99444753026076,good,inchoative,146,syntax,argument_structure,bigram1,-18.39888950605215,-18.382622036860788,FALSE
+the cars looked like .,-18.382622036860788,-110.29573222116473,bad,inchoative,146,syntax,argument_structure,bigram1,-18.39888950605215,-18.382622036860788,FALSE
+the cars roll .,-18.61340720316384,-93.0670360158192,good,inchoative,146,syntax,argument_structure,bigram10,-18.61340720316384,-18.74017215136647,TRUE
+the cars looked like .,-18.74017215136647,-112.4410329081988,bad,inchoative,146,syntax,argument_structure,bigram10,-18.61340720316384,-18.74017215136647,TRUE
+the cars roll .,-18.449608046917927,-92.24804023458964,good,inchoative,146,syntax,argument_structure,bigram2,-18.449608046917927,-18.422056431290446,FALSE
+the cars looked like .,-18.422056431290446,-110.53233858774267,bad,inchoative,146,syntax,argument_structure,bigram2,-18.449608046917927,-18.422056431290446,FALSE
+the cars roll .,-18.550322331806065,-92.75161165903033,good,inchoative,146,syntax,argument_structure,bigram3,-18.550322331806065,-18.78376144416848,TRUE
+the cars looked like .,-18.78376144416848,-112.70256866501086,bad,inchoative,146,syntax,argument_structure,bigram3,-18.550322331806065,-18.78376144416848,TRUE
+the cars roll .,-18.411034415488214,-92.05517207744107,good,inchoative,146,syntax,argument_structure,bigram4,-18.411034415488214,-18.44761020478693,TRUE
+the cars looked like .,-18.44761020478693,-110.68566122872157,bad,inchoative,146,syntax,argument_structure,bigram4,-18.411034415488214,-18.44761020478693,TRUE
+the cars roll .,-18.451113001737856,-92.25556500868927,good,inchoative,146,syntax,argument_structure,bigram5,-18.451113001737856,-18.60354781669023,TRUE
+the cars looked like .,-18.60354781669023,-111.62128690014138,bad,inchoative,146,syntax,argument_structure,bigram5,-18.451113001737856,-18.60354781669023,TRUE
+the cars roll .,-18.337953335837486,-91.68976667918743,good,inchoative,146,syntax,argument_structure,bigram6,-18.337953335837486,-18.34008869454843,TRUE
+the cars looked like .,-18.34008869454843,-110.04053216729059,bad,inchoative,146,syntax,argument_structure,bigram6,-18.337953335837486,-18.34008869454843,TRUE
+the cars roll .,-18.4848024401635,-92.42401220081749,good,inchoative,146,syntax,argument_structure,bigram7,-18.4848024401635,-18.538276149478268,TRUE
+the cars looked like .,-18.538276149478268,-111.22965689686961,bad,inchoative,146,syntax,argument_structure,bigram7,-18.4848024401635,-18.538276149478268,TRUE
+the cars roll .,-18.374565122575,-91.872825612875,good,inchoative,146,syntax,argument_structure,bigram8,-18.374565122575,-18.41930680121929,TRUE
+the cars looked like .,-18.41930680121929,-110.51584080731573,bad,inchoative,146,syntax,argument_structure,bigram8,-18.374565122575,-18.41930680121929,TRUE
+the cars roll .,-18.47139676968624,-92.35698384843118,good,inchoative,146,syntax,argument_structure,bigram9,-18.47139676968624,-18.5566267335676,TRUE
+the cars looked like .,-18.5566267335676,-111.33976040140561,bad,inchoative,146,syntax,argument_structure,bigram9,-18.47139676968624,-18.5566267335676,TRUE
+Name had scared .,-17.812552894640188,-89.06276447320094,bad,inchoative,156,syntax,argument_structure,bigram1,-17.41255289464019,-17.812552894640188,TRUE
+Name had hurt .,-17.41255289464019,-87.06276447320094,good,inchoative,156,syntax,argument_structure,bigram1,-17.41255289464019,-17.812552894640188,TRUE
+Name had scared .,-17.973335823632585,-89.86667911816292,bad,inchoative,156,syntax,argument_structure,bigram10,-17.256343323488352,-17.973335823632585,TRUE
+Name had hurt .,-17.256343323488352,-86.28171661744176,good,inchoative,156,syntax,argument_structure,bigram10,-17.256343323488352,-17.973335823632585,TRUE
+Name had scared .,-17.761778055838796,-88.80889027919399,bad,inchoative,156,syntax,argument_structure,bigram2,-17.097392436861323,-17.761778055838796,TRUE
+Name had hurt .,-17.097392436861323,-85.48696218430662,good,inchoative,156,syntax,argument_structure,bigram2,-17.097392436861323,-17.761778055838796,TRUE
+Name had scared .,-17.85724615481237,-89.28623077406185,bad,inchoative,156,syntax,argument_structure,bigram3,-17.34025365466814,-17.85724615481237,TRUE
+Name had hurt .,-17.34025365466814,-86.7012682733407,good,inchoative,156,syntax,argument_structure,bigram3,-17.34025365466814,-17.85724615481237,TRUE
+Name had scared .,-17.993252681680442,-89.96626340840221,bad,inchoative,156,syntax,argument_structure,bigram4,-17.328867062702972,-17.993252681680442,TRUE
+Name had hurt .,-17.328867062702972,-86.64433531351486,good,inchoative,156,syntax,argument_structure,bigram4,-17.328867062702972,-17.993252681680442,TRUE
+Name had scared .,-17.76919501485002,-88.8459750742501,bad,inchoative,156,syntax,argument_structure,bigram5,-17.0291070712218,-17.76919501485002,TRUE
+Name had hurt .,-17.0291070712218,-85.14553535610901,good,inchoative,156,syntax,argument_structure,bigram5,-17.0291070712218,-17.76919501485002,TRUE
+Name had scared .,-17.892189597738312,-89.46094798869156,bad,inchoative,156,syntax,argument_structure,bigram6,-17.29218959773831,-17.892189597738312,TRUE
+Name had hurt .,-17.29218959773831,-86.46094798869156,good,inchoative,156,syntax,argument_structure,bigram6,-17.29218959773831,-17.892189597738312,TRUE
+Name had scared .,-17.902295008413567,-89.51147504206783,bad,inchoative,156,syntax,argument_structure,bigram7,-17.302295008413566,-17.902295008413567,TRUE
+Name had hurt .,-17.302295008413566,-86.51147504206783,good,inchoative,156,syntax,argument_structure,bigram7,-17.302295008413566,-17.902295008413567,TRUE
+Name had scared .,-17.88037354817133,-89.40186774085666,bad,inchoative,156,syntax,argument_structure,bigram8,-17.246388547882873,-17.88037354817133,TRUE
+Name had hurt .,-17.246388547882873,-86.23194273941436,good,inchoative,156,syntax,argument_structure,bigram8,-17.246388547882873,-17.88037354817133,TRUE
+Name had scared .,-17.878690031391464,-89.39345015695733,bad,inchoative,156,syntax,argument_structure,bigram9,-17.138602087763246,-17.878690031391464,TRUE
+Name had hurt .,-17.138602087763246,-85.69301043881623,good,inchoative,156,syntax,argument_structure,bigram9,-17.138602087763246,-17.878690031391464,TRUE
+some banana was growing .,-19.74731815452721,-118.48390892716326,good,inchoative,174,syntax,argument_structure,bigram1,-19.74731815452721,-19.74731815452721,FALSE
+some banana was buying .,-19.74731815452721,-118.48390892716326,bad,inchoative,174,syntax,argument_structure,bigram1,-19.74731815452721,-19.74731815452721,FALSE
+some banana was growing .,-19.761602852376704,-118.56961711426023,good,inchoative,174,syntax,argument_structure,bigram10,-19.761602852376704,-19.761602852376704,FALSE
+some banana was buying .,-19.761602852376704,-118.56961711426023,bad,inchoative,174,syntax,argument_structure,bigram10,-19.761602852376704,-19.761602852376704,FALSE
+some banana was growing .,-19.54326846428417,-117.25961078570505,good,inchoative,174,syntax,argument_structure,bigram2,-19.54326846428417,-19.709935130950843,TRUE
+some banana was buying .,-19.709935130950843,-118.25961078570505,bad,inchoative,174,syntax,argument_structure,bigram2,-19.54326846428417,-19.709935130950843,TRUE
+some banana was growing .,-19.547921860955334,-117.28753116573202,good,inchoative,174,syntax,argument_structure,bigram3,-19.547921860955334,-19.714588527622,TRUE
+some banana was buying .,-19.714588527622,-118.28753116573202,bad,inchoative,174,syntax,argument_structure,bigram3,-19.547921860955334,-19.714588527622,TRUE
+some banana was growing .,-19.679117253244577,-118.07470351946746,good,inchoative,174,syntax,argument_structure,bigram4,-19.679117253244577,-19.845783919911245,TRUE
+some banana was buying .,-19.845783919911245,-119.07470351946746,bad,inchoative,174,syntax,argument_structure,bigram4,-19.679117253244577,-19.845783919911245,TRUE
+some banana was growing .,-19.82806748391501,-118.96840490349005,good,inchoative,174,syntax,argument_structure,bigram5,-19.82806748391501,-19.82806748391501,FALSE
+some banana was buying .,-19.82806748391501,-118.96840490349005,bad,inchoative,174,syntax,argument_structure,bigram5,-19.82806748391501,-19.82806748391501,FALSE
+some banana was growing .,-19.709974199282517,-118.25984519569508,good,inchoative,174,syntax,argument_structure,bigram6,-19.709974199282517,-19.709974199282517,FALSE
+some banana was buying .,-19.709974199282517,-118.25984519569508,bad,inchoative,174,syntax,argument_structure,bigram6,-19.709974199282517,-19.709974199282517,FALSE
+some banana was growing .,-19.645935004579982,-117.87561002747992,good,inchoative,174,syntax,argument_structure,bigram7,-19.645935004579982,-19.812601671246654,TRUE
+some banana was buying .,-19.812601671246654,-118.87561002747992,bad,inchoative,174,syntax,argument_structure,bigram7,-19.645935004579982,-19.812601671246654,TRUE
+some banana was growing .,-19.68631280356597,-118.11787682139581,good,inchoative,174,syntax,argument_structure,bigram8,-19.68631280356597,-19.85297947023264,TRUE
+some banana was buying .,-19.85297947023264,-119.11787682139581,bad,inchoative,174,syntax,argument_structure,bigram8,-19.68631280356597,-19.85297947023264,TRUE
+some banana was growing .,-19.722134606793976,-118.33280764076385,good,inchoative,174,syntax,argument_structure,bigram9,-19.722134606793976,-19.88880127346064,TRUE
+some banana was buying .,-19.88880127346064,-119.33280764076385,bad,inchoative,174,syntax,argument_structure,bigram9,-19.722134606793976,-19.88880127346064,TRUE
+Name will n't sound like .,-17.589046214210324,-123.12332349947228,bad,inchoative,182,syntax,argument_structure,bigram1,-16.81843493719432,-17.589046214210324,TRUE
+Name will n't wake up .,-16.81843493719432,-117.72904456036022,good,inchoative,182,syntax,argument_structure,bigram1,-16.81843493719432,-17.589046214210324,TRUE
+Name will n't sound like .,-17.83333045562821,-124.83331318939747,bad,inchoative,182,syntax,argument_structure,bigram10,-16.903645507028394,-17.83333045562821,TRUE
+Name will n't wake up .,-16.903645507028394,-118.32551854919876,good,inchoative,182,syntax,argument_structure,bigram10,-16.903645507028394,-17.83333045562821,TRUE
+Name will n't sound like .,-17.63799816237699,-123.46598713663894,bad,inchoative,182,syntax,argument_structure,bigram2,-16.646210375899958,-17.63799816237699,TRUE
+Name will n't wake up .,-16.646210375899958,-116.52347263129971,good,inchoative,182,syntax,argument_structure,bigram2,-16.646210375899958,-17.63799816237699,TRUE
+Name will n't sound like .,-17.570835995936022,-122.99585197155216,bad,inchoative,182,syntax,argument_structure,bigram3,-16.819780589837073,-17.570835995936022,TRUE
+Name will n't wake up .,-16.819780589837073,-117.7384641288595,good,inchoative,182,syntax,argument_structure,bigram3,-16.819780589837073,-17.570835995936022,TRUE
+Name will n't sound like .,-17.636419105143542,-123.45493373600479,bad,inchoative,182,syntax,argument_structure,bigram4,-16.857674660596068,-17.636419105143542,TRUE
+Name will n't wake up .,-16.857674660596068,-118.00372262417247,good,inchoative,182,syntax,argument_structure,bigram4,-16.857674660596068,-17.636419105143542,TRUE
+Name will n't sound like .,-17.600650542434533,-123.20455379704174,bad,inchoative,182,syntax,argument_structure,bigram5,-16.739872370154472,-17.600650542434533,TRUE
+Name will n't wake up .,-16.739872370154472,-117.17910659108131,good,inchoative,182,syntax,argument_structure,bigram5,-16.739872370154472,-17.600650542434533,TRUE
+Name will n't sound like .,-17.69849435292735,-123.88946047049146,bad,inchoative,182,syntax,argument_structure,bigram6,-16.811739277363607,-17.69849435292735,TRUE
+Name will n't wake up .,-16.811739277363607,-117.68217494154524,good,inchoative,182,syntax,argument_structure,bigram6,-16.811739277363607,-17.69849435292735,TRUE
+Name will n't sound like .,-17.638133657533043,-123.4669356027313,bad,inchoative,182,syntax,argument_structure,bigram7,-16.767488286278144,-17.638133657533043,TRUE
+Name will n't wake up .,-16.767488286278144,-117.372418003947,good,inchoative,182,syntax,argument_structure,bigram7,-16.767488286278144,-17.638133657533043,TRUE
+Name will n't sound like .,-17.722648787094073,-124.05854150965851,bad,inchoative,182,syntax,argument_structure,bigram8,-16.917209667496827,-17.722648787094073,TRUE
+Name will n't wake up .,-16.917209667496827,-118.4204676724778,good,inchoative,182,syntax,argument_structure,bigram8,-16.917209667496827,-17.722648787094073,TRUE
+Name will n't sound like .,-17.66843150996523,-123.67902056975662,bad,inchoative,182,syntax,argument_structure,bigram9,-16.94745710185766,-17.66843150996523,TRUE
+Name will n't wake up .,-16.94745710185766,-118.63219971300362,good,inchoative,182,syntax,argument_structure,bigram9,-16.94745710185766,-17.66843150996523,TRUE
+these gloves like .,-18.61586728556945,-93.07933642784725,bad,inchoative,184,syntax,argument_structure,bigram1,-19.080252904546924,-18.61586728556945,FALSE
+these gloves twist .,-19.080252904546924,-95.40126452273462,good,inchoative,184,syntax,argument_structure,bigram1,-19.080252904546924,-18.61586728556945,FALSE
+these gloves like .,-18.981667653960024,-94.90833826980013,bad,inchoative,184,syntax,argument_structure,bigram10,-19.298660154104255,-18.981667653960024,FALSE
+these gloves twist .,-19.298660154104255,-96.49330077052129,good,inchoative,184,syntax,argument_structure,bigram10,-19.298660154104255,-18.981667653960024,FALSE
+these gloves like .,-18.718898129722213,-93.59449064861106,bad,inchoative,184,syntax,argument_structure,bigram2,-19.183283748699687,-18.718898129722213,FALSE
+these gloves twist .,-19.183283748699687,-95.91641874349843,good,inchoative,184,syntax,argument_structure,bigram2,-19.183283748699687,-18.718898129722213,FALSE
+these gloves like .,-18.714722671410467,-93.57361335705234,bad,inchoative,184,syntax,argument_structure,bigram3,-19.11472267141047,-18.714722671410467,FALSE
+these gloves twist .,-19.11472267141047,-95.57361335705234,good,inchoative,184,syntax,argument_structure,bigram3,-19.11472267141047,-18.714722671410467,FALSE
+these gloves like .,-18.93132454019016,-94.65662270095079,bad,inchoative,184,syntax,argument_structure,bigram4,-19.33132454019016,-18.93132454019016,FALSE
+these gloves twist .,-19.33132454019016,-96.65662270095079,good,inchoative,184,syntax,argument_structure,bigram4,-19.33132454019016,-18.93132454019016,FALSE
+these gloves like .,-18.778437925846585,-93.89218962923293,bad,inchoative,184,syntax,argument_structure,bigram5,-19.178437925846588,-18.778437925846585,FALSE
+these gloves twist .,-19.178437925846588,-95.89218962923293,good,inchoative,184,syntax,argument_structure,bigram5,-19.178437925846588,-18.778437925846585,FALSE
+these gloves like .,-18.632277541366527,-93.16138770683264,bad,inchoative,184,syntax,argument_structure,bigram6,-19.14927004151076,-18.632277541366527,FALSE
+these gloves twist .,-19.14927004151076,-95.7463502075538,good,inchoative,184,syntax,argument_structure,bigram6,-19.14927004151076,-18.632277541366527,FALSE
+these gloves like .,-18.637909389436096,-93.18954694718047,bad,inchoative,184,syntax,argument_structure,bigram7,-19.154901889580323,-18.637909389436096,FALSE
+these gloves twist .,-19.154901889580323,-95.77450944790162,good,inchoative,184,syntax,argument_structure,bigram7,-19.154901889580323,-18.637909389436096,FALSE
+these gloves like .,-18.704576628363604,-93.52288314181803,bad,inchoative,184,syntax,argument_structure,bigram8,-19.16896224734108,-18.704576628363604,FALSE
+these gloves twist .,-19.16896224734108,-95.8448112367054,good,inchoative,184,syntax,argument_structure,bigram8,-19.16896224734108,-18.704576628363604,FALSE
+these gloves like .,-18.73624739925296,-93.68123699626479,bad,inchoative,184,syntax,argument_structure,bigram9,-19.13624739925296,-18.73624739925296,FALSE
+these gloves twist .,-19.13624739925296,-95.68123699626479,good,inchoative,184,syntax,argument_structure,bigram9,-19.13624739925296,-18.73624739925296,FALSE
+Name sits down .,-17.178567894351726,-85.89283947175863,good,inchoative,185,syntax,argument_structure,bigram1,-17.178567894351726,-17.812552894640188,TRUE
+Name works with .,-17.812552894640188,-89.06276447320094,bad,inchoative,185,syntax,argument_structure,bigram1,-17.178567894351726,-17.812552894640188,TRUE
+Name sits down .,-17.29948906169944,-86.4974453084972,good,inchoative,185,syntax,argument_structure,bigram10,-17.29948906169944,-17.890328323776817,TRUE
+Name works with .,-17.890328323776817,-89.45164161888408,bad,inchoative,185,syntax,argument_structure,bigram10,-17.29948906169944,-17.890328323776817,TRUE
+Name sits down .,-17.200307071427275,-86.00153535713638,good,inchoative,185,syntax,argument_structure,bigram2,-17.200307071427275,-17.844785555694564,TRUE
+Name works with .,-17.844785555694564,-89.22392777847283,bad,inchoative,185,syntax,argument_structure,bigram2,-17.200307071427275,-17.844785555694564,TRUE
+Name sits down .,-17.192860535834896,-85.96430267917448,good,inchoative,185,syntax,argument_structure,bigram3,-17.192860535834896,-17.909853035979125,TRUE
+Name works with .,-17.909853035979125,-89.54926517989563,bad,inchoative,185,syntax,argument_structure,bigram3,-17.192860535834896,-17.909853035979125,TRUE
+Name sits down .,-17.306660800225224,-86.53330400112611,good,inchoative,185,syntax,argument_structure,bigram4,-17.306660800225224,-17.857638300657918,TRUE
+Name works with .,-17.857638300657918,-89.28819150328958,bad,inchoative,185,syntax,argument_structure,bigram4,-17.306660800225224,-17.857638300657918,TRUE
+Name sits down .,-17.183047547337445,-85.91523773668722,good,inchoative,185,syntax,argument_structure,bigram5,-17.183047547337445,-18.05220251470579,TRUE
+Name works with .,-18.05220251470579,-90.26101257352894,bad,inchoative,185,syntax,argument_structure,bigram5,-17.183047547337445,-18.05220251470579,TRUE
+Name sits down .,-17.2862401290595,-86.4312006452975,good,inchoative,185,syntax,argument_structure,bigram6,-17.2862401290595,-17.77519709759408,TRUE
+Name works with .,-17.77519709759408,-88.8759854879704,bad,inchoative,185,syntax,argument_structure,bigram6,-17.2862401290595,-17.77519709759408,TRUE
+Name sits down .,-17.385302508269337,-86.92651254134668,good,inchoative,185,syntax,argument_structure,bigram7,-17.385302508269337,-17.985302508269335,TRUE
+Name works with .,-17.985302508269335,-89.92651254134668,bad,inchoative,185,syntax,argument_structure,bigram7,-17.385302508269337,-17.985302508269335,TRUE
+Name sits down .,-17.192892485709876,-85.96446242854938,good,inchoative,185,syntax,argument_structure,bigram8,-17.192892485709876,-17.932980429338095,TRUE
+Name works with .,-17.932980429338095,-89.66490214669048,bad,inchoative,185,syntax,argument_structure,bigram8,-17.192892485709876,-17.932980429338095,TRUE
+Name sits down .,-17.24016101580299,-86.20080507901494,good,inchoative,185,syntax,argument_structure,bigram9,-17.24016101580299,-17.840161015802988,TRUE
+Name works with .,-17.840161015802988,-89.20080507901494,bad,inchoative,185,syntax,argument_structure,bigram9,-17.24016101580299,-17.840161015802988,TRUE
+this window had opened .,-19.453062363466717,-116.71837418080028,good,inchoative,189,syntax,argument_structure,bigram1,-19.453062363466717,-19.61972903013338,TRUE
+this window had found .,-19.61972903013338,-117.71837418080028,bad,inchoative,189,syntax,argument_structure,bigram1,-19.453062363466717,-19.61972903013338,TRUE
+this window had opened .,-19.451798862870152,-116.71079317722092,good,inchoative,189,syntax,argument_structure,bigram10,-19.451798862870152,-19.61846552953682,TRUE
+this window had found .,-19.61846552953682,-117.71079317722092,bad,inchoative,189,syntax,argument_structure,bigram10,-19.451798862870152,-19.61846552953682,TRUE
+this window had opened .,-19.40707914047581,-116.44247484285485,good,inchoative,189,syntax,argument_structure,bigram2,-19.40707914047581,-19.57374580714248,TRUE
+this window had found .,-19.57374580714248,-117.44247484285485,bad,inchoative,189,syntax,argument_structure,bigram2,-19.40707914047581,-19.57374580714248,TRUE
+this window had opened .,-19.46546107899708,-116.79276647398245,good,inchoative,189,syntax,argument_structure,bigram3,-19.46546107899708,-19.63212774566374,TRUE
+this window had found .,-19.63212774566374,-117.79276647398245,bad,inchoative,189,syntax,argument_structure,bigram3,-19.46546107899708,-19.63212774566374,TRUE
+this window had opened .,-19.463420069177165,-116.780520415063,good,inchoative,189,syntax,argument_structure,bigram4,-19.463420069177165,-19.630086735843832,TRUE
+this window had found .,-19.630086735843832,-117.780520415063,bad,inchoative,189,syntax,argument_structure,bigram4,-19.463420069177165,-19.630086735843832,TRUE
+this window had opened .,-19.45688933249069,-116.74133599494414,good,inchoative,189,syntax,argument_structure,bigram5,-19.45688933249069,-19.62355599915736,TRUE
+this window had found .,-19.62355599915736,-117.74133599494414,bad,inchoative,189,syntax,argument_structure,bigram5,-19.45688933249069,-19.62355599915736,TRUE
+this window had opened .,-19.43074456662528,-116.5844673997517,good,inchoative,189,syntax,argument_structure,bigram6,-19.43074456662528,-19.59741123329195,TRUE
+this window had found .,-19.59741123329195,-117.5844673997517,bad,inchoative,189,syntax,argument_structure,bigram6,-19.43074456662528,-19.59741123329195,TRUE
+this window had opened .,-19.48591712576724,-116.91550275460344,good,inchoative,189,syntax,argument_structure,bigram7,-19.48591712576724,-19.652583792433905,TRUE
+this window had found .,-19.652583792433905,-117.91550275460344,bad,inchoative,189,syntax,argument_structure,bigram7,-19.48591712576724,-19.652583792433905,TRUE
+this window had opened .,-19.644389675733308,-117.86633805439985,good,inchoative,189,syntax,argument_structure,bigram8,-19.644389675733308,-19.644389675733308,FALSE
+this window had found .,-19.644389675733308,-117.86633805439985,bad,inchoative,189,syntax,argument_structure,bigram8,-19.644389675733308,-19.644389675733308,FALSE
+this window had opened .,-19.48399405699333,-116.90396434195998,good,inchoative,189,syntax,argument_structure,bigram9,-19.48399405699333,-19.65066072366,TRUE
+this window had found .,-19.65066072366,-117.90396434195998,bad,inchoative,189,syntax,argument_structure,bigram9,-19.48399405699333,-19.65066072366,TRUE
+these feet have bought .,-19.891067567235552,-119.34640540341331,bad,inchoative,209,syntax,argument_structure,bigram1,-19.724400900568885,-19.891067567235552,TRUE
+these feet have cracked .,-19.724400900568885,-118.34640540341331,good,inchoative,209,syntax,argument_structure,bigram1,-19.724400900568885,-19.891067567235552,TRUE
+these feet have bought .,-19.90871002727034,-119.45226016362206,bad,inchoative,209,syntax,argument_structure,bigram10,-19.74204336060368,-19.90871002727034,TRUE
+these feet have cracked .,-19.74204336060368,-118.45226016362206,good,inchoative,209,syntax,argument_structure,bigram10,-19.74204336060368,-19.90871002727034,TRUE
+these feet have bought .,-19.9740955477377,-119.8445732864262,bad,inchoative,209,syntax,argument_structure,bigram2,-19.807428881071036,-19.9740955477377,TRUE
+these feet have cracked .,-19.807428881071036,-118.8445732864262,good,inchoative,209,syntax,argument_structure,bigram2,-19.807428881071036,-19.9740955477377,TRUE
+these feet have bought .,-19.92076172717215,-119.5245703630329,bad,inchoative,209,syntax,argument_structure,bigram3,-19.75409506050548,-19.92076172717215,TRUE
+these feet have cracked .,-19.75409506050548,-118.5245703630329,good,inchoative,209,syntax,argument_structure,bigram3,-19.75409506050548,-19.92076172717215,TRUE
+these feet have bought .,-19.93483999118644,-119.60903994711865,bad,inchoative,209,syntax,argument_structure,bigram4,-19.768173324519772,-19.93483999118644,TRUE
+these feet have cracked .,-19.768173324519772,-118.60903994711865,good,inchoative,209,syntax,argument_structure,bigram4,-19.768173324519772,-19.93483999118644,TRUE
+these feet have bought .,-19.973812336901037,-119.8428740214062,bad,inchoative,209,syntax,argument_structure,bigram5,-19.80714567023437,-19.973812336901037,TRUE
+these feet have cracked .,-19.80714567023437,-118.8428740214062,good,inchoative,209,syntax,argument_structure,bigram5,-19.80714567023437,-19.973812336901037,TRUE
+these feet have bought .,-19.94701303272969,-119.68207819637813,bad,inchoative,209,syntax,argument_structure,bigram6,-19.94701303272969,-19.94701303272969,FALSE
+these feet have cracked .,-19.94701303272969,-119.68207819637813,good,inchoative,209,syntax,argument_structure,bigram6,-19.94701303272969,-19.94701303272969,FALSE
+these feet have bought .,-19.95834652423268,-119.75007914539609,bad,inchoative,209,syntax,argument_structure,bigram7,-19.791679857566013,-19.95834652423268,TRUE
+these feet have cracked .,-19.791679857566013,-118.75007914539609,good,inchoative,209,syntax,argument_structure,bigram7,-19.791679857566013,-19.95834652423268,TRUE
+these feet have bought .,-19.968292421005582,-119.80975452603349,bad,inchoative,209,syntax,argument_structure,bigram8,-19.801625754338914,-19.968292421005582,TRUE
+these feet have cracked .,-19.801625754338914,-118.80975452603349,good,inchoative,209,syntax,argument_structure,bigram8,-19.801625754338914,-19.968292421005582,TRUE
+these feet have bought .,-19.94400225820653,-119.66401354923921,bad,inchoative,209,syntax,argument_structure,bigram9,-19.77733559153987,-19.94400225820653,TRUE
+these feet have cracked .,-19.77733559153987,-118.66401354923921,good,inchoative,209,syntax,argument_structure,bigram9,-19.77733559153987,-19.94400225820653,TRUE
+Name did n't kiss .,-16.99210381972974,-101.95262291837844,bad,inchoative,23,syntax,argument_structure,bigram1,-15.960115932960122,-16.99210381972974,TRUE
+Name did n't sit down .,-15.960115932960122,-111.72081153072085,good,inchoative,23,syntax,argument_structure,bigram1,-15.960115932960122,-16.99210381972974,TRUE
+Name did n't kiss .,-17.138547512400805,-102.83128507440483,bad,inchoative,23,syntax,argument_structure,bigram10,-16.178726522342508,-17.138547512400805,TRUE
+Name did n't sit down .,-16.178726522342508,-113.25108565639756,good,inchoative,23,syntax,argument_structure,bigram10,-16.178726522342508,-17.138547512400805,TRUE
+Name did n't kiss .,-16.97301093624987,-101.83806561749923,bad,inchoative,23,syntax,argument_structure,bigram2,-15.951379602854589,-16.97301093624987,TRUE
+Name did n't sit down .,-15.951379602854589,-111.65965721998211,good,inchoative,23,syntax,argument_structure,bigram2,-15.951379602854589,-16.97301093624987,TRUE
+Name did n't kiss .,-16.984005404955294,-101.90403242973176,bad,inchoative,23,syntax,argument_structure,bigram3,-16.138688416657693,-16.984005404955294,TRUE
+Name did n't sit down .,-16.138688416657693,-112.97081891660386,good,inchoative,23,syntax,argument_structure,bigram3,-16.138688416657693,-16.984005404955294,TRUE
+Name did n't kiss .,-17.34334632368549,-104.06007794211295,bad,inchoative,23,syntax,argument_structure,bigram4,-16.161189238453197,-17.34334632368549,TRUE
+Name did n't sit down .,-16.161189238453197,-113.12832466917239,good,inchoative,23,syntax,argument_structure,bigram4,-16.161189238453197,-17.34334632368549,TRUE
+Name did n't kiss .,-17.199380318885922,-103.19628191331553,bad,inchoative,23,syntax,argument_structure,bigram5,-16.149471995211943,-17.199380318885922,TRUE
+Name did n't sit down .,-16.149471995211943,-113.04630396648359,good,inchoative,23,syntax,argument_structure,bigram5,-16.149471995211943,-17.199380318885922,TRUE
+Name did n't kiss .,-17.143999229474655,-102.86399537684794,bad,inchoative,23,syntax,argument_structure,bigram6,-16.28786978858782,-17.143999229474655,TRUE
+Name did n't sit down .,-16.28786978858782,-114.01508852011474,good,inchoative,23,syntax,argument_structure,bigram6,-16.28786978858782,-17.143999229474655,TRUE
+Name did n't kiss .,-17.134227847392097,-102.80536708435258,bad,inchoative,23,syntax,argument_structure,bigram7,-16.212659307006426,-17.134227847392097,TRUE
+Name did n't sit down .,-16.212659307006426,-113.48861514904499,good,inchoative,23,syntax,argument_structure,bigram7,-16.212659307006426,-17.134227847392097,TRUE
+Name did n't kiss .,-17.03730884605712,-102.22385307634272,bad,inchoative,23,syntax,argument_structure,bigram8,-16.07672456179468,-17.03730884605712,TRUE
+Name did n't sit down .,-16.07672456179468,-112.53707193256275,good,inchoative,23,syntax,argument_structure,bigram8,-16.07672456179468,-17.03730884605712,TRUE
+Name did n't kiss .,-17.091613037106807,-102.54967822264084,bad,inchoative,23,syntax,argument_structure,bigram9,-16.148657382755086,-17.091613037106807,TRUE
+Name did n't sit down .,-16.148657382755086,-113.0406016792856,good,inchoative,23,syntax,argument_structure,bigram9,-16.148657382755086,-17.091613037106807,TRUE
+Name does care for .,-18.2951443594298,-109.77086615657879,bad,inchoative,256,syntax,argument_structure,bigram1,-17.28213755532425,-18.2951443594298,TRUE
+Name does hurt .,-17.28213755532425,-86.41068777662126,good,inchoative,256,syntax,argument_structure,bigram1,-17.28213755532425,-18.2951443594298,TRUE
+Name does care for .,-18.47093975187728,-110.82563851126369,bad,inchoative,256,syntax,argument_structure,bigram10,-17.173335823632584,-18.47093975187728,TRUE
+Name does hurt .,-17.173335823632584,-85.86667911816292,good,inchoative,256,syntax,argument_structure,bigram10,-17.173335823632584,-18.47093975187728,TRUE
+Name does care for .,-18.241940433876582,-109.4516426032595,bad,inchoative,256,syntax,argument_structure,bigram2,-16.957304493233103,-18.241940433876582,TRUE
+Name does hurt .,-16.957304493233103,-84.78652246616552,good,inchoative,256,syntax,argument_structure,bigram2,-16.957304493233103,-18.241940433876582,TRUE
+Name does care for .,-18.502465893117652,-111.01479535870592,bad,inchoative,256,syntax,argument_structure,bigram3,-17.09577517040085,-18.502465893117652,TRUE
+Name does hurt .,-17.09577517040085,-85.47887585200425,good,inchoative,256,syntax,argument_structure,bigram3,-17.09577517040085,-18.502465893117652,TRUE
+Name does care for .,-18.630196188470023,-111.78117713082014,bad,inchoative,256,syntax,argument_structure,bigram4,-17.101366357952987,-18.630196188470023,TRUE
+Name does hurt .,-17.101366357952987,-85.50683178976493,good,inchoative,256,syntax,argument_structure,bigram4,-17.101366357952987,-18.630196188470023,TRUE
+Name does care for .,-18.63277657773723,-111.79665946642338,bad,inchoative,256,syntax,argument_structure,bigram5,-17.0291070712218,-18.63277657773723,TRUE
+Name does hurt .,-17.0291070712218,-85.14553535610901,good,inchoative,256,syntax,argument_structure,bigram5,-17.0291070712218,-18.63277657773723,TRUE
+Name does care for .,-18.345791313771414,-110.07474788262851,bad,inchoative,256,syntax,argument_structure,bigram6,-17.14479647890507,-18.345791313771414,TRUE
+Name does hurt .,-17.14479647890507,-85.72398239452535,good,inchoative,256,syntax,argument_structure,bigram6,-17.14479647890507,-18.345791313771414,TRUE
+Name does care for .,-18.40710843670064,-110.44265062020382,bad,inchoative,256,syntax,argument_structure,bigram7,-17.210408684686108,-18.40710843670064,TRUE
+Name does hurt .,-17.210408684686108,-86.05204342343053,good,inchoative,256,syntax,argument_structure,bigram7,-17.210408684686108,-18.40710843670064,TRUE
+Name does care for .,-18.604974239336425,-111.62984543601854,bad,inchoative,256,syntax,argument_structure,bigram8,-17.09899542904963,-18.604974239336425,TRUE
+Name does hurt .,-17.09899542904963,-85.49497714524816,good,inchoative,256,syntax,argument_structure,bigram8,-17.09899542904963,-18.604974239336425,TRUE
+Name does care for .,-18.316363235521184,-109.89817941312711,bad,inchoative,256,syntax,argument_structure,bigram9,-16.95998512854655,-18.316363235521184,TRUE
+Name does hurt .,-16.95998512854655,-84.79992564273275,good,inchoative,256,syntax,argument_structure,bigram9,-16.95998512854655,-18.316363235521184,TRUE
+most children looked like .,-19.95782388883284,-119.74694333299705,bad,inchoative,26,syntax,argument_structure,bigram1,-19.824746109441143,-19.95782388883284,TRUE
+most children move .,-19.824746109441143,-99.12373054720571,good,inchoative,26,syntax,argument_structure,bigram1,-19.824746109441143,-19.95782388883284,TRUE
+most children looked like .,-20.144549610483484,-120.8672976629009,bad,inchoative,26,syntax,argument_structure,bigram10,-19.834274535126784,-20.144549610483484,TRUE
+most children move .,-19.834274535126784,-99.17137267563392,good,inchoative,26,syntax,argument_structure,bigram10,-19.834274535126784,-20.144549610483484,TRUE
+most children looked like .,-19.93217241990504,-119.59303451943022,bad,inchoative,26,syntax,argument_structure,bigram2,-19.944754733111203,-19.93217241990504,FALSE
+most children move .,-19.944754733111203,-99.72377366555602,good,inchoative,26,syntax,argument_structure,bigram2,-19.944754733111203,-19.93217241990504,FALSE
+most children looked like .,-20.22198754751508,-121.33192528509048,bad,inchoative,26,syntax,argument_structure,bigram3,-19.959201155677757,-20.22198754751508,TRUE
+most children move .,-19.959201155677757,-99.79600577838877,good,inchoative,26,syntax,argument_structure,bigram3,-19.959201155677757,-20.22198754751508,TRUE
+most children looked like .,-20.02418214122648,-120.14509284735887,bad,inchoative,26,syntax,argument_structure,bigram4,-19.985928239071445,-20.02418214122648,TRUE
+most children move .,-19.985928239071445,-99.92964119535722,good,inchoative,26,syntax,argument_structure,bigram4,-19.985928239071445,-20.02418214122648,TRUE
+most children looked like .,-20.140479003567695,-120.84287402140619,bad,inchoative,26,syntax,argument_structure,bigram5,-19.978437925846585,-20.140479003567695,TRUE
+most children move .,-19.978437925846585,-99.89218962923292,good,inchoative,26,syntax,argument_structure,bigram5,-19.978437925846585,-20.140479003567695,TRUE
+most children looked like .,-19.95682864757195,-119.74097188543169,bad,inchoative,26,syntax,argument_structure,bigram6,-19.81365566048823,-19.95682864757195,TRUE
+most children move .,-19.81365566048823,-99.06827830244116,good,inchoative,26,syntax,argument_structure,bigram6,-19.81365566048823,-19.95682864757195,TRUE
+most children looked like .,-20.08117412326038,-120.48704473956226,bad,inchoative,26,syntax,argument_structure,bigram7,-19.871894389724552,-20.08117412326038,TRUE
+most children move .,-19.871894389724552,-99.35947194862277,good,inchoative,26,syntax,argument_structure,bigram7,-19.871894389724552,-20.08117412326038,TRUE
+most children looked like .,-20.03137769154787,-120.18826614928722,bad,inchoative,26,syntax,argument_structure,bigram8,-19.9090501909693,-20.03137769154787,TRUE
+most children move .,-19.9090501909693,-99.5452509548465,good,inchoative,26,syntax,argument_structure,bigram8,-19.9090501909693,-20.03137769154787,TRUE
+most children looked like .,-20.10303497660435,-120.61820985962609,bad,inchoative,26,syntax,argument_structure,bigram9,-20.32708666133033,-20.10303497660435,FALSE
+most children move .,-20.32708666133033,-101.63543330665166,good,inchoative,26,syntax,argument_structure,bigram9,-20.32708666133033,-20.10303497660435,FALSE
+a door is n't opening .,-18.611692126128528,-130.2818448828997,good,inchoative,297,syntax,argument_structure,bigram1,-18.611692126128528,-18.611692126128528,FALSE
+a door is n't taking .,-18.611692126128528,-130.2818448828997,bad,inchoative,297,syntax,argument_structure,bigram1,-18.611692126128528,-18.611692126128528,FALSE
+a door is n't opening .,-18.369586583174424,-128.58710608222097,good,inchoative,297,syntax,argument_structure,bigram10,-18.369586583174424,-18.369586583174424,FALSE
+a door is n't taking .,-18.369586583174424,-128.58710608222097,bad,inchoative,297,syntax,argument_structure,bigram10,-18.369586583174424,-18.369586583174424,FALSE
+a door is n't opening .,-18.503712461551547,-129.52598723086084,good,inchoative,297,syntax,argument_structure,bigram2,-18.503712461551547,-18.503712461551547,FALSE
+a door is n't taking .,-18.503712461551547,-129.52598723086084,bad,inchoative,297,syntax,argument_structure,bigram2,-18.503712461551547,-18.503712461551547,FALSE
+a door is n't opening .,-18.420019879436342,-128.94013915605439,good,inchoative,297,syntax,argument_structure,bigram3,-18.420019879436342,-18.420019879436342,FALSE
+a door is n't taking .,-18.420019879436342,-128.94013915605439,bad,inchoative,297,syntax,argument_structure,bigram3,-18.420019879436342,-18.420019879436342,FALSE
+a door is n't opening .,-18.469136334431813,-129.28395434102268,good,inchoative,297,syntax,argument_structure,bigram4,-18.469136334431813,-18.326279191574667,FALSE
+a door is n't taking .,-18.326279191574667,-128.28395434102268,bad,inchoative,297,syntax,argument_structure,bigram4,-18.469136334431813,-18.326279191574667,FALSE
+a door is n't opening .,-18.45666712093593,-129.19666984655152,good,inchoative,297,syntax,argument_structure,bigram5,-18.45666712093593,-18.313809978078787,FALSE
+a door is n't taking .,-18.313809978078787,-128.19666984655152,bad,inchoative,297,syntax,argument_structure,bigram5,-18.45666712093593,-18.313809978078787,FALSE
+a door is n't opening .,-18.68848559848232,-130.81939918937624,good,inchoative,297,syntax,argument_structure,bigram6,-18.68848559848232,-18.545628455625177,FALSE
+a door is n't taking .,-18.545628455625177,-129.81939918937624,bad,inchoative,297,syntax,argument_structure,bigram6,-18.68848559848232,-18.545628455625177,FALSE
+a door is n't opening .,-18.510897538158652,-129.5762827671106,good,inchoative,297,syntax,argument_structure,bigram7,-18.510897538158652,-18.368040395301517,FALSE
+a door is n't taking .,-18.368040395301517,-128.5762827671106,bad,inchoative,297,syntax,argument_structure,bigram7,-18.510897538158652,-18.368040395301517,FALSE
+a door is n't opening .,-18.42796231117418,-128.99573617821926,good,inchoative,297,syntax,argument_structure,bigram8,-18.42796231117418,-18.28510516831704,FALSE
+a door is n't taking .,-18.28510516831704,-127.99573617821926,bad,inchoative,297,syntax,argument_structure,bigram8,-18.42796231117418,-18.28510516831704,FALSE
+a door is n't opening .,-18.536079868368084,-129.75255907857658,good,inchoative,297,syntax,argument_structure,bigram9,-18.536079868368084,-18.536079868368084,FALSE
+a door is n't taking .,-18.536079868368084,-129.75255907857658,bad,inchoative,297,syntax,argument_structure,bigram9,-18.536079868368084,-18.536079868368084,FALSE
+most chairs did n't tip over .,-19.752814406279903,-158.02251525023922,good,inchoative,298,syntax,argument_structure,bigram1,-19.752814406279903,-19.62847178063541,FALSE
+most chairs did n't find .,-19.62847178063541,-137.39930246444789,bad,inchoative,298,syntax,argument_structure,bigram1,-19.752814406279903,-19.62847178063541,FALSE
+most chairs did n't tip over .,-19.74285826321108,-157.9428661056886,good,inchoative,298,syntax,argument_structure,bigram10,-19.74285826321108,-19.63098087426628,FALSE
+most chairs did n't find .,-19.63098087426628,-137.41686611986395,bad,inchoative,298,syntax,argument_structure,bigram10,-19.74285826321108,-19.63098087426628,FALSE
+most chairs did n't tip over .,-19.47478648926335,-155.7982919141068,good,inchoative,298,syntax,argument_structure,bigram2,-19.47478648926335,-19.5295198055566,TRUE
+most chairs did n't find .,-19.5295198055566,-136.70663863889618,bad,inchoative,298,syntax,argument_structure,bigram2,-19.47478648926335,-19.5295198055566,TRUE
+most chairs did n't tip over .,-19.466344868162324,-155.7307589452986,good,inchoative,298,syntax,argument_structure,bigram3,-19.466344868162324,-19.56424670582291,TRUE
+most chairs did n't find .,-19.56424670582291,-136.94972694076037,bad,inchoative,298,syntax,argument_structure,bigram3,-19.466344868162324,-19.56424670582291,TRUE
+most chairs did n't tip over .,-19.46798320628328,-155.74386565026623,good,inchoative,298,syntax,argument_structure,bigram4,-19.46798320628328,-19.52833414281527,TRUE
+most chairs did n't find .,-19.52833414281527,-136.6983389997069,bad,inchoative,298,syntax,argument_structure,bigram4,-19.46798320628328,-19.52833414281527,TRUE
+most chairs did n't tip over .,-19.735103855851385,-157.88083084681108,good,inchoative,298,syntax,argument_structure,bigram5,-19.735103855851385,-19.553954147820527,FALSE
+most chairs did n't find .,-19.553954147820527,-136.8776790347437,bad,inchoative,298,syntax,argument_structure,bigram5,-19.735103855851385,-19.553954147820527,FALSE
+most chairs did n't tip over .,-19.473036422360774,-155.78429137888622,good,inchoative,298,syntax,argument_structure,bigram6,-19.473036422360774,-19.54229942430968,TRUE
+most chairs did n't find .,-19.54229942430968,-136.79609597016778,bad,inchoative,298,syntax,argument_structure,bigram6,-19.473036422360774,-19.54229942430968,TRUE
+most chairs did n't tip over .,-19.81392424768812,-158.51139398150494,good,inchoative,298,syntax,argument_structure,bigram7,-19.81392424768812,-19.61039855402524,FALSE
+most chairs did n't find .,-19.61039855402524,-137.2727898781767,bad,inchoative,298,syntax,argument_structure,bigram7,-19.81392424768812,-19.61039855402524,FALSE
+most chairs did n't tip over .,-19.46974550723508,-155.75796405788066,good,inchoative,298,syntax,argument_structure,bigram8,-19.46974550723508,-19.562837450983125,TRUE
+most chairs did n't find .,-19.562837450983125,-136.93986215688187,bad,inchoative,298,syntax,argument_structure,bigram8,-19.46974550723508,-19.562837450983125,TRUE
+most chairs did n't tip over .,-19.48129048533444,-155.8503238826755,good,inchoative,298,syntax,argument_structure,bigram9,-19.48129048533444,-19.59849648922692,TRUE
+most chairs did n't find .,-19.59849648922692,-137.18947542458844,bad,inchoative,298,syntax,argument_structure,bigram9,-19.48129048533444,-19.59849648922692,TRUE
+Name hurt .,-16.481244628644966,-65.92497851457986,good,inchoative,314,syntax,argument_structure,bigram1,-16.481244628644966,-17.169550316446017,TRUE
+Name sounds like .,-17.169550316446017,-85.84775158223009,bad,inchoative,314,syntax,argument_structure,bigram1,-16.481244628644966,-17.169550316446017,TRUE
+Name hurt .,-16.080689306085247,-64.32275722434099,good,inchoative,314,syntax,argument_structure,bigram10,-16.080689306085247,-17.481449499905125,TRUE
+Name sounds like .,-17.481449499905125,-87.40724749952562,bad,inchoative,314,syntax,argument_structure,bigram10,-16.080689306085247,-17.481449499905125,TRUE
+Name hurt .,-16.389701910344712,-65.55880764137885,good,inchoative,314,syntax,argument_structure,bigram2,-16.389701910344712,-17.18039993671709,TRUE
+Name sounds like .,-17.18039993671709,-85.90199968358546,bad,inchoative,314,syntax,argument_structure,bigram2,-16.389701910344712,-17.18039993671709,TRUE
+Name hurt .,-16.333818442020327,-65.33527376808131,good,inchoative,314,syntax,argument_structure,bigram3,-16.333818442020327,-17.309853035979124,TRUE
+Name sounds like .,-17.309853035979124,-86.54926517989563,bad,inchoative,314,syntax,argument_structure,bigram3,-16.333818442020327,-17.309853035979124,TRUE
+Name hurt .,-16.25346154055859,-65.01384616223436,good,inchoative,314,syntax,argument_structure,bigram4,-16.25346154055859,-17.423653300369455,TRUE
+Name sounds like .,-17.423653300369455,-87.11826650184727,bad,inchoative,314,syntax,argument_structure,bigram4,-16.25346154055859,-17.423653300369455,TRUE
+Name hurt .,-15.902472115803649,-63.60988846321459,good,inchoative,314,syntax,argument_structure,bigram5,-15.902472115803649,-17.407724030438498,TRUE
+Name sounds like .,-17.407724030438498,-87.0386201521925,bad,inchoative,314,syntax,argument_structure,bigram5,-15.902472115803649,-17.407724030438498,TRUE
+Name hurt .,-16.131304999966805,-64.52521999986722,good,inchoative,314,syntax,argument_structure,bigram6,-16.131304999966805,-17.20030327401085,TRUE
+Name sounds like .,-17.20030327401085,-86.00151637005425,bad,inchoative,314,syntax,argument_structure,bigram6,-16.131304999966805,-17.20030327401085,TRUE
+Name hurt .,-16.237735710963054,-64.95094284385222,good,inchoative,314,syntax,argument_structure,bigram7,-16.237735710963054,-17.223831523857815,TRUE
+Name sounds like .,-17.223831523857815,-86.11915761928907,bad,inchoative,314,syntax,argument_structure,bigram7,-16.237735710963054,-17.223831523857815,TRUE
+Name hurt .,-16.21299048770186,-64.85196195080744,good,inchoative,314,syntax,argument_structure,bigram8,-16.21299048770186,-17.192892485709876,TRUE
+Name sounds like .,-17.192892485709876,-85.96446242854938,bad,inchoative,314,syntax,argument_structure,bigram8,-16.21299048770186,-17.192892485709876,TRUE
+Name hurt .,-16.129397201974854,-64.51758880789941,good,inchoative,314,syntax,argument_structure,bigram9,-16.129397201974854,-17.375775396825514,TRUE
+Name sounds like .,-17.375775396825514,-86.87887698412757,bad,inchoative,314,syntax,argument_structure,bigram9,-16.129397201974854,-17.375775396825514,TRUE
+every dish dropped .,-20.08913172841861,-100.44565864209308,good,inchoative,339,syntax,argument_structure,bigram1,-20.08913172841861,-20.08913172841861,FALSE
+every dish had .,-20.08913172841861,-100.44565864209308,bad,inchoative,339,syntax,argument_structure,bigram1,-20.08913172841861,-20.08913172841861,FALSE
+every dish dropped .,-20.09866015410426,-100.49330077052129,good,inchoative,339,syntax,argument_structure,bigram10,-20.09866015410426,-20.09866015410426,FALSE
+every dish had .,-20.09866015410426,-100.49330077052129,bad,inchoative,339,syntax,argument_structure,bigram10,-20.09866015410426,-20.09866015410426,FALSE
+every dish dropped .,-20.26174723325544,-101.30873616627719,good,inchoative,339,syntax,argument_structure,bigram2,-20.26174723325544,-20.06174723325544,FALSE
+every dish had .,-20.06174723325544,-100.30873616627719,bad,inchoative,339,syntax,argument_structure,bigram2,-20.26174723325544,-20.06174723325544,FALSE
+every dish dropped .,-20.07619365582199,-100.38096827910994,good,inchoative,339,syntax,argument_structure,bigram3,-20.07619365582199,-20.276193655821988,TRUE
+every dish had .,-20.276193655821988,-101.38096827910994,bad,inchoative,339,syntax,argument_structure,bigram3,-20.07619365582199,-20.276193655821988,TRUE
+every dish dropped .,-20.102920739215676,-100.51460369607837,good,inchoative,339,syntax,argument_structure,bigram4,-20.102920739215676,-20.102920739215676,FALSE
+every dish had .,-20.102920739215676,-100.51460369607837,bad,inchoative,339,syntax,argument_structure,bigram4,-20.102920739215676,-20.102920739215676,FALSE
+every dish dropped .,-20.095430425990816,-100.47715212995408,good,inchoative,339,syntax,argument_structure,bigram5,-20.095430425990816,-20.095430425990816,FALSE
+every dish had .,-20.095430425990816,-100.47715212995408,bad,inchoative,339,syntax,argument_structure,bigram5,-20.095430425990816,-20.095430425990816,FALSE
+every dish dropped .,-20.078041279465705,-100.39020639732853,good,inchoative,339,syntax,argument_structure,bigram6,-20.078041279465705,-20.078041279465705,FALSE
+every dish had .,-20.078041279465705,-100.39020639732853,bad,inchoative,339,syntax,argument_structure,bigram6,-20.078041279465705,-20.078041279465705,FALSE
+every dish dropped .,-20.336280008702023,-101.68140004351014,good,inchoative,339,syntax,argument_structure,bigram7,-20.336280008702023,-20.136280008702027,FALSE
+every dish had .,-20.136280008702027,-100.68140004351014,bad,inchoative,339,syntax,argument_structure,bigram7,-20.336280008702023,-20.136280008702027,FALSE
+every dish dropped .,-20.1090501909693,-100.5452509548465,good,inchoative,339,syntax,argument_structure,bigram8,-20.1090501909693,-20.1090501909693,FALSE
+every dish had .,-20.1090501909693,-100.5452509548465,bad,inchoative,339,syntax,argument_structure,bigram8,-20.1090501909693,-20.1090501909693,FALSE
+every dish dropped .,-20.32708666133033,-101.63543330665166,good,inchoative,339,syntax,argument_structure,bigram9,-20.32708666133033,-20.32708666133033,FALSE
+every dish had .,-20.32708666133033,-101.63543330665166,bad,inchoative,339,syntax,argument_structure,bigram9,-20.32708666133033,-20.32708666133033,FALSE
+this truck has n't turned .,-19.523359294496995,-136.66351506147896,good,inchoative,346,syntax,argument_structure,bigram1,-19.523359294496995,-19.523359294496995,FALSE
+this truck has n't bought .,-19.523359294496995,-136.66351506147896,bad,inchoative,346,syntax,argument_structure,bigram1,-19.523359294496995,-19.523359294496995,FALSE
+this truck has n't turned .,-19.357118224125625,-135.49982756887937,good,inchoative,346,syntax,argument_structure,bigram10,-19.357118224125625,-19.499975366982767,TRUE
+this truck has n't bought .,-19.499975366982767,-136.49982756887937,bad,inchoative,346,syntax,argument_structure,bigram10,-19.357118224125625,-19.499975366982767,TRUE
+this truck has n't turned .,-19.39795241215164,-135.78566688506146,good,inchoative,346,syntax,argument_structure,bigram2,-19.39795241215164,-19.54080955500878,TRUE
+this truck has n't bought .,-19.54080955500878,-136.78566688506146,bad,inchoative,346,syntax,argument_structure,bigram2,-19.39795241215164,-19.54080955500878,TRUE
+this truck has n't turned .,-19.30839442560597,-135.15876097924183,good,inchoative,346,syntax,argument_structure,bigram3,-19.30839442560597,-19.45125156846312,TRUE
+this truck has n't bought .,-19.45125156846312,-136.15876097924183,bad,inchoative,346,syntax,argument_structure,bigram3,-19.30839442560597,-19.45125156846312,TRUE
+this truck has n't turned .,-19.592567880072814,-137.1479751605097,good,inchoative,346,syntax,argument_structure,bigram4,-19.592567880072814,-19.592567880072814,FALSE
+this truck has n't bought .,-19.592567880072814,-137.1479751605097,bad,inchoative,346,syntax,argument_structure,bigram4,-19.592567880072814,-19.592567880072814,FALSE
+this truck has n't turned .,-19.44386541234232,-136.10705788639623,good,inchoative,346,syntax,argument_structure,bigram5,-19.44386541234232,-19.58672255519946,TRUE
+this truck has n't bought .,-19.58672255519946,-137.10705788639623,bad,inchoative,346,syntax,argument_structure,bigram5,-19.44386541234232,-19.58672255519946,TRUE
+this truck has n't turned .,-19.645742198368,-137.520195388576,good,inchoative,346,syntax,argument_structure,bigram6,-19.645742198368,-19.645742198368,FALSE
+this truck has n't bought .,-19.645742198368,-137.520195388576,bad,inchoative,346,syntax,argument_structure,bigram6,-19.645742198368,-19.645742198368,FALSE
+this truck has n't turned .,-19.472301421625247,-136.30610995137673,good,inchoative,346,syntax,argument_structure,bigram7,-19.472301421625247,-19.61515856448239,TRUE
+this truck has n't bought .,-19.61515856448239,-137.30610995137673,bad,inchoative,346,syntax,argument_structure,bigram7,-19.472301421625247,-19.61515856448239,TRUE
+this truck has n't turned .,-19.38019376318366,-135.66135634228561,good,inchoative,346,syntax,argument_structure,bigram8,-19.38019376318366,-19.5230509060408,TRUE
+this truck has n't bought .,-19.5230509060408,-136.66135634228561,bad,inchoative,346,syntax,argument_structure,bigram8,-19.38019376318366,-19.5230509060408,TRUE
+this truck has n't turned .,-19.555248699276344,-136.8867408949344,good,inchoative,346,syntax,argument_structure,bigram9,-19.555248699276344,-19.698105842133486,TRUE
+this truck has n't bought .,-19.698105842133486,-137.8867408949344,bad,inchoative,346,syntax,argument_structure,bigram9,-19.555248699276344,-19.698105842133486,TRUE
+this carriage has stopped .,-19.35556861334652,-116.13341168007912,good,inchoative,353,syntax,argument_structure,bigram1,-19.35556861334652,-19.61972903013338,TRUE
+this carriage has found .,-19.61972903013338,-117.71837418080028,bad,inchoative,353,syntax,argument_structure,bigram1,-19.35556861334652,-19.61972903013338,TRUE
+this carriage has stopped .,-19.35430511274996,-116.12583067649976,good,inchoative,353,syntax,argument_structure,bigram10,-19.35430511274996,-19.61846552953682,TRUE
+this carriage has found .,-19.61846552953682,-117.71079317722092,bad,inchoative,353,syntax,argument_structure,bigram10,-19.35430511274996,-19.61846552953682,TRUE
+this carriage has stopped .,-19.30958539035561,-115.85751234213369,good,inchoative,353,syntax,argument_structure,bigram2,-19.30958539035561,-19.57374580714248,TRUE
+this carriage has found .,-19.57374580714248,-117.44247484285485,bad,inchoative,353,syntax,argument_structure,bigram2,-19.30958539035561,-19.57374580714248,TRUE
+this carriage has stopped .,-19.63212774566374,-117.79276647398245,good,inchoative,353,syntax,argument_structure,bigram3,-19.63212774566374,-19.63212774566374,FALSE
+this carriage has found .,-19.63212774566374,-117.79276647398245,bad,inchoative,353,syntax,argument_structure,bigram3,-19.63212774566374,-19.63212774566374,FALSE
+this carriage has stopped .,-19.36592631905697,-116.19555791434183,good,inchoative,353,syntax,argument_structure,bigram4,-19.36592631905697,-19.630086735843832,TRUE
+this carriage has found .,-19.630086735843832,-117.780520415063,bad,inchoative,353,syntax,argument_structure,bigram4,-19.36592631905697,-19.630086735843832,TRUE
+this carriage has stopped .,-19.62355599915736,-117.74133599494414,good,inchoative,353,syntax,argument_structure,bigram5,-19.62355599915736,-19.62355599915736,FALSE
+this carriage has found .,-19.62355599915736,-117.74133599494414,bad,inchoative,353,syntax,argument_structure,bigram5,-19.62355599915736,-19.62355599915736,FALSE
+this carriage has stopped .,-19.43074456662528,-116.5844673997517,good,inchoative,353,syntax,argument_structure,bigram6,-19.43074456662528,-19.59741123329195,TRUE
+this carriage has found .,-19.59741123329195,-117.5844673997517,bad,inchoative,353,syntax,argument_structure,bigram6,-19.43074456662528,-19.59741123329195,TRUE
+this carriage has stopped .,-19.388423375647047,-116.33054025388228,good,inchoative,353,syntax,argument_structure,bigram7,-19.388423375647047,-19.652583792433905,TRUE
+this carriage has found .,-19.652583792433905,-117.91550275460344,bad,inchoative,353,syntax,argument_structure,bigram7,-19.388423375647047,-19.652583792433905,TRUE
+this carriage has stopped .,-19.47772300906664,-116.86633805439985,good,inchoative,353,syntax,argument_structure,bigram8,-19.47772300906664,-19.644389675733308,TRUE
+this carriage has found .,-19.644389675733308,-117.86633805439985,bad,inchoative,353,syntax,argument_structure,bigram8,-19.47772300906664,-19.644389675733308,TRUE
+this carriage has stopped .,-19.48399405699333,-116.90396434195998,good,inchoative,353,syntax,argument_structure,bigram9,-19.48399405699333,-19.65066072366,TRUE
+this carriage has found .,-19.65066072366,-117.90396434195998,bad,inchoative,353,syntax,argument_structure,bigram9,-19.48399405699333,-19.65066072366,TRUE
+every wheelbarrow had n't bought .,-21.047991486207213,-147.33594040345048,bad,inchoative,363,syntax,argument_structure,bigram1,-20.16657362885831,-21.047991486207213,TRUE
+every wheelbarrow had n't broken .,-20.16657362885831,-141.16601540200816,good,inchoative,363,syntax,argument_structure,bigram1,-20.16657362885831,-21.047991486207213,TRUE
+every wheelbarrow had n't bought .,-21.0587456509604,-147.4112195567228,bad,inchoative,363,syntax,argument_structure,bigram10,-20.30904172046846,-21.0587456509604,TRUE
+every wheelbarrow had n't broken .,-20.30904172046846,-142.16329204327923,good,inchoative,363,syntax,argument_structure,bigram10,-20.30904172046846,-21.0587456509604,TRUE
+every wheelbarrow had n't bought .,-21.02357789316181,-147.1650452521327,bad,inchoative,363,syntax,argument_structure,bigram2,-20.09164047086796,-21.02357789316181,TRUE
+every wheelbarrow had n't broken .,-20.09164047086796,-140.6414832960757,good,inchoative,363,syntax,argument_structure,bigram2,-20.09164047086796,-21.02357789316181,TRUE
+every wheelbarrow had n't bought .,-21.04041175586729,-147.28288229107102,bad,inchoative,363,syntax,argument_structure,bigram3,-20.242559970049975,-21.04041175586729,TRUE
+every wheelbarrow had n't broken .,-20.242559970049975,-141.69791979034986,good,inchoative,363,syntax,argument_structure,bigram3,-20.242559970049975,-21.04041175586729,TRUE
+every wheelbarrow had n't bought .,-21.05991974120201,-147.4194381884141,bad,inchoative,363,syntax,argument_structure,bigram4,-20.345634026916297,-21.05991974120201,TRUE
+every wheelbarrow had n't broken .,-20.345634026916297,-142.4194381884141,good,inchoative,363,syntax,argument_structure,bigram4,-20.345634026916297,-21.05991974120201,TRUE
+every wheelbarrow had n't bought .,-21.054074416328657,-147.3785209143006,bad,inchoative,363,syntax,argument_structure,bigram5,-20.25622263051135,-21.054074416328657,TRUE
+every wheelbarrow had n't broken .,-20.25622263051135,-141.79355841357943,good,inchoative,363,syntax,argument_structure,bigram5,-20.25622263051135,-21.054074416328657,TRUE
+every wheelbarrow had n't bought .,-21.037380339282453,-147.26166237497716,bad,inchoative,363,syntax,argument_structure,bigram6,-20.08825802645749,-21.037380339282453,TRUE
+every wheelbarrow had n't broken .,-20.08825802645749,-140.61780618520243,good,inchoative,363,syntax,argument_structure,bigram6,-20.08825802645749,-21.037380339282453,TRUE
+every wheelbarrow had n't bought .,-21.090362776928437,-147.63253943849904,bad,inchoative,363,syntax,argument_structure,bigram7,-20.233219919785576,-21.090362776928437,TRUE
+every wheelbarrow had n't broken .,-20.233219919785576,-141.63253943849904,good,inchoative,363,syntax,argument_structure,bigram7,-20.233219919785576,-21.090362776928437,TRUE
+every wheelbarrow had n't bought .,-21.06787679050038,-147.47513753350268,bad,inchoative,363,syntax,argument_structure,bigram8,-20.23460678847685,-21.06787679050038,TRUE
+every wheelbarrow had n't broken .,-20.23460678847685,-141.64224751933793,good,inchoative,363,syntax,argument_structure,bigram8,-20.23460678847685,-21.06787679050038,TRUE
+every wheelbarrow had n't bought .,-21.08585520180008,-147.60098641260052,bad,inchoative,363,syntax,argument_structure,bigram9,-20.288003415982764,-21.08585520180008,TRUE
+every wheelbarrow had n't broken .,-20.288003415982764,-142.01602391187936,good,inchoative,363,syntax,argument_structure,bigram9,-20.288003415982764,-21.08585520180008,TRUE
+every pie can n't find .,-19.70078397882642,-137.90548785178493,bad,inchoative,370,syntax,argument_structure,bigram1,-19.66320763513588,-19.70078397882642,TRUE
+every pie can n't burn .,-19.66320763513588,-137.64245344595113,good,inchoative,370,syntax,argument_structure,bigram1,-19.66320763513588,-19.70078397882642,TRUE
+every pie can n't find .,-19.66855721795682,-137.67990052569775,bad,inchoative,370,syntax,argument_structure,bigram10,-19.57168980294073,-19.66855721795682,TRUE
+every pie can n't burn .,-19.57168980294073,-137.00182862058512,good,inchoative,370,syntax,argument_structure,bigram10,-19.57168980294073,-19.66855721795682,TRUE
+every pie can n't find .,-19.58575749819749,-137.10030248738246,bad,inchoative,370,syntax,argument_structure,bigram2,-19.5122470449361,-19.58575749819749,TRUE
+every pie can n't burn .,-19.5122470449361,-136.5857293145527,good,inchoative,370,syntax,argument_structure,bigram2,-19.5122470449361,-19.58575749819749,TRUE
+every pie can n't find .,-19.626433833580784,-137.38503683506548,bad,inchoative,370,syntax,argument_structure,bigram3,-19.48357669072364,-19.626433833580784,TRUE
+every pie can n't burn .,-19.48357669072364,-136.38503683506548,good,inchoative,370,syntax,argument_structure,bigram3,-19.48357669072364,-19.626433833580784,TRUE
+every pie can n't find .,-19.601426403255022,-137.20998482278515,bad,inchoative,370,syntax,argument_structure,bigram4,-19.80357461743771,-19.601426403255022,FALSE
+every pie can n't burn .,-19.80357461743771,-138.62502232206398,good,inchoative,370,syntax,argument_structure,bigram4,-19.80357461743771,-19.601426403255022,FALSE
+every pie can n't find .,-19.61896589327399,-137.33276125291795,bad,inchoative,370,syntax,argument_structure,bigram5,-19.47610875041685,-19.61896589327399,TRUE
+every pie can n't burn .,-19.47610875041685,-136.33276125291795,good,inchoative,370,syntax,argument_structure,bigram5,-19.47610875041685,-19.61896589327399,TRUE
+every pie can n't find .,-19.57906114523391,-137.05342801663738,bad,inchoative,370,syntax,argument_structure,bigram6,-19.467974348281977,-19.57906114523391,TRUE
+every pie can n't burn .,-19.467974348281977,-136.27582043797383,good,inchoative,370,syntax,argument_structure,bigram6,-19.467974348281977,-19.57906114523391,TRUE
+every pie can n't find .,-19.69824365728564,-137.88770560099948,bad,inchoative,370,syntax,argument_structure,bigram7,-19.841100800142783,-19.69824365728564,FALSE
+every pie can n't burn .,-19.841100800142783,-138.88770560099948,good,inchoative,370,syntax,argument_structure,bigram7,-19.841100800142783,-19.69824365728564,FALSE
+every pie can n't find .,-19.62871372439288,-137.40099607075015,bad,inchoative,370,syntax,argument_structure,bigram8,-19.66048407029809,-19.62871372439288,FALSE
+every pie can n't burn .,-19.66048407029809,-137.6233884920866,good,inchoative,370,syntax,argument_structure,bigram8,-19.66048407029809,-19.62871372439288,FALSE
+every pie can n't find .,-19.68945705042848,-137.82619935299934,bad,inchoative,370,syntax,argument_structure,bigram9,-19.54659990757133,-19.68945705042848,TRUE
+every pie can n't burn .,-19.54659990757133,-136.82619935299934,good,inchoative,370,syntax,argument_structure,bigram9,-19.54659990757133,-19.68945705042848,TRUE
+this carriage has n't bought .,-19.80907358021128,-138.66351506147896,bad,inchoative,382,syntax,argument_structure,bigram1,-19.80907358021128,-19.80907358021128,FALSE
+this carriage has n't rolled .,-19.80907358021128,-138.66351506147896,good,inchoative,382,syntax,argument_structure,bigram1,-19.80907358021128,-19.80907358021128,FALSE
+this carriage has n't bought .,-19.869255724228648,-139.08479006960053,bad,inchoative,382,syntax,argument_structure,bigram10,-19.869255724228648,-19.869255724228648,FALSE
+this carriage has n't rolled .,-19.869255724228648,-139.08479006960053,good,inchoative,382,syntax,argument_structure,bigram10,-19.869255724228648,-19.869255724228648,FALSE
+this carriage has n't bought .,-19.826523840723063,-138.78566688506146,bad,inchoative,382,syntax,argument_structure,bigram2,-19.826523840723063,-19.826523840723063,FALSE
+this carriage has n't rolled .,-19.826523840723063,-138.78566688506146,good,inchoative,382,syntax,argument_structure,bigram2,-19.826523840723063,-19.826523840723063,FALSE
+this carriage has n't bought .,-19.820531925709,-138.743723479963,bad,inchoative,382,syntax,argument_structure,bigram3,-19.820531925709,-19.820531925709,FALSE
+this carriage has n't rolled .,-19.820531925709,-138.743723479963,good,inchoative,382,syntax,argument_structure,bigram3,-19.820531925709,-19.820531925709,FALSE
+this carriage has n't bought .,-19.818991094461552,-138.73293766123086,bad,inchoative,382,syntax,argument_structure,bigram4,-19.818991094461552,-19.818991094461552,FALSE
+this carriage has n't rolled .,-19.818991094461552,-138.73293766123086,good,inchoative,382,syntax,argument_structure,bigram4,-19.818991094461552,-19.818991094461552,FALSE
+this carriage has n't bought .,-19.956002912445346,-139.6920203871174,bad,inchoative,382,syntax,argument_structure,bigram5,-19.956002912445346,-19.956002912445346,FALSE
+this carriage has n't rolled .,-19.956002912445346,-139.6920203871174,good,inchoative,382,syntax,argument_structure,bigram5,-19.956002912445346,-19.956002912445346,FALSE
+this carriage has n't bought .,-19.93145648408229,-139.520195388576,bad,inchoative,382,syntax,argument_structure,bigram6,-19.93145648408229,-19.93145648408229,FALSE
+this carriage has n't rolled .,-19.93145648408229,-139.520195388576,good,inchoative,382,syntax,argument_structure,bigram6,-19.93145648408229,-19.93145648408229,FALSE
+this carriage has n't bought .,-19.98443892172827,-139.8910724520979,bad,inchoative,382,syntax,argument_structure,bigram7,-19.98443892172827,-19.98443892172827,FALSE
+this carriage has n't rolled .,-19.98443892172827,-139.8910724520979,good,inchoative,382,syntax,argument_structure,bigram7,-19.98443892172827,-19.98443892172827,FALSE
+this carriage has n't bought .,-19.892331263286685,-139.2463188430068,bad,inchoative,382,syntax,argument_structure,bigram8,-19.892331263286685,-19.892331263286685,FALSE
+this carriage has n't rolled .,-19.892331263286685,-139.2463188430068,good,inchoative,382,syntax,argument_structure,bigram8,-19.892331263286685,-19.892331263286685,FALSE
+this carriage has n't bought .,-19.84096298499063,-138.8867408949344,bad,inchoative,382,syntax,argument_structure,bigram9,-19.84096298499063,-19.84096298499063,FALSE
+this carriage has n't rolled .,-19.84096298499063,-138.8867408949344,good,inchoative,382,syntax,argument_structure,bigram9,-19.84096298499063,-19.84096298499063,FALSE
+many glasses fix .,-20.08913172841861,-100.44565864209308,bad,inchoative,414,syntax,argument_structure,bigram1,-19.791157222166174,-20.08913172841861,TRUE
+many glasses tip over .,-19.791157222166174,-118.74694333299705,good,inchoative,414,syntax,argument_structure,bigram1,-19.791157222166174,-20.08913172841861,TRUE
+many glasses fix .,-20.09866015410426,-100.49330077052129,bad,inchoative,414,syntax,argument_structure,bigram10,-19.782895443576432,-20.09866015410426,TRUE
+many glasses tip over .,-19.782895443576432,-118.69737266145859,good,inchoative,414,syntax,argument_structure,bigram10,-19.782895443576432,-20.09866015410426,TRUE
+many glasses fix .,-20.06174723325544,-100.30873616627719,bad,inchoative,414,syntax,argument_structure,bigram2,-19.76550575323837,-20.06174723325544,TRUE
+many glasses tip over .,-19.76550575323837,-118.59303451943022,good,inchoative,414,syntax,argument_structure,bigram2,-19.76550575323837,-20.06174723325544,TRUE
+many glasses fix .,-19.876193655821982,-99.38096827910994,bad,inchoative,414,syntax,argument_structure,bigram3,-19.596172963821168,-19.876193655821982,TRUE
+many glasses tip over .,-19.596172963821168,-117.57703778292701,good,inchoative,414,syntax,argument_structure,bigram3,-19.596172963821168,-19.876193655821982,TRUE
+many glasses fix .,-20.302920739215672,-101.51460369607837,bad,inchoative,414,syntax,argument_structure,bigram4,-19.760021724439618,-20.302920739215672,TRUE
+many glasses tip over .,-19.760021724439618,-118.5601303466377,good,inchoative,414,syntax,argument_structure,bigram4,-19.760021724439618,-20.302920739215672,TRUE
+many glasses fix .,-19.895430425990817,-99.47715212995408,bad,inchoative,414,syntax,argument_structure,bigram5,-19.778824836660647,-19.895430425990817,TRUE
+many glasses tip over .,-19.778824836660647,-118.67294901996388,good,inchoative,414,syntax,argument_structure,bigram5,-19.778824836660647,-19.895430425990817,TRUE
+many glasses fix .,-19.878041279465705,-99.39020639732853,bad,inchoative,414,syntax,argument_structure,bigram6,-19.595174480664895,-19.878041279465705,TRUE
+many glasses tip over .,-19.595174480664895,-117.57104688398938,good,inchoative,414,syntax,argument_structure,bigram6,-19.595174480664895,-19.878041279465705,TRUE
+many glasses fix .,-19.936280008702028,-99.68140004351014,bad,inchoative,414,syntax,argument_structure,bigram7,-19.889173607686203,-19.936280008702028,TRUE
+many glasses tip over .,-19.889173607686203,-119.33504164611722,good,inchoative,414,syntax,argument_structure,bigram7,-19.889173607686203,-19.936280008702028,TRUE
+many glasses fix .,-19.9090501909693,-99.5452509548465,bad,inchoative,414,syntax,argument_structure,bigram8,-19.592666322297948,-19.9090501909693,TRUE
+many glasses tip over .,-19.592666322297948,-117.5559979337877,good,inchoative,414,syntax,argument_structure,bigram8,-19.592666322297948,-19.9090501909693,TRUE
+many glasses fix .,-20.12708666133033,-100.63543330665166,bad,inchoative,414,syntax,argument_structure,bigram9,-19.6185532106696,-20.12708666133033,TRUE
+many glasses tip over .,-19.6185532106696,-117.71131926401758,good,inchoative,414,syntax,argument_structure,bigram9,-19.6185532106696,-20.12708666133033,TRUE
+this box was n't taking .,-19.181599662671456,-134.2711976387002,bad,inchoative,431,syntax,argument_structure,bigram1,-19.181599662671456,-19.181599662671456,FALSE
+this box was n't opening .,-19.181599662671456,-134.2711976387002,good,inchoative,431,syntax,argument_structure,bigram1,-19.181599662671456,-19.181599662671456,FALSE
+this box was n't taking .,-19.17290299309777,-134.2103209516844,bad,inchoative,431,syntax,argument_structure,bigram10,-19.17290299309777,-19.17290299309777,FALSE
+this box was n't opening .,-19.17290299309777,-134.2103209516844,good,inchoative,431,syntax,argument_structure,bigram10,-19.17290299309777,-19.17290299309777,FALSE
+this box was n't taking .,-19.12553946992185,-133.87877628945296,bad,inchoative,431,syntax,argument_structure,bigram2,-19.12553946992185,-19.12553946992185,FALSE
+this box was n't opening .,-19.12553946992185,-133.87877628945296,good,inchoative,431,syntax,argument_structure,bigram2,-19.12553946992185,-19.12553946992185,FALSE
+this box was n't taking .,-19.233599860454973,-134.6351990231848,bad,inchoative,431,syntax,argument_structure,bigram3,-19.233599860454973,-19.233599860454973,FALSE
+this box was n't opening .,-19.233599860454973,-134.6351990231848,good,inchoative,431,syntax,argument_structure,bigram3,-19.233599860454973,-19.233599860454973,FALSE
+this box was n't taking .,-19.021139308644244,-133.1479751605097,bad,inchoative,431,syntax,argument_structure,bigram4,-19.163996451501387,-19.021139308644244,FALSE
+this box was n't opening .,-19.163996451501387,-134.1479751605097,good,inchoative,431,syntax,argument_structure,bigram4,-19.163996451501387,-19.021139308644244,FALSE
+this box was n't taking .,-18.99101898356485,-132.93713288495394,bad,inchoative,431,syntax,argument_structure,bigram5,-19.133876126421992,-18.99101898356485,FALSE
+this box was n't opening .,-19.133876126421992,-133.93713288495394,good,inchoative,431,syntax,argument_structure,bigram5,-19.133876126421992,-18.99101898356485,FALSE
+this box was n't taking .,-18.99074755540784,-132.93523288785485,bad,inchoative,431,syntax,argument_structure,bigram6,-19.13360469826498,-18.99074755540784,FALSE
+this box was n't opening .,-19.13360469826498,-133.93523288785485,good,inchoative,431,syntax,argument_structure,bigram6,-19.13360469826498,-18.99074755540784,FALSE
+this box was n't taking .,-19.245878207236508,-134.72114745065556,bad,inchoative,431,syntax,argument_structure,bigram7,-19.38873535009365,-19.245878207236508,FALSE
+this box was n't opening .,-19.38873535009365,-135.72114745065556,good,inchoative,431,syntax,argument_structure,bigram7,-19.38873535009365,-19.245878207236508,FALSE
+this box was n't taking .,-19.142627332794746,-133.9983913295632,bad,inchoative,431,syntax,argument_structure,bigram8,-19.285484475651884,-19.142627332794746,FALSE
+this box was n't opening .,-19.285484475651884,-134.9983913295632,good,inchoative,431,syntax,argument_structure,bigram8,-19.285484475651884,-19.142627332794746,FALSE
+this box was n't taking .,-19.412391556419198,-135.8867408949344,bad,inchoative,431,syntax,argument_structure,bigram9,-19.412391556419198,-19.412391556419198,FALSE
+this box was n't opening .,-19.412391556419198,-135.8867408949344,good,inchoative,431,syntax,argument_structure,bigram9,-19.412391556419198,-19.412391556419198,FALSE
+feet find .,-19.6251294403536,-78.50051776141439,bad,inchoative,447,syntax,argument_structure,bigram1,-19.228888815173303,-19.6251294403536,TRUE
+feet drop .,-19.228888815173303,-76.91555526069322,good,inchoative,447,syntax,argument_structure,bigram1,-19.228888815173303,-19.6251294403536,TRUE
+feet find .,-19.63358534435513,-78.53434137742052,bad,inchoative,447,syntax,argument_structure,bigram10,-19.38358534435513,-19.63358534435513,TRUE
+feet drop .,-19.38358534435513,-77.53434137742052,good,inchoative,447,syntax,argument_structure,bigram10,-19.38358534435513,-19.63358534435513,TRUE
+feet find .,-19.595145405837357,-78.38058162334941,bad,inchoative,447,syntax,argument_structure,bigram2,-19.198904780657063,-19.595145405837357,TRUE
+feet drop .,-19.198904780657063,-76.79561912262825,good,inchoative,447,syntax,argument_structure,bigram2,-19.198904780657063,-19.595145405837357,TRUE
+feet find .,-19.60750281828235,-78.4300112731294,bad,inchoative,447,syntax,argument_structure,bigram3,-19.35750281828235,-19.60750281828235,TRUE
+feet drop .,-19.35750281828235,-77.4300112731294,good,inchoative,447,syntax,argument_structure,bigram3,-19.35750281828235,-19.60750281828235,TRUE
+feet find .,-19.64054661247763,-78.56218644991051,bad,inchoative,447,syntax,argument_structure,bigram4,-19.39054661247763,-19.64054661247763,TRUE
+feet drop .,-19.39054661247763,-77.56218644991051,good,inchoative,447,syntax,argument_structure,bigram4,-19.39054661247763,-19.64054661247763,TRUE
+feet find .,-19.6316169344452,-78.5264677377808,bad,inchoative,447,syntax,argument_structure,bigram5,-19.3816169344452,-19.6316169344452,TRUE
+feet drop .,-19.3816169344452,-77.5264677377808,good,inchoative,447,syntax,argument_structure,bigram5,-19.3816169344452,-19.6316169344452,TRUE
+feet find .,-19.61361960212605,-78.4544784085042,bad,inchoative,447,syntax,argument_structure,bigram6,-19.36361960212605,-19.61361960212605,TRUE
+feet drop .,-19.36361960212605,-77.4544784085042,good,inchoative,447,syntax,argument_structure,bigram6,-19.36361960212605,-19.61361960212605,TRUE
+feet find .,-19.67645758650392,-78.70583034601569,bad,inchoative,447,syntax,argument_structure,bigram7,-19.42645758650392,-19.67645758650392,TRUE
+feet drop .,-19.42645758650392,-77.70583034601569,good,inchoative,447,syntax,argument_structure,bigram7,-19.42645758650392,-19.67645758650392,TRUE
+feet find .,-19.6450769163796,-78.5803076655184,bad,inchoative,447,syntax,argument_structure,bigram8,-19.24883629119931,-19.6450769163796,TRUE
+feet drop .,-19.24883629119931,-76.99534516479724,good,inchoative,447,syntax,argument_structure,bigram8,-19.24883629119931,-19.6450769163796,TRUE
+feet find .,-19.66316418841931,-78.65265675367723,bad,inchoative,447,syntax,argument_structure,bigram9,-19.41316418841931,-19.66316418841931,TRUE
+feet drop .,-19.41316418841931,-77.65265675367723,good,inchoative,447,syntax,argument_structure,bigram9,-19.41316418841931,-19.66316418841931,TRUE
+that truck might slow .,-18.68279220158338,-112.09675320950026,good,inchoative,451,syntax,argument_structure,bigram1,-18.68279220158338,-18.94695261837024,TRUE
+that truck might take .,-18.94695261837024,-113.68171571022143,bad,inchoative,451,syntax,argument_structure,bigram1,-18.68279220158338,-18.94695261837024,TRUE
+that truck might slow .,-18.722977851459124,-112.33786710875475,good,inchoative,451,syntax,argument_structure,bigram10,-18.722977851459124,-18.88964451812579,TRUE
+that truck might take .,-18.88964451812579,-113.33786710875475,bad,inchoative,451,syntax,argument_structure,bigram10,-18.722977851459124,-18.88964451812579,TRUE
+that truck might slow .,-18.57253039171475,-111.4351823502885,good,inchoative,451,syntax,argument_structure,bigram2,-18.57253039171475,-18.739197058381414,TRUE
+that truck might take .,-18.739197058381414,-112.4351823502885,bad,inchoative,451,syntax,argument_structure,bigram2,-18.57253039171475,-18.739197058381414,TRUE
+that truck might slow .,-18.606733307320734,-111.64039984392443,good,inchoative,451,syntax,argument_structure,bigram3,-18.606733307320734,-18.8708937241076,TRUE
+that truck might take .,-18.8708937241076,-113.22536234464559,bad,inchoative,451,syntax,argument_structure,bigram3,-18.606733307320734,-18.8708937241076,TRUE
+that truck might slow .,-18.72805514092877,-112.36833084557261,good,inchoative,451,syntax,argument_structure,bigram4,-18.72805514092877,-18.894721807595435,TRUE
+that truck might take .,-18.894721807595435,-113.36833084557261,bad,inchoative,451,syntax,argument_structure,bigram4,-18.72805514092877,-18.894721807595435,TRUE
+that truck might slow .,-18.59061100050316,-111.54366600301893,good,inchoative,451,syntax,argument_structure,bigram5,-18.59061100050316,-18.75727766716982,TRUE
+that truck might take .,-18.75727766716982,-112.54366600301893,bad,inchoative,451,syntax,argument_structure,bigram5,-18.59061100050316,-18.75727766716982,TRUE
+that truck might slow .,-18.6800636133162,-112.08038167989717,good,inchoative,451,syntax,argument_structure,bigram6,-18.6800636133162,-18.84673027998286,TRUE
+that truck might take .,-18.84673027998286,-113.08038167989717,bad,inchoative,451,syntax,argument_structure,bigram6,-18.6800636133162,-18.84673027998286,TRUE
+that truck might slow .,-18.73484037126017,-112.409042227561,good,inchoative,451,syntax,argument_structure,bigram7,-18.73484037126017,-18.901507037926837,TRUE
+that truck might take .,-18.901507037926837,-113.409042227561,bad,inchoative,451,syntax,argument_structure,bigram7,-18.73484037126017,-18.901507037926837,TRUE
+that truck might slow .,-18.90191735791683,-113.41150414750098,good,inchoative,451,syntax,argument_structure,bigram8,-18.90191735791683,-18.90191735791683,FALSE
+that truck might take .,-18.90191735791683,-113.41150414750098,bad,inchoative,451,syntax,argument_structure,bigram8,-18.90191735791683,-18.90191735791683,FALSE
+that truck might slow .,-18.75623205533629,-112.53739233201776,good,inchoative,451,syntax,argument_structure,bigram9,-18.75623205533629,-18.92289872200296,TRUE
+that truck might take .,-18.92289872200296,-113.53739233201776,bad,inchoative,451,syntax,argument_structure,bigram9,-18.75623205533629,-18.92289872200296,TRUE
+many windows had tipped over .,-20.384583459096536,-142.69208421367574,good,inchoative,462,syntax,argument_structure,bigram1,-20.384583459096536,-20.731799920461963,TRUE
+many windows had seen .,-20.731799920461963,-124.39079952277177,bad,inchoative,462,syntax,argument_structure,bigram1,-20.384583459096536,-20.731799920461963,TRUE
+many windows had tipped over .,-20.153052793405458,-141.0713695538382,good,inchoative,462,syntax,argument_structure,bigram10,-20.153052793405458,-20.74204336060368,TRUE
+many windows had seen .,-20.74204336060368,-124.45226016362206,bad,inchoative,462,syntax,argument_structure,bigram10,-20.153052793405458,-20.74204336060368,TRUE
+many windows had tipped over .,-20.217312723194,-141.52118906235802,good,inchoative,462,syntax,argument_structure,bigram2,-20.217312723194,-20.70614845153416,TRUE
+many windows had seen .,-20.70614845153416,-124.23689070920496,bad,inchoative,462,syntax,argument_structure,bigram2,-20.217312723194,-20.70614845153416,TRUE
+many windows had tipped over .,-20.21828496984393,-141.52799478890753,good,inchoative,462,syntax,argument_structure,bigram3,-20.21828496984393,-20.72198754751508,TRUE
+many windows had seen .,-20.72198754751508,-124.33192528509048,bad,inchoative,462,syntax,argument_structure,bigram3,-20.21828496984393,-20.72198754751508,TRUE
+many windows had tipped over .,-20.13251215601206,-140.9275850920844,good,inchoative,462,syntax,argument_structure,bigram4,-20.13251215601206,-20.74450349037437,TRUE
+many windows had seen .,-20.74450349037437,-124.46702094224622,bad,inchoative,462,syntax,argument_structure,bigram4,-20.13251215601206,-20.74450349037437,TRUE
+many windows had tipped over .,-20.231947630305307,-141.62363341213714,good,inchoative,462,syntax,argument_structure,bigram5,-20.231947630305307,-20.73797275368789,TRUE
+many windows had seen .,-20.73797275368789,-124.42783652212735,bad,inchoative,462,syntax,argument_structure,bigram5,-20.231947630305307,-20.73797275368789,TRUE
+many windows had tipped over .,-20.131687481727507,-140.92181237209255,good,inchoative,462,syntax,argument_structure,bigram6,-20.131687481727507,-20.720989064358807,TRUE
+many windows had seen .,-20.720989064358807,-124.32593438615285,bad,inchoative,462,syntax,argument_structure,bigram6,-20.131687481727507,-20.720989064358807,TRUE
+many windows had tipped over .,-20.246521263270072,-141.7256488428905,good,inchoative,462,syntax,argument_structure,bigram7,-20.246521263270072,-20.77616162350077,TRUE
+many windows had seen .,-20.77616162350077,-124.65696974100459,bad,inchoative,462,syntax,argument_structure,bigram7,-20.246521263270072,-20.77616162350077,TRUE
+many windows had tipped over .,-20.21727731758797,-141.5209412231158,good,inchoative,462,syntax,argument_structure,bigram8,-20.21727731758797,-20.751699040695765,TRUE
+many windows had seen .,-20.751699040695765,-124.51019424417458,bad,inchoative,462,syntax,argument_structure,bigram8,-20.21727731758797,-20.751699040695765,TRUE
+many windows had tipped over .,-20.15844761661012,-141.10913331627083,good,inchoative,462,syntax,argument_structure,bigram9,-20.15844761661012,-20.769701643271016,TRUE
+many windows had seen .,-20.769701643271016,-124.61820985962609,bad,inchoative,462,syntax,argument_structure,bigram9,-20.15844761661012,-20.769701643271016,TRUE
+the glasses will n't twist .,-18.822206610667592,-131.75544627467315,good,inchoative,499,syntax,argument_structure,bigram1,-18.822206610667592,-18.452926253421715,FALSE
+the glasses will n't wear .,-18.452926253421715,-129.17048377395201,bad,inchoative,499,syntax,argument_structure,bigram1,-18.822206610667592,-18.452926253421715,FALSE
+the glasses will n't twist .,-18.886227869785152,-132.20359508849606,good,inchoative,499,syntax,argument_structure,bigram10,-18.886227869785152,-18.485177166634063,FALSE
+the glasses will n't wear .,-18.485177166634063,-129.39624016643845,bad,inchoative,499,syntax,argument_structure,bigram10,-18.886227869785152,-18.485177166634063,FALSE
+the glasses will n't twist .,-18.79064195887346,-131.53449371211423,good,inchoative,499,syntax,argument_structure,bigram2,-18.79064195887346,-18.36207053030203,FALSE
+the glasses will n't wear .,-18.36207053030203,-128.53449371211423,bad,inchoative,499,syntax,argument_structure,bigram2,-18.79064195887346,-18.36207053030203,FALSE
+the glasses will n't twist .,-18.7966728677058,-131.57671007394057,good,inchoative,499,syntax,argument_structure,bigram3,-18.7966728677058,-18.368101439134367,FALSE
+the glasses will n't wear .,-18.368101439134367,-128.57671007394057,bad,inchoative,499,syntax,argument_structure,bigram3,-18.7966728677058,-18.368101439134367,FALSE
+the glasses will n't twist .,-18.920615247356103,-132.44430673149273,good,inchoative,499,syntax,argument_structure,bigram4,-18.920615247356103,-18.49204381878468,FALSE
+the glasses will n't wear .,-18.49204381878468,-129.44430673149273,bad,inchoative,499,syntax,argument_structure,bigram4,-18.920615247356103,-18.49204381878468,FALSE
+the glasses will n't twist .,-18.926358350152043,-132.4845084510643,good,inchoative,499,syntax,argument_structure,bigram5,-18.926358350152043,-18.55707799290616,FALSE
+the glasses will n't wear .,-18.55707799290616,-129.89954595034314,bad,inchoative,499,syntax,argument_structure,bigram5,-18.926358350152043,-18.55707799290616,FALSE
+the glasses will n't twist .,-18.76875908097445,-131.38131356682115,good,inchoative,499,syntax,argument_structure,bigram6,-18.76875908097445,-18.34018765240302,FALSE
+the glasses will n't wear .,-18.34018765240302,-128.38131356682115,bad,inchoative,499,syntax,argument_structure,bigram6,-18.76875908097445,-18.34018765240302,FALSE
+the glasses will n't twist .,-18.83668946973079,-131.8568262881155,good,inchoative,499,syntax,argument_structure,bigram7,-18.83668946973079,-18.40811804115936,FALSE
+the glasses will n't wear .,-18.40811804115936,-128.8568262881155,bad,inchoative,499,syntax,argument_structure,bigram7,-18.83668946973079,-18.40811804115936,FALSE
+the glasses will n't twist .,-19.00305035400093,-133.02135247800652,good,inchoative,499,syntax,argument_structure,bigram8,-19.00305035400093,-18.574478925429503,FALSE
+the glasses will n't wear .,-18.574478925429503,-130.02135247800652,bad,inchoative,499,syntax,argument_structure,bigram8,-19.00305035400093,-18.574478925429503,FALSE
+the glasses will n't twist .,-18.818227195012323,-131.72759036508626,good,inchoative,499,syntax,argument_structure,bigram9,-18.818227195012323,-18.34366603859984,FALSE
+the glasses will n't wear .,-18.34366603859984,-128.4056622701989,bad,inchoative,499,syntax,argument_structure,bigram9,-18.818227195012323,-18.34366603859984,FALSE
+that apple was growing .,-19.211113035157094,-115.26667821094259,good,inchoative,503,syntax,argument_structure,bigram1,-19.211113035157094,-19.043561213716107,FALSE
+that apple was looking like .,-19.043561213716107,-133.30492849601274,bad,inchoative,503,syntax,argument_structure,bigram1,-19.211113035157094,-19.043561213716107,FALSE
+that apple was growing .,-19.153804934912653,-114.92282960947591,good,inchoative,503,syntax,argument_structure,bigram10,-19.153804934912653,-19.328118071693645,TRUE
+that apple was looking like .,-19.328118071693645,-135.29682650185552,bad,inchoative,503,syntax,argument_structure,bigram10,-19.153804934912653,-19.328118071693645,TRUE
+that apple was growing .,-18.95951840752931,-113.75711044517585,good,inchoative,503,syntax,argument_structure,bigram2,-18.95951840752931,-19.00591554261841,TRUE
+that apple was looking like .,-19.00591554261841,-133.0414087983289,bad,inchoative,503,syntax,argument_structure,bigram2,-18.95951840752931,-19.00591554261841,TRUE
+that apple was growing .,-18.968387474227796,-113.81032484536675,good,inchoative,503,syntax,argument_structure,bigram3,-18.968387474227796,-19.10875455019247,TRUE
+that apple was looking like .,-19.10875455019247,-133.7612818513473,bad,inchoative,503,syntax,argument_structure,bigram3,-18.968387474227796,-19.10875455019247,TRUE
+that apple was growing .,-18.992215557715628,-113.95329334629378,good,inchoative,503,syntax,argument_structure,bigram4,-18.992215557715628,-19.18867829882007,TRUE
+that apple was looking like .,-19.18867829882007,-134.32074809174048,bad,inchoative,503,syntax,argument_structure,bigram4,-18.992215557715628,-19.18867829882007,TRUE
+that apple was growing .,-19.14426568298438,-114.86559409790628,good,inchoative,503,syntax,argument_structure,bigram5,-19.14426568298438,-19.070621485027456,FALSE
+that apple was looking like .,-19.070621485027456,-133.49435039519219,bad,inchoative,503,syntax,argument_structure,bigram5,-19.14426568298438,-19.070621485027456,FALSE
+that apple was growing .,-19.1800636133162,-115.08038167989717,good,inchoative,503,syntax,argument_structure,bigram6,-19.1800636133162,-18.97802638103988,FALSE
+that apple was looking like .,-18.97802638103988,-132.84618466727918,bad,inchoative,503,syntax,argument_structure,bigram6,-19.1800636133162,-18.97802638103988,FALSE
+that apple was growing .,-19.0681737045935,-114.409042227561,good,inchoative,503,syntax,argument_structure,bigram7,-19.0681737045935,-19.173526703373305,TRUE
+that apple was looking like .,-19.173526703373305,-134.21468692361313,bad,inchoative,503,syntax,argument_structure,bigram7,-19.0681737045935,-19.173526703373305,TRUE
+that apple was growing .,-18.999411108037023,-113.99646664822214,good,inchoative,503,syntax,argument_structure,bigram8,-18.999411108037023,-19.045364821110788,TRUE
+that apple was looking like .,-19.045364821110788,-133.31755374777552,bad,inchoative,503,syntax,argument_structure,bigram8,-18.999411108037023,-19.045364821110788,TRUE
+that apple was growing .,-19.020392472123152,-114.12235483273892,good,inchoative,503,syntax,argument_structure,bigram9,-19.020392472123152,-19.15787591224477,TRUE
+that apple was looking like .,-19.15787591224477,-134.10513138571335,bad,inchoative,503,syntax,argument_structure,bigram9,-19.020392472123152,-19.15787591224477,TRUE
+that bicycle turned .,-18.46430746605278,-92.3215373302639,good,inchoative,52,syntax,argument_structure,bigram1,-18.46430746605278,-18.46430746605278,FALSE
+that bicycle brought .,-18.46430746605278,-92.3215373302639,bad,inchoative,52,syntax,argument_structure,bigram1,-18.46430746605278,-18.46430746605278,FALSE
+that bicycle turned .,-18.19277404327503,-90.96387021637514,good,inchoative,52,syntax,argument_structure,bigram10,-18.19277404327503,-18.39277404327503,TRUE
+that bicycle brought .,-18.39277404327503,-91.96387021637514,bad,inchoative,52,syntax,argument_structure,bigram10,-18.19277404327503,-18.39277404327503,TRUE
+that bicycle turned .,-18.165791180449617,-90.82895590224808,good,inchoative,52,syntax,argument_structure,bigram2,-18.165791180449617,-18.365791180449616,TRUE
+that bicycle brought .,-18.365791180449616,-91.82895590224808,bad,inchoative,52,syntax,argument_structure,bigram2,-18.165791180449617,-18.365791180449616,TRUE
+that bicycle turned .,-18.17187356787724,-90.85936783938621,good,inchoative,52,syntax,argument_structure,bigram3,-18.17187356787724,-18.37187356787724,TRUE
+that bicycle brought .,-18.37187356787724,-91.85936783938621,bad,inchoative,52,syntax,argument_structure,bigram3,-18.17187356787724,-18.37187356787724,TRUE
+that bicycle turned .,-18.400175220025183,-92.00087610012592,good,inchoative,52,syntax,argument_structure,bigram4,-18.400175220025183,-18.400175220025183,FALSE
+that bicycle brought .,-18.400175220025183,-92.00087610012592,bad,inchoative,52,syntax,argument_structure,bigram4,-18.400175220025183,-18.400175220025183,FALSE
+that bicycle turned .,-18.1829819411466,-90.91490970573301,good,inchoative,52,syntax,argument_structure,bigram5,-18.1829819411466,-18.382981941146603,TRUE
+that bicycle brought .,-18.382981941146603,-91.91490970573301,bad,inchoative,52,syntax,argument_structure,bigram5,-18.1829819411466,-18.382981941146603,TRUE
+that bicycle turned .,-18.428930738214568,-92.14465369107285,good,inchoative,52,syntax,argument_structure,bigram6,-18.428930738214568,-18.428930738214568,FALSE
+that bicycle brought .,-18.428930738214568,-92.14465369107285,bad,inchoative,52,syntax,argument_structure,bigram6,-18.428930738214568,-18.428930738214568,FALSE
+that bicycle turned .,-18.286694506013312,-91.43347253006655,good,inchoative,52,syntax,argument_structure,bigram7,-18.286694506013312,-18.48669450601331,TRUE
+that bicycle brought .,-18.48669450601331,-92.43347253006655,bad,inchoative,52,syntax,argument_structure,bigram7,-18.286694506013312,-18.48669450601331,TRUE
+that bicycle turned .,-18.20630467177881,-91.03152335889405,good,inchoative,52,syntax,argument_structure,bigram8,-18.20630467177881,-18.40630467177881,TRUE
+that bicycle brought .,-18.40630467177881,-92.03152335889405,bad,inchoative,52,syntax,argument_structure,bigram8,-18.20630467177881,-18.40630467177881,TRUE
+that bicycle turned .,-18.2279156559529,-91.13957827976449,good,inchoative,52,syntax,argument_structure,bigram9,-18.2279156559529,-18.427915655952894,TRUE
+that bicycle brought .,-18.427915655952894,-92.13957827976449,bad,inchoative,52,syntax,argument_structure,bigram9,-18.2279156559529,-18.427915655952894,TRUE
+some mirror has n't cracked .,-19.775578543977417,-138.42904980784192,good,inchoative,523,syntax,argument_structure,bigram1,-19.775578543977417,-19.775578543977417,FALSE
+some mirror has n't fixed .,-19.775578543977417,-138.42904980784192,bad,inchoative,523,syntax,argument_structure,bigram1,-19.775578543977417,-19.775578543977417,FALSE
+some mirror has n't cracked .,-19.84908771523426,-138.94361400663982,good,inchoative,523,syntax,argument_structure,bigram10,-19.84908771523426,-19.70623057237712,FALSE
+some mirror has n't fixed .,-19.70623057237712,-137.94361400663982,bad,inchoative,523,syntax,argument_structure,bigram10,-19.84908771523426,-19.70623057237712,FALSE
+some mirror has n't cracked .,-19.80040040398738,-138.60280282791166,good,inchoative,523,syntax,argument_structure,bigram2,-19.80040040398738,-19.80040040398738,FALSE
+some mirror has n't fixed .,-19.80040040398738,-138.60280282791166,bad,inchoative,523,syntax,argument_structure,bigram2,-19.80040040398738,-19.80040040398738,FALSE
+some mirror has n't cracked .,-19.748355453101794,-138.23848817171256,good,inchoative,523,syntax,argument_structure,bigram3,-19.748355453101794,-19.748355453101794,FALSE
+some mirror has n't fixed .,-19.748355453101794,-138.23848817171256,bad,inchoative,523,syntax,argument_structure,bigram3,-19.748355453101794,-19.748355453101794,FALSE
+some mirror has n't cracked .,-19.861017252233616,-139.02712076563532,good,inchoative,523,syntax,argument_structure,bigram4,-19.861017252233616,-19.718160109376477,FALSE
+some mirror has n't fixed .,-19.718160109376477,-138.02712076563532,bad,inchoative,523,syntax,argument_structure,bigram4,-19.861017252233616,-19.718160109376477,FALSE
+some mirror has n't cracked .,-19.9884413279519,-139.9190892956633,good,inchoative,523,syntax,argument_structure,bigram5,-19.9884413279519,-19.904875256420308,FALSE
+some mirror has n't fixed .,-19.904875256420308,-139.33412679494216,bad,inchoative,523,syntax,argument_structure,bigram5,-19.9884413279519,-19.904875256420308,FALSE
+some mirror has n't cracked .,-20.027939026359917,-140.1955731845194,good,inchoative,523,syntax,argument_structure,bigram6,-20.027939026359917,-19.80151581197117,FALSE
+some mirror has n't fixed .,-19.80151581197117,-138.61061068379823,bad,inchoative,523,syntax,argument_structure,bigram6,-20.027939026359917,-19.80151581197117,FALSE
+some mirror has n't cracked .,-19.978739960710623,-139.85117972497437,good,inchoative,523,syntax,argument_structure,bigram7,-19.978739960710623,-19.83588281785348,FALSE
+some mirror has n't fixed .,-19.83588281785348,-138.85117972497437,bad,inchoative,523,syntax,argument_structure,bigram7,-19.978739960710623,-19.83588281785348,FALSE
+some mirror has n't cracked .,-19.92826537285754,-139.49785761000277,good,inchoative,523,syntax,argument_structure,bigram8,-19.92826537285754,-19.7854082300004,FALSE
+some mirror has n't fixed .,-19.7854082300004,-138.49785761000277,bad,inchoative,523,syntax,argument_structure,bigram8,-19.92826537285754,-19.7854082300004,FALSE
+some mirror has n't cracked .,-19.90222631339118,-139.31558419373826,good,inchoative,523,syntax,argument_structure,bigram9,-19.90222631339118,-20.045083456248324,TRUE
+some mirror has n't fixed .,-20.045083456248324,-140.31558419373826,bad,inchoative,523,syntax,argument_structure,bigram9,-19.90222631339118,-20.045083456248324,TRUE
+that truck broke .,-17.947314965908546,-89.73657482954273,good,inchoative,533,syntax,argument_structure,bigram1,-17.947314965908546,-18.147314965908546,TRUE
+that truck likes .,-18.147314965908546,-90.73657482954273,bad,inchoative,533,syntax,argument_structure,bigram1,-17.947314965908546,-18.147314965908546,TRUE
+that truck broke .,-17.875781543130795,-89.37890771565398,good,inchoative,533,syntax,argument_structure,bigram10,-17.875781543130795,-18.075781543130795,TRUE
+that truck likes .,-18.075781543130795,-90.37890771565398,bad,inchoative,533,syntax,argument_structure,bigram10,-17.875781543130795,-18.075781543130795,TRUE
+that truck broke .,-17.701405561472146,-88.50702780736073,good,inchoative,533,syntax,argument_structure,bigram2,-17.701405561472146,-17.901405561472146,TRUE
+that truck likes .,-17.901405561472146,-89.50702780736073,bad,inchoative,533,syntax,argument_structure,bigram2,-17.701405561472146,-17.901405561472146,TRUE
+that truck broke .,-18.05488106773301,-90.27440533866505,good,inchoative,533,syntax,argument_structure,bigram3,-18.05488106773301,-18.05488106773301,FALSE
+that truck likes .,-18.05488106773301,-90.27440533866505,bad,inchoative,533,syntax,argument_structure,bigram3,-18.05488106773301,-18.05488106773301,FALSE
+that truck broke .,-17.883182719880953,-89.41591359940476,good,inchoative,533,syntax,argument_structure,bigram4,-17.883182719880953,-18.083182719880952,TRUE
+that truck likes .,-18.083182719880952,-90.41591359940476,bad,inchoative,533,syntax,argument_structure,bigram4,-17.883182719880953,-18.083182719880952,TRUE
+that truck broke .,-17.91859632216913,-89.59298161084565,good,inchoative,533,syntax,argument_structure,bigram5,-17.91859632216913,-17.91859632216913,FALSE
+that truck likes .,-17.91859632216913,-89.59298161084565,bad,inchoative,533,syntax,argument_structure,bigram5,-17.91859632216913,-17.91859632216913,FALSE
+that truck broke .,-17.82893073821457,-89.14465369107285,good,inchoative,533,syntax,argument_structure,bigram6,-17.82893073821457,-18.02893073821457,TRUE
+that truck likes .,-18.02893073821457,-90.14465369107285,bad,inchoative,533,syntax,argument_structure,bigram6,-17.82893073821457,-18.02893073821457,TRUE
+that truck broke .,-17.88669450601331,-89.43347253006655,good,inchoative,533,syntax,argument_structure,bigram7,-17.88669450601331,-18.08669450601331,TRUE
+that truck likes .,-18.08669450601331,-90.43347253006655,bad,inchoative,533,syntax,argument_structure,bigram7,-17.88669450601331,-18.08669450601331,TRUE
+that truck broke .,-17.88931217163458,-89.44656085817289,good,inchoative,533,syntax,argument_structure,bigram8,-17.88931217163458,-18.089312171634575,TRUE
+that truck likes .,-18.089312171634575,-90.44656085817289,bad,inchoative,533,syntax,argument_structure,bigram8,-17.88931217163458,-18.089312171634575,TRUE
+that truck broke .,-17.910923155808668,-89.55461577904333,good,inchoative,533,syntax,argument_structure,bigram9,-17.910923155808668,-18.110923155808667,TRUE
+that truck likes .,-18.110923155808667,-90.55461577904333,bad,inchoative,533,syntax,argument_structure,bigram9,-17.910923155808668,-18.110923155808667,TRUE
+all windows saw .,-19.080252904546924,-95.40126452273462,bad,inchoative,55,syntax,argument_structure,bigram1,-19.19724540469116,-19.080252904546924,FALSE
+all windows closed .,-19.19724540469116,-95.98622702345578,good,inchoative,55,syntax,argument_structure,bigram1,-19.19724540469116,-19.080252904546924,FALSE
+all windows saw .,-19.200289534838323,-96.00144767419161,bad,inchoative,55,syntax,argument_structure,bigram10,-19.317282034982554,-19.200289534838323,FALSE
+all windows closed .,-19.317282034982554,-96.58641017491277,good,inchoative,55,syntax,argument_structure,bigram10,-19.317282034982554,-19.200289534838323,FALSE
+all windows saw .,-19.36986090952798,-96.84930454763989,bad,inchoative,55,syntax,argument_structure,bigram2,-19.36986090952798,-19.36986090952798,FALSE
+all windows closed .,-19.36986090952798,-96.84930454763989,good,inchoative,55,syntax,argument_structure,bigram2,-19.36986090952798,-19.36986090952798,FALSE
+all windows saw .,-19.42660815313327,-97.13304076566635,bad,inchoative,55,syntax,argument_structure,bigram3,-19.42660815313327,-19.42660815313327,FALSE
+all windows closed .,-19.42660815313327,-97.13304076566635,good,inchoative,55,syntax,argument_structure,bigram3,-19.42660815313327,-19.42660815313327,FALSE
+all windows saw .,-19.22445725465992,-96.12228627329961,bad,inchoative,55,syntax,argument_structure,bigram4,-19.22445725465992,-19.22445725465992,FALSE
+all windows closed .,-19.22445725465992,-96.12228627329961,good,inchoative,55,syntax,argument_structure,bigram4,-19.22445725465992,-19.22445725465992,FALSE
+all windows saw .,-19.245844923302094,-96.22922461651049,bad,inchoative,55,syntax,argument_structure,bigram5,-19.245844923302094,-19.245844923302094,FALSE
+all windows closed .,-19.245844923302094,-96.22922461651049,good,inchoative,55,syntax,argument_structure,bigram5,-19.245844923302094,-19.245844923302094,FALSE
+all windows saw .,-19.22845577677699,-96.14227888388494,bad,inchoative,55,syntax,argument_structure,bigram6,-19.22845577677699,-19.22845577677699,FALSE
+all windows closed .,-19.22845577677699,-96.14227888388494,good,inchoative,55,syntax,argument_structure,bigram6,-19.22845577677699,-19.22845577677699,FALSE
+all windows saw .,-19.16970200586908,-95.84851002934539,bad,inchoative,55,syntax,argument_structure,bigram7,-19.48669450601331,-19.16970200586908,FALSE
+all windows closed .,-19.48669450601331,-97.43347253006655,good,inchoative,55,syntax,argument_structure,bigram7,-19.48669450601331,-19.16970200586908,FALSE
+all windows saw .,-19.158072690536603,-95.79036345268301,bad,inchoative,55,syntax,argument_structure,bigram8,-19.275065190680834,-19.158072690536603,FALSE
+all windows closed .,-19.275065190680834,-96.37532595340417,good,inchoative,55,syntax,argument_structure,bigram8,-19.275065190680834,-19.158072690536603,FALSE
+all windows saw .,-19.309594093080264,-96.54797046540132,bad,inchoative,55,syntax,argument_structure,bigram9,-19.309594093080264,-19.309594093080264,FALSE
+all windows closed .,-19.309594093080264,-96.54797046540132,good,inchoative,55,syntax,argument_structure,bigram9,-19.309594093080264,-19.309594093080264,FALSE
+the glasses are breaking .,-19.10294338600868,-114.61766031605208,good,inchoative,58,syntax,argument_structure,bigram1,-19.10294338600868,-18.93627671934201,FALSE
+the glasses are taking .,-18.93627671934201,-113.61766031605208,bad,inchoative,58,syntax,argument_structure,bigram1,-19.10294338600868,-18.93627671934201,FALSE
+the glasses are breaking .,-19.004332568153327,-114.02599540891997,good,inchoative,58,syntax,argument_structure,bigram10,-19.004332568153327,-19.004332568153327,FALSE
+the glasses are taking .,-19.004332568153327,-114.02599540891997,bad,inchoative,58,syntax,argument_structure,bigram10,-19.004332568153327,-19.004332568153327,FALSE
+the glasses are breaking .,-18.9065381972252,-113.4392291833512,good,inchoative,58,syntax,argument_structure,bigram2,-18.9065381972252,-19.073204863891867,TRUE
+the glasses are taking .,-19.073204863891867,-114.4392291833512,bad,inchoative,58,syntax,argument_structure,bigram2,-18.9065381972252,-19.073204863891867,TRUE
+the glasses are breaking .,-18.896773428353917,-113.38064057012349,good,inchoative,58,syntax,argument_structure,bigram3,-18.896773428353917,-18.73010676168725,FALSE
+the glasses are taking .,-18.73010676168725,-112.38064057012349,bad,inchoative,58,syntax,argument_structure,bigram3,-18.896773428353917,-18.73010676168725,FALSE
+the glasses are breaking .,-19.23710447048129,-115.42262682288776,good,inchoative,58,syntax,argument_structure,bigram4,-19.23710447048129,-19.23710447048129,FALSE
+the glasses are taking .,-19.23710447048129,-115.42262682288776,bad,inchoative,58,syntax,argument_structure,bigram4,-19.23710447048129,-19.23710447048129,FALSE
+the glasses are breaking .,-19.03437490014376,-114.20624940086255,good,inchoative,58,syntax,argument_structure,bigram5,-19.03437490014376,-19.03437490014376,FALSE
+the glasses are taking .,-19.03437490014376,-114.20624940086255,bad,inchoative,58,syntax,argument_structure,bigram5,-19.03437490014376,-19.03437490014376,FALSE
+the glasses are breaking .,-19.050594428854065,-114.3035665731244,good,inchoative,58,syntax,argument_structure,bigram6,-19.050594428854065,-18.8839277621874,FALSE
+the glasses are taking .,-18.8839277621874,-113.3035665731244,bad,inchoative,58,syntax,argument_structure,bigram6,-19.050594428854065,-18.8839277621874,FALSE
+the glasses are breaking .,-18.77710271735762,-112.66261630414573,good,inchoative,58,syntax,argument_structure,bigram7,-18.77710271735762,-18.77710271735762,FALSE
+the glasses are taking .,-18.77710271735762,-112.66261630414573,bad,inchoative,58,syntax,argument_structure,bigram7,-18.77710271735762,-18.77710271735762,FALSE
+the glasses are breaking .,-19.306294817033848,-115.8377689022031,good,inchoative,58,syntax,argument_structure,bigram8,-19.306294817033848,-19.139628150367184,FALSE
+the glasses are taking .,-19.139628150367184,-114.8377689022031,bad,inchoative,58,syntax,argument_structure,bigram8,-19.306294817033848,-19.139628150367184,FALSE
+the glasses are breaking .,-18.9337991345399,-113.6027948072394,good,inchoative,58,syntax,argument_structure,bigram9,-18.9337991345399,-18.9337991345399,FALSE
+the glasses are taking .,-18.9337991345399,-113.6027948072394,bad,inchoative,58,syntax,argument_structure,bigram9,-18.9337991345399,-18.9337991345399,FALSE
+some carriage had n't found .,-20.204149972548844,-141.42904980784192,bad,inchoative,594,syntax,argument_structure,bigram1,-19.32273211519995,-20.204149972548844,TRUE
+some carriage had n't broken .,-19.32273211519995,-135.25912480639965,good,inchoative,594,syntax,argument_structure,bigram1,-19.32273211519995,-20.204149972548844,TRUE
+some carriage had n't found .,-20.21836807248014,-141.52857650736098,bad,inchoative,594,syntax,argument_structure,bigram10,-19.4686641419882,-20.21836807248014,TRUE
+some carriage had n't broken .,-19.4686641419882,-136.2806489939174,good,inchoative,594,syntax,argument_structure,bigram10,-19.4686641419882,-20.21836807248014,TRUE
+some carriage had n't found .,-20.169680761233256,-141.1877653286328,bad,inchoative,594,syntax,argument_structure,bigram2,-19.2377433389394,-20.169680761233256,TRUE
+some carriage had n't broken .,-19.2377433389394,-134.6642033725758,good,inchoative,594,syntax,argument_structure,bigram2,-19.2377433389394,-20.169680761233256,TRUE
+some carriage had n't found .,-20.17692688167322,-141.23848817171256,bad,inchoative,594,syntax,argument_structure,bigram3,-19.379075095855917,-20.17692688167322,TRUE
+some carriage had n't broken .,-19.379075095855917,-135.6535256709914,good,inchoative,594,syntax,argument_structure,bigram3,-19.379075095855917,-20.17692688167322,TRUE
+some carriage had n't found .,-20.289588680805046,-142.02712076563532,bad,inchoative,594,syntax,argument_structure,bigram4,-19.57530296651933,-20.289588680805046,TRUE
+some carriage had n't broken .,-19.57530296651933,-137.02712076563532,good,inchoative,594,syntax,argument_structure,bigram4,-19.57530296651933,-20.289588680805046,TRUE
+some carriage had n't found .,-20.274155613666185,-141.9190892956633,bad,inchoative,594,syntax,argument_structure,bigram5,-19.47630382784888,-20.274155613666185,TRUE
+some carriage had n't broken .,-19.47630382784888,-136.33412679494216,good,inchoative,594,syntax,argument_structure,bigram5,-19.47630382784888,-20.274155613666185,TRUE
+some carriage had n't found .,-20.170796169217056,-141.1955731845194,bad,inchoative,594,syntax,argument_structure,bigram6,-19.221673856392098,-20.170796169217056,TRUE
+some carriage had n't broken .,-19.221673856392098,-134.55171699474468,good,inchoative,594,syntax,argument_structure,bigram6,-19.221673856392098,-20.170796169217056,TRUE
+some carriage had n't found .,-20.26445424642491,-141.85117972497437,bad,inchoative,594,syntax,argument_structure,bigram7,-19.407311389282054,-20.26445424642491,TRUE
+some carriage had n't broken .,-19.407311389282054,-135.85117972497437,good,inchoative,594,syntax,argument_structure,bigram7,-19.407311389282054,-20.26445424642491,TRUE
+some carriage had n't found .,-20.297545730103412,-142.0828201107239,bad,inchoative,594,syntax,argument_structure,bigram8,-19.46427572807988,-20.297545730103412,TRUE
+some carriage had n't broken .,-19.46427572807988,-136.24993009655915,good,inchoative,594,syntax,argument_structure,bigram8,-19.46427572807988,-20.297545730103412,TRUE
+some carriage had n't found .,-20.33079774196261,-142.31558419373826,bad,inchoative,594,syntax,argument_structure,bigram9,-19.5329459561453,-20.33079774196261,TRUE
+some carriage had n't broken .,-19.5329459561453,-136.7306216930171,good,inchoative,594,syntax,argument_structure,bigram9,-19.5329459561453,-20.33079774196261,TRUE
+Name could n't like .,-17.143995926828378,-102.86397556097027,bad,inchoative,618,syntax,argument_structure,bigram1,-17.433490192522747,-17.143995926828378,FALSE
+Name could n't hurt .,-17.433490192522747,-104.60094115513648,good,inchoative,618,syntax,argument_structure,bigram1,-17.433490192522747,-17.143995926828378,FALSE
+Name could n't like .,-17.45285234241425,-104.7171140544855,bad,inchoative,618,syntax,argument_structure,bigram10,-17.373446001757088,-17.45285234241425,TRUE
+Name could n't hurt .,-17.373446001757088,-104.24067601054253,good,inchoative,618,syntax,argument_structure,bigram10,-17.373446001757088,-17.45285234241425,TRUE
+Name could n't like .,-17.232124819034322,-103.39274891420592,bad,inchoative,618,syntax,argument_structure,bigram2,-17.348864772057837,-17.232124819034322,FALSE
+Name could n't hurt .,-17.348864772057837,-104.09318863234702,good,inchoative,618,syntax,argument_structure,bigram2,-17.348864772057837,-17.232124819034322,FALSE
+Name could n't like .,-17.168061514924418,-103.0083690895465,bad,inchoative,618,syntax,argument_structure,bigram3,-17.29088911395212,-17.168061514924418,FALSE
+Name could n't hurt .,-17.29088911395212,-103.74533468371271,good,inchoative,618,syntax,argument_structure,bigram3,-17.29088911395212,-17.168061514924418,FALSE
+Name could n't like .,-17.30064953455337,-103.80389720732022,bad,inchoative,618,syntax,argument_structure,bigram4,-17.31238108920194,-17.30064953455337,FALSE
+Name could n't hurt .,-17.31238108920194,-103.87428653521162,good,inchoative,618,syntax,argument_structure,bigram4,-17.31238108920194,-17.30064953455337,FALSE
+Name could n't like .,-17.163813045867723,-102.98287827520633,bad,inchoative,618,syntax,argument_structure,bigram5,-17.047073092844204,-17.163813045867723,TRUE
+Name could n't hurt .,-17.047073092844204,-102.28243855706523,good,inchoative,618,syntax,argument_structure,bigram5,-17.047073092844204,-17.163813045867723,TRUE
+Name could n't like .,-17.217319806099336,-103.30391883659601,bad,inchoative,618,syntax,argument_structure,bigram6,-17.326545110868096,-17.217319806099336,FALSE
+Name could n't hurt .,-17.326545110868096,-103.95927066520858,good,inchoative,618,syntax,argument_structure,bigram6,-17.326545110868096,-17.217319806099336,FALSE
+Name could n't like .,-17.342765364649456,-104.05659218789674,bad,inchoative,618,syntax,argument_structure,bigram7,-17.596692357325626,-17.342765364649456,FALSE
+Name could n't hurt .,-17.596692357325626,-105.58015414395376,good,inchoative,618,syntax,argument_structure,bigram7,-17.596692357325626,-17.342765364649456,FALSE
+Name could n't like .,-17.253553496540064,-103.52132097924039,bad,inchoative,618,syntax,argument_structure,bigram8,-17.43532058800355,-17.253553496540064,FALSE
+Name could n't hurt .,-17.43532058800355,-104.6119235280213,good,inchoative,618,syntax,argument_structure,bigram8,-17.43532058800355,-17.253553496540064,FALSE
+Name could n't like .,-17.302876569623923,-103.81725941774354,bad,inchoative,618,syntax,argument_structure,bigram9,-17.29481606603036,-17.302876569623923,TRUE
+Name could n't hurt .,-17.29481606603036,-103.76889639618216,good,inchoative,618,syntax,argument_structure,bigram9,-17.29481606603036,-17.302876569623923,TRUE
+Name would move .,-17.21775193634678,-86.08875968173389,good,inchoative,640,syntax,argument_structure,bigram1,-17.21775193634678,-17.36514505518002,TRUE
+Name would forget .,-17.36514505518002,-86.8257252759001,bad,inchoative,640,syntax,argument_structure,bigram1,-17.21775193634678,-17.36514505518002,TRUE
+Name would move .,-17.361557085821868,-86.80778542910934,good,inchoative,640,syntax,argument_structure,bigram10,-17.361557085821868,-17.825942704799342,TRUE
+Name would forget .,-17.825942704799342,-89.12971352399671,bad,inchoative,640,syntax,argument_structure,bigram10,-17.361557085821868,-17.825942704799342,TRUE
+Name would move .,-17.327793055550334,-86.63896527775167,good,inchoative,640,syntax,argument_structure,bigram2,-17.327793055550334,-17.444785555694565,TRUE
+Name would forget .,-17.444785555694565,-87.22392777847283,bad,inchoative,640,syntax,argument_structure,bigram2,-17.327793055550334,-17.444785555694565,TRUE
+Name would move .,-17.423261154523907,-87.11630577261954,good,inchoative,640,syntax,argument_structure,bigram3,-17.423261154523907,-17.54025365466814,TRUE
+Name would forget .,-17.54025365466814,-87.70126827334069,bad,inchoative,640,syntax,argument_structure,bigram3,-17.423261154523907,-17.54025365466814,TRUE
+Name would move .,-17.506660800225223,-87.53330400112611,good,inchoative,640,syntax,argument_structure,bigram4,-17.506660800225223,-17.62365330036945,TRUE
+Name would forget .,-17.62365330036945,-88.11826650184726,bad,inchoative,640,syntax,argument_structure,bigram4,-17.506660800225223,-17.62365330036945,TRUE
+Name would move .,-17.45220251470579,-87.26101257352894,good,inchoative,640,syntax,argument_structure,bigram5,-17.45220251470579,-17.56919501485002,TRUE
+Name would forget .,-17.56919501485002,-87.8459750742501,bad,inchoative,640,syntax,argument_structure,bigram5,-17.45220251470579,-17.56919501485002,TRUE
+Name would move .,-17.20470853527685,-86.02354267638425,good,inchoative,640,syntax,argument_structure,bigram6,-17.20470853527685,-17.669094154254324,TRUE
+Name would forget .,-17.669094154254324,-88.34547077127162,bad,inchoative,640,syntax,argument_structure,bigram6,-17.20470853527685,-17.669094154254324,TRUE
+Name would move .,-17.373523770458622,-86.8676188522931,good,inchoative,640,syntax,argument_structure,bigram7,-17.373523770458622,-17.637909389436093,TRUE
+Name would forget .,-17.637909389436093,-88.18954694718046,bad,inchoative,640,syntax,argument_structure,bigram7,-17.373523770458622,-17.637909389436093,TRUE
+Name would move .,-17.363381048027104,-86.81690524013553,good,inchoative,640,syntax,argument_structure,bigram8,-17.363381048027104,-17.446388547882872,TRUE
+Name would forget .,-17.446388547882872,-87.23194273941436,bad,inchoative,640,syntax,argument_structure,bigram8,-17.363381048027104,-17.446388547882872,TRUE
+Name would move .,-17.775775396825516,-88.87887698412757,good,inchoative,640,syntax,argument_structure,bigram9,-17.775775396825516,-17.775775396825516,FALSE
+Name would forget .,-17.775775396825516,-88.87887698412757,bad,inchoative,640,syntax,argument_structure,bigram9,-17.775775396825516,-17.775775396825516,FALSE
+a mouth does open .,-18.813504086407477,-112.88102451844483,good,inchoative,680,syntax,argument_structure,bigram1,-18.813504086407477,-18.980170753074137,TRUE
+a mouth does take .,-18.980170753074137,-113.88102451844483,bad,inchoative,680,syntax,argument_structure,bigram1,-18.813504086407477,-18.980170753074137,TRUE
+a mouth does open .,-18.725102118931883,-112.35061271359129,good,inchoative,680,syntax,argument_structure,bigram10,-18.725102118931883,-19.11209013474644,TRUE
+a mouth does take .,-19.11209013474644,-114.67254080847866,bad,inchoative,680,syntax,argument_structure,bigram10,-18.725102118931883,-19.11209013474644,TRUE
+a mouth does open .,-18.665025018451967,-111.99015011071181,good,inchoative,680,syntax,argument_structure,bigram2,-18.665025018451967,-19.05201303426653,TRUE
+a mouth does take .,-19.05201303426653,-114.31207820559918,bad,inchoative,680,syntax,argument_structure,bigram2,-18.665025018451967,-19.05201303426653,TRUE
+a mouth does open .,-18.96066153494583,-113.763969209675,good,inchoative,680,syntax,argument_structure,bigram3,-18.96066153494583,-19.1273282016125,TRUE
+a mouth does take .,-19.1273282016125,-114.763969209675,bad,inchoative,680,syntax,argument_structure,bigram3,-18.96066153494583,-19.1273282016125,TRUE
+a mouth does open .,-18.772552973838653,-112.63531784303193,good,inchoative,680,syntax,argument_structure,bigram4,-18.772552973838653,-19.159540989653213,TRUE
+a mouth does take .,-19.159540989653213,-114.95724593791928,bad,inchoative,680,syntax,argument_structure,bigram4,-18.772552973838653,-19.159540989653213,TRUE
+a mouth does open .,-18.49337182867406,-110.96023097204436,good,inchoative,680,syntax,argument_structure,bigram5,-18.49337182867406,-18.924198912127583,TRUE
+a mouth does take .,-18.924198912127583,-113.54519347276552,bad,inchoative,680,syntax,argument_structure,bigram5,-18.49337182867406,-18.924198912127583,TRUE
+a mouth does open .,-18.91393067378984,-113.48358404273904,good,inchoative,680,syntax,argument_structure,bigram6,-18.91393067378984,-19.1780910905767,TRUE
+a mouth does take .,-19.1780910905767,-115.0685465434602,bad,inchoative,680,syntax,argument_structure,bigram6,-18.91393067378984,-19.1780910905767,TRUE
+a mouth does open .,-18.772722829891148,-112.63633697934688,good,inchoative,680,syntax,argument_structure,bigram7,-18.772722829891148,-19.159710845705707,TRUE
+a mouth does take .,-19.159710845705707,-114.95826507423425,bad,inchoative,680,syntax,argument_structure,bigram7,-18.772722829891148,-19.159710845705707,TRUE
+a mouth does open .,-18.57729204936121,-111.46375229616726,good,inchoative,680,syntax,argument_structure,bigram8,-18.57729204936121,-18.96428006517577,TRUE
+a mouth does take .,-18.96428006517577,-113.78568039105463,bad,inchoative,680,syntax,argument_structure,bigram8,-18.57729204936121,-18.96428006517577,TRUE
+a mouth does open .,-18.707285618989093,-112.24371371393457,good,inchoative,680,syntax,argument_structure,bigram9,-18.707285618989093,-18.971446035775955,TRUE
+a mouth does take .,-18.971446035775955,-113.82867621465573,bad,inchoative,680,syntax,argument_structure,bigram9,-18.707285618989093,-18.971446035775955,TRUE
+every plate has n't tipped over .,-20.454653136794303,-163.63722509435445,good,inchoative,712,syntax,argument_structure,bigram1,-20.454653136794303,-20.454653136794303,FALSE
+every plate has n't looked like .,-20.454653136794303,-163.63722509435445,bad,inchoative,712,syntax,argument_structure,bigram1,-20.454653136794303,-20.454653136794303,FALSE
+every plate has n't tipped over .,-20.305670805777225,-162.4453664462178,good,inchoative,712,syntax,argument_structure,bigram10,-20.305670805777225,-20.650031743547657,TRUE
+every plate has n't looked like .,-20.650031743547657,-165.20025394838126,bad,inchoative,712,syntax,argument_structure,bigram10,-20.305670805777225,-20.650031743547657,TRUE
+every plate has n't tipped over .,-20.358047638070573,-162.8643811045646,good,inchoative,712,syntax,argument_structure,bigram2,-20.358047638070573,-20.483047638070573,TRUE
+every plate has n't looked like .,-20.483047638070573,-163.8643811045646,bad,inchoative,712,syntax,argument_structure,bigram2,-20.358047638070573,-20.483047638070573,TRUE
+every plate has n't tipped over .,-20.30986897436101,-162.47895179488808,good,inchoative,712,syntax,argument_structure,bigram3,-20.30986897436101,-20.654229912131445,TRUE
+every plate has n't looked like .,-20.654229912131445,-165.23383929705156,bad,inchoative,712,syntax,argument_structure,bigram3,-20.30986897436101,-20.654229912131445,TRUE
+every plate has n't tipped over .,-20.235000292281534,-161.88000233825227,good,inchoative,712,syntax,argument_structure,bigram4,-20.235000292281534,-20.506240917461824,TRUE
+every plate has n't looked like .,-20.506240917461824,-164.0499273396946,bad,inchoative,712,syntax,argument_structure,bigram4,-20.235000292281534,-20.506240917461824,TRUE
+every plate has n't tipped over .,-20.4467897255388,-163.5743178043104,good,inchoative,712,syntax,argument_structure,bigram5,-20.4467897255388,-20.71803035071909,TRUE
+every plate has n't looked like .,-20.71803035071909,-165.74424280575272,bad,inchoative,712,syntax,argument_structure,bigram5,-20.4467897255388,-20.71803035071909,TRUE
+every plate has n't tipped over .,-20.357192545114607,-162.85754036091686,good,inchoative,712,syntax,argument_structure,bigram6,-20.357192545114607,-20.576553482885043,TRUE
+every plate has n't looked like .,-20.576553482885043,-164.61242786308034,bad,inchoative,712,syntax,argument_structure,bigram6,-20.357192545114607,-20.576553482885043,TRUE
+every plate has n't tipped over .,-20.46265231754812,-163.70121854038496,good,inchoative,712,syntax,argument_structure,bigram7,-20.46265231754812,-20.679773016818896,TRUE
+every plate has n't looked like .,-20.679773016818896,-165.43818413455116,bad,inchoative,712,syntax,argument_structure,bigram7,-20.46265231754812,-20.679773016818896,TRUE
+every plate has n't tipped over .,-20.362615251465343,-162.90092201172274,good,inchoative,712,syntax,argument_structure,bigram8,-20.362615251465343,-20.56664877840278,TRUE
+every plate has n't looked like .,-20.56664877840278,-164.53319022722224,bad,inchoative,712,syntax,argument_structure,bigram8,-20.362615251465343,-20.56664877840278,TRUE
+every plate has n't tipped over .,-20.261488733655657,-162.09190986924526,good,inchoative,712,syntax,argument_structure,bigram9,-20.261488733655657,-20.57297037069687,TRUE
+every plate has n't looked like .,-20.57297037069687,-164.58376296557495,bad,inchoative,712,syntax,argument_structure,bigram9,-20.261488733655657,-20.57297037069687,TRUE
+Name will love .,-17.63393593542349,-88.16967967711746,bad,inchoative,752,syntax,argument_structure,bigram1,-17.43393593542349,-17.63393593542349,TRUE
+Name will wash .,-17.43393593542349,-87.16967967711746,good,inchoative,752,syntax,argument_structure,bigram1,-17.43393593542349,-17.63393593542349,TRUE
+Name will love .,-17.856343323488353,-89.28171661744176,bad,inchoative,752,syntax,argument_structure,bigram10,-17.856343323488353,-17.856343323488353,FALSE
+Name will wash .,-17.856343323488353,-89.28171661744176,good,inchoative,752,syntax,argument_structure,bigram10,-17.856343323488353,-17.856343323488353,FALSE
+Name will love .,-17.669891732111335,-88.34945866055668,bad,inchoative,752,syntax,argument_structure,bigram2,-17.469891732111336,-17.669891732111335,TRUE
+Name will wash .,-17.469891732111336,-87.34945866055668,good,inchoative,752,syntax,argument_structure,bigram2,-17.469891732111336,-17.669891732111335,TRUE
+Name will love .,-17.63415071132838,-88.17075355664191,bad,inchoative,752,syntax,argument_structure,bigram3,-17.63415071132838,-17.63415071132838,FALSE
+Name will wash .,-17.63415071132838,-88.17075355664191,good,inchoative,752,syntax,argument_structure,bigram3,-17.63415071132838,-17.63415071132838,FALSE
+Name will love .,-17.696167316246395,-88.48083658123197,bad,inchoative,752,syntax,argument_structure,bigram4,-17.379174816102164,-17.696167316246395,TRUE
+Name will wash .,-17.379174816102164,-86.89587408051082,good,inchoative,752,syntax,argument_structure,bigram4,-17.379174816102164,-17.696167316246395,TRUE
+Name will love .,-17.629107071221803,-88.14553535610901,bad,inchoative,752,syntax,argument_structure,bigram5,-17.31211457107757,-17.629107071221803,TRUE
+Name will wash .,-17.31211457107757,-86.56057285538785,good,inchoative,752,syntax,argument_structure,bigram5,-17.31211457107757,-17.629107071221803,TRUE
+Name will love .,-17.80918209788254,-89.0459104894127,bad,inchoative,752,syntax,argument_structure,bigram6,-17.60918209788254,-17.80918209788254,TRUE
+Name will wash .,-17.60918209788254,-88.0459104894127,good,inchoative,752,syntax,argument_structure,bigram6,-17.60918209788254,-17.80918209788254,TRUE
+Name will love .,-17.810408684686106,-89.05204342343053,bad,inchoative,752,syntax,argument_structure,bigram7,-17.810408684686106,-17.810408684686106,FALSE
+Name will wash .,-17.810408684686106,-89.05204342343053,good,inchoative,752,syntax,argument_structure,bigram7,-17.810408684686106,-17.810408684686106,FALSE
+Name will love .,-17.763381048027107,-88.81690524013553,bad,inchoative,752,syntax,argument_structure,bigram8,-17.563381048027104,-17.763381048027107,TRUE
+Name will wash .,-17.563381048027104,-87.81690524013553,good,inchoative,752,syntax,argument_structure,bigram8,-17.563381048027104,-17.763381048027107,TRUE
+Name will love .,-17.74827469207553,-88.74137346037764,bad,inchoative,752,syntax,argument_structure,bigram9,-17.54827469207553,-17.74827469207553,TRUE
+Name will wash .,-17.54827469207553,-87.74137346037764,good,inchoative,752,syntax,argument_structure,bigram9,-17.54827469207553,-17.74827469207553,TRUE
+every door did n't like .,-18.97347713767525,-132.81433996372675,bad,inchoative,757,syntax,argument_structure,bigram1,-19.531604365619323,-18.97347713767525,FALSE
+every door did n't open .,-19.531604365619323,-136.72123055933525,good,inchoative,757,syntax,argument_structure,bigram1,-19.531604365619323,-18.97347713767525,FALSE
+every door did n't like .,-19.090038536853307,-133.63026975797314,bad,inchoative,757,syntax,argument_structure,bigram10,-19.404557659877543,-19.090038536853307,FALSE
+every door did n't open .,-19.404557659877543,-135.8319036191428,good,inchoative,757,syntax,argument_structure,bigram10,-19.404557659877543,-19.090038536853307,FALSE
+every door did n't like .,-18.92737510684648,-132.49162574792533,bad,inchoative,757,syntax,argument_structure,bigram2,-19.313152209438066,-18.92737510684648,FALSE
+every door did n't open .,-19.313152209438066,-135.19206546606642,good,inchoative,757,syntax,argument_structure,bigram2,-19.313152209438066,-18.92737510684648,FALSE
+every door did n't like .,-19.03039447808488,-133.21276134659416,bad,inchoative,757,syntax,argument_structure,bigram3,-19.56424670582291,-19.03039447808488,FALSE
+every door did n't open .,-19.56424670582291,-136.94972694076037,good,inchoative,757,syntax,argument_structure,bigram3,-19.56424670582291,-19.03039447808488,FALSE
+every door did n't like .,-19.043717368132597,-133.30602157692815,bad,inchoative,757,syntax,argument_structure,bigram4,-19.48234441497422,-19.043717368132597,FALSE
+every door did n't open .,-19.48234441497422,-136.37641090481955,good,inchoative,757,syntax,argument_structure,bigram4,-19.48234441497422,-19.043717368132597,FALSE
+every door did n't like .,-19.0518722659877,-133.3631058619139,bad,inchoative,757,syntax,argument_structure,bigram5,-19.359301279336997,-19.0518722659877,FALSE
+every door did n't open .,-19.359301279336997,-135.51510895535895,good,inchoative,757,syntax,argument_structure,bigram5,-19.359301279336997,-19.0518722659877,FALSE
+every door did n't like .,-18.946595852675067,-132.62617096872546,bad,inchoative,757,syntax,argument_structure,bigram6,-19.49050369868329,-18.946595852675067,FALSE
+every door did n't open .,-19.49050369868329,-136.43352589078305,good,inchoative,757,syntax,argument_structure,bigram6,-19.49050369868329,-18.946595852675067,FALSE
+every door did n't like .,-18.964175417445663,-132.74922792211967,bad,inchoative,757,syntax,argument_structure,bigram7,-19.50511775485864,-18.964175417445663,FALSE
+every door did n't open .,-19.50511775485864,-136.5358242840105,good,inchoative,757,syntax,argument_structure,bigram7,-19.50511775485864,-18.964175417445663,FALSE
+every door did n't like .,-18.9859610039993,-132.9017270279951,bad,inchoative,757,syntax,argument_structure,bigram8,-19.405760926190137,-18.9859610039993,FALSE
+every door did n't open .,-19.405760926190137,-135.84032648333095,good,inchoative,757,syntax,argument_structure,bigram8,-19.405760926190137,-18.9859610039993,FALSE
+every door did n't like .,-19.045000900953188,-133.3150063066723,bad,inchoative,757,syntax,argument_structure,bigram9,-19.59849648922692,-19.045000900953188,FALSE
+every door did n't open .,-19.59849648922692,-137.18947542458844,good,inchoative,757,syntax,argument_structure,bigram9,-19.59849648922692,-19.045000900953188,FALSE
+most mirrors had n't broken .,-20.16657362885831,-141.16601540200816,good,inchoative,762,syntax,argument_structure,bigram1,-20.16657362885831,-20.762277200492925,TRUE
+most mirrors had n't seen .,-20.762277200492925,-145.33594040345048,bad,inchoative,762,syntax,argument_structure,bigram1,-20.16657362885831,-20.762277200492925,TRUE
+most mirrors had n't broken .,-20.30904172046846,-142.16329204327923,good,inchoative,762,syntax,argument_structure,bigram10,-20.30904172046846,-20.832322436571665,TRUE
+most mirrors had n't seen .,-20.832322436571665,-145.82625705600165,bad,inchoative,762,syntax,argument_structure,bigram10,-20.30904172046846,-20.832322436571665,TRUE
+most mirrors had n't broken .,-20.09164047086796,-140.6414832960757,good,inchoative,762,syntax,argument_structure,bigram2,-20.09164047086796,-20.69187387960648,TRUE
+most mirrors had n't seen .,-20.69187387960648,-144.84311715724533,bad,inchoative,762,syntax,argument_structure,bigram2,-20.09164047086796,-20.69187387960648,TRUE
+most mirrors had n't broken .,-20.242559970049975,-141.69791979034986,good,inchoative,762,syntax,argument_structure,bigram3,-20.242559970049975,-20.81398854147855,TRUE
+most mirrors had n't seen .,-20.81398854147855,-145.69791979034986,bad,inchoative,762,syntax,argument_structure,bigram3,-20.242559970049975,-20.81398854147855,TRUE
+most mirrors had n't broken .,-20.345634026916297,-142.4194381884141,good,inchoative,762,syntax,argument_structure,bigram4,-20.345634026916297,-20.774205455487728,TRUE
+most mirrors had n't seen .,-20.774205455487728,-145.4194381884141,bad,inchoative,762,syntax,argument_structure,bigram4,-20.345634026916297,-20.774205455487728,TRUE
+most mirrors had n't broken .,-20.25622263051135,-141.79355841357943,good,inchoative,762,syntax,argument_structure,bigram5,-20.25622263051135,-20.72237040277332,TRUE
+most mirrors had n't seen .,-20.72237040277332,-145.05659281941323,bad,inchoative,762,syntax,argument_structure,bigram5,-20.25622263051135,-20.72237040277332,TRUE
+most mirrors had n't broken .,-20.08825802645749,-140.61780618520243,good,inchoative,762,syntax,argument_structure,bigram6,-20.08825802645749,-20.810957124893715,TRUE
+most mirrors had n't seen .,-20.810957124893715,-145.676699874256,bad,inchoative,762,syntax,argument_structure,bigram6,-20.08825802645749,-20.810957124893715,TRUE
+most mirrors had n't broken .,-20.233219919785576,-141.63253943849904,good,inchoative,762,syntax,argument_structure,bigram7,-20.233219919785576,-20.80464849121415,TRUE
+most mirrors had n't seen .,-20.80464849121415,-145.63253943849904,bad,inchoative,762,syntax,argument_structure,bigram7,-20.233219919785576,-20.80464849121415,TRUE
+most mirrors had n't broken .,-20.23460678847685,-141.64224751933793,good,inchoative,762,syntax,argument_structure,bigram8,-20.23460678847685,-20.736172776945043,TRUE
+most mirrors had n't seen .,-20.736172776945043,-145.1532094386153,bad,inchoative,762,syntax,argument_structure,bigram8,-20.23460678847685,-20.736172776945043,TRUE
+most mirrors had n't broken .,-20.288003415982764,-142.01602391187936,good,inchoative,762,syntax,argument_structure,bigram9,-20.288003415982764,-20.859431987411337,TRUE
+most mirrors had n't seen .,-20.859431987411337,-146.01602391187936,bad,inchoative,762,syntax,argument_structure,bigram9,-20.288003415982764,-20.859431987411337,TRUE
+Name would fire .,-17.16514505518002,-85.8257252759001,bad,inchoative,77,syntax,argument_structure,bigram1,-17.48213755532425,-17.16514505518002,FALSE
+Name would wash .,-17.48213755532425,-87.41068777662126,good,inchoative,77,syntax,argument_structure,bigram1,-17.48213755532425,-17.16514505518002,FALSE
+Name would fire .,-17.308950204655112,-86.54475102327555,bad,inchoative,77,syntax,argument_structure,bigram10,-17.825942704799342,-17.308950204655112,FALSE
+Name would wash .,-17.825942704799342,-89.12971352399671,good,inchoative,77,syntax,argument_structure,bigram10,-17.825942704799342,-17.308950204655112,FALSE
+Name would fire .,-17.044785555694567,-85.22392777847283,bad,inchoative,77,syntax,argument_structure,bigram2,-17.444785555694565,-17.044785555694567,FALSE
+Name would wash .,-17.444785555694565,-87.22392777847283,good,inchoative,77,syntax,argument_structure,bigram2,-17.444785555694565,-17.044785555694567,FALSE
+Name would fire .,-17.140253654668136,-85.70126827334069,bad,inchoative,77,syntax,argument_structure,bigram3,-17.740253654668138,-17.140253654668136,FALSE
+Name would wash .,-17.740253654668138,-88.70126827334069,good,inchoative,77,syntax,argument_structure,bigram3,-17.740253654668138,-17.140253654668136,FALSE
+Name would fire .,-17.262182315957933,-86.31091157978966,bad,inchoative,77,syntax,argument_structure,bigram4,-17.506660800225223,-17.262182315957933,FALSE
+Name would wash .,-17.506660800225223,-87.53330400112611,good,inchoative,77,syntax,argument_structure,bigram4,-17.506660800225223,-17.262182315957933,FALSE
+Name would fire .,-17.36919501485002,-86.8459750742501,bad,inchoative,77,syntax,argument_structure,bigram5,-17.45220251470579,-17.36919501485002,FALSE
+Name would wash .,-17.45220251470579,-87.26101257352894,good,inchoative,77,syntax,argument_structure,bigram5,-17.45220251470579,-17.36919501485002,FALSE
+Name would fire .,-17.03510915396586,-85.1755457698293,bad,inchoative,77,syntax,argument_structure,bigram6,-17.469094154254325,-17.03510915396586,FALSE
+Name would wash .,-17.469094154254325,-87.34547077127162,good,inchoative,77,syntax,argument_structure,bigram6,-17.469094154254325,-17.03510915396586,FALSE
+Name would fire .,-17.20392438914763,-86.01962194573815,bad,inchoative,77,syntax,argument_structure,bigram7,-17.837909389436092,-17.20392438914763,FALSE
+Name would wash .,-17.837909389436092,-89.18954694718046,good,inchoative,77,syntax,argument_structure,bigram7,-17.837909389436092,-17.20392438914763,FALSE
+Name would fire .,-17.298995429049633,-86.49497714524816,bad,inchoative,77,syntax,argument_structure,bigram8,-17.563381048027104,-17.298995429049633,FALSE
+Name would wash .,-17.563381048027104,-87.81690524013553,good,inchoative,77,syntax,argument_structure,bigram8,-17.563381048027104,-17.298995429049633,FALSE
+Name would fire .,-17.258782896681282,-86.29391448340641,bad,inchoative,77,syntax,argument_structure,bigram9,-17.575775396825513,-17.258782896681282,FALSE
+Name would wash .,-17.575775396825513,-87.87887698412757,good,inchoative,77,syntax,argument_structure,bigram9,-17.575775396825513,-17.258782896681282,FALSE
+Name could hide away .,-18.20504962920268,-109.23029777521609,good,inchoative,809,syntax,argument_structure,bigram1,-18.20504962920268,-16.675653259785776,FALSE
+Name could see .,-16.675653259785776,-83.37826629892888,bad,inchoative,809,syntax,argument_structure,bigram1,-18.20504962920268,-16.675653259785776,FALSE
+Name could hide away .,-18.401766835330807,-110.41060101198485,good,inchoative,809,syntax,argument_structure,bigram10,-18.401766835330807,-16.950240380148596,FALSE
+Name could see .,-16.950240380148596,-84.75120190074298,bad,inchoative,809,syntax,argument_structure,bigram10,-18.401766835330807,-16.950240380148596,FALSE
+Name could hide away .,-18.2358527878724,-109.41511672723439,good,inchoative,809,syntax,argument_structure,bigram2,-18.2358527878724,-16.957304493233103,FALSE
+Name could see .,-16.957304493233103,-84.78652246616552,bad,inchoative,809,syntax,argument_structure,bigram2,-18.2358527878724,-16.957304493233103,FALSE
+Name could hide away .,-18.1648767110998,-108.98926026659879,good,inchoative,809,syntax,argument_structure,bigram3,-18.1648767110998,-16.80766065212365,FALSE
+Name could see .,-16.80766065212365,-84.03830326061826,bad,inchoative,809,syntax,argument_structure,bigram3,-18.1648767110998,-16.80766065212365,FALSE
+Name could hide away .,-18.247620207882328,-109.48572124729397,good,inchoative,809,syntax,argument_structure,bigram4,-18.247620207882328,-16.759267681391982,FALSE
+Name could see .,-16.759267681391982,-83.7963384069599,bad,inchoative,809,syntax,argument_structure,bigram4,-18.247620207882328,-16.759267681391982,FALSE
+Name could hide away .,-18.173628660709984,-109.0417719642599,good,inchoative,809,syntax,argument_structure,bigram5,-18.173628660709984,-16.63470994645572,FALSE
+Name could see .,-16.63470994645572,-83.1735497322786,bad,inchoative,809,syntax,argument_structure,bigram5,-18.173628660709984,-16.63470994645572,FALSE
+Name could hide away .,-18.276618397224944,-109.65971038334966,good,inchoative,809,syntax,argument_structure,bigram6,-18.276618397224944,-16.84771111347102,FALSE
+Name could see .,-16.84771111347102,-84.2385555673551,bad,inchoative,809,syntax,argument_structure,bigram6,-18.276618397224944,-16.84771111347102,FALSE
+Name could hide away .,-18.373186204353114,-110.23911722611868,good,inchoative,809,syntax,argument_structure,bigram7,-18.373186204353114,-16.925766398541196,FALSE
+Name could see .,-16.925766398541196,-84.62883199270598,bad,inchoative,809,syntax,argument_structure,bigram7,-18.373186204353114,-16.925766398541196,FALSE
+Name could hide away .,-18.24872365204477,-109.49234191226861,good,inchoative,809,syntax,argument_structure,bigram8,-18.24872365204477,-16.797366048315563,FALSE
+Name could see .,-16.797366048315563,-83.98683024157782,bad,inchoative,809,syntax,argument_structure,bigram8,-18.24872365204477,-16.797366048315563,FALSE
+Name could hide away .,-18.22511526963744,-109.35069161782462,good,inchoative,809,syntax,argument_structure,bigram9,-18.22511526963744,-16.741790396537052,FALSE
+Name could see .,-16.741790396537052,-83.70895198268526,bad,inchoative,809,syntax,argument_structure,bigram9,-18.22511526963744,-16.741790396537052,FALSE
+a bike did break .,-18.744331169861,-112.465987019166,good,inchoative,814,syntax,argument_structure,bigram1,-18.744331169861,-19.024009820713108,TRUE
+a bike did like .,-19.024009820713108,-114.14405892427864,bad,inchoative,814,syntax,argument_structure,bigram1,-18.744331169861,-19.024009820713108,TRUE
+a bike did break .,-18.74169139785704,-112.4501483871422,good,inchoative,814,syntax,argument_structure,bigram10,-18.74169139785704,-19.11209013474644,TRUE
+a bike did like .,-19.11209013474644,-114.67254080847866,bad,inchoative,814,syntax,argument_structure,bigram10,-18.74169139785704,-19.11209013474644,TRUE
+a bike did break .,-18.52369220069281,-111.14215320415686,good,inchoative,814,syntax,argument_structure,bigram2,-18.52369220069281,-18.831691685118635,TRUE
+a bike did like .,-18.831691685118635,-112.99015011071181,bad,inchoative,814,syntax,argument_structure,bigram2,-18.52369220069281,-18.831691685118635,TRUE
+a bike did break .,-18.724821951732693,-112.34893171039616,good,inchoative,814,syntax,argument_structure,bigram3,-18.724821951732693,-18.89148861839936,TRUE
+a bike did like .,-18.89148861839936,-113.34893171039616,bad,inchoative,814,syntax,argument_structure,bigram3,-18.724821951732693,-18.89148861839936,TRUE
+a bike did break .,-18.56204723953302,-111.37228343719812,good,inchoative,814,syntax,argument_structure,bigram4,-18.56204723953302,-18.92370140644007,TRUE
+a bike did like .,-18.92370140644007,-113.54220843864043,bad,inchoative,814,syntax,argument_structure,bigram4,-18.56204723953302,-18.92370140644007,TRUE
+a bike did break .,-18.59086557879425,-111.54519347276552,good,inchoative,814,syntax,argument_structure,bigram5,-18.59086557879425,-18.924198912127583,TRUE
+a bike did like .,-18.924198912127583,-113.54519347276552,bad,inchoative,814,syntax,argument_structure,bigram5,-18.59086557879425,-18.924198912127583,TRUE
+a bike did break .,-18.6780910905767,-112.0685465434602,good,inchoative,814,syntax,argument_structure,bigram6,-18.6780910905767,-18.74726400712317,TRUE
+a bike did like .,-18.74726400712317,-112.48358404273904,bad,inchoative,814,syntax,argument_structure,bigram6,-18.6780910905767,-18.74726400712317,TRUE
+a bike did break .,-18.955978775482965,-113.73587265289778,good,inchoative,814,syntax,argument_structure,bigram7,-18.955978775482965,-18.99304417903904,TRUE
+a bike did like .,-18.99304417903904,-113.95826507423423,bad,inchoative,814,syntax,argument_structure,bigram7,-18.955978775482965,-18.99304417903904,TRUE
+a bike did break .,-18.533452981722245,-111.20071789033346,good,inchoative,814,syntax,argument_structure,bigram8,-18.533452981722245,-18.84145246614807,TRUE
+a bike did like .,-18.84145246614807,-113.04871479688842,bad,inchoative,814,syntax,argument_structure,bigram8,-18.533452981722245,-18.84145246614807,TRUE
+a bike did break .,-18.56893978589615,-111.41363871537689,good,inchoative,814,syntax,argument_structure,bigram9,-18.56893978589615,-18.90227311922948,TRUE
+a bike did like .,-18.90227311922948,-113.41363871537689,bad,inchoative,814,syntax,argument_structure,bigram9,-18.56893978589615,-18.90227311922948,TRUE
+windows break .,-18.8751294403536,-75.50051776141439,good,inchoative,818,syntax,argument_structure,bigram1,-18.8751294403536,-19.6251294403536,TRUE
+windows buy .,-19.6251294403536,-78.50051776141439,bad,inchoative,818,syntax,argument_structure,bigram1,-18.8751294403536,-19.6251294403536,TRUE
+windows break .,-18.93174661384073,-75.72698645536292,good,inchoative,818,syntax,argument_structure,bigram10,-18.93174661384073,-19.63358534435513,TRUE
+windows buy .,-19.63358534435513,-78.53434137742052,bad,inchoative,818,syntax,argument_structure,bigram10,-18.93174661384073,-19.63358534435513,TRUE
+windows break .,-18.802664155476776,-75.2106566219071,good,inchoative,818,syntax,argument_structure,bigram2,-18.802664155476776,-19.595145405837357,TRUE
+windows buy .,-19.595145405837357,-78.38058162334941,bad,inchoative,818,syntax,argument_structure,bigram2,-18.802664155476776,-19.595145405837357,TRUE
+windows break .,-18.85750281828235,-75.4300112731294,good,inchoative,818,syntax,argument_structure,bigram3,-18.85750281828235,-19.60750281828235,TRUE
+windows buy .,-19.60750281828235,-78.4300112731294,bad,inchoative,818,syntax,argument_structure,bigram3,-18.85750281828235,-19.60750281828235,TRUE
+windows break .,-18.848065362117048,-75.39226144846819,good,inchoative,818,syntax,argument_structure,bigram4,-18.848065362117048,-19.64054661247763,TRUE
+windows buy .,-19.64054661247763,-78.56218644991051,bad,inchoative,818,syntax,argument_structure,bigram4,-18.848065362117048,-19.64054661247763,TRUE
+windows break .,-18.8816169344452,-75.5264677377808,good,inchoative,818,syntax,argument_structure,bigram5,-18.8816169344452,-19.6316169344452,TRUE
+windows buy .,-19.6316169344452,-78.5264677377808,bad,inchoative,818,syntax,argument_structure,bigram5,-18.8816169344452,-19.6316169344452,TRUE
+windows break .,-18.86361960212605,-75.4544784085042,good,inchoative,818,syntax,argument_structure,bigram6,-18.86361960212605,-19.61361960212605,TRUE
+windows buy .,-19.61361960212605,-78.4544784085042,bad,inchoative,818,syntax,argument_structure,bigram6,-18.86361960212605,-19.61361960212605,TRUE
+windows break .,-18.97461885598952,-75.89847542395809,good,inchoative,818,syntax,argument_structure,bigram7,-18.97461885598952,-19.67645758650392,TRUE
+windows buy .,-19.67645758650392,-78.70583034601569,bad,inchoative,818,syntax,argument_structure,bigram7,-18.97461885598952,-19.67645758650392,TRUE
+windows break .,-18.85259566601902,-75.41038266407608,good,inchoative,818,syntax,argument_structure,bigram8,-18.85259566601902,-19.6450769163796,TRUE
+windows buy .,-19.6450769163796,-78.5803076655184,bad,inchoative,818,syntax,argument_structure,bigram8,-18.85259566601902,-19.6450769163796,TRUE
+windows break .,-18.91316418841931,-75.65265675367723,good,inchoative,818,syntax,argument_structure,bigram9,-18.91316418841931,-19.66316418841931,TRUE
+windows buy .,-19.66316418841931,-78.65265675367723,bad,inchoative,818,syntax,argument_structure,bigram9,-18.91316418841931,-19.66316418841931,TRUE
+that cart could slow .,-18.94695261837024,-113.68171571022143,good,inchoative,848,syntax,argument_structure,bigram1,-18.94695261837024,-19.211113035157094,TRUE
+that cart could find .,-19.211113035157094,-115.26667821094259,bad,inchoative,848,syntax,argument_structure,bigram1,-18.94695261837024,-19.211113035157094,TRUE
+that cart could slow .,-18.987138268245985,-113.92282960947591,good,inchoative,848,syntax,argument_structure,bigram10,-18.987138268245985,-18.82047160157932,FALSE
+that cart could find .,-18.82047160157932,-112.92282960947591,bad,inchoative,848,syntax,argument_structure,bigram10,-18.987138268245985,-18.82047160157932,FALSE
+that cart could slow .,-18.95951840752931,-113.75711044517585,good,inchoative,848,syntax,argument_structure,bigram2,-18.95951840752931,-18.95951840752931,FALSE
+that cart could find .,-18.95951840752931,-113.75711044517585,bad,inchoative,848,syntax,argument_structure,bigram2,-18.95951840752931,-18.95951840752931,FALSE
+that cart could slow .,-18.8708937241076,-113.22536234464559,good,inchoative,848,syntax,argument_structure,bigram3,-18.8708937241076,-18.801720807561125,FALSE
+that cart could find .,-18.801720807561125,-112.81032484536675,bad,inchoative,848,syntax,argument_structure,bigram3,-18.8708937241076,-18.801720807561125,FALSE
+that cart could slow .,-18.992215557715628,-113.95329334629378,good,inchoative,848,syntax,argument_structure,bigram4,-18.992215557715628,-19.158882224382296,TRUE
+that cart could find .,-19.158882224382296,-114.95329334629378,bad,inchoative,848,syntax,argument_structure,bigram4,-18.992215557715628,-19.158882224382296,TRUE
+that cart could slow .,-18.977599016317715,-113.86559409790628,good,inchoative,848,syntax,argument_structure,bigram5,-18.977599016317715,-18.810932349651047,FALSE
+that cart could find .,-18.810932349651047,-112.86559409790628,bad,inchoative,848,syntax,argument_structure,bigram5,-18.977599016317715,-18.810932349651047,FALSE
+that cart could slow .,-19.01339694664953,-114.08038167989717,good,inchoative,848,syntax,argument_structure,bigram6,-19.01339694664953,-18.91590319652933,FALSE
+that cart could find .,-18.91590319652933,-113.49541917917601,bad,inchoative,848,syntax,argument_structure,bigram6,-19.01339694664953,-18.91590319652933,FALSE
+that cart could slow .,-19.0681737045935,-114.409042227561,good,inchoative,848,syntax,argument_structure,bigram7,-19.0681737045935,-18.970679954473308,FALSE
+that cart could find .,-18.970679954473308,-113.82407972683984,bad,inchoative,848,syntax,argument_structure,bigram7,-19.0681737045935,-18.970679954473308,FALSE
+that cart could slow .,-19.16607777470369,-114.99646664822214,good,inchoative,848,syntax,argument_structure,bigram8,-19.16607777470369,-18.999411108037023,FALSE
+that cart could find .,-18.999411108037023,-113.99646664822214,bad,inchoative,848,syntax,argument_structure,bigram8,-19.16607777470369,-18.999411108037023,FALSE
+that cart could slow .,-19.020392472123152,-114.12235483273892,good,inchoative,848,syntax,argument_structure,bigram9,-19.020392472123152,-18.92289872200296,FALSE
+that cart could find .,-18.92289872200296,-113.53739233201776,bad,inchoative,848,syntax,argument_structure,bigram9,-19.020392472123152,-18.92289872200296,FALSE
+Name sounds like .,-17.169550316446017,-85.84775158223009,bad,inchoative,864,syntax,argument_structure,bigram1,-16.731244628644966,-17.169550316446017,TRUE
+Name hurts .,-16.731244628644966,-66.92497851457986,good,inchoative,864,syntax,argument_structure,bigram1,-16.731244628644966,-17.169550316446017,TRUE
+Name sounds like .,-17.481449499905125,-87.40724749952562,bad,inchoative,864,syntax,argument_structure,bigram10,-16.726929931265538,-17.481449499905125,TRUE
+Name hurts .,-16.726929931265538,-66.90771972506215,good,inchoative,864,syntax,argument_structure,bigram10,-16.726929931265538,-17.481449499905125,TRUE
+Name sounds like .,-17.18039993671709,-85.90199968358546,bad,inchoative,864,syntax,argument_structure,bigram2,-16.573943308886264,-17.18039993671709,TRUE
+Name hurts .,-16.573943308886264,-66.29577323554506,good,inchoative,864,syntax,argument_structure,bigram2,-16.573943308886264,-17.18039993671709,TRUE
+Name sounds like .,-17.309853035979124,-86.54926517989563,bad,inchoative,864,syntax,argument_structure,bigram3,-16.649577043478775,-17.309853035979124,TRUE
+Name hurts .,-16.649577043478775,-66.5983081739151,good,inchoative,864,syntax,argument_structure,bigram3,-16.649577043478775,-17.309853035979124,TRUE
+Name sounds like .,-17.423653300369455,-87.11826650184727,bad,inchoative,864,syntax,argument_structure,bigram4,-16.93770293910014,-17.423653300369455,TRUE
+Name hurts .,-16.93770293910014,-67.75081175640057,good,inchoative,864,syntax,argument_structure,bigram4,-16.93770293910014,-17.423653300369455,TRUE
+Name sounds like .,-17.407724030438498,-87.0386201521925,bad,inchoative,864,syntax,argument_structure,bigram5,-16.72382267051921,-17.407724030438498,TRUE
+Name hurts .,-16.72382267051921,-66.89529068207683,good,inchoative,864,syntax,argument_structure,bigram5,-16.72382267051921,-17.407724030438498,TRUE
+Name sounds like .,-17.20030327401085,-86.00151637005425,bad,inchoative,864,syntax,argument_structure,bigram6,-16.777545625147095,-17.20030327401085,TRUE
+Name hurts .,-16.777545625147095,-67.11018250058838,good,inchoative,864,syntax,argument_structure,bigram6,-16.777545625147095,-17.20030327401085,TRUE
+Name sounds like .,-17.223831523857815,-86.11915761928907,bad,inchoative,864,syntax,argument_structure,bigram7,-16.987735710963058,-17.223831523857815,TRUE
+Name hurts .,-16.987735710963058,-67.95094284385223,good,inchoative,864,syntax,argument_structure,bigram7,-16.987735710963058,-17.223831523857815,TRUE
+Name sounds like .,-17.192892485709876,-85.96446242854938,bad,inchoative,864,syntax,argument_structure,bigram8,-16.609231112882142,-17.192892485709876,TRUE
+Name hurts .,-16.609231112882142,-66.43692445152857,good,inchoative,864,syntax,argument_structure,bigram8,-16.609231112882142,-17.192892485709876,TRUE
+Name sounds like .,-17.375775396825514,-86.87887698412757,bad,inchoative,864,syntax,argument_structure,bigram9,-16.724025107788286,-17.375775396825514,TRUE
+Name hurts .,-16.724025107788286,-66.89610043115314,good,inchoative,864,syntax,argument_structure,bigram9,-16.724025107788286,-17.375775396825514,TRUE
+this shirt was stretching .,-19.453062363466717,-116.71837418080028,good,inchoative,93,syntax,argument_structure,bigram1,-19.453062363466717,-19.393803495124352,FALSE
+this shirt was looking like .,-19.393803495124352,-135.75662446587046,bad,inchoative,93,syntax,argument_structure,bigram1,-19.453062363466717,-19.393803495124352,FALSE
+this shirt was stretching .,-19.35430511274996,-116.12583067649976,good,inchoative,93,syntax,argument_structure,bigram10,-19.35430511274996,-19.726398581371505,TRUE
+this shirt was looking like .,-19.726398581371505,-138.08479006960053,bad,inchoative,93,syntax,argument_structure,bigram10,-19.35430511274996,-19.726398581371505,TRUE
+this shirt was stretching .,-19.30958539035561,-115.85751234213369,good,inchoative,93,syntax,argument_structure,bigram2,-19.30958539035561,-19.389539028001128,TRUE
+this shirt was looking like .,-19.389539028001128,-135.72677319600788,bad,inchoative,93,syntax,argument_structure,bigram2,-19.30958539035561,-19.389539028001128,TRUE
+this shirt was stretching .,-19.367967328876883,-116.20780397326129,good,inchoative,93,syntax,argument_structure,bigram3,-19.367967328876883,-19.534817639994717,TRUE
+this shirt was looking like .,-19.534817639994717,-136.743723479963,bad,inchoative,93,syntax,argument_structure,bigram3,-19.367967328876883,-19.534817639994717,TRUE
+this shirt was stretching .,-19.36592631905697,-116.19555791434183,good,inchoative,93,syntax,argument_structure,bigram4,-19.36592631905697,-19.592567880072814,TRUE
+this shirt was looking like .,-19.592567880072814,-137.1479751605097,bad,inchoative,93,syntax,argument_structure,bigram4,-19.36592631905697,-19.592567880072814,TRUE
+this shirt was stretching .,-19.45688933249069,-116.74133599494414,good,inchoative,93,syntax,argument_structure,bigram5,-19.45688933249069,-19.48144175603286,TRUE
+this shirt was looking like .,-19.48144175603286,-136.37009229223003,bad,inchoative,93,syntax,argument_structure,bigram5,-19.45688933249069,-19.48144175603286,TRUE
+this shirt was stretching .,-19.33325081650509,-115.99950489903054,good,inchoative,93,syntax,argument_structure,bigram6,-19.33325081650509,-19.33575291244767,TRUE
+this shirt was looking like .,-19.33575291244767,-135.3502703871337,bad,inchoative,93,syntax,argument_structure,bigram6,-19.33325081650509,-19.33575291244767,TRUE
+this shirt was stretching .,-19.48591712576724,-116.91550275460344,good,inchoative,93,syntax,argument_structure,bigram7,-19.48591712576724,-19.5315924929508,TRUE
+this shirt was looking like .,-19.5315924929508,-136.72114745065556,bad,inchoative,93,syntax,argument_structure,bigram7,-19.48591712576724,-19.5315924929508,TRUE
+this shirt was stretching .,-19.380229258946446,-116.28137555367869,good,inchoative,93,syntax,argument_structure,bigram8,-19.380229258946446,-19.455346450564747,TRUE
+this shirt was looking like .,-19.455346450564747,-136.18742515395323,bad,inchoative,93,syntax,argument_structure,bigram8,-19.380229258946446,-19.455346450564747,TRUE
+this shirt was stretching .,-19.48399405699333,-116.90396434195998,good,inchoative,93,syntax,argument_structure,bigram9,-19.48399405699333,-19.555248699276344,TRUE
+this shirt was looking like .,-19.555248699276344,-136.8867408949344,bad,inchoative,93,syntax,argument_structure,bigram9,-19.48399405699333,-19.555248699276344,TRUE
+most glasses would break .,-20.231799920461963,-121.39079952277177,good,inchoative,975,syntax,argument_structure,bigram1,-20.231799920461963,-19.74731815452721,FALSE
+most glasses would see .,-19.74731815452721,-118.48390892716326,bad,inchoative,975,syntax,argument_structure,bigram1,-20.231799920461963,-19.74731815452721,FALSE
+most glasses would break .,-20.274150873594078,-121.64490524156444,good,inchoative,975,syntax,argument_structure,bigram10,-20.274150873594078,-19.791970074246827,FALSE
+most glasses would see .,-19.791970074246827,-118.75182044548096,bad,inchoative,975,syntax,argument_structure,bigram10,-20.274150873594078,-19.791970074246827,FALSE
+most glasses would break .,-20.17782761796044,-121.06696570776263,good,inchoative,975,syntax,argument_structure,bigram2,-20.17782761796044,-19.70242048269608,FALSE
+most glasses would see .,-19.70242048269608,-118.21452289617649,bad,inchoative,975,syntax,argument_structure,bigram2,-20.17782761796044,-19.70242048269608,FALSE
+most glasses would break .,-20.22198754751508,-121.33192528509048,good,inchoative,975,syntax,argument_structure,bigram3,-20.22198754751508,-19.68066629527448,FALSE
+most glasses would see .,-19.68066629527448,-118.08399777164689,bad,inchoative,975,syntax,argument_structure,bigram3,-20.22198754751508,-19.68066629527448,FALSE
+most glasses would break .,-20.21618265680065,-121.29709594080391,good,inchoative,975,syntax,argument_structure,bigram4,-20.21618265680065,-19.760021724439618,FALSE
+most glasses would see .,-19.760021724439618,-118.5601303466377,bad,inchoative,975,syntax,argument_structure,bigram4,-20.21618265680065,-19.760021724439618,FALSE
+most glasses would break .,-20.23797275368789,-121.42783652212735,good,inchoative,975,syntax,argument_structure,bigram5,-20.23797275368789,-19.7233956134795,FALSE
+most glasses would see .,-19.7233956134795,-118.34037368087701,bad,inchoative,975,syntax,argument_structure,bigram5,-20.23797275368789,-19.7233956134795,FALSE
+most glasses would break .,-20.220989064358807,-121.32593438615285,good,inchoative,975,syntax,argument_structure,bigram6,-20.220989064358807,-19.753096577349208,FALSE
+most glasses would see .,-19.753096577349208,-118.51857946409525,bad,inchoative,975,syntax,argument_structure,bigram6,-20.220989064358807,-19.753096577349208,FALSE
+most glasses would break .,-20.30826913649116,-121.84961481894697,good,inchoative,975,syntax,argument_structure,bigram7,-20.30826913649116,-19.79572111527379,FALSE
+most glasses would see .,-19.79572111527379,-118.77432669164274,bad,inchoative,975,syntax,argument_structure,bigram7,-20.30826913649116,-19.79572111527379,FALSE
+most glasses would break .,-20.22337820712204,-121.34026924273226,good,inchoative,975,syntax,argument_structure,bigram8,-20.22337820712204,-19.751699040695765,FALSE
+most glasses would see .,-19.751699040695765,-118.51019424417458,bad,inchoative,975,syntax,argument_structure,bigram8,-20.22337820712204,-19.751699040695765,FALSE
+most glasses would break .,-20.269701643271016,-121.61820985962609,good,inchoative,975,syntax,argument_structure,bigram9,-20.269701643271016,-19.785219877336264,FALSE
+most glasses would see .,-19.785219877336264,-118.71131926401758,bad,inchoative,975,syntax,argument_structure,bigram9,-20.269701643271016,-19.785219877336264,FALSE

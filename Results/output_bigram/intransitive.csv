@@ -1,0 +1,701 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+those friends of Name were painting .,-19.691401482091536,-157.53121185673228,good,intransitive,13,syntax,argument_structure,bigram1,-19.691401482091536,-20.164039193045667,TRUE
+those friends of Name were walking through .,-20.164039193045667,-181.476352737411,bad,intransitive,13,syntax,argument_structure,bigram1,-19.691401482091536,-20.164039193045667,TRUE
+those friends of Name were painting .,-19.66402340338305,-157.3121872270644,good,intransitive,13,syntax,argument_structure,bigram10,-19.66402340338305,-20.076242679938225,TRUE
+those friends of Name were walking through .,-20.076242679938225,-180.68618411944402,bad,intransitive,13,syntax,argument_structure,bigram10,-19.66402340338305,-20.076242679938225,TRUE
+those friends of Name were painting .,-19.641921529278346,-157.13537223422674,good,intransitive,13,syntax,argument_structure,bigram2,-19.641921529278346,-20.18316547531952,TRUE
+those friends of Name were walking through .,-20.18316547531952,-181.64848927787568,bad,intransitive,13,syntax,argument_structure,bigram2,-19.641921529278346,-20.18316547531952,TRUE
+those friends of Name were painting .,-19.56494922242318,-156.51959377938545,good,intransitive,13,syntax,argument_structure,bigram3,-19.56494922242318,-20.163394531707333,TRUE
+those friends of Name were walking through .,-20.163394531707333,-181.470550785366,bad,intransitive,13,syntax,argument_structure,bigram3,-19.56494922242318,-20.163394531707333,TRUE
+those friends of Name were painting .,-19.608876694378125,-156.871013555025,good,intransitive,13,syntax,argument_structure,bigram4,-19.608876694378125,-19.98038120013254,TRUE
+those friends of Name were walking through .,-19.98038120013254,-179.82343080119287,bad,intransitive,13,syntax,argument_structure,bigram4,-19.608876694378125,-19.98038120013254,TRUE
+those friends of Name were painting .,-19.48092573435101,-155.84740587480812,good,intransitive,13,syntax,argument_structure,bigram5,-19.48092573435101,-19.948339540127517,TRUE
+those friends of Name were walking through .,-19.948339540127517,-179.5350558611476,bad,intransitive,13,syntax,argument_structure,bigram5,-19.48092573435101,-19.948339540127517,TRUE
+those friends of Name were painting .,-19.61155858677748,-156.89246869421982,good,intransitive,13,syntax,argument_structure,bigram6,-19.61155858677748,-20.06279580857893,TRUE
+those friends of Name were walking through .,-20.06279580857893,-180.56516227721036,bad,intransitive,13,syntax,argument_structure,bigram6,-19.61155858677748,-20.06279580857893,TRUE
+those friends of Name were painting .,-19.55197704019034,-156.41581632152273,good,intransitive,13,syntax,argument_structure,bigram7,-19.55197704019034,-20.043487335446358,TRUE
+those friends of Name were walking through .,-20.043487335446358,-180.39138601901718,bad,intransitive,13,syntax,argument_structure,bigram7,-19.55197704019034,-20.043487335446358,TRUE
+those friends of Name were painting .,-19.67808322130551,-157.42466577044408,good,intransitive,13,syntax,argument_structure,bigram8,-19.67808322130551,-20.12517496154871,TRUE
+those friends of Name were walking through .,-20.12517496154871,-181.12657465393838,bad,intransitive,13,syntax,argument_structure,bigram8,-19.67808322130551,-20.12517496154871,TRUE
+those friends of Name were painting .,-19.6267384196555,-157.013907357244,good,intransitive,13,syntax,argument_structure,bigram9,-19.6267384196555,-20.081516611598293,TRUE
+those friends of Name were walking through .,-20.081516611598293,-180.73364950438463,bad,intransitive,13,syntax,argument_structure,bigram9,-19.6267384196555,-20.081516611598293,TRUE
+a lot of boys can find .,-19.120493919718072,-152.96395135774458,bad,intransitive,205,syntax,argument_structure,bigram1,-19.47141328497528,-19.120493919718072,FALSE
+a lot of boys can cook .,-19.47141328497528,-155.77130627980222,good,intransitive,205,syntax,argument_structure,bigram1,-19.47141328497528,-19.120493919718072,FALSE
+a lot of boys can find .,-19.21044612488396,-153.68356899907167,bad,intransitive,205,syntax,argument_structure,bigram10,-19.533566437474104,-19.21044612488396,FALSE
+a lot of boys can cook .,-19.533566437474104,-156.26853149979283,good,intransitive,205,syntax,argument_structure,bigram10,-19.533566437474104,-19.21044612488396,FALSE
+a lot of boys can find .,-19.140499146512035,-153.12399317209628,bad,intransitive,205,syntax,argument_structure,bigram2,-19.515499146512035,-19.140499146512035,FALSE
+a lot of boys can cook .,-19.515499146512035,-156.12399317209628,good,intransitive,205,syntax,argument_structure,bigram2,-19.515499146512035,-19.140499146512035,FALSE
+a lot of boys can find .,-19.150806450374848,-153.20645160299878,bad,intransitive,205,syntax,argument_structure,bigram3,-19.45823540270451,-19.150806450374848,FALSE
+a lot of boys can cook .,-19.45823540270451,-155.66588322163608,good,intransitive,205,syntax,argument_structure,bigram3,-19.45823540270451,-19.150806450374848,FALSE
+a lot of boys can find .,-19.19708477642409,-153.57667821139276,bad,intransitive,205,syntax,argument_structure,bigram4,-19.39520508901424,-19.19708477642409,FALSE
+a lot of boys can cook .,-19.39520508901424,-155.1616407121139,good,intransitive,205,syntax,argument_structure,bigram4,-19.39520508901424,-19.19708477642409,FALSE
+a lot of boys can find .,-19.329900916881805,-154.63920733505444,bad,intransitive,205,syntax,argument_structure,bigram5,-19.55582028213901,-19.329900916881805,FALSE
+a lot of boys can cook .,-19.55582028213901,-156.44656225711205,good,intransitive,205,syntax,argument_structure,bigram5,-19.55582028213901,-19.329900916881805,FALSE
+a lot of boys can find .,-19.062911372371453,-152.50329097897162,bad,intransitive,205,syntax,argument_structure,bigram6,-19.33415199755174,-19.062911372371453,FALSE
+a lot of boys can cook .,-19.33415199755174,-154.67321598041391,good,intransitive,205,syntax,argument_structure,bigram6,-19.33415199755174,-19.062911372371453,FALSE
+a lot of boys can find .,-19.000314234201827,-152.00251387361462,bad,intransitive,205,syntax,argument_structure,bigram7,-19.39655485938212,-19.000314234201827,FALSE
+a lot of boys can cook .,-19.39655485938212,-155.17243887505694,good,intransitive,205,syntax,argument_structure,bigram7,-19.39655485938212,-19.000314234201827,FALSE
+a lot of boys can find .,-19.13760714069945,-153.1008571255956,bad,intransitive,205,syntax,argument_structure,bigram8,-19.36352650595665,-19.13760714069945,FALSE
+a lot of boys can cook .,-19.36352650595665,-154.9082120476532,good,intransitive,205,syntax,argument_structure,bigram8,-19.36352650595665,-19.13760714069945,FALSE
+a lot of boys can find .,-19.12335929981837,-152.98687439854697,bad,intransitive,205,syntax,argument_structure,bigram9,-19.349278665075573,-19.12335929981837,FALSE
+a lot of boys can cook .,-19.349278665075573,-154.7942293206046,good,intransitive,205,syntax,argument_structure,bigram9,-19.349278665075573,-19.12335929981837,FALSE
+every mouth has closed .,-20.565133253795292,-123.39079952277177,good,intransitive,230,syntax,argument_structure,bigram1,-20.565133253795292,-20.384583459096536,FALSE
+every mouth has looked like .,-20.384583459096536,-142.69208421367574,bad,intransitive,230,syntax,argument_structure,bigram1,-20.565133253795292,-20.384583459096536,FALSE
+every mouth has closed .,-20.57537669393701,-123.45226016362206,good,intransitive,230,syntax,argument_structure,bigram10,-20.57537669393701,-20.546608150857377,FALSE
+every mouth has looked like .,-20.546608150857377,-143.82625705600165,bad,intransitive,230,syntax,argument_structure,bigram10,-20.57537669393701,-20.546608150857377,FALSE
+every mouth has closed .,-20.70614845153416,-124.23689070920496,good,intransitive,230,syntax,argument_structure,bigram2,-20.70614845153416,-20.360169866051137,FALSE
+every mouth has looked like .,-20.360169866051137,-142.52118906235796,bad,intransitive,230,syntax,argument_structure,bigram2,-20.70614845153416,-20.360169866051137,FALSE
+every mouth has closed .,-20.72198754751508,-124.33192528509048,good,intransitive,230,syntax,argument_structure,bigram3,-20.72198754751508,-20.61184032729586,FALSE
+every mouth has looked like .,-20.61184032729586,-144.28288229107102,bad,intransitive,230,syntax,argument_structure,bigram3,-20.72198754751508,-20.61184032729586,FALSE
+every mouth has closed .,-20.577836823707703,-123.46702094224622,good,intransitive,230,syntax,argument_structure,bigram4,-20.577836823707703,-20.44250144193239,FALSE
+every mouth has looked like .,-20.44250144193239,-143.09751009352672,bad,intransitive,230,syntax,argument_structure,bigram4,-20.577836823707703,-20.44250144193239,FALSE
+every mouth has closed .,-20.571306087021224,-123.42783652212735,good,intransitive,230,syntax,argument_structure,bigram5,-20.571306087021224,-20.541936916225637,FALSE
+every mouth has looked like .,-20.541936916225637,-143.79355841357943,bad,intransitive,230,syntax,argument_structure,bigram5,-20.571306087021224,-20.541936916225637,FALSE
+every mouth has closed .,-20.554322397692143,-123.32593438615285,good,intransitive,230,syntax,argument_structure,bigram6,-20.554322397692143,-20.382385696322284,FALSE
+every mouth has looked like .,-20.382385696322284,-142.676699874256,bad,intransitive,230,syntax,argument_structure,bigram6,-20.554322397692143,-20.382385696322284,FALSE
+every mouth has closed .,-20.77616162350077,-124.65696974100459,good,intransitive,230,syntax,argument_structure,bigram7,-20.77616162350077,-20.494659205293814,FALSE
+every mouth has looked like .,-20.494659205293814,-143.46261443705671,bad,intransitive,230,syntax,argument_structure,bigram7,-20.77616162350077,-20.494659205293814,FALSE
+every mouth has closed .,-20.585032374029097,-123.51019424417458,good,intransitive,230,syntax,argument_structure,bigram8,-20.585032374029097,-20.45045849123076,FALSE
+every mouth has looked like .,-20.45045849123076,-143.1532094386153,bad,intransitive,230,syntax,argument_structure,bigram8,-20.585032374029097,-20.45045849123076,FALSE
+every mouth has closed .,-20.60303497660435,-123.61820985962609,good,intransitive,230,syntax,argument_structure,bigram9,-20.60303497660435,-20.514426630371503,FALSE
+every mouth has looked like .,-20.514426630371503,-143.60098641260052,bad,intransitive,230,syntax,argument_structure,bigram9,-20.60303497660435,-20.514426630371503,FALSE
+Name can n't drop by .,-17.943926082925618,-125.60748258047931,bad,intransitive,245,syntax,argument_structure,bigram1,-16.146830331045994,-17.943926082925618,TRUE
+Name can n't write .,-16.146830331045994,-96.88098198627596,good,intransitive,245,syntax,argument_structure,bigram1,-16.146830331045994,-17.943926082925618,TRUE
+Name can n't drop by .,-17.85469850649257,-124.98288954544799,bad,intransitive,245,syntax,argument_structure,bigram10,-15.983588920164584,-17.85469850649257,TRUE
+Name can n't write .,-15.983588920164584,-95.9015335209875,good,intransitive,245,syntax,argument_structure,bigram10,-15.983588920164584,-17.85469850649257,TRUE
+Name can n't drop by .,-17.785845846678335,-124.50092092674835,bad,intransitive,245,syntax,argument_structure,bigram2,-16.047894027493054,-17.785845846678335,TRUE
+Name can n't write .,-16.047894027493054,-96.28736416495832,good,intransitive,245,syntax,argument_structure,bigram2,-16.047894027493054,-17.785845846678335,TRUE
+Name can n't drop by .,-17.98218026153408,-125.87526183073857,bad,intransitive,245,syntax,argument_structure,bigram3,-16.049158034113066,-17.98218026153408,TRUE
+Name can n't write .,-16.049158034113066,-96.2949482046784,good,intransitive,245,syntax,argument_structure,bigram3,-16.049158034113066,-17.98218026153408,TRUE
+Name can n't drop by .,-17.830521089793432,-124.81364762855402,bad,intransitive,245,syntax,argument_structure,bigram4,-16.026798444040846,-17.830521089793432,TRUE
+Name can n't write .,-16.026798444040846,-96.16079066424507,good,intransitive,245,syntax,argument_structure,bigram4,-16.026798444040846,-17.830521089793432,TRUE
+Name can n't drop by .,-17.73094595664183,-124.1166216964928,bad,intransitive,245,syntax,argument_structure,bigram5,-15.959424394696972,-17.73094595664183,TRUE
+Name can n't write .,-15.959424394696972,-95.75654636818183,good,intransitive,245,syntax,argument_structure,bigram5,-15.959424394696972,-17.73094595664183,TRUE
+Name can n't drop by .,-17.696090120143495,-123.87263084100447,bad,intransitive,245,syntax,argument_structure,bigram6,-15.9263985381544,-17.696090120143495,TRUE
+Name can n't write .,-15.9263985381544,-95.5583912289264,good,intransitive,245,syntax,argument_structure,bigram6,-15.9263985381544,-17.696090120143495,TRUE
+Name can n't drop by .,-17.86497365526211,-125.05481558683476,bad,intransitive,245,syntax,argument_structure,bigram7,-16.158327145399223,-17.86497365526211,TRUE
+Name can n't write .,-16.158327145399223,-96.94996287239533,good,intransitive,245,syntax,argument_structure,bigram7,-16.158327145399223,-17.86497365526211,TRUE
+Name can n't drop by .,-17.788663894656306,-124.52064726259414,bad,intransitive,245,syntax,argument_structure,bigram8,-15.96680274518376,-17.788663894656306,TRUE
+Name can n't write .,-15.96680274518376,-95.80081647110256,good,intransitive,245,syntax,argument_structure,bigram8,-15.96680274518376,-17.788663894656306,TRUE
+Name can n't drop by .,-17.931014572492355,-125.51710200744648,bad,intransitive,245,syntax,argument_structure,bigram9,-16.17374539302373,-17.931014572492355,TRUE
+Name can n't write .,-16.17374539302373,-97.04247235814238,good,intransitive,245,syntax,argument_structure,bigram9,-16.17374539302373,-17.931014572492355,TRUE
+Name wears .,-16.981244628644966,-67.92497851457986,bad,intransitive,253,syntax,argument_structure,bigram1,-16.438763378284385,-16.981244628644966,TRUE
+Name fell .,-16.438763378284385,-65.75505351313754,good,intransitive,253,syntax,argument_structure,bigram1,-16.438763378284385,-16.981244628644966,TRUE
+Name wears .,-17.123170556445828,-68.49268222578331,bad,intransitive,253,syntax,argument_structure,bigram10,-17.123170556445828,-17.123170556445828,FALSE
+Name fell .,-17.123170556445828,-68.49268222578331,good,intransitive,253,syntax,argument_structure,bigram10,-17.123170556445828,-17.123170556445828,FALSE
+Name wears .,-16.970183934066554,-67.88073573626622,bad,intransitive,253,syntax,argument_structure,bigram2,-16.427702683705974,-16.970183934066554,TRUE
+Name fell .,-16.427702683705974,-65.7108107348239,good,intransitive,253,syntax,argument_structure,bigram2,-16.427702683705974,-16.970183934066554,TRUE
+Name wears .,-16.980059067200614,-67.92023626880246,bad,intransitive,253,syntax,argument_structure,bigram3,-16.43757781684004,-16.980059067200614,TRUE
+Name fell .,-16.43757781684004,-65.75031126736016,good,intransitive,253,syntax,argument_structure,bigram3,-16.43757781684004,-16.980059067200614,TRUE
+Name wears .,-17.333943564280432,-69.33577425712173,bad,intransitive,253,syntax,argument_structure,bigram4,-16.93770293910014,-17.333943564280432,TRUE
+Name fell .,-16.93770293910014,-67.75081175640057,good,intransitive,253,syntax,argument_structure,bigram4,-16.93770293910014,-17.333943564280432,TRUE
+Name wears .,-17.22382267051921,-68.89529068207683,bad,intransitive,253,syntax,argument_structure,bigram5,-16.43134142015863,-17.22382267051921,TRUE
+Name fell .,-16.43134142015863,-65.72536568063452,good,intransitive,253,syntax,argument_structure,bigram5,-16.43134142015863,-17.22382267051921,TRUE
+Name wears .,-17.277545625147095,-69.11018250058838,bad,intransitive,253,syntax,argument_structure,bigram6,-16.485064374786518,-17.277545625147095,TRUE
+Name fell .,-16.485064374786518,-65.94025749914607,good,intransitive,253,syntax,argument_structure,bigram6,-16.485064374786518,-17.277545625147095,TRUE
+Name wears .,-17.383976336143345,-69.53590534457338,bad,intransitive,253,syntax,argument_structure,bigram7,-17.383976336143345,-17.383976336143345,FALSE
+Name fell .,-17.383976336143345,-69.53590534457338,good,intransitive,253,syntax,argument_structure,bigram7,-17.383976336143345,-17.383976336143345,FALSE
+Name wears .,-17.005471738062433,-68.02188695224973,bad,intransitive,253,syntax,argument_structure,bigram8,-16.859231112882142,-17.005471738062433,TRUE
+Name fell .,-16.859231112882142,-67.43692445152857,good,intransitive,253,syntax,argument_structure,bigram8,-16.859231112882142,-17.005471738062433,TRUE
+Name wears .,-17.054507131510128,-68.21802852604051,bad,intransitive,253,syntax,argument_structure,bigram9,-16.658266506329838,-17.054507131510128,TRUE
+Name fell .,-16.658266506329838,-66.63306602531935,good,intransitive,253,syntax,argument_structure,bigram9,-16.658266506329838,-17.054507131510128,TRUE
+Name will n't go to .,-16.245020774540603,-113.71514542178421,bad,intransitive,277,syntax,argument_structure,bigram1,-17.82759641396856,-16.245020774540603,FALSE
+Name will n't joke around .,-17.82759641396856,-124.79317489777993,good,intransitive,277,syntax,argument_structure,bigram1,-17.82759641396856,-16.245020774540603,FALSE
+Name will n't go to .,-16.41550009797024,-114.9085006857917,bad,intransitive,277,syntax,argument_structure,bigram10,-17.904401835552612,-16.41550009797024,FALSE
+Name will n't joke around .,-17.904401835552612,-125.33081284886829,good,intransitive,277,syntax,argument_structure,bigram10,-17.904401835552612,-16.41550009797024,FALSE
+Name will n't go to .,-16.32449664241691,-114.27147649691837,bad,intransitive,277,syntax,argument_structure,bigram2,-17.767553961749638,-16.32449664241691,FALSE
+Name will n't joke around .,-17.767553961749638,-124.37287773224747,good,intransitive,277,syntax,argument_structure,bigram2,-17.767553961749638,-16.32449664241691,FALSE
+Name will n't go to .,-16.243361476964306,-113.70353033875014,bad,intransitive,277,syntax,argument_structure,bigram3,-17.78720359205456,-16.243361476964306,FALSE
+Name will n't joke around .,-17.78720359205456,-124.51042514438191,good,intransitive,277,syntax,argument_structure,bigram3,-17.78720359205456,-16.243361476964306,FALSE
+Name will n't go to .,-16.295177672675788,-114.06624370873052,bad,intransitive,277,syntax,argument_structure,bigram4,-17.75500124779464,-16.295177672675788,FALSE
+Name will n't joke around .,-17.75500124779464,-124.28500873456248,good,intransitive,277,syntax,argument_structure,bigram4,-17.75500124779464,-16.295177672675788,FALSE
+Name will n't go to .,-16.256451837272007,-113.79516286090404,bad,intransitive,277,syntax,argument_structure,bigram5,-17.810577011477566,-16.256451837272007,FALSE
+Name will n't joke around .,-17.810577011477566,-124.67403908034296,good,intransitive,277,syntax,argument_structure,bigram5,-17.810577011477566,-16.256451837272007,FALSE
+Name will n't go to .,-16.387553105538306,-114.71287173876814,bad,intransitive,277,syntax,argument_structure,bigram6,-17.85313180438335,-16.387553105538306,FALSE
+Name will n't joke around .,-17.85313180438335,-124.97192263068344,good,intransitive,277,syntax,argument_structure,bigram6,-17.85313180438335,-16.387553105538306,FALSE
+Name will n't go to .,-16.39644678202642,-114.77512747418493,bad,intransitive,277,syntax,argument_structure,bigram7,-17.888831872127827,-16.39644678202642,FALSE
+Name will n't joke around .,-17.888831872127827,-125.22182310489478,good,intransitive,277,syntax,argument_structure,bigram7,-17.888831872127827,-16.39644678202642,FALSE
+Name will n't go to .,-16.367185666697317,-114.57029966688123,bad,intransitive,277,syntax,argument_structure,bigram8,-17.839709894859528,-16.367185666697317,FALSE
+Name will n't joke around .,-17.839709894859528,-124.87796926401668,good,intransitive,277,syntax,argument_structure,bigram8,-17.839709894859528,-16.367185666697317,FALSE
+Name will n't go to .,-16.384875351735257,-114.69412746214681,bad,intransitive,277,syntax,argument_structure,bigram9,-17.823068961421225,-16.384875351735257,FALSE
+Name will n't joke around .,-17.823068961421225,-124.76148272994858,good,intransitive,277,syntax,argument_structure,bigram9,-17.823068961421225,-16.384875351735257,FALSE
+Name was going to .,-16.223877933661402,-97.3432676019684,bad,intransitive,309,syntax,argument_structure,bigram1,-17.85703137890748,-16.223877933661402,FALSE
+Name was seeing .,-17.85703137890748,-89.2851568945374,good,intransitive,309,syntax,argument_structure,bigram1,-17.85703137890748,-16.223877933661402,FALSE
+Name was going to .,-16.170251248346727,-97.02150749008037,bad,intransitive,309,syntax,argument_structure,bigram10,-17.890328323776817,-16.170251248346727,FALSE
+Name was seeing .,-17.890328323776817,-89.45164161888408,good,intransitive,309,syntax,argument_structure,bigram10,-17.890328323776817,-16.170251248346727,FALSE
+Name was going to .,-15.890318730622656,-95.34191238373593,bad,intransitive,309,syntax,argument_structure,bigram2,-17.644785555694565,-15.890318730622656,FALSE
+Name was seeing .,-17.644785555694565,-88.22392777847283,good,intransitive,309,syntax,argument_structure,bigram2,-17.644785555694565,-15.890318730622656,FALSE
+Name was going to .,-16.167161516967322,-97.00296910180393,bad,intransitive,309,syntax,argument_structure,bigram3,-17.85724615481237,-16.167161516967322,FALSE
+Name was seeing .,-17.85724615481237,-89.28623077406185,good,intransitive,309,syntax,argument_structure,bigram3,-17.85724615481237,-16.167161516967322,FALSE
+Name was going to .,-16.143563783663495,-96.86138270198097,bad,intransitive,309,syntax,argument_structure,bigram4,-17.82365330036945,-16.143563783663495,FALSE
+Name was seeing .,-17.82365330036945,-89.11826650184726,good,intransitive,309,syntax,argument_structure,bigram4,-17.82365330036945,-16.143563783663495,FALSE
+Name was going to .,-16.266778694732476,-97.60067216839487,bad,intransitive,309,syntax,argument_structure,bigram5,-17.76919501485002,-16.266778694732476,FALSE
+Name was seeing .,-17.76919501485002,-88.8459750742501,good,intransitive,309,syntax,argument_structure,bigram5,-17.76919501485002,-16.266778694732476,FALSE
+Name was going to .,-16.27890694610375,-97.6734416766225,bad,intransitive,309,syntax,argument_structure,bigram6,-17.84771111347102,-16.27890694610375,FALSE
+Name was seeing .,-17.84771111347102,-89.2385555673551,good,intransitive,309,syntax,argument_structure,bigram6,-17.84771111347102,-16.27890694610375,FALSE
+Name was going to .,-16.280460406163666,-97.68276243698199,bad,intransitive,309,syntax,argument_structure,bigram7,-17.868310008125103,-16.280460406163666,FALSE
+Name was seeing .,-17.868310008125103,-89.34155004062552,good,intransitive,309,syntax,argument_structure,bigram7,-17.868310008125103,-16.280460406163666,FALSE
+Name was going to .,-16.17201397185295,-97.03208383111772,bad,intransitive,309,syntax,argument_structure,bigram8,-17.763381048027107,-16.17201397185295,FALSE
+Name was seeing .,-17.763381048027107,-88.81690524013553,good,intransitive,309,syntax,argument_structure,bigram8,-17.763381048027107,-16.17201397185295,FALSE
+Name was going to .,-16.17296811042338,-97.03780866254027,bad,intransitive,309,syntax,argument_structure,bigram9,-17.840161015802988,-16.17296811042338,FALSE
+Name was seeing .,-17.840161015802988,-89.20080507901494,good,intransitive,309,syntax,argument_structure,bigram9,-17.840161015802988,-16.17296811042338,FALSE
+a car scared .,-18.039783608719983,-90.19891804359993,bad,intransitive,356,syntax,argument_structure,bigram1,-17.839783608719987,-18.039783608719983,TRUE
+a car dropped .,-17.839783608719987,-89.19891804359993,good,intransitive,356,syntax,argument_structure,bigram1,-17.839783608719987,-18.039783608719983,TRUE
+a car scared .,-17.878330664098105,-89.39165332049052,bad,intransitive,356,syntax,argument_structure,bigram10,-17.678330664098105,-17.878330664098105,TRUE
+a car dropped .,-17.678330664098105,-88.39165332049052,good,intransitive,356,syntax,argument_structure,bigram10,-17.678330664098105,-17.878330664098105,TRUE
+a car scared .,-17.915313748122763,-89.57656874061381,bad,intransitive,356,syntax,argument_structure,bigram2,-17.915313748122763,-17.915313748122763,FALSE
+a car dropped .,-17.915313748122763,-89.57656874061381,good,intransitive,356,syntax,argument_structure,bigram2,-17.915313748122763,-17.915313748122763,FALSE
+a car scared .,-17.939506997254906,-89.69753498627453,bad,intransitive,356,syntax,argument_structure,bigram3,-17.739506997254907,-17.939506997254906,TRUE
+a car dropped .,-17.739506997254907,-88.69753498627453,good,intransitive,356,syntax,argument_structure,bigram3,-17.739506997254907,-17.939506997254906,TRUE
+a car scared .,-17.956487254082994,-89.78243627041498,bad,intransitive,356,syntax,argument_structure,bigram4,-17.756487254082995,-17.956487254082994,TRUE
+a car dropped .,-17.756487254082995,-88.78243627041498,good,intransitive,356,syntax,argument_structure,bigram4,-17.756487254082995,-17.956487254082994,TRUE
+a car scared .,-17.978813872490228,-89.89406936245115,bad,intransitive,356,syntax,argument_structure,bigram5,-17.77881387249023,-17.978813872490228,TRUE
+a car dropped .,-17.77881387249023,-88.89406936245115,good,intransitive,356,syntax,argument_structure,bigram5,-17.77881387249023,-17.978813872490228,TRUE
+a car scared .,-17.826563710927175,-89.13281855463588,bad,intransitive,356,syntax,argument_structure,bigram6,-17.626563710927176,-17.826563710927175,TRUE
+a car dropped .,-17.626563710927176,-88.13281855463588,good,intransitive,356,syntax,argument_structure,bigram6,-17.626563710927176,-17.826563710927175,TRUE
+a car scared .,-17.99653907534796,-89.9826953767398,bad,intransitive,356,syntax,argument_structure,bigram7,-17.99653907534796,-17.99653907534796,FALSE
+a car dropped .,-17.99653907534796,-89.9826953767398,good,intransitive,356,syntax,argument_structure,bigram7,-17.99653907534796,-17.99653907534796,FALSE
+a car scared .,-17.91966893607802,-89.59834468039008,bad,intransitive,356,syntax,argument_structure,bigram8,-17.719668936078016,-17.91966893607802,TRUE
+a car dropped .,-17.719668936078016,-88.59834468039008,good,intransitive,356,syntax,argument_structure,bigram8,-17.719668936078016,-17.91966893607802,TRUE
+a car scared .,-17.92470144806897,-89.62350724034485,bad,intransitive,356,syntax,argument_structure,bigram9,-17.92470144806897,-17.92470144806897,FALSE
+a car dropped .,-17.92470144806897,-89.62350724034485,good,intransitive,356,syntax,argument_structure,bigram9,-17.92470144806897,-17.92470144806897,FALSE
+those gloves dry .,-18.817621327495,-94.088106637475,good,intransitive,358,syntax,argument_structure,bigram1,-18.817621327495,-19.217621327495,TRUE
+those gloves scared .,-19.217621327495,-96.088106637475,bad,intransitive,358,syntax,argument_structure,bigram1,-18.817621327495,-19.217621327495,TRUE
+those gloves dry .,-18.762764134203167,-93.81382067101583,good,intransitive,358,syntax,argument_structure,bigram10,-18.762764134203167,-19.22714975318064,TRUE
+those gloves scared .,-19.22714975318064,-96.1357487659032,bad,intransitive,358,syntax,argument_structure,bigram10,-18.762764134203167,-19.22714975318064,TRUE
+those gloves dry .,-18.687674289338755,-93.43837144669378,good,intransitive,358,syntax,argument_structure,bigram2,-18.687674289338755,-19.20466678948299,TRUE
+those gloves scared .,-19.20466678948299,-96.02333394741494,bad,intransitive,358,syntax,argument_structure,bigram2,-18.687674289338755,-19.20466678948299,TRUE
+those gloves dry .,-18.811808036844518,-94.05904018422257,good,intransitive,358,syntax,argument_structure,bigram3,-18.811808036844518,-19.211808036844516,TRUE
+those gloves scared .,-19.211808036844516,-96.05904018422257,bad,intransitive,358,syntax,argument_structure,bigram3,-18.811808036844518,-19.211808036844516,TRUE
+those gloves dry .,-18.76007163568245,-93.80035817841225,good,intransitive,358,syntax,argument_structure,bigram4,-18.76007163568245,-19.22445725465992,TRUE
+those gloves scared .,-19.22445725465992,-96.12228627329961,bad,intransitive,358,syntax,argument_structure,bigram4,-18.76007163568245,-19.22445725465992,TRUE
+those gloves dry .,-18.739158483285884,-93.69579241642941,good,intransitive,358,syntax,argument_structure,bigram5,-18.739158483285884,-19.20354410226336,TRUE
+those gloves scared .,-19.20354410226336,-96.01772051131678,bad,intransitive,358,syntax,argument_structure,bigram5,-18.739158483285884,-19.20354410226336,TRUE
+those gloves dry .,-18.72176933676077,-93.60884668380386,good,intransitive,358,syntax,argument_structure,bigram6,-18.72176933676077,-19.18615495573825,TRUE
+those gloves scared .,-19.18615495573825,-95.93077477869123,bad,intransitive,358,syntax,argument_structure,bigram6,-18.72176933676077,-19.18615495573825,TRUE
+those gloves dry .,-18.76220706478535,-93.81103532392675,good,intransitive,358,syntax,argument_structure,bigram7,-18.76220706478535,-19.279199564929577,TRUE
+those gloves scared .,-19.279199564929577,-96.39599782464789,bad,intransitive,358,syntax,argument_structure,bigram7,-18.76220706478535,-19.279199564929577,TRUE
+those gloves dry .,-18.87506519068084,-94.37532595340417,good,intransitive,358,syntax,argument_structure,bigram8,-18.87506519068084,-19.275065190680834,TRUE
+those gloves scared .,-19.275065190680834,-96.37532595340417,bad,intransitive,358,syntax,argument_structure,bigram8,-18.87506519068084,-19.275065190680834,TRUE
+those gloves dry .,-18.960508658497385,-94.80254329248692,good,intransitive,358,syntax,argument_structure,bigram9,-18.960508658497385,-19.277501158641616,TRUE
+those gloves scared .,-19.277501158641616,-96.38750579320808,bad,intransitive,358,syntax,argument_structure,bigram9,-18.960508658497385,-19.277501158641616,TRUE
+this cup could fall apart .,-19.666216437354137,-137.66351506147896,good,intransitive,362,syntax,argument_structure,bigram1,-19.666216437354137,-18.915835661289822,FALSE
+this cup could look like .,-18.915835661289822,-132.41084962902875,bad,intransitive,362,syntax,argument_structure,bigram1,-19.666216437354137,-18.915835661289822,FALSE
+this cup could fall apart .,-19.64283250983991,-137.49982756887937,good,intransitive,362,syntax,argument_structure,bigram10,-19.64283250983991,-18.889544153496136,FALSE
+this cup could look like .,-18.889544153496136,-132.22680907447295,bad,intransitive,362,syntax,argument_structure,bigram10,-19.64283250983991,-18.889544153496136,FALSE
+this cup could fall apart .,-19.54080955500878,-136.78566688506146,good,intransitive,362,syntax,argument_structure,bigram2,-19.54080955500878,-18.78487320560252,FALSE
+this cup could look like .,-18.78487320560252,-131.49411243921762,bad,intransitive,362,syntax,argument_structure,bigram2,-19.54080955500878,-18.78487320560252,FALSE
+this cup could fall apart .,-19.6316850550108,-137.42179538507563,good,intransitive,362,syntax,argument_structure,bigram3,-19.6316850550108,-18.88416208975505,FALSE
+this cup could look like .,-18.88416208975505,-132.18913462828536,bad,intransitive,362,syntax,argument_structure,bigram3,-19.6316850550108,-18.88416208975505,FALSE
+this cup could fall apart .,-19.487287080906214,-136.4110095663435,good,intransitive,362,syntax,argument_structure,bigram4,-19.487287080906214,-18.825534478692,FALSE
+this cup could look like .,-18.825534478692,-131.77874135084397,bad,intransitive,362,syntax,argument_structure,bigram4,-19.487287080906214,-18.825534478692,FALSE
+this cup could fall apart .,-19.50315648366787,-136.52209538567507,good,intransitive,362,syntax,argument_structure,bigram5,-19.50315648366787,-18.85594009556804,FALSE
+this cup could look like .,-18.85594009556804,-131.9915806689763,bad,intransitive,362,syntax,argument_structure,bigram5,-19.50315648366787,-18.85594009556804,FALSE
+this cup could fall apart .,-19.673262923788343,-137.7128404665184,good,intransitive,362,syntax,argument_structure,bigram6,-19.673262923788343,-18.86817884181818,FALSE
+this cup could look like .,-18.86817884181818,-132.07725189272728,bad,intransitive,362,syntax,argument_structure,bigram6,-19.673262923788343,-18.86817884181818,FALSE
+this cup could fall apart .,-19.75801570733953,-138.30610995137673,good,intransitive,362,syntax,argument_structure,bigram7,-19.75801570733953,-18.785536432759876,FALSE
+this cup could look like .,-18.785536432759876,-131.4987550293191,bad,intransitive,362,syntax,argument_structure,bigram7,-19.75801570733953,-18.785536432759876,FALSE
+this cup could fall apart .,-19.523050906040805,-136.66135634228564,good,intransitive,362,syntax,argument_structure,bigram8,-19.523050906040805,-18.825918970611053,FALSE
+this cup could look like .,-18.825918970611053,-131.78143279427738,bad,intransitive,362,syntax,argument_structure,bigram8,-19.523050906040805,-18.825918970611053,FALSE
+this cup could fall apart .,-19.58276942469669,-137.0793859728768,good,intransitive,362,syntax,argument_structure,bigram9,-19.58276942469669,-19.007692982967093,FALSE
+this cup could look like .,-19.007692982967093,-133.05385088076966,bad,intransitive,362,syntax,argument_structure,bigram9,-19.58276942469669,-19.007692982967093,FALSE
+Name should like .,-17.709638260074236,-88.54819130037119,bad,intransitive,437,syntax,argument_structure,bigram1,-17.85703137890748,-17.709638260074236,FALSE
+Name should leave .,-17.85703137890748,-89.2851568945374,good,intransitive,437,syntax,argument_structure,bigram1,-17.85703137890748,-17.709638260074236,FALSE
+Name should like .,-17.973335823632585,-89.86667911816292,bad,intransitive,437,syntax,argument_structure,bigram10,-18.090328323776816,-17.973335823632585,FALSE
+Name should leave .,-18.090328323776816,-90.45164161888408,good,intransitive,437,syntax,argument_structure,bigram10,-18.090328323776816,-17.973335823632585,FALSE
+Name should like .,-17.897392436861324,-89.48696218430662,bad,intransitive,437,syntax,argument_structure,bigram2,-18.1617780558388,-17.897392436861324,FALSE
+Name should leave .,-18.1617780558388,-90.80889027919399,good,intransitive,437,syntax,argument_structure,bigram2,-18.1617780558388,-17.897392436861324,FALSE
+Name should like .,-17.9742386549566,-89.871193274783,bad,intransitive,437,syntax,argument_structure,bigram3,-18.05724615481237,-17.9742386549566,FALSE
+Name should leave .,-18.05724615481237,-90.28623077406183,good,intransitive,437,syntax,argument_structure,bigram3,-18.05724615481237,-17.9742386549566,FALSE
+Name should like .,-18.05763830065792,-90.28819150328958,bad,intransitive,437,syntax,argument_structure,bigram4,-18.25763830065792,-18.05763830065792,FALSE
+Name should leave .,-18.25763830065792,-91.28819150328958,good,intransitive,437,syntax,argument_structure,bigram4,-18.25763830065792,-18.05763830065792,FALSE
+Name should like .,-17.969195014850023,-89.8459750742501,bad,intransitive,437,syntax,argument_structure,bigram5,-18.169195014850025,-17.969195014850023,FALSE
+Name should leave .,-18.169195014850025,-90.8459750742501,good,intransitive,437,syntax,argument_structure,bigram5,-18.169195014850025,-17.969195014850023,FALSE
+Name should like .,-17.89218959773831,-89.46094798869154,bad,intransitive,437,syntax,argument_structure,bigram6,-18.092189597738308,-17.89218959773831,FALSE
+Name should leave .,-18.092189597738308,-90.46094798869154,good,intransitive,437,syntax,argument_structure,bigram6,-18.092189597738308,-17.89218959773831,FALSE
+Name should like .,-17.785302508269336,-88.92651254134668,bad,intransitive,437,syntax,argument_structure,bigram7,-18.102295008413567,-17.785302508269336,FALSE
+Name should leave .,-18.102295008413567,-90.51147504206783,good,intransitive,437,syntax,argument_structure,bigram7,-18.102295008413567,-17.785302508269336,FALSE
+Name should like .,-17.732980429338095,-88.66490214669048,bad,intransitive,437,syntax,argument_structure,bigram8,-18.197366048315565,-17.732980429338095,FALSE
+Name should leave .,-18.197366048315565,-90.98683024157782,good,intransitive,437,syntax,argument_structure,bigram8,-18.197366048315565,-17.732980429338095,FALSE
+Name should like .,-17.840161015802988,-89.20080507901494,bad,intransitive,437,syntax,argument_structure,bigram9,-18.040161015802987,-17.840161015802988,FALSE
+Name should leave .,-18.040161015802987,-90.20080507901494,good,intransitive,437,syntax,argument_structure,bigram9,-18.040161015802987,-17.840161015802988,FALSE
+Name looked like .,-17.445252641096765,-87.22626320548382,bad,intransitive,445,syntax,argument_structure,bigram1,-18.010062128962293,-17.445252641096765,FALSE
+Name got a job .,-18.010062128962293,-108.06037277377376,good,intransitive,445,syntax,argument_structure,bigram1,-18.010062128962293,-17.445252641096765,FALSE
+Name looked like .,-17.773335823632586,-88.86667911816292,bad,intransitive,445,syntax,argument_structure,bigram10,-17.84512516818337,-17.773335823632586,FALSE
+Name got a job .,-17.84512516818337,-107.0707510091002,good,intransitive,445,syntax,argument_structure,bigram10,-17.84512516818337,-17.773335823632586,FALSE
+Name looked like .,-17.43300681788385,-87.16503408941925,bad,intransitive,445,syntax,argument_structure,bigram2,-18.12284080368696,-17.43300681788385,FALSE
+Name got a job .,-18.12284080368696,-108.73704482212176,good,intransitive,445,syntax,argument_structure,bigram2,-18.12284080368696,-17.43300681788385,FALSE
+Name looked like .,-17.774238654956598,-88.871193274783,bad,intransitive,445,syntax,argument_structure,bigram3,-17.922791343650214,-17.774238654956598,FALSE
+Name got a job .,-17.922791343650214,-107.53674806190128,good,intransitive,445,syntax,argument_structure,bigram3,-17.922791343650214,-17.774238654956598,FALSE
+Name looked like .,-17.593252681680443,-87.96626340840221,bad,intransitive,445,syntax,argument_structure,bigram4,-18.02729885873444,-17.593252681680443,FALSE
+Name got a job .,-18.02729885873444,-108.16379315240661,good,intransitive,445,syntax,argument_structure,bigram4,-18.02729885873444,-17.593252681680443,FALSE
+Name looked like .,-17.652202514705788,-88.26101257352894,bad,intransitive,445,syntax,argument_structure,bigram5,-17.786640644895424,-17.652202514705788,FALSE
+Name got a job .,-17.786640644895424,-106.71984386937254,good,intransitive,445,syntax,argument_structure,bigram5,-17.786640644895424,-17.652202514705788,FALSE
+Name looked like .,-17.49218959773831,-87.46094798869154,bad,intransitive,445,syntax,argument_structure,bigram6,-18.05629704807705,-17.49218959773831,FALSE
+Name got a job .,-18.05629704807705,-108.33778228846232,good,intransitive,445,syntax,argument_structure,bigram6,-18.05629704807705,-17.49218959773831,FALSE
+Name looked like .,-17.668310008125104,-88.34155004062552,bad,intransitive,445,syntax,argument_structure,bigram7,-18.096692357325622,-17.668310008125104,FALSE
+Name got a job .,-18.096692357325622,-108.58015414395376,good,intransitive,445,syntax,argument_structure,bigram7,-18.096692357325622,-17.668310008125104,FALSE
+Name looked like .,-17.532980429338096,-87.66490214669048,bad,intransitive,445,syntax,argument_structure,bigram8,-17.963641421577265,-17.532980429338096,FALSE
+Name got a job .,-17.963641421577265,-107.78184852946359,good,intransitive,445,syntax,argument_structure,bigram8,-17.963641421577265,-17.532980429338096,FALSE
+Name looked like .,-17.64016101580299,-88.20080507901494,bad,intransitive,445,syntax,argument_structure,bigram9,-18.25662090703577,-17.64016101580299,FALSE
+Name got a job .,-18.25662090703577,-109.53972544221463,good,intransitive,445,syntax,argument_structure,bigram9,-18.25662090703577,-17.64016101580299,FALSE
+Name scratched .,-17.231244628644966,-68.92497851457986,good,intransitive,477,syntax,argument_structure,bigram1,-17.231244628644966,-17.231244628644966,FALSE
+Name scared .,-17.231244628644966,-68.92497851457986,bad,intransitive,477,syntax,argument_structure,bigram1,-17.231244628644966,-17.231244628644966,FALSE
+Name scratched .,-17.373170556445828,-69.49268222578331,good,intransitive,477,syntax,argument_structure,bigram10,-17.373170556445828,-17.373170556445828,FALSE
+Name scared .,-17.373170556445828,-69.49268222578331,bad,intransitive,477,syntax,argument_structure,bigram10,-17.373170556445828,-17.373170556445828,FALSE
+Name scratched .,-17.220183934066554,-68.88073573626622,good,intransitive,477,syntax,argument_structure,bigram2,-17.220183934066554,-17.220183934066554,FALSE
+Name scared .,-17.220183934066554,-68.88073573626622,bad,intransitive,477,syntax,argument_structure,bigram2,-17.220183934066554,-17.220183934066554,FALSE
+Name scratched .,-17.230059067200614,-68.92023626880246,good,intransitive,477,syntax,argument_structure,bigram3,-17.230059067200614,-17.230059067200614,FALSE
+Name scared .,-17.230059067200614,-68.92023626880246,bad,intransitive,477,syntax,argument_structure,bigram3,-17.230059067200614,-17.230059067200614,FALSE
+Name scratched .,-17.333943564280432,-69.33577425712173,good,intransitive,477,syntax,argument_structure,bigram4,-17.333943564280432,-17.333943564280432,FALSE
+Name scared .,-17.333943564280432,-69.33577425712173,bad,intransitive,477,syntax,argument_structure,bigram4,-17.333943564280432,-17.333943564280432,FALSE
+Name scratched .,-17.22382267051921,-68.89529068207683,good,intransitive,477,syntax,argument_structure,bigram5,-17.22382267051921,-17.22382267051921,FALSE
+Name scared .,-17.22382267051921,-68.89529068207683,bad,intransitive,477,syntax,argument_structure,bigram5,-17.22382267051921,-17.22382267051921,FALSE
+Name scratched .,-17.277545625147095,-69.11018250058838,good,intransitive,477,syntax,argument_structure,bigram6,-17.277545625147095,-17.277545625147095,FALSE
+Name scared .,-17.277545625147095,-69.11018250058838,bad,intransitive,477,syntax,argument_structure,bigram6,-17.277545625147095,-17.277545625147095,FALSE
+Name scratched .,-17.383976336143345,-69.53590534457338,good,intransitive,477,syntax,argument_structure,bigram7,-17.383976336143345,-17.383976336143345,FALSE
+Name scared .,-17.383976336143345,-69.53590534457338,bad,intransitive,477,syntax,argument_structure,bigram7,-17.383976336143345,-17.383976336143345,FALSE
+Name scratched .,-17.255471738062433,-69.02188695224973,good,intransitive,477,syntax,argument_structure,bigram8,-17.255471738062433,-17.255471738062433,FALSE
+Name scared .,-17.255471738062433,-69.02188695224973,bad,intransitive,477,syntax,argument_structure,bigram8,-17.255471738062433,-17.255471738062433,FALSE
+Name scratched .,-17.304507131510128,-69.21802852604051,good,intransitive,477,syntax,argument_structure,bigram9,-17.304507131510128,-17.304507131510128,FALSE
+Name scared .,-17.304507131510128,-69.21802852604051,bad,intransitive,477,syntax,argument_structure,bigram9,-17.304507131510128,-17.304507131510128,FALSE
+Name is working with .,-17.371090940059165,-104.22654564035498,bad,intransitive,505,syntax,argument_structure,bigram1,-17.017751936346777,-17.371090940059165,TRUE
+Name is stretching .,-17.017751936346777,-85.08875968173389,good,intransitive,505,syntax,argument_structure,bigram1,-17.017751936346777,-17.371090940059165,TRUE
+Name is working with .,-17.58395173606272,-105.50371041637632,bad,intransitive,505,syntax,argument_structure,bigram10,-16.991957704510877,-17.58395173606272,TRUE
+Name is stretching .,-16.991957704510877,-84.95978852255439,good,intransitive,505,syntax,argument_structure,bigram10,-16.991957704510877,-17.58395173606272,TRUE
+Name is working with .,-17.36631433516895,-104.19788601101371,bad,intransitive,505,syntax,argument_structure,bigram2,-16.853946293617188,-17.36631433516895,TRUE
+Name is stretching .,-16.853946293617188,-84.26973146808594,good,intransitive,505,syntax,argument_structure,bigram2,-16.853946293617188,-17.36631433516895,TRUE
+Name is working with .,-17.42049037706271,-104.52294226237626,bad,intransitive,505,syntax,argument_structure,bigram3,-16.861790170112386,-17.42049037706271,TRUE
+Name is stretching .,-16.861790170112386,-84.30895085056193,good,intransitive,505,syntax,argument_structure,bigram3,-16.861790170112386,-17.42049037706271,TRUE
+Name is working with .,-17.377221470992918,-104.26332882595752,bad,intransitive,505,syntax,argument_structure,bigram4,-16.9451898158137,-17.377221470992918,TRUE
+Name is stretching .,-16.9451898158137,-84.7259490790685,good,intransitive,505,syntax,argument_structure,bigram4,-16.9451898158137,-17.377221470992918,TRUE
+Name is working with .,-17.571722875362926,-105.43033725217755,bad,intransitive,505,syntax,argument_structure,bigram5,-17.01292307214509,-17.571722875362926,TRUE
+Name is stretching .,-17.01292307214509,-85.06461536072544,good,intransitive,505,syntax,argument_structure,bigram5,-17.01292307214509,-17.571722875362926,TRUE
+Name is working with .,-17.259054272350344,-103.55432563410207,bad,intransitive,505,syntax,argument_structure,bigram6,-16.95770452934401,-17.259054272350344,TRUE
+Name is stretching .,-16.95770452934401,-84.78852264672005,good,intransitive,505,syntax,argument_structure,bigram6,-16.95770452934401,-17.259054272350344,TRUE
+Name is working with .,-17.52453245611294,-105.14719473667765,bad,intransitive,505,syntax,argument_structure,bigram7,-17.15131750798087,-17.52453245611294,TRUE
+Name is stretching .,-17.15131750798087,-85.75658753990436,good,intransitive,505,syntax,argument_structure,bigram7,-17.15131750798087,-17.52453245611294,TRUE
+Name is working with .,-17.53533215352211,-105.21199292113266,bad,intransitive,505,syntax,argument_structure,bigram8,-16.91379554533838,-17.53533215352211,TRUE
+Name is stretching .,-16.91379554533838,-84.56897772669191,good,intransitive,505,syntax,argument_structure,bigram8,-16.91379554533838,-17.53533215352211,TRUE
+Name is working with .,-17.44862142260995,-104.69172853565969,bad,intransitive,505,syntax,argument_structure,bigram9,-17.058782896681283,-17.44862142260995,TRUE
+Name is stretching .,-17.058782896681283,-85.29391448340641,good,intransitive,505,syntax,argument_structure,bigram9,-17.058782896681283,-17.44862142260995,TRUE
+every child could n't paint .,-20.268072683544737,-141.87650878481315,good,intransitive,510,syntax,argument_structure,bigram1,-20.268072683544737,-20.18746519632556,FALSE
+every child could n't talk about .,-20.18746519632556,-161.4997215706045,bad,intransitive,510,syntax,argument_structure,bigram1,-20.268072683544737,-20.18746519632556,FALSE
+every child could n't paint .,-20.21490413730205,-141.5043289611143,good,intransitive,510,syntax,argument_structure,bigram10,-20.21490413730205,-20.100992065700314,FALSE
+every child could n't talk about .,-20.100992065700314,-160.8079365256025,bad,intransitive,510,syntax,argument_structure,bigram10,-20.21490413730205,-20.100992065700314,FALSE
+every child could n't paint .,-20.147966033598248,-141.03576223518775,good,intransitive,510,syntax,argument_structure,bigram2,-20.147966033598248,-20.233047638070573,TRUE
+every child could n't talk about .,-20.233047638070573,-161.8643811045646,bad,intransitive,510,syntax,argument_structure,bigram2,-20.147966033598248,-20.233047638070573,TRUE
+every child could n't paint .,-20.081233824772124,-140.56863677340488,good,intransitive,510,syntax,argument_structure,bigram3,-20.081233824772124,-20.089029857165976,TRUE
+every child could n't talk about .,-20.089029857165976,-160.7122388573278,bad,intransitive,510,syntax,argument_structure,bigram3,-20.081233824772124,-20.089029857165976,TRUE
+every child could n't paint .,-20.196434867007948,-141.37504406905563,good,intransitive,510,syntax,argument_structure,bigram4,-20.196434867007948,-20.190013299145736,FALSE
+every child could n't talk about .,-20.190013299145736,-161.5201063931659,bad,intransitive,510,syntax,argument_structure,bigram4,-20.196434867007948,-20.190013299145736,FALSE
+every child could n't paint .,-20.126666831138703,-140.88666781797093,good,intransitive,510,syntax,argument_structure,bigram5,-20.126666831138703,-20.253749661010826,TRUE
+every child could n't talk about .,-20.253749661010826,-162.0299972880866,bad,intransitive,510,syntax,argument_structure,bigram5,-20.126666831138703,-20.253749661010826,TRUE
+every child could n't paint .,-19.8716844340284,-139.10179103819877,good,intransitive,510,syntax,argument_structure,bigram6,-19.8716844340284,-20.086199465450346,TRUE
+every child could n't talk about .,-20.086199465450346,-160.68959572360276,bad,intransitive,510,syntax,argument_structure,bigram6,-19.8716844340284,-20.086199465450346,TRUE
+every child could n't paint .,-20.04437304908738,-140.31061134361167,good,intransitive,510,syntax,argument_structure,bigram7,-20.04437304908738,-20.31641169236783,TRUE
+every child could n't talk about .,-20.31641169236783,-162.53129353894263,bad,intransitive,510,syntax,argument_structure,bigram7,-20.04437304908738,-20.31641169236783,TRUE
+every child could n't paint .,-20.102892861619885,-140.7202500313392,good,intransitive,510,syntax,argument_structure,bigram8,-20.102892861619885,-20.10972979982621,TRUE
+every child could n't talk about .,-20.10972979982621,-160.87783839860967,bad,intransitive,510,syntax,argument_structure,bigram8,-20.102892861619885,-20.10972979982621,TRUE
+every child could n't paint .,-19.99387574611797,-139.95713022282578,good,intransitive,510,syntax,argument_structure,bigram9,-19.99387574611797,-20.492488346975023,TRUE
+every child could n't talk about .,-20.492488346975023,-163.9399067758002,bad,intransitive,510,syntax,argument_structure,bigram9,-19.99387574611797,-20.492488346975023,TRUE
+Name wears .,-16.981244628644966,-67.92497851457986,bad,intransitive,519,syntax,argument_structure,bigram1,-17.085435179881962,-16.981244628644966,FALSE
+Name came here .,-17.085435179881962,-85.42717589940982,good,intransitive,519,syntax,argument_structure,bigram1,-17.085435179881962,-16.981244628644966,FALSE
+Name wears .,-17.123170556445828,-68.49268222578331,bad,intransitive,519,syntax,argument_structure,bigram10,-17.150240380148595,-17.123170556445828,FALSE
+Name came here .,-17.150240380148595,-85.75120190074298,good,intransitive,519,syntax,argument_structure,bigram10,-17.150240380148595,-17.123170556445828,FALSE
+Name wears .,-16.970183934066554,-67.88073573626622,bad,intransitive,519,syntax,argument_structure,bigram2,-17.005506113133865,-16.970183934066554,FALSE
+Name came here .,-17.005506113133865,-85.02753056566932,good,intransitive,519,syntax,argument_structure,bigram2,-17.005506113133865,-16.970183934066554,FALSE
+Name wears .,-16.980059067200614,-67.92023626880246,bad,intransitive,519,syntax,argument_structure,bigram3,-17.099230768687214,-16.980059067200614,FALSE
+Name came here .,-17.099230768687214,-85.49615384343608,good,intransitive,519,syntax,argument_structure,bigram3,-17.099230768687214,-16.980059067200614,FALSE
+Name wears .,-17.333943564280432,-69.33577425712173,bad,intransitive,519,syntax,argument_structure,bigram4,-17.143667178991727,-17.333943564280432,TRUE
+Name came here .,-17.143667178991727,-85.71833589495864,good,intransitive,519,syntax,argument_structure,bigram4,-17.143667178991727,-17.333943564280432,TRUE
+Name wears .,-17.22382267051921,-68.89529068207683,bad,intransitive,519,syntax,argument_structure,bigram5,-17.064482623638618,-17.22382267051921,TRUE
+Name came here .,-17.064482623638618,-85.3224131181931,good,intransitive,519,syntax,argument_structure,bigram5,-17.064482623638618,-17.22382267051921,TRUE
+Name wears .,-17.277545625147095,-69.11018250058838,bad,intransitive,519,syntax,argument_structure,bigram6,-17.163418359783364,-17.277545625147095,TRUE
+Name came here .,-17.163418359783364,-85.81709179891682,good,intransitive,519,syntax,argument_structure,bigram6,-17.163418359783364,-17.277545625147095,TRUE
+Name wears .,-17.383976336143345,-69.53590534457338,bad,intransitive,519,syntax,argument_structure,bigram7,-17.15131750798087,-17.383976336143345,TRUE
+Name came here .,-17.15131750798087,-85.75658753990436,good,intransitive,519,syntax,argument_structure,bigram7,-17.15131750798087,-17.383976336143345,TRUE
+Name wears .,-17.005471738062433,-68.02188695224973,bad,intransitive,519,syntax,argument_structure,bigram8,-17.054516944782343,-17.005471738062433,FALSE
+Name came here .,-17.054516944782343,-85.2725847239117,good,intransitive,519,syntax,argument_structure,bigram8,-17.054516944782343,-17.005471738062433,FALSE
+Name wears .,-17.054507131510128,-68.21802852604051,bad,intransitive,519,syntax,argument_structure,bigram9,-17.132329253581382,-17.054507131510128,FALSE
+Name came here .,-17.132329253581382,-85.66164626790692,good,intransitive,519,syntax,argument_structure,bigram9,-17.132329253581382,-17.054507131510128,FALSE
+Name can telephone .,-17.16514505518002,-85.8257252759001,good,intransitive,520,syntax,argument_structure,bigram1,-17.16514505518002,-18.2951443594298,TRUE
+Name can care for .,-18.2951443594298,-109.77086615657879,bad,intransitive,520,syntax,argument_structure,bigram1,-17.16514505518002,-18.2951443594298,TRUE
+Name can telephone .,-17.211864839221064,-86.05932419610532,good,intransitive,520,syntax,argument_structure,bigram10,-17.211864839221064,-18.23888684808082,TRUE
+Name can care for .,-18.23888684808082,-109.43332108848493,bad,intransitive,520,syntax,argument_structure,bigram10,-17.211864839221064,-18.23888684808082,TRUE
+Name can telephone .,-17.01892895230557,-85.09464476152785,good,intransitive,520,syntax,argument_structure,bigram2,-17.01892895230557,-18.20753195429868,TRUE
+Name can care for .,-18.20753195429868,-109.24519172579207,bad,intransitive,520,syntax,argument_structure,bigram2,-17.01892895230557,-18.20753195429868,TRUE
+Name can telephone .,-17.09577517040085,-85.47887585200425,good,intransitive,520,syntax,argument_structure,bigram3,-17.09577517040085,-18.53953129667373,TRUE
+Name can care for .,-18.53953129667373,-111.23718778004238,bad,intransitive,520,syntax,argument_structure,bigram3,-17.09577517040085,-18.53953129667373,TRUE
+Name can telephone .,-16.98966830008099,-84.94834150040495,good,intransitive,520,syntax,argument_structure,bigram4,-16.98966830008099,-18.511780624669186,TRUE
+Name can care for .,-18.511780624669186,-111.07068374801511,bad,intransitive,520,syntax,argument_structure,bigram4,-16.98966830008099,-18.511780624669186,TRUE
+Name can telephone .,-16.929260545882748,-84.64630272941373,good,intransitive,520,syntax,argument_structure,bigram5,-16.929260545882748,-18.40072367394077,TRUE
+Name can care for .,-18.40072367394077,-110.40434204364462,bad,intransitive,520,syntax,argument_structure,bigram5,-16.929260545882748,-18.40072367394077,TRUE
+Name can telephone .,-17.14479647890507,-85.72398239452535,good,intransitive,520,syntax,argument_structure,bigram6,-17.14479647890507,-18.179124647104757,TRUE
+Name can care for .,-18.179124647104757,-109.07474788262851,bad,intransitive,520,syntax,argument_structure,bigram6,-17.14479647890507,-18.179124647104757,TRUE
+Name can telephone .,-17.13571700558062,-85.6785850279031,good,intransitive,520,syntax,argument_structure,bigram7,-17.13571700558062,-18.27569245423292,TRUE
+Name can care for .,-18.27569245423292,-109.65415472539753,bad,intransitive,520,syntax,argument_structure,bigram7,-17.13571700558062,-18.27569245423292,TRUE
+Name can telephone .,-17.11890256375981,-85.59451281879905,good,intransitive,520,syntax,argument_structure,bigram8,-17.11890256375981,-18.524069768141384,TRUE
+Name can care for .,-18.524069768141384,-111.1444186088483,bad,intransitive,520,syntax,argument_structure,bigram8,-17.11890256375981,-18.524069768141384,TRUE
+Name can telephone .,-17.283889073098056,-86.41944536549028,good,intransitive,520,syntax,argument_structure,bigram9,-17.283889073098056,-18.356531252105157,TRUE
+Name can care for .,-18.356531252105157,-110.13918751263091,bad,intransitive,520,syntax,argument_structure,bigram9,-17.283889073098056,-18.356531252105157,TRUE
+Name is n't driving to .,-17.333597893330936,-121.33518525331654,bad,intransitive,547,syntax,argument_structure,bigram1,-16.792655555917964,-17.333597893330936,TRUE
+Name is n't standing up .,-16.792655555917964,-117.54858889142574,good,intransitive,547,syntax,argument_structure,bigram1,-16.792655555917964,-17.333597893330936,TRUE
+Name is n't driving to .,-17.345467955731234,-121.41827569011863,bad,intransitive,547,syntax,argument_structure,bigram10,-16.876124781608052,-17.345467955731234,TRUE
+Name is n't standing up .,-16.876124781608052,-118.13287347125637,good,intransitive,547,syntax,argument_structure,bigram10,-16.876124781608052,-17.345467955731234,TRUE
+Name is n't driving to .,-17.275195458443587,-120.92636820910512,bad,intransitive,547,syntax,argument_structure,bigram2,-16.768024446649232,-17.275195458443587,TRUE
+Name is n't standing up .,-16.768024446649232,-117.37617112654463,good,intransitive,547,syntax,argument_structure,bigram2,-16.768024446649232,-17.275195458443587,TRUE
+Name is n't driving to .,-17.30665302653241,-121.14657118572686,bad,intransitive,547,syntax,argument_structure,bigram3,-17.028087409746636,-17.30665302653241,TRUE
+Name is n't standing up .,-17.028087409746636,-119.19661186822644,good,intransitive,547,syntax,argument_structure,bigram3,-17.028087409746636,-17.30665302653241,TRUE
+Name is n't driving to .,-17.350361957901566,-121.45253370531097,bad,intransitive,547,syntax,argument_structure,bigram4,-17.11181175814333,-17.350361957901566,TRUE
+Name is n't standing up .,-17.11181175814333,-119.7826823070033,good,intransitive,547,syntax,argument_structure,bigram4,-17.11181175814333,-17.350361957901566,TRUE
+Name is n't driving to .,-17.355171983006127,-121.48620388104288,bad,intransitive,547,syntax,argument_structure,bigram5,-16.846087861587755,-17.355171983006127,TRUE
+Name is n't standing up .,-16.846087861587755,-117.92261503111429,good,intransitive,547,syntax,argument_structure,bigram5,-16.846087861587755,-17.355171983006127,TRUE
+Name is n't driving to .,-17.321815837160567,-121.25271086012398,bad,intransitive,547,syntax,argument_structure,bigram6,-16.77101439563702,-17.321815837160567,TRUE
+Name is n't standing up .,-16.77101439563702,-117.39710076945916,good,intransitive,547,syntax,argument_structure,bigram6,-16.77101439563702,-17.321815837160567,TRUE
+Name is n't driving to .,-17.412963330233982,-121.89074331163786,bad,intransitive,547,syntax,argument_structure,bigram7,-16.915380060705132,-17.412963330233982,TRUE
+Name is n't standing up .,-16.915380060705132,-118.40766042493593,good,intransitive,547,syntax,argument_structure,bigram7,-16.915380060705132,-17.412963330233982,TRUE
+Name is n't driving to .,-17.356578469963008,-121.49604928974105,bad,intransitive,547,syntax,argument_structure,bigram8,-16.909848195976817,-17.356578469963008,TRUE
+Name is n't standing up .,-16.909848195976817,-118.36893737183772,good,intransitive,547,syntax,argument_structure,bigram8,-16.909848195976817,-17.356578469963008,TRUE
+Name is n't driving to .,-17.384230283003475,-121.68961198102433,bad,intransitive,547,syntax,argument_structure,bigram9,-17.075449794047174,-17.384230283003475,TRUE
+Name is n't standing up .,-17.075449794047174,-119.52814855833022,good,intransitive,547,syntax,argument_structure,bigram9,-17.075449794047174,-17.384230283003475,TRUE
+Name would n't bike to .,-17.82987377737842,-124.80911644164895,bad,intransitive,580,syntax,argument_structure,bigram1,-17.697650609309605,-17.82987377737842,TRUE
+Name would n't bake .,-17.697650609309605,-106.18590365585763,good,intransitive,580,syntax,argument_structure,bigram1,-17.697650609309605,-17.82987377737842,TRUE
+Name would n't bike to .,-17.893316634835447,-125.25321644384813,bad,intransitive,580,syntax,argument_structure,bigram10,-17.81320325857809,-17.893316634835447,TRUE
+Name would n't bake .,-17.81320325857809,-106.87921955146852,good,intransitive,580,syntax,argument_structure,bigram10,-17.81320325857809,-17.893316634835447,TRUE
+Name would n't bike to .,-17.81910330445182,-124.73372313116273,bad,intransitive,580,syntax,argument_structure,bigram2,-17.699647668502287,-17.81910330445182,TRUE
+Name would n't bake .,-17.699647668502287,-106.19788601101372,good,intransitive,580,syntax,argument_structure,bigram2,-17.699647668502287,-17.81910330445182,TRUE
+Name would n't bike to .,-17.877678666666352,-125.14375066666446,bad,intransitive,580,syntax,argument_structure,bigram3,-17.775370879886868,-17.877678666666352,TRUE
+Name would n't bake .,-17.775370879886868,-106.65222527932121,good,intransitive,580,syntax,argument_structure,bigram3,-17.775370879886868,-17.877678666666352,TRUE
+Name would n't bike to .,-17.931325036598174,-125.51927525618723,bad,intransitive,580,syntax,argument_structure,bigram4,-17.837714938109446,-17.931325036598174,TRUE
+Name would n't bake .,-17.837714938109446,-107.02628962865667,good,intransitive,580,syntax,argument_structure,bigram4,-17.837714938109446,-17.931325036598174,TRUE
+Name would n't bike to .,-17.92713657370057,-125.48995601590399,bad,intransitive,580,syntax,argument_structure,bigram5,-17.771122410830177,-17.92713657370057,TRUE
+Name would n't bake .,-17.771122410830177,-106.62673446498106,good,intransitive,580,syntax,argument_structure,bigram5,-17.771122410830177,-17.92713657370057,TRUE
+Name would n't bike to .,-17.796668830385418,-124.57668181269793,bad,intransitive,580,syntax,argument_structure,bigram6,-17.67221187444206,-17.796668830385418,TRUE
+Name would n't bake .,-17.67221187444206,-106.03327124665236,good,intransitive,580,syntax,argument_structure,bigram6,-17.67221187444206,-17.796668830385418,TRUE
+Name would n't bike to .,-17.948122943453374,-125.63686060417362,bad,intransitive,580,syntax,argument_structure,bigram7,-17.853453754219412,-17.948122943453374,TRUE
+Name would n't bake .,-17.853453754219412,-107.12072252531647,good,intransitive,580,syntax,argument_structure,bigram7,-17.853453754219412,-17.948122943453374,TRUE
+Name would n't bike to .,-17.909940184057593,-125.36958128840314,bad,intransitive,580,syntax,argument_structure,bigram8,-17.775427585419774,-17.909940184057593,TRUE
+Name would n't bake .,-17.775427585419774,-106.65256551251863,good,intransitive,580,syntax,argument_structure,bigram8,-17.775427585419774,-17.909940184057593,TRUE
+Name would n't bike to .,-17.912435601571985,-125.3870492110039,bad,intransitive,580,syntax,argument_structure,bigram9,-17.77536669524551,-17.912435601571985,TRUE
+Name would n't bake .,-17.77536669524551,-106.65220017147305,good,intransitive,580,syntax,argument_structure,bigram9,-17.77536669524551,-17.912435601571985,TRUE
+this eye looked like .,-18.84575299850426,-113.07451799102556,bad,intransitive,585,syntax,argument_structure,bigram1,-18.75464666002432,-18.84575299850426,TRUE
+this eye closed .,-18.75464666002432,-93.77323330012159,good,intransitive,585,syntax,argument_structure,bigram1,-18.75464666002432,-18.84575299850426,TRUE
+this eye looked like .,-19.020971779416627,-114.12583067649976,bad,intransitive,585,syntax,argument_structure,bigram10,-18.75036675682403,-19.020971779416627,TRUE
+this eye closed .,-18.75036675682403,-93.75183378412015,good,intransitive,585,syntax,argument_structure,bigram10,-18.75036675682403,-19.020971779416627,TRUE
+this eye looked like .,-18.79976977551335,-112.79861865308011,bad,intransitive,585,syntax,argument_structure,bigram2,-18.90286405998541,-18.79976977551335,FALSE
+this eye closed .,-18.90286405998541,-94.51432029992708,good,intransitive,585,syntax,argument_structure,bigram2,-18.90286405998541,-18.79976977551335,FALSE
+this eye looked like .,-19.13212774566374,-114.79276647398245,bad,intransitive,585,syntax,argument_structure,bigram3,-18.96836189360038,-19.13212774566374,TRUE
+this eye closed .,-18.96836189360038,-94.84180946800191,good,intransitive,585,syntax,argument_structure,bigram3,-18.96836189360038,-19.13212774566374,TRUE
+this eye looked like .,-18.90976538669594,-113.45859232017564,bad,intransitive,585,syntax,argument_structure,bigram4,-18.76562063377903,-18.90976538669594,TRUE
+this eye closed .,-18.76562063377903,-93.82810316889514,good,intransitive,585,syntax,argument_structure,bigram4,-18.76562063377903,-18.90976538669594,TRUE
+this eye looked like .,-19.026062249037164,-114.15637349422298,bad,intransitive,585,syntax,argument_structure,bigram5,-18.758130320554173,-19.026062249037164,TRUE
+this eye closed .,-18.758130320554173,-93.79065160277086,good,intransitive,585,syntax,argument_structure,bigram5,-18.758130320554173,-19.026062249037164,TRUE
+this eye looked like .,-18.83325081650509,-112.99950489903054,bad,intransitive,585,syntax,argument_structure,bigram6,-18.729747882185475,-18.83325081650509,TRUE
+this eye closed .,-18.729747882185475,-93.64873941092738,good,intransitive,585,syntax,argument_structure,bigram6,-18.729747882185475,-18.83325081650509,TRUE
+this eye looked like .,-18.95759629219352,-113.74557775316111,bad,intransitive,585,syntax,argument_structure,bigram7,-18.9879866114218,-18.95759629219352,FALSE
+this eye closed .,-18.9879866114218,-94.93993305710899,good,intransitive,585,syntax,argument_structure,bigram7,-18.9879866114218,-18.95759629219352,FALSE
+this eye looked like .,-18.924068326585417,-113.5444099595125,bad,intransitive,585,syntax,argument_structure,bigram8,-18.780278953014356,-18.924068326585417,TRUE
+this eye closed .,-18.780278953014356,-93.90139476507176,good,intransitive,585,syntax,argument_structure,bigram8,-18.780278953014356,-18.924068326585417,TRUE
+this eye looked like .,-18.98399405699333,-113.90396434195998,bad,intransitive,585,syntax,argument_structure,bigram9,-18.78423755779711,-18.98399405699333,TRUE
+this eye closed .,-18.78423755779711,-93.92118778898555,good,intransitive,585,syntax,argument_structure,bigram9,-18.78423755779711,-18.98399405699333,TRUE
+that mouth had looked like .,-19.08113755740665,-133.56796290184656,bad,intransitive,593,syntax,argument_structure,bigram1,-19.04444636849043,-19.08113755740665,TRUE
+that mouth had closed .,-19.04444636849043,-114.26667821094259,good,intransitive,593,syntax,argument_structure,bigram1,-19.04444636849043,-19.08113755740665,TRUE
+that mouth had looked like .,-19.185260928836502,-134.29682650185552,bad,intransitive,593,syntax,argument_structure,bigram10,-18.987138268245985,-19.185260928836502,TRUE
+that mouth had closed .,-18.987138268245985,-113.92282960947591,good,intransitive,593,syntax,argument_structure,bigram10,-18.987138268245985,-19.185260928836502,TRUE
+that mouth had looked like .,-19.00591554261841,-133.0414087983289,bad,intransitive,593,syntax,argument_structure,bigram2,-19.126185074195977,-19.00591554261841,FALSE
+that mouth had closed .,-19.126185074195977,-114.75711044517585,good,intransitive,593,syntax,argument_structure,bigram2,-19.126185074195977,-19.00591554261841,FALSE
+that mouth had looked like .,-19.25161169304961,-134.7612818513473,bad,intransitive,593,syntax,argument_structure,bigram3,-19.135054140894457,-19.25161169304961,TRUE
+that mouth had closed .,-19.135054140894457,-114.81032484536675,good,intransitive,593,syntax,argument_structure,bigram3,-19.135054140894457,-19.25161169304961,TRUE
+that mouth had looked like .,-19.08339749965347,-133.58378249757428,bad,intransitive,593,syntax,argument_structure,bigram4,-18.992215557715628,-19.08339749965347,TRUE
+that mouth had closed .,-18.992215557715628,-113.95329334629378,good,intransitive,593,syntax,argument_structure,bigram4,-18.992215557715628,-19.08339749965347,TRUE
+that mouth had looked like .,-19.175902284194056,-134.2313159893584,bad,intransitive,593,syntax,argument_structure,bigram5,-18.977599016317715,-19.175902284194056,TRUE
+that mouth had closed .,-18.977599016317715,-113.86559409790628,good,intransitive,593,syntax,argument_structure,bigram5,-18.977599016317715,-19.175902284194056,TRUE
+that mouth had looked like .,-19.06159245257148,-133.43114716800034,bad,intransitive,593,syntax,argument_structure,bigram6,-19.01339694664953,-19.06159245257148,TRUE
+that mouth had closed .,-19.01339694664953,-114.08038167989717,good,intransitive,593,syntax,argument_structure,bigram6,-19.01339694664953,-19.06159245257148,TRUE
+that mouth had looked like .,-19.173526703373305,-134.21468692361313,bad,intransitive,593,syntax,argument_structure,bigram7,-19.23484037126017,-19.173526703373305,FALSE
+that mouth had closed .,-19.23484037126017,-115.409042227561,good,intransitive,593,syntax,argument_structure,bigram7,-19.23484037126017,-19.173526703373305,FALSE
+that mouth had looked like .,-19.09135454895184,-133.63948184266286,bad,intransitive,593,syntax,argument_structure,bigram8,-18.999411108037023,-19.09135454895184,TRUE
+that mouth had closed .,-18.999411108037023,-113.99646664822214,good,intransitive,593,syntax,argument_structure,bigram8,-18.999411108037023,-19.09135454895184,TRUE
+that mouth had looked like .,-19.15787591224477,-134.10513138571335,bad,intransitive,593,syntax,argument_structure,bigram9,-19.020392472123152,-19.15787591224477,TRUE
+that mouth had closed .,-19.020392472123152,-114.12235483273892,good,intransitive,593,syntax,argument_structure,bigram9,-19.020392472123152,-19.15787591224477,TRUE
+Name is n't sitting down .,-16.954261917814854,-118.67983342470399,good,intransitive,670,syntax,argument_structure,bigram1,-16.954261917814854,-17.107174678942197,TRUE
+Name is n't listening to .,-17.107174678942197,-119.75022275259538,bad,intransitive,670,syntax,argument_structure,bigram1,-16.954261917814854,-17.107174678942197,TRUE
+Name is n't sitting down .,-17.14986312577899,-120.04904188045292,good,intransitive,670,syntax,argument_structure,bigram10,-17.14986312577899,-17.119044741342496,FALSE
+Name is n't listening to .,-17.119044741342496,-119.83331318939747,bad,intransitive,670,syntax,argument_structure,bigram10,-17.14986312577899,-17.119044741342496,FALSE
+Name is n't sitting down .,-16.930190101403753,-118.51133070982627,good,intransitive,670,syntax,argument_structure,bigram2,-16.930190101403753,-17.132338315586445,TRUE
+Name is n't listening to .,-17.132338315586445,-119.92636820910512,bad,intransitive,670,syntax,argument_structure,bigram2,-16.930190101403753,-17.132338315586445,TRUE
+Name is n't sitting down .,-16.95701602982223,-118.69911220875562,good,intransitive,670,syntax,argument_structure,bigram3,-16.95701602982223,-17.02093874081812,TRUE
+Name is n't listening to .,-17.02093874081812,-119.14657118572686,bad,intransitive,670,syntax,argument_structure,bigram3,-16.95701602982223,-17.02093874081812,TRUE
+Name is n't sitting down .,-17.0224396888264,-119.1570778217848,good,intransitive,670,syntax,argument_structure,bigram4,-17.0224396888264,-17.12393874351283,TRUE
+Name is n't listening to .,-17.12393874351283,-119.86757120458982,bad,intransitive,670,syntax,argument_structure,bigram4,-17.0224396888264,-17.12393874351283,TRUE
+Name is n't sitting down .,-16.948989912104334,-118.64292938473034,good,intransitive,670,syntax,argument_structure,bigram5,-16.948989912104334,-17.12874876861739,TRUE
+Name is n't listening to .,-17.12874876861739,-119.90124138032172,bad,intransitive,670,syntax,argument_structure,bigram5,-16.948989912104334,-17.12874876861739,TRUE
+Name is n't sitting down .,-17.004331205541074,-119.03031843878753,good,intransitive,670,syntax,argument_structure,bigram6,-17.004331205541074,-17.178958694303425,TRUE
+Name is n't listening to .,-17.178958694303425,-120.25271086012398,bad,intransitive,670,syntax,argument_structure,bigram6,-17.004331205541074,-17.178958694303425,TRUE
+Name is n't sitting down .,-17.252173204222,-120.765212429554,good,intransitive,670,syntax,argument_structure,bigram7,-17.252173204222,-17.127249044519694,FALSE
+Name is n't listening to .,-17.127249044519694,-119.89074331163786,bad,intransitive,670,syntax,argument_structure,bigram7,-17.252173204222,-17.127249044519694,FALSE
+Name is n't sitting down .,-17.10308699859374,-119.72160899015617,good,intransitive,670,syntax,argument_structure,bigram8,-17.10308699859374,-17.213721327105866,TRUE
+Name is n't listening to .,-17.213721327105866,-120.49604928974105,bad,intransitive,670,syntax,argument_structure,bigram8,-17.10308699859374,-17.213721327105866,TRUE
+Name is n't sitting down .,-16.991077070638273,-118.93753949446791,good,intransitive,670,syntax,argument_structure,bigram9,-16.991077070638273,-17.09851599728919,TRUE
+Name is n't listening to .,-17.09851599728919,-119.68961198102433,bad,intransitive,670,syntax,argument_structure,bigram9,-16.991077070638273,-17.09851599728919,TRUE
+some plate has dropped .,-19.580651487860543,-117.48390892716326,good,intransitive,697,syntax,argument_structure,bigram1,-19.580651487860543,-19.540741945438175,FALSE
+some plate has looked like .,-19.540741945438175,-136.78519361806724,bad,intransitive,697,syntax,argument_structure,bigram1,-19.580651487860543,-19.540741945438175,FALSE
+some plate has dropped .,-19.59493618571004,-117.56961711426023,good,intransitive,697,syntax,argument_structure,bigram10,-19.59493618571004,-19.70623057237712,TRUE
+some plate has looked like .,-19.70623057237712,-137.94361400663982,bad,intransitive,697,syntax,argument_structure,bigram10,-19.59493618571004,-19.70623057237712,TRUE
+some plate has dropped .,-19.709935130950843,-118.25961078570505,good,intransitive,697,syntax,argument_structure,bigram2,-19.709935130950843,-19.506272734122582,FALSE
+some plate has looked like .,-19.506272734122582,-136.54390913885808,bad,intransitive,697,syntax,argument_structure,bigram2,-19.709935130950843,-19.506272734122582,FALSE
+some plate has dropped .,-19.547921860955334,-117.28753116573202,good,intransitive,697,syntax,argument_structure,bigram3,-19.547921860955334,-19.748355453101794,TRUE
+some plate has looked like .,-19.748355453101794,-138.23848817171256,bad,intransitive,697,syntax,argument_structure,bigram3,-19.547921860955334,-19.748355453101794,TRUE
+some plate has dropped .,-19.679117253244577,-118.07470351946746,good,intransitive,697,syntax,argument_structure,bigram4,-19.679117253244577,-19.672170381535427,FALSE
+some plate has looked like .,-19.672170381535427,-137.70519267074798,bad,intransitive,697,syntax,argument_structure,bigram4,-19.679117253244577,-19.672170381535427,FALSE
+some plate has dropped .,-19.661400817248342,-117.96840490349005,good,intransitive,697,syntax,argument_structure,bigram5,-19.661400817248342,-19.76201811356316,TRUE
+some plate has looked like .,-19.76201811356316,-138.33412679494214,bad,intransitive,697,syntax,argument_structure,bigram5,-19.661400817248342,-19.76201811356316,TRUE
+some plate has dropped .,-19.543307532615845,-117.25984519569508,good,intransitive,697,syntax,argument_structure,bigram6,-19.543307532615845,-19.51580152625689,FALSE
+some plate has looked like .,-19.51580152625689,-136.61061068379823,bad,intransitive,697,syntax,argument_structure,bigram6,-19.543307532615845,-19.51580152625689,FALSE
+some plate has dropped .,-19.812601671246654,-118.87561002747992,good,intransitive,697,syntax,argument_structure,bigram7,-19.812601671246654,-19.66875067479029,FALSE
+some plate has looked like .,-19.66875067479029,-137.68125472353205,bad,intransitive,697,syntax,argument_structure,bigram7,-19.812601671246654,-19.66875067479029,FALSE
+some plate has dropped .,-19.68631280356597,-118.11787682139581,good,intransitive,697,syntax,argument_structure,bigram8,-19.68631280356597,-19.6801274308338,FALSE
+some plate has looked like .,-19.6801274308338,-137.76089201583656,bad,intransitive,697,syntax,argument_structure,bigram8,-19.68631280356597,-19.6801274308338,FALSE
+some plate has dropped .,-19.88880127346064,-119.33280764076385,good,intransitive,697,syntax,argument_structure,bigram9,-19.88880127346064,-19.75936917053404,FALSE
+some plate has looked like .,-19.75936917053404,-138.31558419373826,bad,intransitive,697,syntax,argument_structure,bigram9,-19.88880127346064,-19.75936917053404,FALSE
+Name is listening to .,-17.187834994467345,-103.12700996680407,bad,intransitive,701,syntax,argument_structure,bigram1,-17.21775193634678,-17.187834994467345,FALSE
+Name is waving .,-17.21775193634678,-86.08875968173389,good,intransitive,701,syntax,argument_structure,bigram1,-17.21775193634678,-17.187834994467345,FALSE
+Name is listening to .,-17.222297569155668,-103.333785414934,bad,intransitive,701,syntax,argument_structure,bigram10,-17.308950204655112,-17.222297569155668,FALSE
+Name is waving .,-17.308950204655112,-86.54475102327555,good,intransitive,701,syntax,argument_structure,bigram10,-17.308950204655112,-17.222297569155668,FALSE
+Name is listening to .,-17.231755181492684,-103.39053108895611,bad,intransitive,701,syntax,argument_structure,bigram2,-17.17093879376142,-17.231755181492684,TRUE
+Name is waving .,-17.17093879376142,-85.8546939688071,good,intransitive,701,syntax,argument_structure,bigram2,-17.17093879376142,-17.231755181492684,TRUE
+Name is listening to .,-17.064239789771054,-102.38543873862633,bad,intransitive,701,syntax,argument_structure,bigram3,-17.178782670256616,-17.064239789771054,FALSE
+Name is waving .,-17.178782670256616,-85.89391335128309,good,intransitive,701,syntax,argument_structure,bigram3,-17.178782670256616,-17.064239789771054,FALSE
+Name is listening to .,-17.203155784433175,-103.21893470659906,bad,intransitive,701,syntax,argument_structure,bigram4,-17.262182315957933,-17.203155784433175,FALSE
+Name is waving .,-17.262182315957933,-86.31091157978966,good,intransitive,701,syntax,argument_structure,bigram4,-17.262182315957933,-17.203155784433175,FALSE
+Name is listening to .,-17.223812401821203,-103.34287441092721,bad,intransitive,701,syntax,argument_structure,bigram5,-17.212923072145088,-17.223812401821203,TRUE
+Name is waving .,-17.212923072145088,-86.06461536072544,good,intransitive,701,syntax,argument_structure,bigram5,-17.212923072145088,-17.223812401821203,TRUE
+Name is listening to .,-17.319482618914464,-103.91689571348678,bad,intransitive,701,syntax,argument_structure,bigram6,-17.274697029488244,-17.319482618914464,TRUE
+Name is waving .,-17.274697029488244,-86.37348514744122,good,intransitive,701,syntax,argument_structure,bigram6,-17.274697029488244,-17.319482618914464,TRUE
+Name is listening to .,-17.212120936460252,-103.27272561876151,bad,intransitive,701,syntax,argument_structure,bigram7,-17.351317507980873,-17.212120936460252,FALSE
+Name is waving .,-17.351317507980873,-86.75658753990436,good,intransitive,701,syntax,argument_structure,bigram7,-17.351317507980873,-17.212120936460252,FALSE
+Name is listening to .,-17.311826000549598,-103.87095600329758,bad,intransitive,701,syntax,argument_structure,bigram8,-17.230788045482615,-17.311826000549598,TRUE
+Name is waving .,-17.230788045482615,-86.15394022741307,good,intransitive,701,syntax,argument_structure,bigram8,-17.230788045482615,-17.311826000549598,TRUE
+Name is listening to .,-17.171460587156208,-103.02876352293725,bad,intransitive,701,syntax,argument_structure,bigram9,-17.258782896681282,-17.171460587156208,FALSE
+Name is waving .,-17.258782896681282,-86.29391448340641,good,intransitive,701,syntax,argument_structure,bigram9,-17.258782896681282,-17.171460587156208,FALSE
+Name does n't sneeze .,-17.335996442402553,-104.01597865441532,good,intransitive,718,syntax,argument_structure,bigram1,-17.335996442402553,-16.060522634351567,FALSE
+Name does n't go to .,-16.060522634351567,-112.42365844046098,bad,intransitive,718,syntax,argument_structure,bigram1,-17.335996442402553,-16.060522634351567,FALSE
+Name does n't sneeze .,-17.351136710634623,-104.10682026380775,good,intransitive,718,syntax,argument_structure,bigram10,-17.351136710634623,-16.222286378940225,FALSE
+Name does n't go to .,-16.222286378940225,-113.55600465258158,bad,intransitive,718,syntax,argument_structure,bigram10,-17.351136710634623,-16.222286378940225,FALSE
+Name does n't sneeze .,-17.122137392633928,-102.73282435580356,good,intransitive,718,syntax,argument_structure,bigram2,-17.122137392633928,-16.079939666200314,FALSE
+Name does n't go to .,-16.079939666200314,-112.55957766340221,bad,intransitive,718,syntax,argument_structure,bigram2,-17.122137392633928,-16.079939666200314,FALSE
+Name does n't sneeze .,-17.261975310476203,-103.57185186285722,good,intransitive,718,syntax,argument_structure,bigram3,-17.261975310476203,-15.98693702016405,FALSE
+Name does n't go to .,-15.98693702016405,-111.90855914114834,bad,intransitive,718,syntax,argument_structure,bigram3,-17.261975310476203,-15.98693702016405,FALSE
+Name does n't sneeze .,-17.244715695922633,-103.46829417553579,good,intransitive,718,syntax,argument_structure,bigram4,-17.244715695922633,-16.147431627775624,FALSE
+Name does n't go to .,-16.147431627775624,-113.03202139442938,bad,intransitive,718,syntax,argument_structure,bigram4,-17.244715695922633,-16.147431627775624,FALSE
+Name does n't sneeze .,-17.244290431384794,-103.46574258830876,good,intransitive,718,syntax,argument_structure,bigram5,-17.244290431384794,-16.119587291843143,FALSE
+Name does n't go to .,-16.119587291843143,-112.83711104290201,bad,intransitive,718,syntax,argument_structure,bigram5,-17.244290431384794,-16.119587291843143,FALSE
+Name does n't sneeze .,-17.22447123801089,-103.34682742806532,good,intransitive,718,syntax,argument_structure,bigram6,-17.22447123801089,-16.133720240532,FALSE
+Name does n't go to .,-16.133720240532,-112.936041683724,bad,intransitive,718,syntax,argument_structure,bigram6,-17.22447123801089,-16.133720240532,FALSE
+Name does n't sneeze .,-17.45245502760677,-104.71473016564062,good,intransitive,718,syntax,argument_structure,bigram7,-17.45245502760677,-16.17765774748932,FALSE
+Name does n't go to .,-16.17765774748932,-113.24360423242524,bad,intransitive,718,syntax,argument_structure,bigram7,-17.45245502760677,-16.17765774748932,FALSE
+Name does n't sneeze .,-17.21648809298399,-103.29892855790393,good,intransitive,718,syntax,argument_structure,bigram8,-17.21648809298399,-16.124105629835174,FALSE
+Name does n't go to .,-16.124105629835174,-112.86873940884621,bad,intransitive,718,syntax,argument_structure,bigram8,-17.21648809298399,-16.124105629835174,FALSE
+Name does n't sneeze .,-17.205869066734113,-103.23521440040469,good,intransitive,718,syntax,argument_structure,bigram9,-17.205869066734113,-16.151881834903858,FALSE
+Name does n't go to .,-16.151881834903858,-113.063172844327,bad,intransitive,718,syntax,argument_structure,bigram9,-17.205869066734113,-16.151881834903858,FALSE
+that door should look like .,-18.196313022635696,-127.37419115844988,bad,intransitive,773,syntax,argument_structure,bigram1,-18.68279220158338,-18.196313022635696,FALSE
+that door should close .,-18.68279220158338,-112.09675320950026,good,intransitive,773,syntax,argument_structure,bigram1,-18.68279220158338,-18.196313022635696,FALSE
+that door should look like .,-18.26484042942954,-127.85388300600678,bad,intransitive,773,syntax,argument_structure,bigram10,-18.62548410133893,-18.26484042942954,FALSE
+that door should close .,-18.62548410133893,-111.75290460803359,good,intransitive,773,syntax,argument_structure,bigram10,-18.62548410133893,-18.26484042942954,FALSE
+that door should look like .,-18.09126043429947,-126.6388230400963,bad,intransitive,773,syntax,argument_structure,bigram2,-18.597864240622258,-18.09126043429947,FALSE
+that door should close .,-18.597864240622258,-111.58718544373355,good,intransitive,773,syntax,argument_structure,bigram2,-18.597864240622258,-18.09126043429947,FALSE
+that door should look like .,-18.17238471423852,-127.20669299966966,bad,intransitive,773,syntax,argument_structure,bigram3,-18.468387474227796,-18.17238471423852,FALSE
+that door should close .,-18.468387474227796,-110.81032484536675,good,intransitive,773,syntax,argument_structure,bigram3,-18.468387474227796,-18.17238471423852,FALSE
+that door should look like .,-18.052364540193373,-126.3665517813536,bad,intransitive,773,syntax,argument_structure,bigram4,-18.561388474262102,-18.052364540193373,FALSE
+that door should close .,-18.561388474262102,-111.36833084557261,good,intransitive,773,syntax,argument_structure,bigram4,-18.561388474262102,-18.052364540193373,FALSE
+that door should look like .,-18.07583946731676,-126.5308762712173,bad,intransitive,773,syntax,argument_structure,bigram5,-18.477599016317715,-18.07583946731676,FALSE
+that door should close .,-18.477599016317715,-110.86559409790628,good,intransitive,773,syntax,argument_structure,bigram5,-18.477599016317715,-18.07583946731676,FALSE
+that door should look like .,-17.99831481030737,-125.9882036721516,bad,intransitive,773,syntax,argument_structure,bigram6,-18.582569863196003,-17.99831481030737,FALSE
+that door should close .,-18.582569863196003,-111.49541917917601,good,intransitive,773,syntax,argument_structure,bigram6,-18.582569863196003,-17.99831481030737,FALSE
+that door should look like .,-18.201047428793647,-127.40733200155552,bad,intransitive,773,syntax,argument_structure,bigram7,-18.80401328780664,-18.201047428793647,FALSE
+that door should close .,-18.80401328780664,-112.82407972683984,good,intransitive,773,syntax,argument_structure,bigram7,-18.80401328780664,-18.201047428793647,FALSE
+that door should look like .,-18.273080198299954,-127.91156138809967,bad,intransitive,773,syntax,argument_structure,bigram8,-18.73525069125016,-18.273080198299954,FALSE
+that door should close .,-18.73525069125016,-112.41150414750098,good,intransitive,773,syntax,argument_structure,bigram8,-18.73525069125016,-18.273080198299954,FALSE
+that door should look like .,-18.09818269583249,-126.68727887082744,bad,intransitive,773,syntax,argument_structure,bigram9,-18.589565388669627,-18.09818269583249,FALSE
+that door should close .,-18.589565388669627,-111.53739233201776,good,intransitive,773,syntax,argument_structure,bigram9,-18.589565388669627,-18.09818269583249,FALSE
+Name could n't fire .,-17.864317275976273,-107.18590365585763,bad,intransitive,781,syntax,argument_structure,bigram1,-18.2951443594298,-17.864317275976273,FALSE
+Name could n't swallow .,-18.2951443594298,-109.77086615657879,good,intransitive,781,syntax,argument_structure,bigram1,-18.2951443594298,-17.864317275976273,FALSE
+Name could n't fire .,-18.04011266842376,-108.24067601054253,bad,intransitive,781,syntax,argument_structure,bigram10,-18.47093975187728,-18.04011266842376,FALSE
+Name could n't swallow .,-18.47093975187728,-110.82563851126369,good,intransitive,781,syntax,argument_structure,bigram10,-18.47093975187728,-18.04011266842376,FALSE
+Name could n't fire .,-17.902519454539064,-107.41511672723439,bad,intransitive,781,syntax,argument_structure,bigram2,-18.402519454539064,-17.902519454539064,FALSE
+Name could n't swallow .,-18.402519454539064,-110.41511672723439,good,intransitive,781,syntax,argument_structure,bigram2,-18.402519454539064,-17.902519454539064,FALSE
+Name could n't fire .,-17.721716197405645,-106.33029718443387,bad,intransitive,781,syntax,argument_structure,bigram3,-18.221716197405645,-17.721716197405645,FALSE
+Name could n't swallow .,-18.221716197405645,-109.33029718443387,good,intransitive,781,syntax,argument_structure,bigram3,-18.221716197405645,-17.721716197405645,FALSE
+Name could n't fire .,-17.898143284673562,-107.38885970804138,bad,intransitive,781,syntax,argument_structure,bigram4,-18.36603577168316,-17.898143284673562,FALSE
+Name could n't swallow .,-18.36603577168316,-110.19621463009898,good,intransitive,781,syntax,argument_structure,bigram4,-18.36603577168316,-17.898143284673562,FALSE
+Name could n't fire .,-17.884134395015618,-107.3048063700937,bad,intransitive,781,syntax,argument_structure,bigram5,-18.21746772834895,-17.884134395015618,FALSE
+Name could n't swallow .,-18.21746772834895,-109.3048063700937,good,intransitive,781,syntax,argument_structure,bigram5,-18.21746772834895,-17.884134395015618,FALSE
+Name could n't fire .,-17.851878959775604,-107.11127375865362,bad,intransitive,781,syntax,argument_structure,bigram6,-18.380199793349323,-17.851878959775604,FALSE
+Name could n't swallow .,-18.380199793349323,-110.28119876009593,good,intransitive,781,syntax,argument_structure,bigram6,-18.380199793349323,-17.851878959775604,FALSE
+Name could n't fire .,-17.999198607205432,-107.9951916432326,bad,intransitive,781,syntax,argument_structure,bigram7,-18.527519440779155,-17.999198607205432,FALSE
+Name could n't swallow .,-18.527519440779155,-111.16511664467492,good,intransitive,781,syntax,argument_structure,bigram7,-18.527519440779155,-17.999198607205432,FALSE
+Name could n't fire .,-18.007480489216235,-108.04488293529741,bad,intransitive,781,syntax,argument_structure,bigram8,-18.39446850503079,-18.007480489216235,FALSE
+Name could n't swallow .,-18.39446850503079,-110.36681103018475,good,intransitive,781,syntax,argument_structure,bigram8,-18.39446850503079,-18.007480489216235,FALSE
+Name could n't fire .,-17.948621422609946,-107.69172853565968,bad,intransitive,781,syntax,argument_structure,bigram9,-18.379448506063472,-17.948621422609946,FALSE
+Name could n't swallow .,-18.379448506063472,-110.27669103638084,good,intransitive,781,syntax,argument_structure,bigram9,-18.379448506063472,-17.948621422609946,FALSE
+the door has n't looked like .,-18.872070077111644,-150.97656061689315,bad,intransitive,801,syntax,argument_structure,bigram1,-18.81075370371274,-18.872070077111644,TRUE
+the door has n't opened .,-18.81075370371274,-131.67527592598918,good,intransitive,801,syntax,argument_structure,bigram1,-18.81075370371274,-18.872070077111644,TRUE
+the door has n't looked like .,-19.05650763734897,-152.4520610987918,bad,intransitive,801,syntax,argument_structure,bigram10,-18.868294886630316,-19.05650763734897,TRUE
+the door has n't opened .,-18.868294886630316,-132.0780642064122,good,intransitive,801,syntax,argument_structure,bigram10,-18.868294886630316,-19.05650763734897,TRUE
+the door has n't looked like .,-18.897399288496157,-151.17919430796923,bad,intransitive,801,syntax,argument_structure,bigram2,-18.842127993545173,-18.897399288496157,TRUE
+the door has n't opened .,-18.842127993545173,-131.8948959548162,good,intransitive,801,syntax,argument_structure,bigram2,-18.842127993545173,-18.897399288496157,TRUE
+the door has n't looked like .,-19.039885057263717,-152.3190804581097,bad,intransitive,801,syntax,argument_structure,bigram3,-18.7668747788756,-19.039885057263717,TRUE
+the door has n't opened .,-18.7668747788756,-131.36812345212917,good,intransitive,801,syntax,argument_structure,bigram3,-18.7668747788756,-19.039885057263717,TRUE
+the door has n't looked like .,-18.93265158801404,-151.4612127041123,bad,intransitive,801,syntax,argument_structure,bigram4,-18.8329605075474,-18.93265158801404,TRUE
+the door has n't opened .,-18.8329605075474,-131.8307235528318,good,intransitive,801,syntax,argument_structure,bigram4,-18.8329605075474,-18.93265158801404,TRUE
+the door has n't looked like .,-19.098211261290214,-152.7856900903217,bad,intransitive,801,syntax,argument_structure,bigram5,-18.91713831412423,-19.098211261290214,TRUE
+the door has n't opened .,-18.91713831412423,-132.4199681988696,good,intransitive,801,syntax,argument_structure,bigram5,-18.91713831412423,-19.098211261290214,TRUE
+the door has n't looked like .,-18.953323240759623,-151.62658592607698,bad,intransitive,801,syntax,argument_structure,bigram6,-18.896545776853404,-18.953323240759623,TRUE
+the door has n't opened .,-18.896545776853404,-132.27582043797383,good,intransitive,801,syntax,argument_structure,bigram6,-18.896545776853404,-18.953323240759623,TRUE
+the door has n't looked like .,-19.06953817836884,-152.55630542695073,bad,intransitive,801,syntax,argument_structure,bigram7,-18.964380104414087,-19.06953817836884,TRUE
+the door has n't opened .,-18.964380104414087,-132.7506607308986,good,intransitive,801,syntax,argument_structure,bigram7,-18.964380104414087,-19.06953817836884,TRUE
+the door has n't looked like .,-18.966435233538224,-151.7314818683058,bad,intransitive,801,syntax,argument_structure,bigram8,-19.01263809626644,-18.966435233538224,FALSE
+the door has n't opened .,-19.01263809626644,-133.08846667386504,good,intransitive,801,syntax,argument_structure,bigram8,-19.01263809626644,-18.966435233538224,FALSE
+the door has n't looked like .,-18.937244823162107,-151.49795858529686,bad,intransitive,801,syntax,argument_structure,bigram9,-18.787883147474638,-18.937244823162107,TRUE
+the door has n't opened .,-18.787883147474638,-131.51518203232243,good,intransitive,801,syntax,argument_structure,bigram9,-18.787883147474638,-18.937244823162107,TRUE
+some ladies fire .,-18.59076110915268,-92.9538055457634,bad,intransitive,822,syntax,argument_structure,bigram1,-19.080651487860543,-18.59076110915268,FALSE
+some ladies waste away .,-19.080651487860543,-114.48390892716326,good,intransitive,822,syntax,argument_structure,bigram1,-19.080651487860543,-18.59076110915268,FALSE
+some ladies fire .,-18.605139044087657,-93.0256952204383,bad,intransitive,822,syntax,argument_structure,bigram10,-19.09493618571004,-18.605139044087657,FALSE
+some ladies waste away .,-19.09493618571004,-114.56961711426023,good,intransitive,822,syntax,argument_structure,bigram10,-19.09493618571004,-18.605139044087657,FALSE
+some ladies fire .,-18.466291248555457,-92.33145624277728,bad,intransitive,822,syntax,argument_structure,bigram2,-18.989613781802948,-18.466291248555457,FALSE
+some ladies waste away .,-18.989613781802948,-113.93768269081768,good,intransitive,822,syntax,argument_structure,bigram2,-18.989613781802948,-18.466291248555457,FALSE
+some ladies fire .,-18.467314831950297,-92.33657415975148,bad,intransitive,822,syntax,argument_structure,bigram3,-19.006600608714734,-18.467314831950297,FALSE
+some ladies waste away .,-19.006600608714734,-114.03960365228843,good,intransitive,822,syntax,argument_structure,bigram3,-19.006600608714734,-18.467314831950297,FALSE
+some ladies fire .,-18.662986270248403,-93.31493135124201,bad,intransitive,822,syntax,argument_structure,bigram4,-19.150796419670858,-18.662986270248403,FALSE
+some ladies waste away .,-19.150796419670858,-114.90477851802515,good,intransitive,822,syntax,argument_structure,bigram4,-19.150796419670858,-18.662986270248403,FALSE
+some ladies fire .,-18.80354410226336,-94.01772051131678,bad,intransitive,822,syntax,argument_structure,bigram5,-19.133079983674623,-18.80354410226336,FALSE
+some ladies waste away .,-19.133079983674623,-114.79847990204773,good,intransitive,822,syntax,argument_structure,bigram5,-19.133079983674623,-18.80354410226336,FALSE
+some ladies fire .,-18.43083844108569,-92.15419220542844,bad,intransitive,822,syntax,argument_structure,bigram6,-18.989652850134625,-18.43083844108569,FALSE
+some ladies waste away .,-18.989652850134625,-113.93791710080772,good,intransitive,822,syntax,argument_structure,bigram6,-18.989652850134625,-18.43083844108569,FALSE
+some ladies fire .,-18.54602306570863,-92.73011532854316,bad,intransitive,822,syntax,argument_structure,bigram7,-19.10461375233939,-18.54602306570863,FALSE
+some ladies waste away .,-19.10461375233939,-114.62768251403634,good,intransitive,822,syntax,argument_structure,bigram7,-19.10461375233939,-18.54602306570863,FALSE
+some ladies fire .,-18.76620108743608,-93.83100543718038,bad,intransitive,822,syntax,argument_structure,bigram8,-19.10974086712642,-18.76620108743608,FALSE
+some ladies waste away .,-19.10974086712642,-114.65844520275851,good,intransitive,822,syntax,argument_structure,bigram8,-19.10974086712642,-18.76620108743608,FALSE
+some ladies fire .,-18.75301371741365,-93.76506858706826,bad,intransitive,822,syntax,argument_structure,bigram9,-19.180813354553376,-18.75301371741365,FALSE
+some ladies waste away .,-19.180813354553376,-115.08488012732026,good,intransitive,822,syntax,argument_structure,bigram9,-19.180813354553376,-18.75301371741365,FALSE
+many windows are looking like .,-20.716287472651874,-145.0140123085631,bad,intransitive,869,syntax,argument_structure,bigram1,-20.731799920461963,-20.716287472651874,FALSE
+many windows are opening .,-20.731799920461963,-124.39079952277177,good,intransitive,869,syntax,argument_structure,bigram1,-20.731799920461963,-20.716287472651874,FALSE
+many windows are looking like .,-20.689465293714523,-144.82625705600165,bad,intransitive,869,syntax,argument_structure,bigram10,-20.57537669393701,-20.689465293714523,TRUE
+many windows are opening .,-20.57537669393701,-123.45226016362206,good,intransitive,869,syntax,argument_structure,bigram10,-20.57537669393701,-20.689465293714523,TRUE
+many windows are looking like .,-20.549016736749333,-143.84311715724533,bad,intransitive,869,syntax,argument_structure,bigram2,-20.53948178486749,-20.549016736749333,TRUE
+many windows are opening .,-20.53948178486749,-123.23689070920496,good,intransitive,869,syntax,argument_structure,bigram2,-20.53948178486749,-20.549016736749333,TRUE
+many windows are looking like .,-20.61184032729586,-144.28288229107102,bad,intransitive,869,syntax,argument_structure,bigram3,-20.555320880848413,-20.61184032729586,TRUE
+many windows are opening .,-20.555320880848413,-123.33192528509048,good,intransitive,869,syntax,argument_structure,bigram3,-20.555320880848413,-20.61184032729586,TRUE
+many windows are looking like .,-20.631348312630585,-144.4194381884141,bad,intransitive,869,syntax,argument_structure,bigram4,-20.577836823707703,-20.631348312630585,TRUE
+many windows are opening .,-20.577836823707703,-123.46702094224622,good,intransitive,869,syntax,argument_structure,bigram4,-20.577836823707703,-20.631348312630585,TRUE
+many windows are looking like .,-20.625502987757223,-144.3785209143006,bad,intransitive,869,syntax,argument_structure,bigram5,-20.571306087021224,-20.625502987757223,TRUE
+many windows are opening .,-20.571306087021224,-123.42783652212735,good,intransitive,869,syntax,argument_structure,bigram5,-20.571306087021224,-20.625502987757223,TRUE
+many windows are looking like .,-20.668099982036573,-144.676699874256,bad,intransitive,869,syntax,argument_structure,bigram6,-20.720989064358807,-20.668099982036573,FALSE
+many windows are opening .,-20.720989064358807,-124.32593438615285,good,intransitive,869,syntax,argument_structure,bigram6,-20.720989064358807,-20.668099982036573,FALSE
+many windows are looking like .,-20.57822527682541,-144.04757693777788,bad,intransitive,869,syntax,argument_structure,bigram7,-20.609494956834094,-20.57822527682541,FALSE
+many windows are opening .,-20.609494956834094,-123.65696974100459,good,intransitive,869,syntax,argument_structure,bigram7,-20.609494956834094,-20.57822527682541,FALSE
+many windows are looking like .,-20.736172776945043,-145.1532094386153,bad,intransitive,869,syntax,argument_structure,bigram8,-20.751699040695765,-20.736172776945043,FALSE
+many windows are opening .,-20.751699040695765,-124.51019424417458,good,intransitive,869,syntax,argument_structure,bigram8,-20.751699040695765,-20.736172776945043,FALSE
+many windows are looking like .,-20.657283773228645,-144.60098641260052,bad,intransitive,869,syntax,argument_structure,bigram9,-20.60303497660435,-20.657283773228645,TRUE
+many windows are opening .,-20.60303497660435,-123.61820985962609,good,intransitive,869,syntax,argument_structure,bigram9,-20.60303497660435,-20.657283773228645,TRUE
+Name was going fishing .,-18.05390119660126,-108.32340717960756,good,intransitive,898,syntax,argument_structure,bigram1,-18.05390119660126,-17.720567863267927,FALSE
+Name was listening to .,-17.720567863267927,-106.32340717960757,bad,intransitive,898,syntax,argument_structure,bigram1,-18.05390119660126,-17.720567863267927,FALSE
+Name was going fishing .,-18.04011266842376,-108.24067601054253,good,intransitive,898,syntax,argument_structure,bigram10,-18.04011266842376,-17.70677933509042,FALSE
+Name was listening to .,-17.70677933509042,-106.24067601054253,bad,intransitive,898,syntax,argument_structure,bigram10,-18.04011266842376,-17.70677933509042,FALSE
+Name was going fishing .,-17.732865803206185,-106.39719481923711,good,intransitive,898,syntax,argument_structure,bigram2,-17.732865803206185,-17.62662748310364,FALSE
+Name was listening to .,-17.62662748310364,-105.75976489862184,bad,intransitive,898,syntax,argument_structure,bigram2,-17.732865803206185,-17.62662748310364,FALSE
+Name was going fishing .,-18.108704213220207,-108.65222527932124,good,intransitive,898,syntax,argument_structure,bigram3,-18.108704213220207,-17.629626026900848,FALSE
+Name was listening to .,-17.629626026900848,-105.77775616140508,bad,intransitive,898,syntax,argument_structure,bigram3,-18.108704213220207,-17.629626026900848,FALSE
+Name was going fishing .,-18.08095354121566,-108.48572124729397,good,intransitive,898,syntax,argument_structure,bigram4,-18.08095354121566,-17.67104827144278,FALSE
+Name was listening to .,-17.67104827144278,-106.02628962865667,bad,intransitive,898,syntax,argument_structure,bigram4,-18.08095354121566,-17.67104827144278,FALSE
+Name was going fishing .,-18.035282827617035,-108.21169696570222,good,intransitive,898,syntax,argument_structure,bigram5,-18.035282827617035,-17.68737235407531,FALSE
+Name was listening to .,-17.68737235407531,-106.12423412445187,bad,intransitive,898,syntax,argument_structure,bigram5,-18.035282827617035,-17.68737235407531,FALSE
+Name was going fishing .,-18.195713926029907,-109.17428355617943,good,intransitive,898,syntax,argument_structure,bigram6,-18.195713926029907,-17.796994355566778,FALSE
+Name was listening to .,-17.796994355566778,-106.78196613340067,bad,intransitive,898,syntax,argument_structure,bigram6,-18.195713926029907,-17.796994355566778,FALSE
+Name was going fishing .,-18.219519956353327,-109.31711973811997,good,intransitive,898,syntax,argument_structure,bigram7,-18.219519956353327,-17.642948019913778,FALSE
+Name was listening to .,-17.642948019913778,-105.85768811948267,bad,intransitive,898,syntax,argument_structure,bigram7,-18.219519956353327,-17.642948019913778,FALSE
+Name was going fishing .,-18.243320072429373,-109.45992043457625,good,intransitive,898,syntax,argument_structure,bigram8,-18.243320072429373,-17.755653502670004,FALSE
+Name was listening to .,-17.755653502670004,-106.53392101602003,bad,intransitive,898,syntax,argument_structure,bigram8,-18.243320072429373,-17.755653502670004,FALSE
+Name was going fishing .,-18.099769855211367,-108.59861913126821,good,intransitive,898,syntax,argument_structure,bigram9,-18.099769855211367,-17.655942353090964,FALSE
+Name was listening to .,-17.655942353090964,-105.93565411854578,bad,intransitive,898,syntax,argument_structure,bigram9,-18.099769855211367,-17.655942353090964,FALSE
+Name should bake .,-18.17402387905171,-90.87011939525856,good,intransitive,972,syntax,argument_structure,bigram1,-18.17402387905171,-18.58222203017498,TRUE
+Name should talk about .,-18.58222203017498,-111.49333218104988,bad,intransitive,972,syntax,argument_structure,bigram1,-18.17402387905171,-18.58222203017498,TRUE
+Name should bake .,-18.290328323776816,-91.45164161888408,good,intransitive,972,syntax,argument_structure,bigram10,-18.290328323776816,-18.54011266842376,TRUE
+Name should talk about .,-18.54011266842376,-111.24067601054253,bad,intransitive,972,syntax,argument_structure,bigram10,-18.290328323776816,-18.54011266842376,TRUE
+Name should bake .,-18.3617780558388,-91.80889027919399,good,intransitive,972,syntax,argument_structure,bigram2,-18.3617780558388,-18.7358527878724,TRUE
+Name should talk about .,-18.7358527878724,-112.41511672723439,bad,intransitive,972,syntax,argument_structure,bigram2,-18.3617780558388,-18.7358527878724,TRUE
+Name should bake .,-18.3742386549566,-91.871193274783,good,intransitive,972,syntax,argument_structure,bigram3,-18.3742386549566,-18.66913255978432,TRUE
+Name should talk about .,-18.66913255978432,-112.01479535870592,bad,intransitive,972,syntax,argument_structure,bigram3,-18.3742386549566,-18.66913255978432,TRUE
+Name should bake .,-18.45763830065792,-92.28819150328958,good,intransitive,972,syntax,argument_structure,bigram4,-18.45763830065792,-18.738875637899973,TRUE
+Name should talk about .,-18.738875637899973,-112.43325382739984,bad,intransitive,972,syntax,argument_structure,bigram4,-18.45763830065792,-18.738875637899973,TRUE
+Name should bake .,-18.36919501485002,-91.8459750742501,good,intransitive,972,syntax,argument_structure,bigram5,-18.36919501485002,-18.86861616095037,TRUE
+Name should talk about .,-18.86861616095037,-113.21169696570222,bad,intransitive,972,syntax,argument_structure,bigram5,-18.36919501485002,-18.86861616095037,TRUE
+Name should bake .,-18.409182097882542,-92.0459104894127,good,intransitive,972,syntax,argument_structure,bigram6,-18.409182097882542,-18.695713926029907,TRUE
+Name should talk about .,-18.695713926029907,-112.17428355617943,bad,intransitive,972,syntax,argument_structure,bigram6,-18.409182097882542,-18.695713926029907,TRUE
+Name should bake .,-18.30229500841357,-91.51147504206783,good,intransitive,972,syntax,argument_structure,bigram7,-18.30229500841357,-18.552853289686663,TRUE
+Name should talk about .,-18.552853289686663,-111.31711973811997,bad,intransitive,972,syntax,argument_structure,bigram7,-18.30229500841357,-18.552853289686663,TRUE
+Name should bake .,-18.197366048315565,-90.98683024157782,good,intransitive,972,syntax,argument_structure,bigram8,-18.197366048315565,-18.463641421577268,TRUE
+Name should talk about .,-18.463641421577268,-110.78184852946362,bad,intransitive,972,syntax,argument_structure,bigram8,-18.197366048315565,-18.463641421577268,TRUE
+Name should bake .,-18.24016101580299,-91.20080507901494,good,intransitive,972,syntax,argument_structure,bigram9,-18.24016101580299,-18.643608922850333,TRUE
+Name should talk about .,-18.643608922850333,-111.861653537102,bad,intransitive,972,syntax,argument_structure,bigram9,-18.24016101580299,-18.643608922850333,TRUE
+some cars scared .,-19.107753609296918,-95.53876804648456,bad,intransitive,979,syntax,argument_structure,bigram1,-19.24731815452721,-19.107753609296918,FALSE
+some cars fall apart .,-19.24731815452721,-115.48390892716326,good,intransitive,979,syntax,argument_structure,bigram1,-19.24731815452721,-19.107753609296918,FALSE
+some cars scared .,-19.12213154423189,-95.61065772115946,bad,intransitive,979,syntax,argument_structure,bigram10,-19.233282018802985,-19.12213154423189,FALSE
+some cars fall apart .,-19.233282018802985,-115.39969211281792,good,intransitive,979,syntax,argument_structure,bigram10,-19.233282018802985,-19.12213154423189,FALSE
+some cars scared .,-19.06629124855545,-95.33145624277728,bad,intransitive,979,syntax,argument_structure,bigram2,-19.11244138083065,-19.06629124855545,FALSE
+some cars fall apart .,-19.11244138083065,-114.67464828498389,good,intransitive,979,syntax,argument_structure,bigram2,-19.11244138083065,-19.06629124855545,FALSE
+some cars scared .,-19.06731483195029,-95.33657415975148,bad,intransitive,979,syntax,argument_structure,bigram3,-19.16093384514077,-19.06731483195029,FALSE
+some cars fall apart .,-19.16093384514077,-114.96560307084465,good,intransitive,979,syntax,argument_structure,bigram3,-19.16093384514077,-19.06731483195029,FALSE
+some cars scared .,-19.22445725465992,-96.12228627329961,bad,intransitive,979,syntax,argument_structure,bigram4,-19.12546257076335,-19.22445725465992,TRUE
+some cars fall apart .,-19.12546257076335,-114.75277542458011,good,intransitive,979,syntax,argument_structure,bigram4,-19.12546257076335,-19.22445725465992,TRUE
+some cars scared .,-19.20354410226336,-96.01772051131678,bad,intransitive,979,syntax,argument_structure,bigram5,-19.133079983674623,-19.20354410226336,TRUE
+some cars fall apart .,-19.133079983674623,-114.79847990204773,good,intransitive,979,syntax,argument_structure,bigram5,-19.133079983674623,-19.20354410226336,TRUE
+some cars scared .,-19.064823441374152,-95.32411720687075,bad,intransitive,979,syntax,argument_structure,bigram6,-19.242081712272917,-19.064823441374152,FALSE
+some cars fall apart .,-19.242081712272917,-115.45249027363748,good,intransitive,979,syntax,argument_structure,bigram6,-19.242081712272917,-19.064823441374152,FALSE
+some cars scared .,-19.180008065997093,-95.90004032998547,bad,intransitive,979,syntax,argument_structure,bigram7,-19.381774587793128,-19.180008065997093,FALSE
+some cars fall apart .,-19.381774587793128,-116.29064752675876,good,intransitive,979,syntax,argument_structure,bigram7,-19.381774587793128,-19.180008065997093,FALSE
+some cars scared .,-19.230586706413543,-96.15293353206772,bad,intransitive,979,syntax,argument_structure,bigram8,-19.157991969992253,-19.230586706413543,TRUE
+some cars fall apart .,-19.157991969992253,-114.94795181995352,good,intransitive,979,syntax,argument_structure,bigram8,-19.157991969992253,-19.230586706413543,TRUE
+some cars scared .,-19.270006217557885,-96.35003108778942,bad,intransitive,979,syntax,argument_structure,bigram9,-19.254242119784376,-19.270006217557885,TRUE
+some cars fall apart .,-19.254242119784376,-115.52545271870625,good,intransitive,979,syntax,argument_structure,bigram9,-19.254242119784376,-19.270006217557885,TRUE
+the child should hide .,-19.32326473515657,-115.93958841093945,good,intransitive,990,syntax,argument_structure,bigram1,-19.32326473515657,-19.48993140182324,TRUE
+the child should find .,-19.48993140182324,-116.93958841093945,bad,intransitive,990,syntax,argument_structure,bigram1,-19.32326473515657,-19.48993140182324,TRUE
+the child should hide .,-19.504332568153327,-117.02599540891997,good,intransitive,990,syntax,argument_structure,bigram10,-19.504332568153327,-19.504332568153327,FALSE
+the child should find .,-19.504332568153327,-117.02599540891997,bad,intransitive,990,syntax,argument_structure,bigram10,-19.504332568153327,-19.504332568153327,FALSE
+the child should hide .,-19.29352621303976,-115.76115727823856,good,intransitive,990,syntax,argument_structure,bigram2,-19.29352621303976,-19.460192879706423,TRUE
+the child should find .,-19.460192879706423,-116.76115727823856,bad,intransitive,990,syntax,argument_structure,bigram2,-19.29352621303976,-19.460192879706423,TRUE
+the child should hide .,-19.28376144416848,-115.70256866501086,good,intransitive,990,syntax,argument_structure,bigram3,-19.28376144416848,-19.450428110835144,TRUE
+the child should find .,-19.450428110835144,-116.70256866501086,bad,intransitive,990,syntax,argument_structure,bigram3,-19.28376144416848,-19.450428110835144,TRUE
+the child should hide .,-19.33459822060149,-116.00758932360893,good,intransitive,990,syntax,argument_structure,bigram4,-19.33459822060149,-19.501264887268157,TRUE
+the child should find .,-19.501264887268157,-117.00758932360893,bad,intransitive,990,syntax,argument_structure,bigram4,-19.33459822060149,-19.501264887268157,TRUE
+the child should hide .,-19.298535316930614,-115.79121190158371,good,intransitive,990,syntax,argument_structure,bigram5,-19.298535316930614,-19.46520198359729,TRUE
+the child should find .,-19.46520198359729,-116.79121190158371,bad,intransitive,990,syntax,argument_structure,bigram5,-19.298535316930614,-19.46520198359729,TRUE
+the child should hide .,-19.27091577800196,-115.62549466801175,good,intransitive,990,syntax,argument_structure,bigram6,-19.27091577800196,-19.437582444668625,TRUE
+the child should find .,-19.437582444668625,-116.62549466801175,bad,intransitive,990,syntax,argument_structure,bigram6,-19.27091577800196,-19.437582444668625,TRUE
+the child should hide .,-19.49742406650552,-116.9845443990331,good,intransitive,990,syntax,argument_structure,bigram7,-19.49742406650552,-19.49742406650552,FALSE
+the child should find .,-19.49742406650552,-116.9845443990331,bad,intransitive,990,syntax,argument_structure,bigram7,-19.49742406650552,-19.49742406650552,FALSE
+the child should hide .,-19.306294817033848,-115.8377689022031,good,intransitive,990,syntax,argument_structure,bigram8,-19.306294817033848,-19.47296148370052,TRUE
+the child should find .,-19.47296148370052,-116.8377689022031,bad,intransitive,990,syntax,argument_structure,bigram8,-19.306294817033848,-19.47296148370052,TRUE
+the child should hide .,-19.48745381702113,-116.92472290212677,good,intransitive,990,syntax,argument_structure,bigram9,-19.48745381702113,-19.48745381702113,FALSE
+the child should find .,-19.48745381702113,-116.92472290212677,bad,intransitive,990,syntax,argument_structure,bigram9,-19.48745381702113,-19.48745381702113,FALSE
+Name read .,-17.231244628644966,-68.92497851457986,good,intransitive,992,syntax,argument_structure,bigram1,-17.231244628644966,-17.812552894640188,TRUE
+Name works with .,-17.812552894640188,-89.06276447320094,bad,intransitive,992,syntax,argument_structure,bigram1,-17.231244628644966,-17.812552894640188,TRUE
+Name read .,-16.873170556445828,-67.49268222578331,good,intransitive,992,syntax,argument_structure,bigram10,-16.873170556445828,-17.890328323776817,TRUE
+Name works with .,-17.890328323776817,-89.45164161888408,bad,intransitive,992,syntax,argument_structure,bigram10,-16.873170556445828,-17.890328323776817,TRUE
+Name read .,-16.970183934066554,-67.88073573626622,good,intransitive,992,syntax,argument_structure,bigram2,-16.970183934066554,-17.844785555694564,TRUE
+Name works with .,-17.844785555694564,-89.22392777847283,bad,intransitive,992,syntax,argument_structure,bigram2,-16.970183934066554,-17.844785555694564,TRUE
+Name read .,-16.833818442020327,-67.33527376808131,good,intransitive,992,syntax,argument_structure,bigram3,-16.833818442020327,-17.909853035979125,TRUE
+Name works with .,-17.909853035979125,-89.54926517989563,bad,intransitive,992,syntax,argument_structure,bigram3,-16.833818442020327,-17.909853035979125,TRUE
+Name read .,-17.083943564280432,-68.33577425712173,good,intransitive,992,syntax,argument_structure,bigram4,-17.083943564280432,-17.857638300657918,TRUE
+Name works with .,-17.857638300657918,-89.28819150328958,bad,intransitive,992,syntax,argument_structure,bigram4,-17.083943564280432,-17.857638300657918,TRUE
+Name read .,-16.827582045338918,-67.31032818135567,good,intransitive,992,syntax,argument_structure,bigram5,-16.827582045338918,-18.05220251470579,TRUE
+Name works with .,-18.05220251470579,-90.26101257352894,bad,intransitive,992,syntax,argument_structure,bigram5,-16.827582045338918,-18.05220251470579,TRUE
+Name read .,-16.881304999966805,-67.52521999986722,good,intransitive,992,syntax,argument_structure,bigram6,-16.881304999966805,-17.77519709759408,TRUE
+Name works with .,-17.77519709759408,-88.8759854879704,bad,intransitive,992,syntax,argument_structure,bigram6,-16.881304999966805,-17.77519709759408,TRUE
+Name read .,-16.987735710963058,-67.95094284385223,good,intransitive,992,syntax,argument_structure,bigram7,-16.987735710963058,-17.985302508269335,TRUE
+Name works with .,-17.985302508269335,-89.92651254134668,bad,intransitive,992,syntax,argument_structure,bigram7,-16.987735710963058,-17.985302508269335,TRUE
+Name read .,-17.005471738062433,-68.02188695224973,good,intransitive,992,syntax,argument_structure,bigram8,-17.005471738062433,-17.932980429338095,TRUE
+Name works with .,-17.932980429338095,-89.66490214669048,bad,intransitive,992,syntax,argument_structure,bigram8,-17.005471738062433,-17.932980429338095,TRUE
+Name read .,-16.804507131510128,-67.21802852604051,good,intransitive,992,syntax,argument_structure,bigram9,-16.804507131510128,-17.840161015802988,TRUE
+Name works with .,-17.840161015802988,-89.20080507901494,bad,intransitive,992,syntax,argument_structure,bigram9,-16.804507131510128,-17.840161015802988,TRUE

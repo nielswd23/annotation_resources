@@ -1,0 +1,401 @@
+Sentence,LenFacScore,Score,GoodBad,Filename,pair_id,field,linguistics_term,Grammar,good_score,bad_score,correct_pair
+what was Name bringing a popsicle while bringing *T* ?,-32.742476087929205,-327.4247608792921,bad,adjunct_island,120,syntax,island_effects,trigram1,-33.92441416701566,-32.742476087929205,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-33.92441416701566,-339.24414167015664,good,adjunct_island,120,syntax,island_effects,trigram1,-33.92441416701566,-32.742476087929205,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-32.76515032798991,-327.6515032798991,bad,adjunct_island,120,syntax,island_effects,trigram10,-33.963592173870026,-32.76515032798991,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-33.963592173870026,-339.63592173870023,good,adjunct_island,120,syntax,island_effects,trigram10,-33.963592173870026,-32.76515032798991,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-32.66966065402713,-326.6966065402713,bad,adjunct_island,120,syntax,island_effects,trigram2,-33.88514246493234,-32.66966065402713,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-33.88514246493234,-338.85142464932346,good,adjunct_island,120,syntax,island_effects,trigram2,-33.88514246493234,-32.66966065402713,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-32.711326838872225,-327.11326838872225,bad,adjunct_island,120,syntax,island_effects,trigram3,-33.920536480371304,-32.711326838872225,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-33.920536480371304,-339.20536480371305,good,adjunct_island,120,syntax,island_effects,trigram3,-33.920536480371304,-32.711326838872225,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-32.77672239153644,-327.7672239153644,bad,adjunct_island,120,syntax,island_effects,trigram4,-33.97665193023878,-32.77672239153644,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-33.97665193023878,-339.7665193023878,good,adjunct_island,120,syntax,island_effects,trigram4,-33.97665193023878,-32.77672239153644,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-32.79449872081075,-327.94498720810753,bad,adjunct_island,120,syntax,island_effects,trigram5,-33.99989130896386,-32.79449872081075,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-33.99989130896386,-339.9989130896386,good,adjunct_island,120,syntax,island_effects,trigram5,-33.99989130896386,-32.79449872081075,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-32.68422631489405,-326.84226314894045,bad,adjunct_island,120,syntax,island_effects,trigram6,-33.892041395667505,-32.68422631489405,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-33.892041395667505,-338.9204139566751,good,adjunct_island,120,syntax,island_effects,trigram6,-33.892041395667505,-32.68422631489405,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-32.88633637830187,-328.8633637830187,bad,adjunct_island,120,syntax,island_effects,trigram7,-33.99653394539679,-32.88633637830187,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-33.99653394539679,-339.96533945396794,good,adjunct_island,120,syntax,island_effects,trigram7,-33.99653394539679,-32.88633637830187,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-32.871456407564395,-328.7145640756439,bad,adjunct_island,120,syntax,island_effects,trigram8,-33.98719110110068,-32.871456407564395,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-33.98719110110068,-339.8719110110068,good,adjunct_island,120,syntax,island_effects,trigram8,-33.98719110110068,-32.871456407564395,FALSE
+what was Name bringing a popsicle while bringing *T* ?,-32.78035346992,-327.8035346992,bad,adjunct_island,120,syntax,island_effects,trigram9,-33.96930386626114,-32.78035346992,FALSE
+what was Name bringing *T* while bringing a popsicle ?,-33.96930386626114,-339.69303866261146,good,adjunct_island,120,syntax,island_effects,trigram9,-33.96930386626114,-32.78035346992,FALSE
+what has Name broken every carriage without breaking *T* ?,-33.200972338001314,-332.00972338001316,bad,adjunct_island,131,syntax,island_effects,trigram1,-34.28291041708778,-33.200972338001314,FALSE
+what has Name broken *T* without breaking every carriage ?,-34.28291041708778,-342.82910417087777,good,adjunct_island,131,syntax,island_effects,trigram1,-34.28291041708778,-33.200972338001314,FALSE
+what has Name broken every carriage without breaking *T* ?,-32.987389570123554,-329.87389570123554,bad,adjunct_island,131,syntax,island_effects,trigram10,-33.92733516593155,-32.987389570123554,FALSE
+what has Name broken *T* without breaking every carriage ?,-33.92733516593155,-339.27335165931555,good,adjunct_island,131,syntax,island_effects,trigram10,-33.92733516593155,-32.987389570123554,FALSE
+what has Name broken every carriage without breaking *T* ?,-33.23970462584124,-332.39704625841244,bad,adjunct_island,131,syntax,island_effects,trigram2,-34.255186436746456,-33.23970462584124,FALSE
+what has Name broken *T* without breaking every carriage ?,-34.255186436746456,-342.5518643674646,good,adjunct_island,131,syntax,island_effects,trigram2,-34.255186436746456,-33.23970462584124,FALSE
+what has Name broken every carriage without breaking *T* ?,-33.18137081068633,-331.8137081068633,bad,adjunct_island,131,syntax,island_effects,trigram3,-34.29058045218541,-33.18137081068633,FALSE
+what has Name broken *T* without breaking every carriage ?,-34.29058045218541,-342.9058045218541,good,adjunct_island,131,syntax,island_effects,trigram3,-34.29058045218541,-33.18137081068633,FALSE
+what has Name broken every carriage without breaking *T* ?,-32.87672239153644,-328.7672239153644,bad,adjunct_island,131,syntax,island_effects,trigram4,-33.97665193023878,-32.87672239153644,FALSE
+what has Name broken *T* without breaking every carriage ?,-33.97665193023878,-339.7665193023878,good,adjunct_island,131,syntax,island_effects,trigram4,-33.97665193023878,-32.87672239153644,FALSE
+what has Name broken every carriage without breaking *T* ?,-32.96819528022738,-329.68195280227377,bad,adjunct_island,131,syntax,island_effects,trigram5,-33.973587868380484,-32.96819528022738,FALSE
+what has Name broken *T* without breaking every carriage ?,-33.973587868380484,-339.73587868380486,good,adjunct_island,131,syntax,island_effects,trigram5,-33.973587868380484,-32.96819528022738,FALSE
+what has Name broken every carriage without breaking *T* ?,-33.15971506511039,-331.5971506511039,bad,adjunct_island,131,syntax,island_effects,trigram6,-34.20903389581174,-33.15971506511039,FALSE
+what has Name broken *T* without breaking every carriage ?,-34.20903389581174,-342.0903389581174,good,adjunct_island,131,syntax,island_effects,trigram6,-34.20903389581174,-33.15971506511039,FALSE
+what has Name broken every carriage without breaking *T* ?,-33.3185291877906,-333.185291877906,bad,adjunct_island,131,syntax,island_effects,trigram7,-34.32872675488552,-33.3185291877906,FALSE
+what has Name broken *T* without breaking every carriage ?,-34.32872675488552,-343.28726754885525,good,adjunct_island,131,syntax,island_effects,trigram7,-34.32872675488552,-33.3185291877906,FALSE
+what has Name broken every carriage without breaking *T* ?,-32.87925665876453,-328.7925665876453,bad,adjunct_island,131,syntax,island_effects,trigram8,-33.9364951022287,-32.87925665876453,FALSE
+what has Name broken *T* without breaking every carriage ?,-33.9364951022287,-339.36495102228696,good,adjunct_island,131,syntax,island_effects,trigram8,-33.9364951022287,-32.87925665876453,FALSE
+what has Name broken every carriage without breaking *T* ?,-33.25039744173411,-332.5039744173411,bad,adjunct_island,131,syntax,island_effects,trigram9,-34.339347838075255,-33.25039744173411,FALSE
+what has Name broken *T* without breaking every carriage ?,-34.339347838075255,-343.3934783807526,good,adjunct_island,131,syntax,island_effects,trigram9,-34.339347838075255,-33.25039744173411,FALSE
+what will Name fix the bike without fixing *T* ?,-32.968779528512584,-329.68779528512584,bad,adjunct_island,197,syntax,island_effects,trigram1,-33.85071760759904,-32.968779528512584,FALSE
+what will Name fix *T* without fixing the bike ?,-33.85071760759904,-338.5071760759904,good,adjunct_island,197,syntax,island_effects,trigram1,-33.85071760759904,-32.968779528512584,FALSE
+what will Name fix the bike without fixing *T* ?,-33.02364657806202,-330.2364657806202,bad,adjunct_island,197,syntax,island_effects,trigram10,-33.963592173870026,-33.02364657806202,FALSE
+what will Name fix *T* without fixing the bike ?,-33.963592173870026,-339.63592173870023,good,adjunct_island,197,syntax,island_effects,trigram10,-33.963592173870026,-33.02364657806202,FALSE
+what will Name fix the bike without fixing *T* ?,-33.007511816352505,-330.0751181635251,bad,adjunct_island,197,syntax,island_effects,trigram2,-33.890800817768984,-33.007511816352505,FALSE
+what will Name fix *T* without fixing the bike ?,-33.890800817768984,-338.90800817768985,good,adjunct_island,197,syntax,island_effects,trigram2,-33.890800817768984,-33.007511816352505,FALSE
+what will Name fix the bike without fixing *T* ?,-32.9643783105421,-329.64378310542105,bad,adjunct_island,197,syntax,island_effects,trigram3,-33.81509170196907,-32.9643783105421,FALSE
+what will Name fix *T* without fixing the bike ?,-33.81509170196907,-338.15091701969067,good,adjunct_island,197,syntax,island_effects,trigram3,-33.81509170196907,-32.9643783105421,FALSE
+what will Name fix the bike without fixing *T* ?,-32.97672239153644,-329.7672239153644,bad,adjunct_island,197,syntax,island_effects,trigram4,-33.87665193023878,-32.97672239153644,FALSE
+what will Name fix *T* without fixing the bike ?,-33.87665193023878,-338.7665193023878,good,adjunct_island,197,syntax,island_effects,trigram4,-33.87665193023878,-32.97672239153644,FALSE
+what will Name fix the bike without fixing *T* ?,-33.02669153029949,-330.2669153029949,bad,adjunct_island,197,syntax,island_effects,trigram5,-33.899891308963866,-33.02669153029949,FALSE
+what will Name fix *T* without fixing the bike ?,-33.899891308963866,-338.9989130896387,good,adjunct_island,197,syntax,island_effects,trigram5,-33.899891308963866,-33.02669153029949,FALSE
+what will Name fix the bike without fixing *T* ?,-32.91377190324666,-329.13771903246663,bad,adjunct_island,197,syntax,island_effects,trigram6,-33.86309073394801,-32.91377190324666,FALSE
+what will Name fix *T* without fixing the bike ?,-33.86309073394801,-338.63090733948013,good,adjunct_island,197,syntax,island_effects,trigram6,-33.86309073394801,-32.91377190324666,FALSE
+what will Name fix the bike without fixing *T* ?,-32.98633637830187,-329.8633637830187,bad,adjunct_island,197,syntax,island_effects,trigram7,-33.8965339453968,-32.98633637830187,FALSE
+what will Name fix *T* without fixing the bike ?,-33.8965339453968,-338.96533945396794,good,adjunct_island,197,syntax,island_effects,trigram7,-33.8965339453968,-32.98633637830187,FALSE
+what will Name fix the bike without fixing *T* ?,-32.96405634942001,-329.64056349420014,bad,adjunct_island,197,syntax,island_effects,trigram8,-33.82129479288419,-32.96405634942001,FALSE
+what will Name fix *T* without fixing the bike ?,-33.82129479288419,-338.21294792884186,good,adjunct_island,197,syntax,island_effects,trigram8,-33.82129479288419,-32.96405634942001,FALSE
+what will Name fix the bike without fixing *T* ?,-33.09190119166199,-330.9190119166199,bad,adjunct_island,197,syntax,island_effects,trigram9,-34.02235533793102,-33.09190119166199,FALSE
+what will Name fix *T* without fixing the bike ?,-34.02235533793102,-340.2235533793102,good,adjunct_island,197,syntax,island_effects,trigram9,-34.02235533793102,-33.09190119166199,FALSE
+who had Name found Name without talking about *T* ?,-32.92023684579556,-329.2023684579556,bad,adjunct_island,221,syntax,island_effects,trigram1,-33.047100246343696,-32.92023684579556,FALSE
+who had Name found *T* without talking about Name ?,-33.047100246343696,-330.47100246343695,good,adjunct_island,221,syntax,island_effects,trigram1,-33.047100246343696,-32.92023684579556,FALSE
+who had Name found Name without talking about *T* ?,-32.77218926077905,-327.7218926077905,bad,adjunct_island,221,syntax,island_effects,trigram10,-33.02256218273938,-32.77218926077905,FALSE
+who had Name found *T* without talking about Name ?,-33.02256218273938,-330.2256218273938,good,adjunct_island,221,syntax,island_effects,trigram10,-33.02256218273938,-32.77218926077905,FALSE
+who had Name found Name without talking about *T* ?,-32.781208375769125,-327.81208375769125,bad,adjunct_island,221,syntax,island_effects,trigram2,-32.94277430556354,-32.781208375769125,FALSE
+who had Name found *T* without talking about Name ?,-32.94277430556354,-329.4277430556354,good,adjunct_island,221,syntax,island_effects,trigram2,-32.94277430556354,-32.781208375769125,FALSE
+who had Name found Name without talking about *T* ?,-32.92287456061421,-329.2287456061421,bad,adjunct_island,221,syntax,island_effects,trigram3,-33.06267743854045,-32.92287456061421,FALSE
+who had Name found *T* without talking about Name ?,-33.06267743854045,-330.6267743854045,good,adjunct_island,221,syntax,island_effects,trigram3,-33.06267743854045,-32.92287456061421,FALSE
+who had Name found Name without talking about *T* ?,-32.83521864160856,-328.3521864160856,bad,adjunct_island,221,syntax,island_effects,trigram4,-33.01371626823082,-32.83521864160856,FALSE
+who had Name found *T* without talking about Name ?,-33.01371626823082,-330.1371626823082,good,adjunct_island,221,syntax,island_effects,trigram4,-33.01371626823082,-32.83521864160856,FALSE
+who had Name found Name without talking about *T* ?,-32.685187780371606,-326.85187780371604,bad,adjunct_island,221,syntax,island_effects,trigram5,-33.07190703961184,-32.685187780371606,FALSE
+who had Name found *T* without talking about Name ?,-33.07190703961184,-330.71907039611835,good,adjunct_island,221,syntax,island_effects,trigram5,-33.07190703961184,-32.685187780371606,FALSE
+who had Name found Name without talking about *T* ?,-32.73117484322417,-327.3117484322417,bad,adjunct_island,221,syntax,island_effects,trigram6,-33.00206654303106,-32.73117484322417,FALSE
+who had Name found *T* without talking about Name ?,-33.00206654303106,-330.0206654303106,good,adjunct_island,221,syntax,island_effects,trigram6,-33.00206654303106,-32.73117484322417,FALSE
+who had Name found Name without talking about *T* ?,-32.97258602592687,-329.7258602592687,bad,adjunct_island,221,syntax,island_effects,trigram7,-33.10965168991929,-32.97258602592687,FALSE
+who had Name found *T* without talking about Name ?,-33.10965168991929,-331.09651689919286,good,adjunct_island,221,syntax,island_effects,trigram7,-33.10965168991929,-32.97258602592687,FALSE
+who had Name found Name without talking about *T* ?,-32.837752908836634,-328.3775290883664,bad,adjunct_island,221,syntax,island_effects,trigram8,-32.992200752643825,-32.837752908836634,FALSE
+who had Name found *T* without talking about Name ?,-32.992200752643825,-329.9220075264382,good,adjunct_island,221,syntax,island_effects,trigram8,-32.992200752643825,-32.837752908836634,FALSE
+who had Name found Name without talking about *T* ?,-32.83340494158988,-328.33404941589873,bad,adjunct_island,221,syntax,island_effects,trigram9,-33.11791592599518,-32.83340494158988,FALSE
+who had Name found *T* without talking about Name ?,-33.11791592599518,-331.1791592599518,good,adjunct_island,221,syntax,island_effects,trigram9,-33.11791592599518,-32.83340494158988,FALSE
+what does Name buy the windows without bringing *T* ?,-32.23320037383722,-322.33200373837224,bad,adjunct_island,286,syntax,island_effects,trigram1,-33.41513845292368,-32.23320037383722,FALSE
+what does Name buy *T* without bringing the windows ?,-33.41513845292368,-334.1513845292368,good,adjunct_island,286,syntax,island_effects,trigram1,-33.41513845292368,-32.23320037383722,FALSE
+what does Name buy the windows without bringing *T* ?,-32.24144640825982,-322.4144640825982,bad,adjunct_island,286,syntax,island_effects,trigram10,-33.43988825413994,-32.24144640825982,FALSE
+what does Name buy *T* without bringing the windows ?,-33.43988825413994,-334.39888254139936,good,adjunct_island,286,syntax,island_effects,trigram10,-33.43988825413994,-32.24144640825982,FALSE
+what does Name buy the windows without bringing *T* ?,-32.20176678913412,-322.0176678913412,bad,adjunct_island,286,syntax,island_effects,trigram2,-33.417248600039336,-32.20176678913412,FALSE
+what does Name buy *T* without bringing the windows ?,-33.417248600039336,-334.17248600039335,good,adjunct_island,286,syntax,island_effects,trigram2,-33.417248600039336,-32.20176678913412,FALSE
+what does Name buy the windows without bringing *T* ?,-32.21519300090914,-322.15193000909136,bad,adjunct_island,286,syntax,island_effects,trigram3,-33.42440264240822,-32.21519300090914,FALSE
+what does Name buy *T* without bringing the windows ?,-33.42440264240822,-334.24402642408216,good,adjunct_island,286,syntax,island_effects,trigram3,-33.42440264240822,-32.21519300090914,FALSE
+what does Name buy the windows without bringing *T* ?,-32.275475456340224,-322.75475456340223,bad,adjunct_island,286,syntax,island_effects,trigram4,-33.47540499504256,-32.275475456340224,FALSE
+what does Name buy *T* without bringing the windows ?,-33.47540499504256,-334.7540499504256,good,adjunct_island,286,syntax,island_effects,trigram4,-33.47540499504256,-32.275475456340224,FALSE
+what does Name buy the windows without bringing *T* ?,-32.25120278008315,-322.51202780083145,bad,adjunct_island,286,syntax,island_effects,trigram5,-33.45659536823625,-32.25120278008315,FALSE
+what does Name buy *T* without bringing the windows ?,-33.45659536823625,-334.56595368236253,good,adjunct_island,286,syntax,island_effects,trigram5,-33.45659536823625,-32.25120278008315,FALSE
+what does Name buy the windows without bringing *T* ?,-32.150439351018406,-321.50439351018406,bad,adjunct_island,286,syntax,island_effects,trigram6,-33.35825443179187,-32.150439351018406,FALSE
+what does Name buy *T* without bringing the windows ?,-33.35825443179187,-333.5825443179187,good,adjunct_island,286,syntax,island_effects,trigram6,-33.35825443179187,-32.150439351018406,FALSE
+what does Name buy the windows without bringing *T* ?,-32.31111504151535,-323.11115041515353,bad,adjunct_island,286,syntax,island_effects,trigram7,-33.42131260861028,-32.31111504151535,FALSE
+what does Name buy *T* without bringing the windows ?,-33.42131260861028,-334.21312608610276,good,adjunct_island,286,syntax,island_effects,trigram7,-33.42131260861028,-32.31111504151535,FALSE
+what does Name buy the windows without bringing *T* ?,-32.34350145830272,-323.43501458302717,bad,adjunct_island,286,syntax,island_effects,trigram8,-33.459236151838994,-32.34350145830272,FALSE
+what does Name buy *T* without bringing the windows ?,-33.459236151838994,-334.59236151838996,good,adjunct_island,286,syntax,island_effects,trigram8,-33.459236151838994,-32.34350145830272,FALSE
+what does Name buy the windows without bringing *T* ?,-32.27557815677516,-322.7557815677516,bad,adjunct_island,286,syntax,island_effects,trigram9,-33.46452855311631,-32.27557815677516,FALSE
+what does Name buy *T* without bringing the windows ?,-33.46452855311631,-334.6452855311631,good,adjunct_island,286,syntax,island_effects,trigram9,-33.46452855311631,-32.27557815677516,FALSE
+what should Name examine this play without talking about *T* ?,-33.05320717045849,-363.5852788750434,bad,adjunct_island,340,syntax,island_effects,trigram1,-34.20109223526959,-33.05320717045849,FALSE
+what should Name examine *T* without talking about this play ?,-34.20109223526959,-376.21201458796554,good,adjunct_island,340,syntax,island_effects,trigram1,-34.20109223526959,-33.05320717045849,FALSE
+what should Name examine this play without talking about *T* ?,-32.8295196839944,-361.1247165239384,bad,adjunct_island,340,syntax,island_effects,trigram10,-34.039187552511535,-32.8295196839944,FALSE
+what should Name examine *T* without talking about this play ?,-34.039187552511535,-374.4310630776269,good,adjunct_island,340,syntax,island_effects,trigram10,-34.039187552511535,-32.8295196839944,FALSE
+what should Name examine this play without talking about *T* ?,-32.83338819949434,-361.1672701944377,bad,adjunct_island,340,syntax,island_effects,trigram2,-34.05319297357488,-32.83338819949434,FALSE
+what should Name examine *T* without talking about this play ?,-34.05319297357488,-374.5851227093237,good,adjunct_island,340,syntax,island_effects,trigram2,-34.05319297357488,-32.83338819949434,FALSE
+what should Name examine this play without talking about *T* ?,-32.96539327802978,-362.61932605832754,bad,adjunct_island,340,syntax,island_effects,trigram3,-34.06467477030167,-32.96539327802978,FALSE
+what should Name examine *T* without talking about this play ?,-34.06467477030167,-374.71142247331835,good,adjunct_island,340,syntax,island_effects,trigram3,-34.06467477030167,-32.96539327802978,FALSE
+what should Name examine this play without talking about *T* ?,-32.97689371331533,-362.7458308464686,bad,adjunct_island,340,syntax,island_effects,trigram4,-34.15864783940836,-32.97689371331533,FALSE
+what should Name examine *T* without talking about this play ?,-34.15864783940836,-375.745126233492,good,adjunct_island,340,syntax,island_effects,trigram4,-34.15864783940836,-32.97689371331533,FALSE
+what should Name examine this play without talking about *T* ?,-32.74931437929461,-360.24245817224073,bad,adjunct_island,340,syntax,island_effects,trigram5,-34.06467468664097,-32.74931437929461,FALSE
+what should Name examine *T* without talking about this play ?,-34.06467468664097,-374.7114215530507,good,adjunct_island,340,syntax,island_effects,trigram5,-34.06467468664097,-32.74931437929461,FALSE
+what should Name examine this play without talking about *T* ?,-32.78902532528414,-360.67927857812555,bad,adjunct_island,340,syntax,island_effects,trigram6,-34.041624464000115,-32.78902532528414,FALSE
+what should Name examine *T* without talking about this play ?,-34.041624464000115,-374.45786910400125,good,adjunct_island,340,syntax,island_effects,trigram6,-34.041624464000115,-32.78902532528414,FALSE
+what should Name examine this play without talking about *T* ?,-33.1049624558322,-364.15458701415423,bad,adjunct_island,340,syntax,island_effects,trigram7,-34.15599948215825,-33.1049624558322,FALSE
+what should Name examine *T* without talking about this play ?,-34.15599948215825,-375.7159943037408,good,adjunct_island,340,syntax,island_effects,trigram7,-34.15599948215825,-33.1049624558322,FALSE
+what should Name examine this play without talking about *T* ?,-32.889955721891944,-361.7895129408114,bad,adjunct_island,340,syntax,island_effects,trigram8,-34.086078170561294,-32.889955721891944,FALSE
+what should Name examine *T* without talking about this play ?,-34.086078170561294,-374.94685987617424,good,adjunct_island,340,syntax,island_effects,trigram8,-34.086078170561294,-32.889955721891944,FALSE
+what should Name examine this play without talking about *T* ?,-32.88849065945218,-361.773397253974,bad,adjunct_island,340,syntax,island_effects,trigram9,-34.060263747035044,-32.88849065945218,FALSE
+what should Name examine *T* without talking about this play ?,-34.060263747035044,-374.6629012173855,good,adjunct_island,340,syntax,island_effects,trigram9,-34.060263747035044,-32.88849065945218,FALSE
+who does Name find *T* while thinking about Name ?,-33.047100246343696,-330.47100246343695,good,adjunct_island,406,syntax,island_effects,trigram1,-33.047100246343696,-32.82023684579556,FALSE
+who does Name find Name while thinking about *T* ?,-32.82023684579556,-328.2023684579556,bad,adjunct_island,406,syntax,island_effects,trigram1,-33.047100246343696,-32.82023684579556,FALSE
+who does Name find *T* while thinking about Name ?,-33.1810584328115,-331.810584328115,good,adjunct_island,406,syntax,island_effects,trigram10,-33.1810584328115,-32.87218926077905,FALSE
+who does Name find Name while thinking about *T* ?,-32.87218926077905,-328.7218926077905,bad,adjunct_island,406,syntax,island_effects,trigram10,-33.1810584328115,-32.87218926077905,FALSE
+who does Name find *T* while thinking about Name ?,-32.98427805549142,-329.8427805549142,good,adjunct_island,406,syntax,island_effects,trigram2,-32.98427805549142,-32.62271212569701,FALSE
+who does Name find Name while thinking about *T* ?,-32.62271212569701,-326.22712125697007,bad,adjunct_island,406,syntax,island_effects,trigram2,-32.98427805549142,-32.62271212569701,FALSE
+who does Name find *T* while thinking about Name ?,-33.00418118846834,-330.04181188468334,good,adjunct_island,406,syntax,island_effects,trigram3,-33.00418118846834,-32.8643783105421,FALSE
+who does Name find Name while thinking about *T* ?,-32.8643783105421,-328.643783105421,bad,adjunct_island,406,syntax,island_effects,trigram3,-33.00418118846834,-32.8643783105421,FALSE
+who does Name find *T* while thinking about Name ?,-33.11371626823082,-331.1371626823082,good,adjunct_island,406,syntax,island_effects,trigram4,-33.11371626823082,-32.83521864160856,FALSE
+who does Name find Name while thinking about *T* ?,-32.83521864160856,-328.3521864160856,bad,adjunct_island,406,syntax,island_effects,trigram4,-33.11371626823082,-32.83521864160856,FALSE
+who does Name find *T* while thinking about Name ?,-33.07190703961184,-330.71907039611835,good,adjunct_island,406,syntax,island_effects,trigram5,-33.07190703961184,-32.685187780371606,FALSE
+who does Name find Name while thinking about *T* ?,-32.685187780371606,-326.85187780371604,bad,adjunct_island,406,syntax,island_effects,trigram5,-33.07190703961184,-32.685187780371606,FALSE
+who does Name find *T* while thinking about Name ?,-33.10206654303106,-331.0206654303106,good,adjunct_island,406,syntax,island_effects,trigram6,-33.10206654303106,-32.789671093296285,FALSE
+who does Name find Name while thinking about *T* ?,-32.789671093296285,-327.89671093296283,bad,adjunct_island,406,syntax,island_effects,trigram6,-33.10206654303106,-32.789671093296285,FALSE
+who does Name find *T* while thinking about Name ?,-33.10965168991929,-331.09651689919286,good,adjunct_island,406,syntax,island_effects,trigram7,-33.10965168991929,-32.77258602592687,FALSE
+who does Name find Name while thinking about *T* ?,-32.77258602592687,-327.7258602592687,bad,adjunct_island,406,syntax,island_effects,trigram7,-33.10965168991929,-32.77258602592687,FALSE
+who does Name find *T* while thinking about Name ?,-33.19220075264382,-331.9220075264382,good,adjunct_island,406,syntax,island_effects,trigram8,-33.19220075264382,-32.837752908836634,FALSE
+who does Name find Name while thinking about *T* ?,-32.837752908836634,-328.3775290883664,bad,adjunct_island,406,syntax,island_effects,trigram8,-33.19220075264382,-32.837752908836634,FALSE
+who does Name find *T* while thinking about Name ?,-33.05941967592306,-330.5941967592306,good,adjunct_island,406,syntax,island_effects,trigram9,-33.05941967592306,-32.83340494158988,FALSE
+who does Name find Name while thinking about *T* ?,-32.83340494158988,-328.33404941589873,bad,adjunct_island,406,syntax,island_effects,trigram9,-33.05941967592306,-32.83340494158988,FALSE
+what did Name have apples after taking *T* ?,-32.08542577419976,-288.76883196779784,bad,adjunct_island,451,syntax,island_effects,trigram1,-32.918476073752785,-32.08542577419976,FALSE
+what did Name have *T* after taking apples ?,-32.918476073752785,-296.2662846637751,good,adjunct_island,451,syntax,island_effects,trigram1,-32.918476073752785,-32.08542577419976,FALSE
+what did Name have apples after taking *T* ?,-32.10412146812059,-288.9370932130853,bad,adjunct_island,451,syntax,island_effects,trigram10,-32.95550928633323,-32.10412146812059,FALSE
+what did Name have *T* after taking apples ?,-32.95550928633323,-296.59958357699907,good,adjunct_island,451,syntax,island_effects,trigram10,-32.95550928633323,-32.10412146812059,FALSE
+what did Name have apples after taking *T* ?,-32.05329082193832,-288.4796173974449,bad,adjunct_island,451,syntax,island_effects,trigram2,-32.89438588953065,-32.05329082193832,FALSE
+what did Name have *T* after taking apples ?,-32.89438588953065,-296.0494730057759,good,adjunct_island,451,syntax,island_effects,trigram2,-32.89438588953065,-32.05329082193832,FALSE
+what did Name have apples after taking *T* ?,-32.17953030362448,-289.6157727326203,bad,adjunct_island,451,syntax,island_effects,trigram3,-33.10005713617261,-32.17953030362448,FALSE
+what did Name have *T* after taking apples ?,-33.10005713617261,-297.9005142255535,good,adjunct_island,451,syntax,island_effects,trigram3,-33.10005713617261,-32.17953030362448,FALSE
+what did Name have apples after taking *T* ?,-32.056370097096696,-288.5073308738703,bad,adjunct_island,451,syntax,island_effects,trigram4,-32.880184862241386,-32.056370097096696,FALSE
+what did Name have *T* after taking apples ?,-32.880184862241386,-295.92166376017246,good,adjunct_island,451,syntax,island_effects,trigram4,-32.880184862241386,-32.056370097096696,FALSE
+what did Name have apples after taking *T* ?,-32.075548635740745,-288.6799377216667,bad,adjunct_island,451,syntax,island_effects,trigram5,-32.90543345583073,-32.075548635740745,FALSE
+what did Name have *T* after taking apples ?,-32.90543345583073,-296.1489011024766,good,adjunct_island,451,syntax,island_effects,trigram5,-32.90543345583073,-32.075548635740745,FALSE
+what did Name have apples after taking *T* ?,-32.07267569537617,-288.65408125838553,bad,adjunct_island,451,syntax,island_effects,trigram6,-32.88054190489584,-32.07267569537617,FALSE
+what did Name have *T* after taking apples ?,-32.88054190489584,-295.9248771440626,good,adjunct_island,451,syntax,island_effects,trigram6,-32.88054190489584,-32.07267569537617,FALSE
+what did Name have apples after taking *T* ?,-32.06855708562463,-288.6170137706217,bad,adjunct_island,451,syntax,island_effects,trigram7,-32.90378077120553,-32.06855708562463,FALSE
+what did Name have *T* after taking apples ?,-32.90378077120553,-296.1340269408498,good,adjunct_island,451,syntax,island_effects,trigram7,-32.90378077120553,-32.06855708562463,FALSE
+what did Name have apples after taking *T* ?,-32.109807256935724,-288.9882653124215,bad,adjunct_island,451,syntax,island_effects,trigram8,-32.98040935032188,-32.109807256935724,FALSE
+what did Name have *T* after taking apples ?,-32.98040935032188,-296.82368415289693,good,adjunct_island,451,syntax,island_effects,trigram8,-32.98040935032188,-32.109807256935724,FALSE
+what did Name have apples after taking *T* ?,-32.108426482283214,-288.97583834054893,bad,adjunct_island,451,syntax,island_effects,trigram9,-32.89533193132254,-32.108426482283214,FALSE
+what did Name have *T* after taking apples ?,-32.89533193132254,-296.0579873819028,good,adjunct_island,451,syntax,island_effects,trigram9,-32.89533193132254,-32.108426482283214,FALSE
+what would this muffin look like *T* while looking like every print ?,-33.65976584506608,-437.57695598585894,good,adjunct_island,458,syntax,island_effects,trigram1,-33.65976584506608,-32.85662206294216,FALSE
+what would this muffin look like every print while looking like *T* ?,-32.85662206294216,-427.13608681824803,bad,adjunct_island,458,syntax,island_effects,trigram1,-33.65976584506608,-32.85662206294216,FALSE
+what would this muffin look like *T* while looking like every print ?,-33.77436814680618,-439.06678590848037,good,adjunct_island,458,syntax,island_effects,trigram10,-33.77436814680618,-32.88754207180426,FALSE
+what would this muffin look like every print while looking like *T* ?,-32.88754207180426,-427.5380469334554,bad,adjunct_island,458,syntax,island_effects,trigram10,-33.77436814680618,-32.88754207180426,FALSE
+what would this muffin look like *T* while looking like every print ?,-33.64039246499245,-437.3251020449019,good,adjunct_island,458,syntax,island_effects,trigram2,-33.64039246499245,-32.86121684830437,FALSE
+what would this muffin look like every print while looking like *T* ?,-32.86121684830437,-427.1958190279569,bad,adjunct_island,458,syntax,island_effects,trigram2,-33.64039246499245,-32.86121684830437,FALSE
+what would this muffin look like *T* while looking like every print ?,-33.70224451129429,-438.1291786468257,good,adjunct_island,458,syntax,island_effects,trigram3,-33.70224451129429,-32.88289652486314,FALSE
+what would this muffin look like every print while looking like *T* ?,-32.88289652486314,-427.47765482322086,bad,adjunct_island,458,syntax,island_effects,trigram3,-33.70224451129429,-32.88289652486314,FALSE
+what would this muffin look like *T* while looking like every print ?,-33.67991754898144,-437.8389281367587,good,adjunct_island,458,syntax,island_effects,trigram4,-33.67991754898144,-32.90601786192855,FALSE
+what would this muffin look like every print while looking like *T* ?,-32.90601786192855,-427.7782322050711,bad,adjunct_island,458,syntax,island_effects,trigram4,-33.67991754898144,-32.90601786192855,FALSE
+what would this muffin look like *T* while looking like every print ?,-33.66293178247569,-437.61811317218394,good,adjunct_island,458,syntax,island_effects,trigram5,-33.66293178247569,-32.84797068533001,FALSE
+what would this muffin look like every print while looking like *T* ?,-32.84797068533001,-427.0236189092901,bad,adjunct_island,458,syntax,island_effects,trigram5,-33.66293178247569,-32.84797068533001,FALSE
+what would this muffin look like *T* while looking like every print ?,-33.57138906192561,-436.4280578050329,good,adjunct_island,458,syntax,island_effects,trigram6,-33.57138906192561,-32.81714811474651,FALSE
+what would this muffin look like every print while looking like *T* ?,-32.81714811474651,-426.6229254917046,bad,adjunct_island,458,syntax,island_effects,trigram6,-33.57138906192561,-32.81714811474651,FALSE
+what would this muffin look like *T* while looking like every print ?,-33.67783819854365,-437.8118965810674,good,adjunct_island,458,syntax,island_effects,trigram7,-33.67783819854365,-32.86445018967715,FALSE
+what would this muffin look like every print while looking like *T* ?,-32.86445018967715,-427.2378524658029,bad,adjunct_island,458,syntax,island_effects,trigram7,-33.67783819854365,-32.86445018967715,FALSE
+what would this muffin look like *T* while looking like every print ?,-33.711730944105646,-438.2525022733734,good,adjunct_island,458,syntax,island_effects,trigram8,-33.711730944105646,-32.89305603929541,FALSE
+what would this muffin look like every print while looking like *T* ?,-32.89305603929541,-427.60972851084034,bad,adjunct_island,458,syntax,island_effects,trigram8,-33.711730944105646,-32.89305603929541,FALSE
+what would this muffin look like *T* while looking like every print ?,-33.72158500129721,-438.3806050168637,good,adjunct_island,458,syntax,island_effects,trigram9,-33.72158500129721,-32.92078991462699,FALSE
+what would this muffin look like every print while looking like *T* ?,-32.92078991462699,-427.9702688901508,bad,adjunct_island,458,syntax,island_effects,trigram9,-33.72158500129721,-32.92078991462699,FALSE
+what has Name dropped by *T* after running around the bank ?,-34.16749687536102,-410.0099625043322,good,adjunct_island,539,syntax,island_effects,trigram1,-34.16749687536102,-33.314628684515725,FALSE
+what has Name dropped by the bank after running around *T* ?,-33.314628684515725,-399.7755442141887,bad,adjunct_island,539,syntax,island_effects,trigram1,-34.16749687536102,-33.314628684515725,FALSE
+what has Name dropped by *T* after running around the bank ?,-33.92324995763428,-407.07899949161134,good,adjunct_island,539,syntax,island_effects,trigram10,-33.92324995763428,-33.091215086067514,FALSE
+what has Name dropped by the bank after running around *T* ?,-33.091215086067514,-397.0945810328102,bad,adjunct_island,539,syntax,island_effects,trigram10,-33.92324995763428,-33.091215086067514,FALSE
+what has Name dropped by *T* after running around the bank ?,-34.139772895019696,-409.6772747402363,good,adjunct_island,539,syntax,island_effects,trigram2,-34.139772895019696,-33.293538052598684,FALSE
+what has Name dropped by the bank after running around *T* ?,-33.293538052598684,-399.5224566311842,bad,adjunct_island,539,syntax,island_effects,trigram2,-34.139772895019696,-33.293538052598684,FALSE
+what has Name dropped by *T* after running around the bank ?,-34.091833577125314,-409.10200292550377,good,adjunct_island,539,syntax,island_effects,trigram3,-34.091833577125314,-33.38290575093618,FALSE
+what has Name dropped by the bank after running around *T* ?,-33.38290575093618,-400.59486901123415,bad,adjunct_island,539,syntax,island_effects,trigram3,-34.091833577125314,-33.38290575093618,FALSE
+what has Name dropped by *T* after running around the bank ?,-33.8653235968093,-406.38388316171154,good,adjunct_island,539,syntax,island_effects,trigram4,-33.8653235968093,-33.080795856284105,FALSE
+what has Name dropped by the bank after running around *T* ?,-33.080795856284105,-396.9695502754093,bad,adjunct_island,539,syntax,island_effects,trigram4,-33.8653235968093,-33.080795856284105,FALSE
+what has Name dropped by *T* after running around the bank ?,-33.82767307667776,-405.9320769201331,good,adjunct_island,539,syntax,island_effects,trigram5,-33.82767307667776,-33.07317925321684,FALSE
+what has Name dropped by the bank after running around *T* ?,-33.07317925321684,-396.878151038602,bad,adjunct_island,539,syntax,island_effects,trigram5,-33.82767307667776,-33.07317925321684,FALSE
+what has Name dropped by *T* after running around the bank ?,-34.06878327082376,-408.8253992498851,good,adjunct_island,539,syntax,island_effects,trigram6,-34.06878327082376,-33.444350911905964,FALSE
+what has Name dropped by the bank after running around *T* ?,-33.444350911905964,-401.3322109428716,bad,adjunct_island,539,syntax,island_effects,trigram6,-34.06878327082376,-33.444350911905964,FALSE
+what has Name dropped by *T* after running around the bank ?,-34.26206008821886,-411.1447210586263,good,adjunct_island,539,syntax,island_effects,trigram7,-34.26206008821886,-33.37148190724633,FALSE
+what has Name dropped by the bank after running around *T* ?,-33.37148190724633,-400.4577828869559,bad,adjunct_island,539,syntax,island_effects,trigram7,-34.26206008821886,-33.37148190724633,FALSE
+what has Name dropped by *T* after running around the bank ?,-33.98115676899151,-407.77388122789813,good,adjunct_island,539,syntax,island_effects,trigram8,-33.98115676899151,-33.08596431598451,FALSE
+what has Name dropped by the bank after running around *T* ?,-33.08596431598451,-397.03157179181414,bad,adjunct_island,539,syntax,island_effects,trigram8,-33.98115676899151,-33.08596431598451,FALSE
+what has Name dropped by *T* after running around the bank ?,-34.14060096301516,-409.6872115561819,good,adjunct_island,539,syntax,island_effects,trigram9,-34.14060096301516,-33.36522250779097,FALSE
+what has Name dropped by the bank after running around *T* ?,-33.36522250779097,-400.38267009349164,bad,adjunct_island,539,syntax,island_effects,trigram9,-34.14060096301516,-33.36522250779097,FALSE
+who could Name fire *T* after listening to Name ?,-33.0623005556882,-330.623005556882,good,adjunct_island,693,syntax,island_effects,trigram1,-33.0623005556882,-32.98397983785709,FALSE
+who could Name fire Name after listening to *T* ?,-32.98397983785709,-329.8397983785709,bad,adjunct_island,693,syntax,island_effects,trigram1,-33.0623005556882,-32.98397983785709,FALSE
+who could Name fire *T* after listening to Name ?,-32.99480878518649,-329.9480878518649,good,adjunct_island,693,syntax,island_effects,trigram10,-32.99480878518649,-33.00438207026779,TRUE
+who could Name fire Name after listening to *T* ?,-33.00438207026779,-330.04382070267786,bad,adjunct_island,693,syntax,island_effects,trigram10,-32.99480878518649,-33.00438207026779,TRUE
+who could Name fire *T* after listening to Name ?,-33.05102052158274,-330.5102052158274,good,adjunct_island,693,syntax,island_effects,trigram2,-33.05102052158274,-33.007511816352505,FALSE
+who could Name fire Name after listening to *T* ?,-33.007511816352505,-330.0751181635251,bad,adjunct_island,693,syntax,island_effects,trigram2,-33.05102052158274,-33.007511816352505,FALSE
+who could Name fire *T* after listening to Name ?,-32.97007749668482,-329.70077496684826,good,adjunct_island,693,syntax,island_effects,trigram3,-32.97007749668482,-33.00063531848057,TRUE
+who could Name fire Name after listening to *T* ?,-33.00063531848057,-330.0063531848057,bad,adjunct_island,693,syntax,island_effects,trigram3,-32.97007749668482,-33.00063531848057,TRUE
+who could Name fire *T* after listening to Name ?,-32.99851595888632,-329.98515958886316,good,adjunct_island,693,syntax,island_effects,trigram4,-32.99851595888632,-33.09371489168068,TRUE
+who could Name fire Name after listening to *T* ?,-33.09371489168068,-330.93714891680673,bad,adjunct_island,693,syntax,island_effects,trigram4,-32.99851595888632,-33.09371489168068,TRUE
+who could Name fire *T* after listening to Name ?,-32.92451392077859,-329.2451392077859,good,adjunct_island,693,syntax,island_effects,trigram5,-32.92451392077859,-32.985187780371604,TRUE
+who could Name fire Name after listening to *T* ?,-32.985187780371604,-329.85187780371604,bad,adjunct_island,693,syntax,island_effects,trigram5,-32.92451392077859,-32.985187780371604,TRUE
+who could Name fire *T* after listening to Name ?,-33.00206654303106,-330.0206654303106,good,adjunct_island,693,syntax,island_effects,trigram6,-33.00206654303106,-32.95971506511039,FALSE
+who could Name fire Name after listening to *T* ?,-32.95971506511039,-329.5971506511039,bad,adjunct_island,693,syntax,island_effects,trigram6,-33.00206654303106,-32.95971506511039,FALSE
+who could Name fire *T* after listening to Name ?,-33.05559485178302,-330.5559485178302,good,adjunct_island,693,syntax,island_effects,trigram7,-33.05559485178302,-33.037793695584845,FALSE
+who could Name fire Name after listening to *T* ?,-33.037793695584845,-330.37793695584844,bad,adjunct_island,693,syntax,island_effects,trigram7,-33.05559485178302,-33.037793695584845,FALSE
+who could Name fire *T* after listening to Name ?,-33.069961510510176,-330.69961510510177,good,adjunct_island,693,syntax,island_effects,trigram8,-33.069961510510176,-32.97925665876453,FALSE
+who could Name fire Name after listening to *T* ?,-32.97925665876453,-329.7925665876453,bad,adjunct_island,693,syntax,island_effects,trigram8,-33.069961510510176,-32.97925665876453,FALSE
+who could Name fire *T* after listening to Name ?,-33.04686658771468,-330.4686658771468,good,adjunct_island,693,syntax,island_effects,trigram9,-33.04686658771468,-33.09190119166199,TRUE
+who could Name fire Name after listening to *T* ?,-33.09190119166199,-330.9190119166199,bad,adjunct_island,693,syntax,island_effects,trigram9,-33.04686658771468,-33.09190119166199,TRUE
+what does Name fix every carriage after breaking *T* ?,-32.23320037383722,-322.33200373837224,bad,adjunct_island,71,syntax,island_effects,trigram1,-33.31513845292368,-32.23320037383722,FALSE
+what does Name fix *T* after breaking every carriage ?,-33.31513845292368,-333.1513845292368,good,adjunct_island,71,syntax,island_effects,trigram1,-33.31513845292368,-32.23320037383722,FALSE
+what does Name fix every carriage after breaking *T* ?,-32.34144640825982,-323.4144640825982,bad,adjunct_island,71,syntax,island_effects,trigram10,-33.281392004067825,-32.34144640825982,FALSE
+what does Name fix *T* after breaking every carriage ?,-33.281392004067825,-332.8139200406782,good,adjunct_island,71,syntax,island_effects,trigram10,-33.281392004067825,-32.34144640825982,FALSE
+what does Name fix every carriage after breaking *T* ?,-32.30176678913412,-323.0176678913412,bad,adjunct_island,71,syntax,island_effects,trigram2,-33.317248600039335,-32.30176678913412,FALSE
+what does Name fix *T* after breaking every carriage ?,-33.317248600039335,-333.17248600039335,good,adjunct_island,71,syntax,island_effects,trigram2,-33.317248600039335,-32.30176678913412,FALSE
+what does Name fix every carriage after breaking *T* ?,-32.21519300090914,-322.15193000909136,bad,adjunct_island,71,syntax,island_effects,trigram3,-33.32440264240822,-32.21519300090914,FALSE
+what does Name fix *T* after breaking every carriage ?,-33.32440264240822,-333.24402642408216,good,adjunct_island,71,syntax,island_effects,trigram3,-33.32440264240822,-32.21519300090914,FALSE
+what does Name fix every carriage after breaking *T* ?,-32.275475456340224,-322.75475456340223,bad,adjunct_island,71,syntax,island_effects,trigram4,-33.37540499504256,-32.275475456340224,FALSE
+what does Name fix *T* after breaking every carriage ?,-33.37540499504256,-333.7540499504256,good,adjunct_island,71,syntax,island_effects,trigram4,-33.37540499504256,-32.275475456340224,FALSE
+what does Name fix every carriage after breaking *T* ?,-32.35120278008314,-323.51202780083145,bad,adjunct_island,71,syntax,island_effects,trigram5,-33.356595368236256,-32.35120278008314,FALSE
+what does Name fix *T* after breaking every carriage ?,-33.356595368236256,-333.56595368236253,good,adjunct_island,71,syntax,island_effects,trigram5,-33.356595368236256,-32.35120278008314,FALSE
+what does Name fix every carriage after breaking *T* ?,-32.150439351018406,-321.50439351018406,bad,adjunct_island,71,syntax,island_effects,trigram6,-33.19975818171976,-32.150439351018406,FALSE
+what does Name fix *T* after breaking every carriage ?,-33.19975818171976,-331.99758181719756,good,adjunct_island,71,syntax,island_effects,trigram6,-33.19975818171976,-32.150439351018406,FALSE
+what does Name fix every carriage after breaking *T* ?,-32.31111504151535,-323.11115041515353,bad,adjunct_island,71,syntax,island_effects,trigram7,-33.32131260861028,-32.31111504151535,FALSE
+what does Name fix *T* after breaking every carriage ?,-33.32131260861028,-333.21312608610276,good,adjunct_island,71,syntax,island_effects,trigram7,-33.32131260861028,-32.31111504151535,FALSE
+what does Name fix every carriage after breaking *T* ?,-32.24350145830272,-322.43501458302717,bad,adjunct_island,71,syntax,island_effects,trigram8,-33.30073990176688,-32.24350145830272,FALSE
+what does Name fix *T* after breaking every carriage ?,-33.30073990176688,-333.00739901766883,good,adjunct_island,71,syntax,island_effects,trigram8,-33.30073990176688,-32.24350145830272,FALSE
+what does Name fix every carriage after breaking *T* ?,-32.27557815677516,-322.7557815677516,bad,adjunct_island,71,syntax,island_effects,trigram9,-33.36452855311631,-32.27557815677516,FALSE
+what does Name fix *T* after breaking every carriage ?,-33.36452855311631,-333.6452855311631,good,adjunct_island,71,syntax,island_effects,trigram9,-33.36452855311631,-32.27557815677516,FALSE
+what can Name like *T* without bringing some books ?,-33.92441416701566,-339.24414167015664,good,adjunct_island,723,syntax,island_effects,trigram1,-33.92441416701566,-32.94247608792921,FALSE
+what can Name like some books without bringing *T* ?,-32.94247608792921,-329.4247608792921,bad,adjunct_island,723,syntax,island_effects,trigram1,-33.92441416701566,-32.94247608792921,FALSE
+what can Name like *T* without bringing some books ?,-34.04432766607578,-340.4432766607578,good,adjunct_island,723,syntax,island_effects,trigram10,-34.04432766607578,-32.94588582019567,FALSE
+what can Name like some books without bringing *T* ?,-32.94588582019567,-329.4588582019567,bad,adjunct_island,723,syntax,island_effects,trigram10,-34.04432766607578,-32.94588582019567,FALSE
+what can Name like *T* without bringing some books ?,-34.02299362725772,-340.2299362725772,good,adjunct_island,723,syntax,island_effects,trigram2,-34.02299362725772,-32.90751181635251,FALSE
+what can Name like some books without bringing *T* ?,-32.90751181635251,-329.0751181635251,bad,adjunct_island,723,syntax,island_effects,trigram2,-34.02299362725772,-32.90751181635251,FALSE
+what can Name like *T* without bringing some books ?,-33.99058045218541,-339.9058045218541,good,adjunct_island,723,syntax,island_effects,trigram3,-33.99058045218541,-32.98137081068633,FALSE
+what can Name like some books without bringing *T* ?,-32.98137081068633,-329.8137081068633,bad,adjunct_island,723,syntax,island_effects,trigram3,-33.99058045218541,-32.98137081068633,FALSE
+what can Name like *T* without bringing some books ?,-34.012908938177254,-340.12908938177253,good,adjunct_island,723,syntax,island_effects,trigram4,-34.012908938177254,-32.912979399474914,FALSE
+what can Name like some books without bringing *T* ?,-32.912979399474914,-329.12979399474915,bad,adjunct_island,723,syntax,island_effects,trigram4,-34.012908938177254,-32.912979399474914,FALSE
+what can Name like *T* without bringing some books ?,-34.0320841184526,-340.320841184526,good,adjunct_island,723,syntax,island_effects,trigram5,-34.0320841184526,-32.92669153029949,FALSE
+what can Name like some books without bringing *T* ?,-32.92669153029949,-329.2669153029949,bad,adjunct_island,723,syntax,island_effects,trigram5,-34.0320841184526,-32.92669153029949,FALSE
+what can Name like *T* without bringing some books ?,-33.886794653678095,-338.86794653678095,good,adjunct_island,723,syntax,island_effects,trigram6,-33.886794653678095,-32.87897957290463,FALSE
+what can Name like some books without bringing *T* ?,-32.87897957290463,-328.7897957290463,bad,adjunct_island,723,syntax,island_effects,trigram6,-33.886794653678095,-32.87897957290463,FALSE
+what can Name like *T* without bringing some books ?,-34.09653394539679,-340.96533945396794,good,adjunct_island,723,syntax,island_effects,trigram7,-34.09653394539679,-33.08633637830187,FALSE
+what can Name like some books without bringing *T* ?,-33.08633637830187,-330.8633637830187,bad,adjunct_island,723,syntax,island_effects,trigram7,-34.09653394539679,-33.08633637830187,FALSE
+what can Name like *T* without bringing some books ?,-34.053487602372925,-340.5348760237292,good,adjunct_island,723,syntax,island_effects,trigram8,-34.053487602372925,-33.03775290883664,FALSE
+what can Name like some books without bringing *T* ?,-33.03775290883664,-330.3775290883664,bad,adjunct_island,723,syntax,island_effects,trigram8,-34.053487602372925,-33.03775290883664,FALSE
+what can Name like *T* without bringing some books ?,-34.15861234586949,-341.58612345869494,good,adjunct_island,723,syntax,island_effects,trigram9,-34.15861234586949,-32.969661949528344,FALSE
+what can Name like some books without bringing *T* ?,-32.969661949528344,-329.69661949528347,bad,adjunct_island,723,syntax,island_effects,trigram9,-34.15861234586949,-32.969661949528344,FALSE
+who can Name sound like *T* before watching Name ?,-33.220796805760315,-332.2079680576032,good,adjunct_island,851,syntax,island_effects,trigram1,-33.220796805760315,-33.200972338001314,FALSE
+who can Name sound like Name before watching *T* ?,-33.200972338001314,-332.00972338001316,bad,adjunct_island,851,syntax,island_effects,trigram1,-33.220796805760315,-33.200972338001314,FALSE
+who can Name sound like *T* before watching Name ?,-33.268505344603106,-332.6850534460311,good,adjunct_island,851,syntax,island_effects,trigram10,-33.268505344603106,-33.10438207026779,FALSE
+who can Name sound like Name before watching *T* ?,-33.10438207026779,-331.04382070267786,bad,adjunct_island,851,syntax,island_effects,trigram10,-33.268505344603106,-33.10438207026779,FALSE
+who can Name sound like *T* before watching Name ?,-33.10127055563565,-331.01270555635654,good,adjunct_island,851,syntax,island_effects,trigram2,-33.10127055563565,-32.98120837576913,FALSE
+who can Name sound like Name before watching *T* ?,-32.98120837576913,-329.81208375769125,bad,adjunct_island,851,syntax,island_effects,trigram2,-33.10127055563565,-32.98120837576913,FALSE
+who can Name sound like *T* before watching Name ?,-33.236373997957074,-332.3637399795707,good,adjunct_island,851,syntax,island_effects,trigram3,-33.236373997957074,-33.02287456061422,FALSE
+who can Name sound like Name before watching *T* ?,-33.02287456061422,-330.2287456061422,bad,adjunct_island,851,syntax,island_effects,trigram3,-33.236373997957074,-33.02287456061422,FALSE
+who can Name sound like *T* before watching Name ?,-33.272212518302936,-332.7221251830294,good,adjunct_island,851,syntax,island_effects,trigram4,-33.272212518302936,-33.19371489168067,FALSE
+who can Name sound like Name before watching *T* ?,-33.19371489168067,-331.93714891680673,bad,adjunct_island,851,syntax,island_effects,trigram4,-33.272212518302936,-33.19371489168067,FALSE
+who can Name sound like *T* before watching Name ?,-33.23040328968394,-332.30403289683943,good,adjunct_island,851,syntax,island_effects,trigram5,-33.23040328968394,-33.085187780371605,FALSE
+who can Name sound like Name before watching *T* ?,-33.085187780371605,-330.85187780371604,bad,adjunct_island,851,syntax,island_effects,trigram5,-33.23040328968394,-33.085187780371605,FALSE
+who can Name sound like *T* before watching Name ?,-33.343570292958944,-333.43570292958947,good,adjunct_island,851,syntax,island_effects,trigram6,-33.343570292958944,-33.00121881503828,FALSE
+who can Name sound like Name before watching *T* ?,-33.00121881503828,-330.01218815038277,bad,adjunct_island,851,syntax,island_effects,trigram6,-33.343570292958944,-33.00121881503828,FALSE
+who can Name sound like *T* before watching Name ?,-33.138602351638795,-331.3860235163879,good,adjunct_island,851,syntax,island_effects,trigram7,-33.138602351638795,-32.90153668764638,FALSE
+who can Name sound like Name before watching *T* ?,-32.90153668764638,-329.01536687646376,bad,adjunct_island,851,syntax,island_effects,trigram7,-33.138602351638795,-32.90153668764638,FALSE
+who can Name sound like *T* before watching Name ?,-33.15069700271594,-331.50697002715935,good,adjunct_island,851,syntax,island_effects,trigram8,-33.15069700271594,-32.93775290883664,FALSE
+who can Name sound like Name before watching *T* ?,-32.93775290883664,-329.3775290883664,bad,adjunct_island,851,syntax,island_effects,trigram8,-33.15069700271594,-32.93775290883664,FALSE
+who can Name sound like *T* before watching Name ?,-33.20536283778679,-332.0536283778679,good,adjunct_island,851,syntax,island_effects,trigram9,-33.20536283778679,-32.93340494158988,FALSE
+who can Name sound like Name before watching *T* ?,-32.93340494158988,-329.3340494158988,bad,adjunct_island,851,syntax,island_effects,trigram9,-33.20536283778679,-32.93340494158988,FALSE
+what can Name break *T* while fixing every glass ?,-34.024414167015664,-340.24414167015664,good,adjunct_island,855,syntax,island_effects,trigram1,-34.024414167015664,-33.04247608792921,FALSE
+what can Name break every glass while fixing *T* ?,-33.04247608792921,-330.4247608792921,bad,adjunct_island,855,syntax,island_effects,trigram1,-34.024414167015664,-33.04247608792921,FALSE
+what can Name break *T* while fixing every glass ?,-34.14432766607578,-341.4432766607578,good,adjunct_island,855,syntax,island_effects,trigram10,-34.14432766607578,-33.045885820195664,FALSE
+what can Name break every glass while fixing *T* ?,-33.045885820195664,-330.4588582019567,bad,adjunct_island,855,syntax,island_effects,trigram10,-34.14432766607578,-33.045885820195664,FALSE
+what can Name break *T* while fixing every glass ?,-34.02299362725772,-340.2299362725772,good,adjunct_island,855,syntax,island_effects,trigram2,-34.02299362725772,-33.007511816352505,FALSE
+what can Name break every glass while fixing *T* ?,-33.007511816352505,-330.0751181635251,bad,adjunct_island,855,syntax,island_effects,trigram2,-34.02299362725772,-33.007511816352505,FALSE
+what can Name break *T* while fixing every glass ?,-34.090580452185414,-340.9058045218541,good,adjunct_island,855,syntax,island_effects,trigram3,-34.090580452185414,-33.08137081068633,FALSE
+what can Name break every glass while fixing *T* ?,-33.08137081068633,-330.8137081068633,bad,adjunct_island,855,syntax,island_effects,trigram3,-34.090580452185414,-33.08137081068633,FALSE
+what can Name break *T* while fixing every glass ?,-34.012908938177254,-340.12908938177253,good,adjunct_island,855,syntax,island_effects,trigram4,-34.012908938177254,-33.012979399474915,FALSE
+what can Name break every glass while fixing *T* ?,-33.012979399474915,-330.12979399474915,bad,adjunct_island,855,syntax,island_effects,trigram4,-34.012908938177254,-33.012979399474915,FALSE
+what can Name break *T* while fixing every glass ?,-34.0320841184526,-340.320841184526,good,adjunct_island,855,syntax,island_effects,trigram5,-34.0320841184526,-33.02669153029949,FALSE
+what can Name break every glass while fixing *T* ?,-33.02669153029949,-330.2669153029949,bad,adjunct_island,855,syntax,island_effects,trigram5,-34.0320841184526,-33.02669153029949,FALSE
+what can Name break *T* while fixing every glass ?,-33.986794653678096,-339.86794653678095,good,adjunct_island,855,syntax,island_effects,trigram6,-33.986794653678096,-32.978979572904635,FALSE
+what can Name break every glass while fixing *T* ?,-32.978979572904635,-329.7897957290463,bad,adjunct_island,855,syntax,island_effects,trigram6,-33.986794653678096,-32.978979572904635,FALSE
+what can Name break *T* while fixing every glass ?,-34.09653394539679,-340.96533945396794,good,adjunct_island,855,syntax,island_effects,trigram7,-34.09653394539679,-33.08633637830187,FALSE
+what can Name break every glass while fixing *T* ?,-33.08633637830187,-330.8633637830187,bad,adjunct_island,855,syntax,island_effects,trigram7,-34.09653394539679,-33.08633637830187,FALSE
+what can Name break *T* while fixing every glass ?,-34.053487602372925,-340.5348760237292,good,adjunct_island,855,syntax,island_effects,trigram8,-34.053487602372925,-33.03775290883664,FALSE
+what can Name break every glass while fixing *T* ?,-33.03775290883664,-330.3775290883664,bad,adjunct_island,855,syntax,island_effects,trigram8,-34.053487602372925,-33.03775290883664,FALSE
+what can Name break *T* while fixing every glass ?,-34.15861234586949,-341.58612345869494,good,adjunct_island,855,syntax,island_effects,trigram9,-34.15861234586949,-33.069661949528346,FALSE
+what can Name break every glass while fixing *T* ?,-33.069661949528346,-330.69661949528347,bad,adjunct_island,855,syntax,island_effects,trigram9,-34.15861234586949,-33.069661949528346,FALSE
+what has Name broken *T* while fixing a couch ?,-34.182910417087776,-341.82910417087777,good,adjunct_island,873,syntax,island_effects,trigram1,-34.182910417087776,-33.30097233800132,FALSE
+what has Name broken a couch while fixing *T* ?,-33.30097233800132,-333.00972338001316,bad,adjunct_island,873,syntax,island_effects,trigram1,-34.182910417087776,-33.30097233800132,FALSE
+what has Name broken *T* while fixing a couch ?,-33.92733516593155,-339.27335165931555,good,adjunct_island,873,syntax,island_effects,trigram10,-33.92733516593155,-32.987389570123554,FALSE
+what has Name broken a couch while fixing *T* ?,-32.987389570123554,-329.87389570123554,bad,adjunct_island,873,syntax,island_effects,trigram10,-33.92733516593155,-32.987389570123554,FALSE
+what has Name broken *T* while fixing a couch ?,-34.255186436746456,-342.5518643674646,good,adjunct_island,873,syntax,island_effects,trigram2,-34.255186436746456,-33.23970462584124,FALSE
+what has Name broken a couch while fixing *T* ?,-33.23970462584124,-332.39704625841244,bad,adjunct_island,873,syntax,island_effects,trigram2,-34.255186436746456,-33.23970462584124,FALSE
+what has Name broken *T* while fixing a couch ?,-34.29058045218541,-342.9058045218541,good,adjunct_island,873,syntax,island_effects,trigram3,-34.29058045218541,-33.28137081068633,FALSE
+what has Name broken a couch while fixing *T* ?,-33.28137081068633,-332.8137081068633,bad,adjunct_island,873,syntax,island_effects,trigram3,-34.29058045218541,-33.28137081068633,FALSE
+what has Name broken *T* while fixing a couch ?,-34.07665193023878,-340.7665193023878,good,adjunct_island,873,syntax,island_effects,trigram4,-34.07665193023878,-32.97672239153644,FALSE
+what has Name broken a couch while fixing *T* ?,-32.97672239153644,-329.7672239153644,bad,adjunct_island,873,syntax,island_effects,trigram4,-34.07665193023878,-32.97672239153644,FALSE
+what has Name broken *T* while fixing a couch ?,-34.073587868380486,-340.73587868380486,good,adjunct_island,873,syntax,island_effects,trigram5,-34.073587868380486,-32.96819528022738,FALSE
+what has Name broken a couch while fixing *T* ?,-32.96819528022738,-329.68195280227377,bad,adjunct_island,873,syntax,island_effects,trigram5,-34.073587868380486,-32.96819528022738,FALSE
+what has Name broken *T* while fixing a couch ?,-34.26753014588385,-342.67530145883853,good,adjunct_island,873,syntax,island_effects,trigram6,-34.26753014588385,-33.25971506511039,FALSE
+what has Name broken a couch while fixing *T* ?,-33.25971506511039,-332.5971506511039,bad,adjunct_island,873,syntax,island_effects,trigram6,-34.26753014588385,-33.25971506511039,FALSE
+what has Name broken *T* while fixing a couch ?,-34.32872675488552,-343.28726754885525,good,adjunct_island,873,syntax,island_effects,trigram7,-34.32872675488552,-33.3185291877906,FALSE
+what has Name broken a couch while fixing *T* ?,-33.3185291877906,-333.185291877906,bad,adjunct_island,873,syntax,island_effects,trigram7,-34.32872675488552,-33.3185291877906,FALSE
+what has Name broken *T* while fixing a couch ?,-33.894991352300806,-338.9499135230081,good,adjunct_island,873,syntax,island_effects,trigram8,-33.894991352300806,-32.97925665876453,FALSE
+what has Name broken a couch while fixing *T* ?,-32.97925665876453,-329.7925665876453,bad,adjunct_island,873,syntax,island_effects,trigram8,-33.894991352300806,-32.97925665876453,FALSE
+what has Name broken *T* while fixing a couch ?,-34.23934783807526,-342.3934783807526,good,adjunct_island,873,syntax,island_effects,trigram9,-34.23934783807526,-33.35039744173411,FALSE
+what has Name broken a couch while fixing *T* ?,-33.35039744173411,-333.5039744173411,bad,adjunct_island,873,syntax,island_effects,trigram9,-34.23934783807526,-33.35039744173411,FALSE
+what had Name fixed *T* while taking a bike ?,-34.182910417087776,-341.82910417087777,good,adjunct_island,890,syntax,island_effects,trigram1,-34.182910417087776,-33.30097233800132,FALSE
+what had Name fixed a bike while taking *T* ?,-33.30097233800132,-333.00972338001316,bad,adjunct_island,890,syntax,island_effects,trigram1,-34.182910417087776,-33.30097233800132,FALSE
+what had Name fixed *T* while taking a bike ?,-34.24432766607579,-342.4432766607579,good,adjunct_island,890,syntax,island_effects,trigram10,-34.24432766607579,-33.304382070267785,FALSE
+what had Name fixed a bike while taking *T* ?,-33.304382070267785,-333.04382070267786,bad,adjunct_island,890,syntax,island_effects,trigram10,-34.24432766607579,-33.304382070267785,FALSE
+what had Name fixed *T* while taking a bike ?,-34.12299362725772,-341.2299362725772,good,adjunct_island,890,syntax,island_effects,trigram2,-34.12299362725772,-33.23970462584124,FALSE
+what had Name fixed a bike while taking *T* ?,-33.23970462584124,-332.39704625841244,bad,adjunct_island,890,syntax,island_effects,trigram2,-34.12299362725772,-33.23970462584124,FALSE
+what had Name fixed *T* while taking a bike ?,-34.13208420211329,-341.32084202113293,good,adjunct_island,890,syntax,island_effects,trigram3,-34.13208420211329,-33.28137081068633,FALSE
+what had Name fixed a bike while taking *T* ?,-33.28137081068633,-332.8137081068633,bad,adjunct_island,890,syntax,island_effects,trigram3,-34.13208420211329,-33.28137081068633,FALSE
+what had Name fixed *T* while taking a bike ?,-34.19364443038301,-341.9364443038301,good,adjunct_island,890,syntax,island_effects,trigram4,-34.19364443038301,-33.29371489168067,FALSE
+what had Name fixed a bike while taking *T* ?,-33.29371489168067,-332.93714891680673,bad,adjunct_island,890,syntax,island_effects,trigram4,-34.19364443038301,-33.29371489168067,FALSE
+what had Name fixed *T* while taking a bike ?,-34.15838755903597,-341.58387559035975,good,adjunct_island,890,syntax,island_effects,trigram5,-34.15838755903597,-33.2851877803716,FALSE
+what had Name fixed a bike while taking *T* ?,-33.2851877803716,-332.85187780371604,bad,adjunct_island,890,syntax,island_effects,trigram5,-34.15838755903597,-33.2851877803716,FALSE
+what had Name fixed *T* while taking a bike ?,-34.20903389581174,-342.0903389581174,good,adjunct_island,890,syntax,island_effects,trigram6,-34.20903389581174,-33.25971506511039,FALSE
+what had Name fixed a bike while taking *T* ?,-33.25971506511039,-332.5971506511039,bad,adjunct_island,890,syntax,island_effects,trigram6,-34.20903389581174,-33.25971506511039,FALSE
+what had Name fixed *T* while taking a bike ?,-34.22872675488553,-342.28726754885525,good,adjunct_island,890,syntax,island_effects,trigram7,-34.22872675488553,-33.3185291877906,FALSE
+what had Name fixed a bike while taking *T* ?,-33.3185291877906,-333.185291877906,bad,adjunct_island,890,syntax,island_effects,trigram7,-34.22872675488553,-33.3185291877906,FALSE
+what had Name fixed *T* while taking a bike ?,-34.15348760237292,-341.5348760237292,good,adjunct_island,890,syntax,island_effects,trigram8,-34.15348760237292,-33.29624915890876,FALSE
+what had Name fixed a bike while taking *T* ?,-33.29624915890876,-332.96249158908756,bad,adjunct_island,890,syntax,island_effects,trigram8,-34.15348760237292,-33.29624915890876,FALSE
+what had Name fixed *T* while taking a bike ?,-34.28085158800314,-342.8085158800314,good,adjunct_island,890,syntax,island_effects,trigram9,-34.28085158800314,-33.35039744173411,FALSE
+what had Name fixed a bike while taking *T* ?,-33.35039744173411,-333.5039744173411,bad,adjunct_island,890,syntax,island_effects,trigram9,-34.28085158800314,-33.35039744173411,FALSE
+what did many pictures look like a book after looking like *T* ?,-32.35820134202879,-420.6566174463743,bad,adjunct_island,926,syntax,island_effects,trigram1,-33.019191515956166,-32.35820134202879,FALSE
+what did many pictures look like *T* after looking like a book ?,-33.019191515956166,-429.24948970743014,good,adjunct_island,926,syntax,island_effects,trigram1,-33.019191515956166,-32.35820134202879,FALSE
+what did many pictures look like a book after looking like *T* ?,-32.39974718764581,-421.19671343939547,bad,adjunct_island,926,syntax,island_effects,trigram10,-33.07291114121207,-32.39974718764581,FALSE
+what did many pictures look like *T* after looking like a book ?,-33.07291114121207,-429.9478448357569,good,adjunct_island,926,syntax,island_effects,trigram10,-33.07291114121207,-32.39974718764581,FALSE
+what did many pictures look like a book after looking like *T* ?,-32.34677274781938,-420.50804572165197,bad,adjunct_island,926,syntax,island_effects,trigram2,-33.08513954014602,-32.34677274781938,FALSE
+what did many pictures look like *T* after looking like a book ?,-33.08513954014602,-430.1068140218982,good,adjunct_island,926,syntax,island_effects,trigram2,-33.08513954014602,-32.34677274781938,FALSE
+what did many pictures look like a book after looking like *T* ?,-32.41313381686957,-421.37073961930435,bad,adjunct_island,926,syntax,island_effects,trigram3,-33.047144038982424,-32.41313381686957,FALSE
+what did many pictures look like *T* after looking like a book ?,-33.047144038982424,-429.6128725067715,good,adjunct_island,926,syntax,island_effects,trigram3,-33.047144038982424,-32.41313381686957,FALSE
+what did many pictures look like a book after looking like *T* ?,-32.33826234008694,-420.39741042113025,bad,adjunct_island,926,syntax,island_effects,trigram4,-33.17519493132123,-32.33826234008694,FALSE
+what did many pictures look like *T* after looking like a book ?,-33.17519493132123,-431.27753410717594,good,adjunct_island,926,syntax,island_effects,trigram4,-33.17519493132123,-32.33826234008694,FALSE
+what did many pictures look like a book after looking like *T* ?,-32.390179553409475,-421.07233419432316,bad,adjunct_island,926,syntax,island_effects,trigram5,-33.09629161214909,-32.390179553409475,FALSE
+what did many pictures look like *T* after looking like a book ?,-33.09629161214909,-430.2517909579381,good,adjunct_island,926,syntax,island_effects,trigram5,-33.09629161214909,-32.390179553409475,FALSE
+what did many pictures look like a book after looking like *T* ?,-32.366279366348934,-420.7616317625362,bad,adjunct_island,926,syntax,island_effects,trigram6,-32.98017966464984,-32.366279366348934,FALSE
+what did many pictures look like *T* after looking like a book ?,-32.98017966464984,-428.7423356404479,good,adjunct_island,926,syntax,island_effects,trigram6,-32.98017966464984,-32.366279366348934,FALSE
+what did many pictures look like a book after looking like *T* ?,-32.377358156573976,-420.90565603546173,bad,adjunct_island,926,syntax,island_effects,trigram7,-33.07598823495358,-32.377358156573976,FALSE
+what did many pictures look like *T* after looking like a book ?,-33.07598823495358,-429.98784705439647,good,adjunct_island,926,syntax,island_effects,trigram7,-33.07598823495358,-32.377358156573976,FALSE
+what did many pictures look like a book after looking like *T* ?,-32.36691939316079,-420.76995211109033,bad,adjunct_island,926,syntax,island_effects,trigram8,-33.15647801925921,-32.36691939316079,FALSE
+what did many pictures look like *T* after looking like a book ?,-33.15647801925921,-431.0342142503697,good,adjunct_island,926,syntax,island_effects,trigram8,-33.15647801925921,-32.36691939316079,FALSE
+what did many pictures look like a book after looking like *T* ?,-32.46549274252894,-422.0514056528762,bad,adjunct_island,926,syntax,island_effects,trigram9,-33.097622823203594,-32.46549274252894,FALSE
+what did many pictures look like *T* after looking like a book ?,-33.097622823203594,-430.26909670164673,good,adjunct_island,926,syntax,island_effects,trigram9,-33.097622823203594,-32.46549274252894,FALSE
+what do many fish break the truck before breaking *T* ?,-32.646111961658065,-359.1072315782387,bad,adjunct_island,98,syntax,island_effects,trigram1,-33.243516805059976,-32.646111961658065,FALSE
+what do many fish break *T* before breaking the truck ?,-33.243516805059976,-365.6786848556597,good,adjunct_island,98,syntax,island_effects,trigram1,-33.243516805059976,-32.646111961658065,FALSE
+what do many fish break the truck before breaking *T* ?,-32.710662545340554,-359.8172879987461,bad,adjunct_island,98,syntax,island_effects,trigram10,-33.35407416926716,-32.710662545340554,FALSE
+what do many fish break *T* before breaking the truck ?,-33.35407416926716,-366.89481586193875,good,adjunct_island,98,syntax,island_effects,trigram10,-33.35407416926716,-32.710662545340554,FALSE
+what do many fish break the truck before breaking *T* ?,-32.623953586023696,-358.86348944626064,bad,adjunct_island,98,syntax,island_effects,trigram2,-33.16803477762459,-32.623953586023696,FALSE
+what do many fish break *T* before breaking the truck ?,-33.16803477762459,-364.84838255387047,good,adjunct_island,98,syntax,island_effects,trigram2,-33.16803477762459,-32.623953586023696,FALSE
+what do many fish break the truck before breaking *T* ?,-32.59316440541303,-358.5248084595433,bad,adjunct_island,98,syntax,island_effects,trigram3,-33.20223522288685,-32.59316440541303,FALSE
+what do many fish break *T* before breaking the truck ?,-33.20223522288685,-365.2245874517553,good,adjunct_island,98,syntax,island_effects,trigram3,-33.20223522288685,-32.59316440541303,FALSE
+what do many fish break the truck before breaking *T* ?,-32.602130383191714,-358.6234342151089,bad,adjunct_island,98,syntax,island_effects,trigram4,-33.23842996383021,-32.602130383191714,FALSE
+what do many fish break *T* before breaking the truck ?,-33.23842996383021,-365.62272960213227,good,adjunct_island,98,syntax,island_effects,trigram4,-33.23842996383021,-32.602130383191714,FALSE
+what do many fish break the truck before breaking *T* ?,-32.69410253259011,-359.63512785849116,bad,adjunct_island,98,syntax,island_effects,trigram5,-33.1758332943508,-32.69410253259011,FALSE
+what do many fish break *T* before breaking the truck ?,-33.1758332943508,-364.93416623785885,good,adjunct_island,98,syntax,island_effects,trigram5,-33.1758332943508,-32.69410253259011,FALSE
+what do many fish break the truck before breaking *T* ?,-32.567598328025504,-358.2435816082806,bad,adjunct_island,98,syntax,island_effects,trigram6,-33.21953107458243,-32.567598328025504,FALSE
+what do many fish break *T* before breaking the truck ?,-33.21953107458243,-365.4148418204067,good,adjunct_island,98,syntax,island_effects,trigram6,-33.21953107458243,-32.567598328025504,FALSE
+what do many fish break the truck before breaking *T* ?,-32.72788075627654,-360.006688319042,bad,adjunct_island,98,syntax,island_effects,trigram7,-33.36556374079463,-32.72788075627654,FALSE
+what do many fish break *T* before breaking the truck ?,-33.36556374079463,-367.0212011487409,good,adjunct_island,98,syntax,island_effects,trigram7,-33.36556374079463,-32.72788075627654,FALSE
+what do many fish break the truck before breaking *T* ?,-32.616547127660404,-358.7820184042645,bad,adjunct_island,98,syntax,island_effects,trigram8,-33.28472821977907,-32.616547127660404,FALSE
+what do many fish break *T* before breaking the truck ?,-33.28472821977907,-366.13201041756975,good,adjunct_island,98,syntax,island_effects,trigram8,-33.28472821977907,-32.616547127660404,FALSE
+what do many fish break the truck before breaking *T* ?,-32.65471411536502,-359.2018552690152,bad,adjunct_island,98,syntax,island_effects,trigram9,-33.22785424833686,-32.65471411536502,FALSE
+what do many fish break *T* before breaking the truck ?,-33.22785424833686,-365.5063967317055,good,adjunct_island,98,syntax,island_effects,trigram9,-33.22785424833686,-32.65471411536502,FALSE
+what should Name buy this face after thinking about *T* ?,-33.05320717045849,-363.5852788750434,bad,adjunct_island,984,syntax,island_effects,trigram1,-34.147913826113125,-33.05320717045849,FALSE
+what should Name buy *T* after thinking about this face ?,-34.147913826113125,-375.6270520872444,good,adjunct_island,984,syntax,island_effects,trigram1,-34.147913826113125,-33.05320717045849,FALSE
+what should Name buy this face after thinking about *T* ?,-32.92042877490349,-362.1247165239384,bad,adjunct_island,984,syntax,island_effects,trigram10,-34.10083045297632,-32.92042877490349,FALSE
+what should Name buy *T* after thinking about this face ?,-34.10083045297632,-375.10913498273953,good,adjunct_island,984,syntax,island_effects,trigram10,-34.10083045297632,-32.92042877490349,FALSE
+what should Name buy this face after thinking about *T* ?,-32.83338819949434,-361.1672701944377,bad,adjunct_island,984,syntax,island_effects,trigram2,-34.05319297357488,-32.83338819949434,FALSE
+what should Name buy *T* after thinking about this face ?,-34.05319297357488,-374.5851227093237,good,adjunct_island,984,syntax,island_effects,trigram2,-34.05319297357488,-32.83338819949434,FALSE
+what should Name buy this face after thinking about *T* ?,-33.056302368938866,-363.61932605832754,bad,adjunct_island,984,syntax,island_effects,trigram3,-34.11785317945814,-33.056302368938866,FALSE
+what should Name buy *T* after thinking about this face ?,-34.11785317945814,-375.29638497403954,good,adjunct_island,984,syntax,island_effects,trigram3,-34.11785317945814,-33.056302368938866,FALSE
+what should Name buy this face after thinking about *T* ?,-33.06780280422442,-363.7458308464686,bad,adjunct_island,984,syntax,island_effects,trigram4,-34.138430346559595,-33.06780280422442,FALSE
+what should Name buy *T* after thinking about this face ?,-34.138430346559595,-375.52273381215554,good,adjunct_island,984,syntax,island_effects,trigram4,-34.138430346559595,-33.06780280422442,FALSE
+what should Name buy this face after thinking about *T* ?,-32.8402234702037,-361.24245817224073,bad,adjunct_island,984,syntax,island_effects,trigram5,-34.06467468664097,-32.8402234702037,FALSE
+what should Name buy *T* after thinking about this face ?,-34.06467468664097,-374.7114215530507,good,adjunct_island,984,syntax,island_effects,trigram5,-34.06467468664097,-32.8402234702037,FALSE
+what should Name buy this face after thinking about *T* ?,-32.933112825349696,-362.2642410788467,bad,adjunct_island,984,syntax,island_effects,trigram6,-34.02140697115134,-32.933112825349696,FALSE
+what should Name buy *T* after thinking about this face ?,-34.02140697115134,-374.2354766826648,good,adjunct_island,984,syntax,island_effects,trigram6,-34.02140697115134,-32.933112825349696,FALSE
+what should Name buy this face after thinking about *T* ?,-33.014053364923114,-363.15458701415423,bad,adjunct_island,984,syntax,island_effects,trigram7,-34.173512671062106,-33.014053364923114,FALSE
+what should Name buy *T* after thinking about this face ?,-34.173512671062106,-375.9086393816832,good,adjunct_island,984,syntax,island_effects,trigram7,-34.173512671062106,-33.014053364923114,FALSE
+what should Name buy this face after thinking about *T* ?,-32.889955721891944,-361.7895129408114,bad,adjunct_island,984,syntax,island_effects,trigram8,-34.23016567062685,-32.889955721891944,FALSE
+what should Name buy *T* after thinking about this face ?,-34.23016567062685,-376.5318223768954,good,adjunct_island,984,syntax,island_effects,trigram8,-34.23016567062685,-32.889955721891944,FALSE
+what should Name buy this face after thinking about *T* ?,-33.03257815951775,-363.3583597546952,bad,adjunct_island,984,syntax,island_effects,trigram9,-34.13735437490368,-33.03257815951775,FALSE
+what should Name buy *T* after thinking about this face ?,-34.13735437490368,-375.5108981239405,good,adjunct_island,984,syntax,island_effects,trigram9,-34.13735437490368,-33.03257815951775,FALSE
